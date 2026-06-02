@@ -571,7 +571,7 @@ INSERT INTO public.vocabularies (id, level, kanji, kana, romaji, meaning, type) 
 ('v_n5_auto_564', 'N5', '食べる', 'たべる', 'taberu', 'to eat', 'Noun'),
 ('v_n5_auto_565', 'N5', '四日', 'よっか', 'yokka', 'four days, fouth day of the month', 'Noun'),
 ('v_n5_auto_566', 'N5', '警官', 'けいかん', 'keikan', 'policeman', 'Noun'),
-('v_n5_auto_567', 'N5', '伯父 / 叔父', 'おじいさん', 'ojiisan', 'grandfather, male senior citizen', 'Noun'),
+('v_n5_auto_567', 'N5', '伯父 / 叔父', 'おじさん', 'ojisan', 'uncle, middle-aged man', 'Noun'),
 ('v_n5_auto_568', 'N5', NULL, 'これ', 'kore', 'this', 'Noun'),
 ('v_n5_auto_569', 'N5', NULL, 'アパート', 'apāto', 'apartment', 'Noun'),
 ('v_n5_auto_570', 'N5', '鳥', 'とり', 'tori', 'bird', 'Noun'),
@@ -667,6 +667,6 @@ INSERT INTO public.vocabularies (id, level, kanji, kana, romaji, meaning, type) 
 ('v_n5_auto_658', 'N5', NULL, 'たばこ', 'tabako', 'tobacco, cigarettes', 'Noun'),
 ('v_n5_auto_659', 'N5', '涼しい', 'すずしい', 'suzushii', 'refreshing', 'Noun'),
 ('v_n5_auto_660', 'N5', '昨日', 'きのう', 'kinō', 'yesterday', 'Noun'),
-('v_n5_auto_661', 'N5', NULL, 'せっけん', 'sekken', 'economy', 'Noun'),
+('v_n5_auto_661', 'N5', NULL, 'せっけん', 'sekken', 'soap', 'Noun'),
 ('v_n5_auto_662', 'N5', '初め / 始め', 'はじめ', 'hajime', 'beginning', 'Noun');
 
