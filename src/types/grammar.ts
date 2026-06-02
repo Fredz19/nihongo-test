@@ -29,6 +29,7 @@ export interface GrammarPattern {
   examples: GrammarExample[];
   relatedPatterns: string[];
   tags: string[];
+  variations?: string[];
 }
 
 export interface GrammarProgress {

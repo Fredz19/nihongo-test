@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { ChevronDown, ChevronUp, BookOpen, CheckCircle2, CircleDashed } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { ChevronDown, ChevronUp, BookOpen, CheckCircle2, CircleDashed, Sparkles } from 'lucide-react';
 import type { GrammarPattern, GrammarCategory, GrammarStatus } from '../../types/grammar';
 
 interface GrammarPatternCardProps {
@@ -103,6 +103,92 @@ export default function GrammarPatternCard({
   const [localRevealRomaji, setLocalRevealRomaji] = useState<Record<number, boolean>>({});
   const catTheme = categoryColors[pattern.category] || { bg: 'bg-gray-100', text: 'text-sumi', border: 'border-gray-200' };
 
+  // Sub-variations progress (granular tracking like Bunpro)
+  const [subProgress, setSubProgress] = useState<Record<string, boolean>>({});
+
+  useEffect(() => {
+    try {
+      const stored = localStorage.getItem('nihongo_grammar_variations_progress');
+      if (stored) {
+        const parsed = JSON.parse(stored);
+        if (parsed[pattern.id]) {
+          setSubProgress(parsed[pattern.id]);
+        } else {
+          setSubProgress({});
+        }
+      } else {
+        setSubProgress({});
+      }
+    } catch (e) {
+      console.error('Failed to load sub-variations progress:', e);
+      setSubProgress({});
+    }
+  }, [pattern.id]);
+
+  const handleToggleVariation = (variation: string, e: React.MouseEvent) => {
+    e.stopPropagation();
+    const updated = {
+      ...subProgress,
+      [variation]: !subProgress[variation]
+    };
+    setSubProgress(updated);
+
+    try {
+      const stored = localStorage.getItem('nihongo_grammar_variations_progress');
+      const parsed = stored ? JSON.parse(stored) : {};
+      parsed[pattern.id] = updated;
+      localStorage.setItem('nihongo_grammar_variations_progress', JSON.stringify(parsed));
+
+      // Auto-update parent state: if some are checked, mark parent as 'learning'
+      // If all are checked, mark parent as 'mastered'
+      // If none are checked, mark parent as 'new'
+      if (pattern.variations) {
+        const total = pattern.variations.length;
+        const checkedCount = Object.keys(updated).filter(k => updated[k] && pattern.variations?.includes(k)).length;
+        
+        let newStatus: GrammarStatus = 'new';
+        if (checkedCount === total) {
+          newStatus = 'mastered';
+        } else if (checkedCount > 0) {
+          newStatus = 'learning';
+        }
+        
+        if (newStatus !== status) {
+          onStatusChange(pattern.id, newStatus);
+        }
+      }
+    } catch (err) {
+      console.error('Failed to save sub-variations progress:', err);
+    }
+  };
+
+  const handleMainStatusChange = (newStatus: GrammarStatus) => {
+    onStatusChange(pattern.id, newStatus);
+    
+    // Auto-update all sub-variations accordingly
+    if (pattern.variations) {
+      const updated: Record<string, boolean> = {};
+      pattern.variations.forEach(v => {
+        updated[v] = newStatus === 'mastered';
+      });
+      setSubProgress(updated);
+      
+      try {
+        const stored = localStorage.getItem('nihongo_grammar_variations_progress');
+        const parsed = stored ? JSON.parse(stored) : {};
+        parsed[pattern.id] = updated;
+        localStorage.setItem('nihongo_grammar_variations_progress', JSON.stringify(parsed));
+      } catch (err) {
+        console.error('Failed to sync variations on main status change:', err);
+      }
+    }
+  };
+
+  const masteredCount = pattern.variations
+    ? pattern.variations.filter(v => subProgress[v]).length
+    : 0;
+  const totalCount = pattern.variations ? pattern.variations.length : 0;
+
   const handleToggleRomaji = (index: number, e: React.MouseEvent) => {
     e.stopPropagation();
     setLocalRevealRomaji(prev => ({
@@ -140,6 +226,11 @@ export default function GrammarPatternCard({
             {status === 'learning' && (
               <span className="flex items-center gap-1 text-[10px] font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-full border border-blue-200 animate-pulse">
                 <CircleDashed className="w-3 h-3" /> Belajar
+              </span>
+            )}
+            {totalCount > 0 && (
+              <span className="text-[10px] bg-indigo-50 text-indigo-600 font-bold px-2 py-0.5 rounded-full border border-indigo-200 shadow-sm shrink-0">
+                ⚡ {masteredCount}/{totalCount} Konjugasi (SRS)
               </span>
             )}
           </div>
@@ -204,6 +295,56 @@ export default function GrammarPatternCard({
               )}
             </div>
           </div>
+          
+          {/* Sub-variations / Granular Conjugations Section (Bunpro style) */}
+          {pattern.variations && pattern.variations.length > 0 && (
+            <div className="p-4 bg-indigo-50/30 rounded-xl border border-indigo-100/60 space-y-3">
+              <div className="flex items-center justify-between">
+                <h4 className="text-xs font-bold uppercase tracking-wider text-indigo-700 flex items-center gap-1.5 font-serif">
+                  <Sparkles className="w-3.5 h-3.5 animate-pulse" /> Konjugasi & Variasi Granular (Versi Bunpro)
+                </h4>
+                <span className="text-[10px] font-mono font-bold text-indigo-600 bg-white px-2 py-0.5 rounded border border-indigo-100">
+                  Progress: {Math.round((masteredCount / totalCount) * 100)}%
+                </span>
+              </div>
+              
+              <div className="h-1.5 bg-indigo-100/40 rounded-full overflow-hidden flex border border-indigo-100/20">
+                <div 
+                  className="h-full bg-indigo-600 transition-all duration-500 rounded"
+                  style={{ width: `${(masteredCount / totalCount) * 100}%` }}
+                />
+              </div>
+
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 pt-1.5">
+                {pattern.variations.map(variation => {
+                  const isMastered = !!subProgress[variation];
+                  return (
+                    <button
+                      key={variation}
+                      onClick={(e) => handleToggleVariation(variation, e)}
+                      className={`flex items-center justify-between px-3 py-2 rounded-lg text-xs font-semibold border transition-all duration-300 ${
+                        isMastered
+                          ? 'bg-indigo-600 text-white border-indigo-600 shadow-sm scale-102 font-bold'
+                          : 'bg-white text-sumi border-gray-200 hover:bg-gray-50 hover:border-gray-300'
+                      }`}
+                    >
+                      <span className="font-mono">{variation}</span>
+                      <span className={`w-3.5 h-3.5 rounded-full flex items-center justify-center shrink-0 border ${
+                        isMastered 
+                          ? 'bg-white text-indigo-600 border-white' 
+                          : 'border-gray-300 bg-canvas'
+                      }`}>
+                        {isMastered && <span className="text-[9px] font-bold">✓</span>}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+              <p className="text-[10px] text-sumi leading-relaxed pl-1">
+                💡 Tandai setiap variasi konjugasi di atas secara spesifik sesuai pemahaman Anda. Status utama konsep akan ter-update otomatis.
+              </p>
+            </div>
+          )}
 
           {/* Example Sentences */}
           <div className="space-y-3">
@@ -260,7 +401,7 @@ export default function GrammarPatternCard({
             
             <div className="flex gap-2 w-full sm:w-auto">
               <button 
-                onClick={() => onStatusChange(pattern.id, status === 'learning' ? 'new' : 'learning')}
+                onClick={() => handleMainStatusChange(status === 'learning' ? 'new' : 'learning')}
                 className={`flex-1 sm:flex-none flex items-center justify-center gap-1.5 px-4 py-2 rounded-full text-xs font-bold tracking-wider uppercase transition-all border ${
                   status === 'learning' 
                     ? 'bg-blue-100 text-blue-700 border-blue-200 shadow-sm' 
@@ -271,7 +412,7 @@ export default function GrammarPatternCard({
                 Belajar
               </button>
               <button 
-                onClick={() => onStatusChange(pattern.id, status === 'mastered' ? 'new' : 'mastered')}
+                onClick={() => handleMainStatusChange(status === 'mastered' ? 'new' : 'mastered')}
                 className={`flex-1 sm:flex-none flex items-center justify-center gap-1.5 px-4 py-2 rounded-full text-xs font-bold tracking-wider uppercase transition-all border ${
                   status === 'mastered' 
                     ? 'bg-green-100 text-green-700 border-green-200 shadow-sm' 
