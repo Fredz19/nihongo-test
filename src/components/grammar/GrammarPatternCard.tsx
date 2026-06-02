@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronDown, ChevronUp, BookOpen, CheckCircle2, CircleDashed, Sparkles } from 'lucide-react';
+import { ChevronDown, ChevronUp, CheckCircle2, CircleDashed, Sparkles } from 'lucide-react';
 import type { GrammarPattern, GrammarCategory, GrammarStatus } from '../../types/grammar';
 
 interface GrammarPatternCardProps {
@@ -91,6 +91,153 @@ function renderFurigana(furiganaText: string, showFurigana: boolean, patternStr:
   return <>{elements}</>;
 }
 
+interface ParsedTip {
+  title: string;
+  icon: string;
+  theme: { bg: string; text: string; border: string; accent: string };
+  content: string;
+}
+
+function getVariationNuance(variation: string): { badge: string; text: string; icon: string } {
+  const v = variation.toLowerCase();
+  if (
+    v.endsWith('です') || 
+    v.endsWith('でした') || 
+    v.endsWith('ます') || 
+    v.endsWith('ました') || 
+    v.endsWith('ません') || 
+    v.endsWith('ませんでした') || 
+    v.endsWith('あります') || 
+    v.endsWith('います')
+  ) {
+    return {
+      badge: 'bg-emerald-50 text-emerald-700 border-emerald-200',
+      text: 'Bentuk Sopan / Formal (Polite). Digunakan dalam situasi formal atau kepada orang yang belum akrab.',
+      icon: '🗣️'
+    };
+  }
+  
+  if (
+    v.endsWith('だ') || 
+    v.endsWith('だった') || 
+    v.endsWith('じゃない') || 
+    v.endsWith('じゃなかった') || 
+    v.endsWith('ない') || 
+    v.endsWith('なかった') || 
+    v.endsWith('た')
+  ) {
+    return {
+      badge: 'bg-amber-50 text-amber-700 border-amber-200',
+      text: 'Bentuk Biasa / Kasual (Informal). Digunakan kepada teman sebaya, keluarga, atau dalam tulisan kasual.',
+      icon: '🗣️'
+    };
+  }
+
+  return {
+    badge: 'bg-blue-50 text-blue-700 border-blue-200',
+    text: 'Bentuk dasar atau perubahan tata bahasa standar. Digunakan untuk menyambung kalimat atau sesuai struktur tata bahasa.',
+    icon: '💡'
+  };
+}
+
+function findExampleForVariation(examples: any[], variation: string) {
+  const matched = examples.find(ex => ex.japanese.includes(variation) || ex.furigana.includes(variation));
+  return matched || examples[0];
+}
+
+function parseExclusiveTips(notes: string): ParsedTip[] {
+  // Split notes by sentences (handling standard periods, question marks, exclamation marks)
+  const sentences = notes
+    .split(/(?<=[.!?。！？])\s+/)
+    .map(s => s.trim())
+    .filter(s => s.length > 5); // ignore very short artifacts
+
+  // If we couldn't split it into sentences properly, just use the entire notes as one tip
+  const finalSentences = sentences.length > 0 ? sentences : [notes];
+
+  return finalSentences.map((sentence) => {
+    const sLower = sentence.toLowerCase();
+
+    // 1. Peringatan/Pengecualian: jangan, tidak, hati-hati, kecuali, salah, bukan
+    if (
+      sLower.includes('jangan') ||
+      sLower.includes('tidak') ||
+      sLower.includes('hati-hati') ||
+      sLower.includes('kecuali') ||
+      sLower.includes('salah') ||
+      sLower.includes('bukan')
+    ) {
+      return {
+        title: 'Peringatan & Pengecualian',
+        icon: '⚠️',
+        theme: {
+          bg: 'bg-amber-50/80',
+          text: 'text-amber-800',
+          border: 'border-amber-100 hover:border-amber-200',
+          accent: 'bg-amber-500'
+        },
+        content: sentence
+      };
+    }
+
+    // 2. Aturan Penulisan: partikel, tulis, huruf, kanji, hiragana, rumus
+    if (
+      sLower.includes('partikel') ||
+      sLower.includes('tulis') ||
+      sLower.includes('huruf') ||
+      sLower.includes('kanji') ||
+      sLower.includes('hiragana') ||
+      sLower.includes('rumus')
+    ) {
+      return {
+        title: 'Aturan Penulisan & Kanji',
+        icon: '📝',
+        theme: {
+          bg: 'bg-blue-50/80',
+          text: 'text-blue-800',
+          border: 'border-blue-100 hover:border-blue-200',
+          accent: 'bg-blue-500'
+        },
+        content: sentence
+      };
+    }
+
+    // 3. Nuansa & Konteks: sopan, kasual, anime, percakapan, lisan
+    if (
+      sLower.includes('sopan') ||
+      sLower.includes('kasual') ||
+      sLower.includes('anime') ||
+      sLower.includes('percakapan') ||
+      sLower.includes('lisan')
+    ) {
+      return {
+        title: 'Nuansa & Konteks Penggunaan',
+        icon: '🗣️',
+        theme: {
+          bg: 'bg-purple-50/80',
+          text: 'text-purple-800',
+          border: 'border-purple-100 hover:border-purple-200',
+          accent: 'bg-purple-500'
+        },
+        content: sentence
+      };
+    }
+
+    // 4. Fallback: Tips Penggunaan
+    return {
+      title: 'Tips Penggunaan Eksklusif',
+      icon: '💡',
+      theme: {
+        bg: 'bg-orange-50/50',
+        text: 'text-orange-800',
+        border: 'border-orange-100 hover:border-orange-200',
+        accent: 'bg-orange-500'
+      },
+      content: sentence
+    };
+  });
+}
+
 export default function GrammarPatternCard({
   pattern,
   status,
@@ -101,6 +248,9 @@ export default function GrammarPatternCard({
   showRomaji
 }: GrammarPatternCardProps) {
   const [localRevealRomaji, setLocalRevealRomaji] = useState<Record<number, boolean>>({});
+  const [expandedVariation, setExpandedVariation] = useState<string | null>(null);
+  const [expandedTips, setExpandedTips] = useState<Record<number, boolean>>({ 0: true });
+
   const catTheme = categoryColors[pattern.category] || { bg: 'bg-gray-100', text: 'text-sumi', border: 'border-gray-200' };
 
   // Sub-variations progress (granular tracking like Bunpro)
@@ -197,6 +347,9 @@ export default function GrammarPatternCard({
     }));
   };
 
+  // Helper for dynamic tips parser inside Notes
+  const parsedTips = parseExclusiveTips(pattern.notes);
+
   return (
     <div 
       className={`paper-card overflow-hidden transition-all duration-300 border ${
@@ -220,7 +373,7 @@ export default function GrammarPatternCard({
             {/* Status indicators */}
             {status === 'mastered' && (
               <span className="flex items-center gap-1 text-[10px] font-bold text-green-600 bg-green-50 px-2 py-0.5 rounded-full border border-green-200">
-                <CheckCircle2 className="w-3 h-3" /> Hafal
+                <CheckCircle2 className="w-3 h-3" /> Paham
               </span>
             )}
             {status === 'learning' && (
@@ -230,7 +383,7 @@ export default function GrammarPatternCard({
             )}
             {totalCount > 0 && (
               <span className="text-[10px] bg-indigo-50 text-indigo-600 font-bold px-2 py-0.5 rounded-full border border-indigo-200 shadow-sm shrink-0">
-                ⚡ {masteredCount}/{totalCount} Konjugasi (SRS)
+                ⚡ {masteredCount}/{totalCount} Bentuk
               </span>
             )}
           </div>
@@ -256,174 +409,288 @@ export default function GrammarPatternCard({
       {/* CARD BODY (Expanded view) */}
       <div 
         className={`transition-all duration-300 overflow-hidden ${
-          isExpanded ? 'max-h-[1000px] opacity-100 border-t border-gray-100' : 'max-h-0 opacity-0 pointer-events-none'
+          isExpanded ? 'max-h-[2500px] opacity-100 border-t border-gray-100' : 'max-h-0 opacity-0 pointer-events-none'
         }`}
       >
-        <div className="p-5 space-y-5 bg-white/30">
-          {/* Detail Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div className="space-y-3">
-              <div>
-                <h4 className="text-xs font-bold uppercase tracking-wider text-sumi mb-1">📐 Struktur Kalimat</h4>
-                <div className="p-3 bg-white/70 border border-gray-100 rounded-lg text-sm font-semibold text-ink font-mono">
-                  {pattern.structure}
+        <div className="p-5 space-y-6 bg-white/30">
+          
+          {/* COMPONENT 1: KONSEP DASAR */}
+          <div className="space-y-4">
+            <h4 className="text-sm font-bold uppercase tracking-wider text-ink/70 flex items-center gap-2 border-b pb-1.5 font-serif">
+              <span className="text-vermillion">01</span> Konsep Dasar
+            </h4>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {/* Struktur & Fungsi */}
+              <div className="space-y-3.5">
+                <div>
+                  <h5 className="text-xs font-bold text-sumi mb-1 flex items-center gap-1.5">📐 Struktur Kalimat</h5>
+                  <div className="p-3.5 bg-ink text-canvas border border-ink rounded-xl text-sm font-semibold font-mono tracking-wide shadow-inner relative overflow-hidden">
+                    <div className="absolute right-0 top-0 translate-x-2 -translate-y-2 opacity-5 font-serif text-6xl font-bold select-none">式</div>
+                    {pattern.structure}
+                  </div>
+                </div>
+                <div>
+                  <h5 className="text-xs font-bold text-sumi mb-1 flex items-center gap-1.5">🎯 Fungsi JLPT</h5>
+                  <p className="text-sm text-ink/90 leading-relaxed bg-white/50 border border-gray-100 p-3 rounded-xl font-medium">
+                    {pattern.jlptFunction}
+                  </p>
                 </div>
               </div>
-              <div>
-                <h4 className="text-xs font-bold uppercase tracking-wider text-sumi mb-1">🎯 Fungsi JLPT</h4>
-                <p className="text-sm text-ink/90 leading-relaxed font-sans">
-                  {pattern.jlptFunction}
-                </p>
+
+              {/* Catatan Sampingan */}
+              <div className="p-4 bg-vermillion/[0.02] rounded-2xl border border-vermillion/10 flex flex-col justify-between">
+                <div>
+                  <h5 className="text-xs font-bold text-vermillion/90 mb-1.5 flex items-center gap-1.5">💡 Deskripsi Pola</h5>
+                  <p className="text-xs text-ink/80 leading-relaxed font-medium">
+                    Pola kalimat <strong className="text-vermillion font-serif text-sm">{pattern.pattern}</strong> ({pattern.reading}) ini digunakan dalam tingkatan {pattern.level} untuk menyatakan makna "{pattern.meaning}". Pelajari struktur di samping serta contoh kalimat di bawah secara saksama.
+                  </p>
+                </div>
+                {pattern.tags.length > 0 && (
+                  <div className="flex flex-wrap gap-1 mt-4 pt-3 border-t border-vermillion/10">
+                    {pattern.tags.map(tag => (
+                      <span key={tag} className="text-[9px] font-bold text-vermillion/85 bg-white px-2.5 py-1 rounded-full border border-vermillion/10 shadow-sm">
+                        #{tag}
+                      </span>
+                    ))}
+                  </div>
+                )}
               </div>
             </div>
 
-            <div className="p-4 bg-vermillion/5 rounded-xl border border-vermillion/10 h-full flex flex-col justify-between">
-              <div>
-                <h4 className="text-xs font-bold uppercase tracking-wider text-vermillion mb-1">💡 Catatan Penggunaan</h4>
-                <p className="text-xs text-ink/85 leading-relaxed">
-                  {pattern.notes}
-                </p>
+            {/* Contoh Kalimat */}
+            <div className="space-y-2.5 pt-2">
+              <h5 className="text-xs font-bold text-sumi flex items-center gap-1.5">💬 Contoh Kalimat</h5>
+              <div className="space-y-3">
+                {pattern.examples.map((example, idx) => {
+                  const isRomajiVisible = showRomaji || localRevealRomaji[idx];
+                  return (
+                    <div 
+                      key={idx} 
+                      className="p-4 bg-white/70 hover:bg-white border border-gray-100/70 hover:border-gray-200/80 rounded-2xl transition-all shadow-sm flex flex-col gap-2"
+                    >
+                      <div className="text-lg text-ink font-serif font-bold leading-loose tracking-wide">
+                        {renderFurigana(example.furigana, showFurigana, pattern.pattern)}
+                      </div>
+                      <div className="flex items-center gap-2 flex-wrap">
+                        {isRomajiVisible ? (
+                          <p className="text-xs text-sumi font-mono tracking-wide">
+                            {example.romaji}
+                          </p>
+                        ) : (
+                          <button
+                            onClick={(e) => handleToggleRomaji(idx, e)}
+                            className="text-[10px] text-sumi/80 hover:text-vermillion font-semibold underline decoration-dotted underline-offset-2 cursor-pointer font-mono"
+                          >
+                            [Tampilkan Romaji]
+                          </button>
+                        )}
+                        {!showRomaji && isRomajiVisible && (
+                          <button
+                            onClick={(e) => handleToggleRomaji(idx, e)}
+                            className="text-[9px] text-vermillion hover:underline font-mono"
+                          >
+                            Sembunyikan
+                          </button>
+                        )}
+                      </div>
+                      <p className="text-xs font-semibold text-ink/75 border-l-2 border-vermillion/30 pl-3 py-0.5 italic">
+                        {example.translation}
+                      </p>
+                    </div>
+                  );
+                })}
               </div>
-              {pattern.tags.length > 0 && (
-                <div className="flex flex-wrap gap-1 mt-4 pt-3 border-t border-vermillion/10">
-                  {pattern.tags.map(tag => (
-                    <span key={tag} className="text-[9px] font-bold text-vermillion/85 bg-white px-2 py-0.5 rounded-full border border-vermillion/10">
-                      #{tag}
-                    </span>
-                  ))}
-                </div>
-              )}
             </div>
           </div>
-          
-          {/* Sub-variations / Granular Conjugations Section (Bunpro style) */}
+
+          {/* COMPONENT 2: MATRIKS PERUBAHAN BENTUK */}
           {pattern.variations && pattern.variations.length > 0 && (
-            <div className="p-4 bg-indigo-50/30 rounded-xl border border-indigo-100/60 space-y-3">
-              <div className="flex items-center justify-between">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-indigo-700 flex items-center gap-1.5 font-serif">
-                  <Sparkles className="w-3.5 h-3.5 animate-pulse" /> Konjugasi & Variasi Granular (Versi Bunpro)
+            <div className="space-y-3 pt-2">
+              <div className="flex items-center justify-between border-b pb-1.5">
+                <h4 className="text-sm font-bold uppercase tracking-wider text-ink/70 flex items-center gap-2 font-serif">
+                  <span className="text-vermillion">02</span> Matriks Perubahan Bentuk
                 </h4>
-                <span className="text-[10px] font-mono font-bold text-indigo-600 bg-white px-2 py-0.5 rounded border border-indigo-100">
-                  Progress: {Math.round((masteredCount / totalCount) * 100)}%
+                <span className="text-[10px] font-mono font-bold text-indigo-700 bg-indigo-50 border border-indigo-100 px-2.5 py-0.5 rounded-full shadow-sm">
+                  Variasi Terpahami: {Math.round((masteredCount / totalCount) * 100)}% ({masteredCount}/{totalCount})
                 </span>
               </div>
-              
-              <div className="h-1.5 bg-indigo-100/40 rounded-full overflow-hidden flex border border-indigo-100/20">
+
+              <div className="h-2 bg-gray-100 rounded-full overflow-hidden flex border border-gray-200/40">
                 <div 
                   className="h-full bg-indigo-600 transition-all duration-500 rounded"
                   style={{ width: `${(masteredCount / totalCount) * 100}%` }}
                 />
               </div>
 
-              <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 pt-1.5">
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3 pt-1">
                 {pattern.variations.map(variation => {
-                  const isMastered = !!subProgress[variation];
+                  const isChecked = !!subProgress[variation];
+                  const isExpandedVariation = expandedVariation === variation;
+                  const nuance = getVariationNuance(variation);
+                  const variationExample = findExampleForVariation(pattern.examples, variation);
+
                   return (
-                    <button
-                      key={variation}
-                      onClick={(e) => handleToggleVariation(variation, e)}
-                      className={`flex items-center justify-between px-3 py-2 rounded-lg text-xs font-semibold border transition-all duration-300 ${
-                        isMastered
-                          ? 'bg-indigo-600 text-white border-indigo-600 shadow-sm scale-102 font-bold'
-                          : 'bg-white text-sumi border-gray-200 hover:bg-gray-50 hover:border-gray-300'
-                      }`}
+                    <div 
+                      key={variation} 
+                      className={`flex flex-col rounded-2xl border transition-all duration-300 bg-white shadow-sm overflow-hidden ${
+                        isChecked 
+                          ? 'border-indigo-200 ring-1 ring-indigo-50 bg-indigo-50/[0.01]' 
+                          : 'border-gray-200/80 hover:border-gray-300'
+                      } ${isExpandedVariation ? 'sm:col-span-2 md:col-span-2 shadow-md border-indigo-300' : ''}`}
                     >
-                      <span className="font-mono">{variation}</span>
-                      <span className={`w-3.5 h-3.5 rounded-full flex items-center justify-center shrink-0 border ${
-                        isMastered 
-                          ? 'bg-white text-indigo-600 border-white' 
-                          : 'border-gray-300 bg-canvas'
-                      }`}>
-                        {isMastered && <span className="text-[9px] font-bold">✓</span>}
-                      </span>
-                    </button>
+                      {/* Grid Item Header Card */}
+                      <div 
+                        onClick={(e) => {
+                          handleToggleVariation(variation, e);
+                          // Toggle expansion of the clicked child card
+                          setExpandedVariation(isExpandedVariation ? null : variation);
+                        }}
+                        className={`flex items-center justify-between px-4 py-3 cursor-pointer select-none transition-colors ${
+                          isChecked ? 'bg-indigo-50/20' : 'hover:bg-gray-50'
+                        }`}
+                      >
+                        <div className="flex items-center gap-2">
+                          <span className={`w-4.5 h-4.5 rounded-full flex items-center justify-center shrink-0 border transition-all ${
+                            isChecked 
+                              ? 'bg-indigo-600 border-indigo-600 text-white shadow-sm' 
+                              : 'border-gray-300 bg-white'
+                          }`}>
+                            {isChecked && <span className="text-[10px] font-bold">✓</span>}
+                          </span>
+                          <span className={`font-mono text-sm font-bold ${isChecked ? 'text-indigo-900' : 'text-ink'}`}>
+                            {variation}
+                          </span>
+                        </div>
+                        <div className="text-[10px] font-semibold text-sumi bg-canvas px-2 py-0.5 rounded-md border border-gray-100 flex items-center gap-1">
+                          {isExpandedVariation ? 'Tutup' : 'Detail'}
+                        </div>
+                      </div>
+
+                      {/* Micro-Accordion Panel */}
+                      {isExpandedVariation && (
+                        <div className="px-4 pb-4 pt-2 border-t border-gray-100 bg-indigo-50/10 space-y-3">
+                          {/* Nuance badge and text */}
+                          <div className="space-y-1">
+                            <span className={`inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md text-[10px] font-bold border ${nuance.badge}`}>
+                              {nuance.icon} {variation.endsWith('です') || variation.endsWith('ました') || variation.endsWith('ます') ? 'Formal' : 'Informal'}
+                            </span>
+                            <p className="text-[11px] text-ink/75 leading-relaxed pl-0.5">
+                              {nuance.text}
+                            </p>
+                          </div>
+
+                          {/* Sentence Example for this variation */}
+                          {variationExample && (
+                            <div className="p-3 bg-white border border-gray-100 rounded-xl space-y-1 shadow-sm">
+                              <span className="text-[9px] font-bold text-sumi uppercase tracking-wider block">💬 Contoh Penggunaan</span>
+                              <div className="text-xs font-serif font-bold text-ink leading-relaxed">
+                                {renderFurigana(variationExample.furigana, showFurigana, variation)}
+                              </div>
+                              <p className="text-[10px] font-medium text-ink/70 border-l border-vermillion/30 pl-2 mt-1">
+                                {variationExample.translation}
+                              </p>
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
                   );
                 })}
               </div>
-              <p className="text-[10px] text-sumi leading-relaxed pl-1">
-                💡 Tandai setiap variasi konjugasi di atas secara spesifik sesuai pemahaman Anda. Status utama konsep akan ter-update otomatis.
-              </p>
             </div>
           )}
 
-          {/* Example Sentences */}
-          <div className="space-y-3">
-            <h4 className="text-xs font-bold uppercase tracking-wider text-sumi flex items-center gap-1.5">
-              <BookOpen className="w-3.5 h-3.5" /> Contoh Kalimat
+          {/* COMPONENT 3: KOTAK TIPS EKSKLUSIF */}
+          <div className="space-y-3 pt-2">
+            <h4 className="text-sm font-bold uppercase tracking-wider text-ink/70 flex items-center gap-2 border-b pb-1.5 font-serif">
+              <span className="text-vermillion">03</span> Kotak Tips Eksklusif
             </h4>
-            <div className="space-y-3">
-              {pattern.examples.map((example, idx) => {
-                const isRomajiVisible = showRomaji || localRevealRomaji[idx];
-                return (
-                  <div 
-                    key={idx} 
-                    className="p-3.5 bg-white/60 hover:bg-white border border-gray-100 rounded-lg transition-colors flex flex-col gap-1.5"
-                  >
-                    <div className="text-lg text-ink font-serif font-semibold leading-loose tracking-wide">
-                      {renderFurigana(example.furigana, showFurigana, pattern.pattern)}
+
+            <div className="p-4 bg-gradient-to-br from-amber-50/30 to-orange-50/20 border border-orange-100 rounded-2xl shadow-sm space-y-3 relative overflow-hidden">
+              <div className="absolute right-0 top-0 translate-x-3 -translate-y-3 opacity-[0.03] select-none text-7xl">💡</div>
+              
+              <div className="flex items-center gap-2">
+                <div className="p-1 bg-orange-100 text-orange-600 rounded-lg">
+                  <Sparkles className="w-4 h-4 animate-pulse" />
+                </div>
+                <h5 className="text-xs font-bold text-orange-950 uppercase tracking-wider">
+                  Petunjuk Praktis & Poin Granular
+                </h5>
+              </div>
+
+              <div className="space-y-2">
+                {parsedTips.map((tip, idx) => {
+                  const isOpen = !!expandedTips[idx];
+                  return (
+                    <div 
+                      key={idx}
+                      className={`border rounded-xl transition-all duration-300 overflow-hidden bg-white/95 shadow-sm ${
+                        isOpen 
+                          ? `${tip.theme.border} ring-1 ring-orange-100/50` 
+                          : 'border-gray-200/70 hover:bg-gray-50/30'
+                      }`}
+                    >
+                      {/* Accordion Trigger Header */}
+                      <button
+                        onClick={() => {
+                          setExpandedTips(prev => ({
+                            ...prev,
+                            [idx]: !prev[idx]
+                          }));
+                        }}
+                        className="w-full flex items-center justify-between px-4 py-3 text-left font-serif text-sm font-semibold select-none focus:outline-none"
+                      >
+                        <div className="flex items-center gap-2.5">
+                          <span className="text-base select-none">{tip.icon}</span>
+                          <span className={tip.theme.text}>{tip.title}</span>
+                        </div>
+                        <div className="text-sumi transition-transform duration-300">
+                          {isOpen ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
+                        </div>
+                      </button>
+
+                      {/* Accordion Content Panel */}
+                      <div 
+                        className={`transition-all duration-300 overflow-hidden ${
+                          isOpen ? 'max-h-[250px] border-t border-gray-100' : 'max-h-0'
+                        }`}
+                      >
+                        <div className={`p-4 text-xs font-medium leading-relaxed text-ink/85 ${tip.theme.bg}`}>
+                          <div className="flex gap-2.5 items-start">
+                            <span className={`w-1.5 h-1.5 rounded-full mt-1.5 shrink-0 ${tip.theme.accent}`}></span>
+                            <p>{tip.content}</p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
-                    <div className="flex items-center gap-2 flex-wrap">
-                      {isRomajiVisible ? (
-                        <p className="text-xs text-sumi font-mono tracking-wide">
-                          {example.romaji}
-                        </p>
-                      ) : (
-                        <button
-                          onClick={(e) => handleToggleRomaji(idx, e)}
-                          className="text-[10px] text-sumi/80 hover:text-vermillion font-semibold underline decoration-dotted underline-offset-2 cursor-pointer font-mono"
-                        >
-                          [Tampilkan Romaji]
-                        </button>
-                      )}
-                      {!showRomaji && isRomajiVisible && (
-                        <button
-                          onClick={(e) => handleToggleRomaji(idx, e)}
-                          className="text-[9px] text-vermillion hover:underline"
-                        >
-                          Sembunyikan
-                        </button>
-                      )}
-                    </div>
-                    <p className="text-xs font-medium text-ink/75 border-l-2 border-vermillion/30 pl-2.5 py-0.5 italic">
-                      {example.translation}
-                    </p>
-                  </div>
-                );
-              })}
+                  );
+                })}
+              </div>
             </div>
           </div>
 
-          {/* Action Footer */}
-          <div className="flex flex-col sm:flex-row gap-3 items-center justify-between pt-3 border-t border-gray-100">
-            <div className="text-xs text-sumi font-medium">
-              Tandai progress pemahaman Anda
-            </div>
-            
-            <div className="flex gap-2 w-full sm:w-auto">
-              <button 
-                onClick={() => handleMainStatusChange(status === 'learning' ? 'new' : 'learning')}
-                className={`flex-1 sm:flex-none flex items-center justify-center gap-1.5 px-4 py-2 rounded-full text-xs font-bold tracking-wider uppercase transition-all border ${
-                  status === 'learning' 
-                    ? 'bg-blue-100 text-blue-700 border-blue-200 shadow-sm' 
-                    : 'bg-white text-sumi border-gray-200 hover:bg-gray-50'
-                }`}
-              >
-                <CircleDashed className="w-3.5 h-3.5" />
-                Belajar
-              </button>
-              <button 
-                onClick={() => handleMainStatusChange(status === 'mastered' ? 'new' : 'mastered')}
-                className={`flex-1 sm:flex-none flex items-center justify-center gap-1.5 px-4 py-2 rounded-full text-xs font-bold tracking-wider uppercase transition-all border ${
-                  status === 'mastered' 
-                    ? 'bg-green-100 text-green-700 border-green-200 shadow-sm' 
-                    : 'bg-white text-sumi border-gray-200 hover:bg-gray-50'
-                }`}
-              >
-                <CheckCircle2 className="w-3.5 h-3.5" />
-                Hafal
-              </button>
-            </div>
+          {/* COMPONENT 4: TOMBOL UTAMA "SAYA PAHAM POLA INI" */}
+          <div className="flex flex-col items-center justify-center pt-4 border-t border-gray-100 gap-3">
+            <button
+              onClick={() => handleMainStatusChange(status === 'mastered' ? 'new' : 'mastered')}
+              className={`w-full max-w-md flex items-center justify-center gap-2.5 py-3.5 px-6 rounded-2xl text-sm font-bold tracking-wider uppercase transition-all duration-300 shadow-sm hover:shadow-md ${
+                status === 'mastered'
+                  ? 'bg-emerald-600 text-white border border-emerald-600 scale-102 font-bold'
+                  : 'bg-white text-emerald-700 border-2 border-emerald-600/80 hover:bg-emerald-50/50'
+              }`}
+            >
+              <CheckCircle2 className={`w-5 h-5 ${status === 'mastered' ? 'animate-bounce' : ''}`} />
+              {status === 'mastered' ? 'Anda Sudah Paham Pola Ini' : 'Saya Paham Pola Ini'}
+            </button>
+            <p className="text-[10px] text-sumi text-center">
+              {status === 'mastered' 
+                ? 'Klik kembali jika ingin mengulang pemahaman pola grammar ini beserta variasi child-nya.' 
+                : 'Menandai pola parent ini juga akan otomatis menandai seluruh variasi child di atas sebagai terkuasai.'
+              }
+            </p>
           </div>
+
         </div>
       </div>
     </div>

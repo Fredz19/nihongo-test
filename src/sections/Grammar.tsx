@@ -301,7 +301,7 @@ export default function Grammar() {
                 <div 
                   className="h-full bg-green-500 transition-all duration-500 rounded-l"
                   style={{ width: `${stats.progressPercent}%` }}
-                  title={`${stats.masteredCount} dihafal (${stats.progressPercent}%)`}
+                  title={`${stats.masteredCount} dipahami (${stats.progressPercent}%)`}
                 />
                 <div 
                   className="h-full bg-blue-500 transition-all duration-500"
@@ -310,14 +310,14 @@ export default function Grammar() {
                 />
               </div>
               <span className="font-mono font-bold text-ink/80 text-[11px] shrink-0">
-                {stats.masteredCount}/{stats.total} Hafal
+                {stats.masteredCount}/{stats.total} Paham
               </span>
             </div>
 
             {/* Sub-counts details */}
             <div className="flex items-center gap-4 text-[10px] uppercase font-bold tracking-wider font-mono text-sumi">
               <span className="flex items-center gap-1.5"><BookOpenCheck className="w-3.5 h-3.5 text-sumi" /> Total: {stats.total}</span>
-              <span className="flex items-center gap-1.5"><CheckCircle2 className="w-3.5 h-3.5 text-green-500" /> Hafal: {stats.masteredCount}</span>
+              <span className="flex items-center gap-1.5"><CheckCircle2 className="w-3.5 h-3.5 text-green-500" /> Paham: {stats.masteredCount}</span>
               <span className="flex items-center gap-1.5"><CircleDashed className="w-3.5 h-3.5 text-blue-500" /> Belajar: {stats.learningCount}</span>
               <span className="flex items-center gap-1.5"><span className="w-2.5 h-2.5 rounded-full bg-gray-300"></span> Belum: {stats.newCount}</span>
             </div>
