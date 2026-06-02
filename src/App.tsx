@@ -11,6 +11,7 @@ import ReviewMode from './sections/ReviewMode';
 import PricingPage from './sections/PricingPage';
 import Auth from './sections/Auth';
 import Kosakata from './sections/Kosakata';
+import Grammar from './sections/Grammar';
 
 function App() {
   const initializeAuth = useAuthStore((state) => state.initializeAuth);
@@ -67,6 +68,14 @@ function App() {
             element={
               <ProtectedRoute>
                 <Kosakata />
+              </ProtectedRoute>
+            } 
+          />
+          <Route 
+            path="/grammar" 
+            element={
+              <ProtectedRoute>
+                <Grammar />
               </ProtectedRoute>
             } 
           />

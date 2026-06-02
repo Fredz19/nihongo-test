@@ -5,7 +5,7 @@ const blobUrlCache: Record<string, string> = {};
 // In-flight fetch tracking to avoid duplicate requests
 const fetchingSet = new Set<string>();
 
-const BUCKET_NAME = "audio_cache";
+const BUCKET_NAME = "jlpt-audio";
 const SUPABASE_URL = "https://ozdsyadckqfwdhznjkmf.supabase.co";
 
 let offlineCtx: OfflineAudioContext | null = null;

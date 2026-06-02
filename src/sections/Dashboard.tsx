@@ -2,6 +2,7 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuthStore } from '../hooks/useAuthStore';
 import { useTestHistory } from '../hooks/useTestHistory';
+import AppSidebar from '../components/AppSidebar';
 import {
   LayoutDashboard,
   ClipboardList,
@@ -17,7 +18,6 @@ import {
   Clock,
   Star,
   Zap,
-  LogOut,
   Loader2
 } from 'lucide-react';
 
@@ -25,7 +25,7 @@ const sidebarItems = [
   { icon: <LayoutDashboard className="w-5 h-5" />, label: 'Dashboard', page: 'dashboard' as const },
   { icon: <ClipboardList className="w-5 h-5" />, label: 'Try Out', page: 'mocktest' as const },
   { icon: <BookOpen className="w-5 h-5" />, label: 'Kosakata', page: 'kosakata' as const },
-  { icon: <PenTool className="w-5 h-5" />, label: 'Grammar', page: 'dashboard' as const },
+  { icon: <PenTool className="w-5 h-5" />, label: 'Grammar', page: 'grammar' as const },
   { icon: <BarChart3 className="w-5 h-5" />, label: 'Analisis', page: 'results' as const },
   { icon: <Settings className="w-5 h-5" />, label: 'Pengaturan', page: 'dashboard' as const },
 ];
@@ -188,54 +188,6 @@ function StatCard({ icon, label, value, subtext, color }: {
   );
 }
 
-// ===== SIDEBAR =====
-function Sidebar({ activeItem }: { activeItem: string }) {
-  const navigate = useNavigate();
-  const signOut = useAuthStore((state) => state.signOut);
-
-  const handleSignOut = async () => {
-    try {
-      await signOut();
-      navigate('/auth');
-    } catch (error) {
-      console.error('Gagal keluar:', error);
-    }
-  };
-
-  return (
-    <aside className="hidden lg:flex flex-col w-64 h-screen sticky top-0 border-r bg-canvas" style={{ borderColor: 'rgba(26,26,26,0.1)' }}>
-      <div className="p-6 border-b" style={{ borderColor: 'rgba(26,26,26,0.1)' }}>
-        <button onClick={() => navigate('/')} className="text-xs font-bold tracking-widest">
-          NIHONGO
-        </button>
-      </div>
-      <nav className="flex-1 p-4 space-y-1">
-        {sidebarItems.map((item) => (
-          <button
-            key={item.label}
-            onClick={() => navigate(item.page === 'mocktest' ? '/mocktest/N5' : `/${item.page}`)}
-            className={`w-full flex items-center gap-3 px-4 py-3 rounded-lg text-sm transition-all ${
-              activeItem === item.label
-                ? 'font-semibold bg-white shadow-sm'
-                : 'text-sumi hover:bg-white/50'
-            }`}
-            style={activeItem === item.label ? { borderLeft: '3px solid #e63946' } : {}}
-          >
-            {item.icon}
-            <span>{item.label}</span>
-          </button>
-        ))}
-      </nav>
-      <div className="p-4 border-t" style={{ borderColor: 'rgba(26,26,26,0.1)' }}>
-        <button onClick={handleSignOut} className="w-full flex items-center gap-3 px-4 py-3 text-sm text-sumi hover:text-vermillion transition-colors">
-          <LogOut className="w-5 h-5" />
-          <span>Keluar</span>
-        </button>
-      </div>
-    </aside>
-  );
-}
-
 // ===== MAIN DASHBOARD =====
 export default function Dashboard() {
   const navigate = useNavigate();
@@ -291,7 +243,7 @@ export default function Dashboard() {
   return (
     <div className="flex min-h-screen bg-canvas">
       {/* Desktop Sidebar */}
-      <Sidebar activeItem="Dashboard" />
+      <AppSidebar activeItem="Dashboard" />
 
       {/* Mobile Menu Overlay */}
       {mobileMenuOpen && (

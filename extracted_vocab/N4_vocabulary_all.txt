@@ -1,0 +1,644 @@
+送る (おくる) - mengirim / mengantar
+起こす (おこす) - membangunkan
+急ぐ (いそぐ) - bergegas / terburu-buru
+祈る (いのる) - berdoa
+受ける (うける) - menerima / mengikuti (ujian)
+動く (うごく) - bergerak / berfungsi
+写す (うつす) - menyalin / memotret
+移る (うつる) - pindah (tempat/penyakit)
+落ちる (おちる) - jatuh / gugur
+おっしゃる (おっしゃる) - berkata (hormat)
+驚く (おどろく) - terkejut / heran
+思い出す (おもいだす) - mengingat kembali / teringat
+頼む (たのむ) - meminta / memohon
+折る (おる) - melipat / mematahkan
+飾る (かざる) - menghias / memajang
+片付く (かたづく) - rapi / beres
+変わる (かわる) - berubah
+変える (かえる) - mengubah / menukar
+頑張る (がんばる) - berjuang / berusaha keras
+決まる (きまる) - diputuskan / ditetapkan
+比べる (くらべる) - membandingkan
+くれる (くれる) - memberi (kepada saya)
+下がる (さがる) - turun / mundur
+怒る (おこる) - marah
+下げる (さげる) - menurunkan
+騒ぐ (さわぐ) - membuat keributan / berisik
+触る (さわる) - menyentuh / memegang
+叱る (しかる) - memarahi
+過ぎる (すぎる) - melewati / melampaui / terlalu
+空く (すく) - menjadi kosong / lapar
+進む (すすむ) - maju / berkembang
+滑る (すべる) - terpeleset / licin
+育つ (そだつ) - tumbuh besar
+倒れる (たおれる) - tumbang / pingsan / roboh
+違う (ちがう) - berbeda / salah
+助ける (たすける) - menolong / menyelamatkan
+訪ねる (たずねる) - mengunjungi
+足りる (たりる) - cukup
+伝える (つたえる) - menyampaikan
+続く (つづく) - berlanjut
+連れる (つれる) - membawa (orang/hewan)
+通る (とおる) - melewati / melalui
+お届けする (お届けする) - mengantarkan (sopan)
+泊まる (とまる) - menginap
+取り替える (とりかえる) - menukar / mengganti
+手伝う (てつだう) - membantu
+投げる (なげる) - melempar
+亡くなる (なくなる) - meninggal dunia
+無くなる (なくなる) - hilang / habis
+治る (なおる) - sembuh / membaik
+慣れる (なれる) - terbiasa
+逃げる (nigeru) - melarikan diri / kabur
+似る (にる) - mirip
+盗む (ぬすむ) - mencuri
+塗る (ぬる) - mengoleskan / mengecat
+濡れる (ぬれる) - basah
+払う (はらう) - membayar
+眠る (nemuru) - tidur nyenyak
+残る (のこる) - tersisa
+乗り換える (のりかえる) - transit / berganti kendaraan
+運ぶ (hakobu) - mengangkut / membawa
+始まる (はじまる) - mulai / dimulai
+晴れる (はれる) - cerah
+冷える (ひえる) - menjadi dingin
+冷やす (ひやす) - mendinginkan
+光る (ひかる) - bersinar / bercahaya
+増える (ふえる) - bertambah / meningkat
+笑う (わらう) - tertawa / tersenyum
+増やす (ふやす) - menambah / meningkatkan
+拭く (ふく) - menyeka / mengelap
+褒める (ほめる) - memuji
+参る (まいる) - datang / pergi (rendah hati)
+曲がる (まがる) - berbelok / melengkung
+守る (まもる) - melindungi / mematuhi
+迷う (まよう) - tersesat / ragu-ragu
+見える (みえる) - terlihat
+見かける (みかける) - kebetulan melihat / berpapasan
+見つかる (みつかる) - ditemukan
+歌う (うたう) - bernyanyi
+迎える (むかえる) - menjemput / menyambut
+戻す (もどす) - mengembalikan (ke posisi awal)
+申し上げる (もうしあげる) - mengatakan (rendah hati)
+焼く (やく) - memanggang / membakar
+焼ける (やける) - terpanggang / terbakar
+痩せる (やせる) - menjadi kurus
+辞める (やめる) - berhenti (kerja/sekolah) / membatalkan
+やる (やる) - melakukan / memberi makan
+汚す (よごす) - mengotori
+喜ぶ (よろこぶ) - bergembira / senang
+向かう (むかう) - menuju ke
+沸く (わく) - mendidih
+渡る (わたる) - menyeberang
+割る (わる) - memecahkan / membagi
+嬉しい (うれしい) - senang / gembira
+悲しい (かなしい) - sedih
+恥ずかしい (はずかしい) - malu
+珍しい (めずらしい) - langka / tidak biasa
+厳しい (きびしい) - tegas / keras / galak
+優しい (やさしい) - baik hati / ramah
+正しい (ただしい) - benar / tepat
+吸う (すう) - menghisap / merokok
+美しい (うつくしい) - indah / cantik
+素晴らしい (すばらしい) - luar biasa / hebat
+詳しい (くわしい) - detail / rinci / paham betul
+深い (ふかい) - dalam
+浅い (あさい) - dangkal
+厚い (あつい) - tebal (buku, kain, dll)
+薄い (うすい) - tipis / hambar (rasa)
+悔しい (くやしい) - menyesal / kesal (karena kalah)
+懐かしい (なつかしい) - rindu / membuat nostalgia
+丁寧 (ていねい) - sopan / teliti
+探す (さがす) - mencari
+洗う (あらう) - mencuci
+複雑 (ふくざつ) - rumit / kompleks
+簡単 (かんたん) - mudah / simpel
+安全 (あんぜん) - aman
+危険 (きけん) - bahaya
+残念 (ざんねん) - sayang sekali / mengecewakan
+無理 (むり) - mustahil / memaksakan diri
+必要 (ひつよう) - perlu / butuh
+特別 (tokubetsu) - khusus / istimewa
+不便 (ふべん) - tidak praktis / menyusahkan
+親切 (しんせつ) - ramah / baik hati
+言う (いう) - berkata / mengatakan
+邪魔 (じゃま) - mengganggu / penghalang
+楽 (らく) - nyaman / mudah
+適当 (てきとう) - cocok / sesuai
+甘い (あまい) - manis
+辛い (からい) - pedas
+塩辛い (しおからい) - asin
+酸っぱい (すっぱい) - asam
+苦い (にがい) - pahit
+おかしい (おかしい) - aneh / lucu
+苦しい (くるしい) - menderita / sesak / sulit
+思う (おもう) - berpikir / mengira
+細かい (こまかい) - kecil / rinci / uang receh
+寂しい (さびしい) - sepi / kesepian
+近い (ちかい) - dekat
+つまらない (つまらない) - membosankan / tidak menarik
+眠い (ねむい) - mengantuk
+ひどい (ひどい) - kejam / parah / buruk sekali
+欲しい (ほしい) - ingin / menginginkan (barang)
+よろしい (よろしい) - boleh / baik (formal)
+大人しい (おとなしい) - pendiam / penurut / tenang
+賢い (かしこい) - pintar / cerdas
+行う (おこなう) - melaksanakan / mengadakan
+幸せ (しあわせ) - bahagia
+新鮮 (しんせん) - segar (makanan/udara)
+熱心 (ねっしん) - tekun / antusias / rajin
+真面目 (まじめ) - serius / jujur / rajin
+有名 (ゆうめい) - terkenal / populer
+立派 (りっぱ) - megah / mulia / hebat
+暗い (くらい) - gelap / suram
+明るい (あかるい) - terang / ceria
+汚い (きたない) - kotor / jorok
+危ない (あぶない) - bahaya
+戻る (もどる) - kembali
+酷い (ひどい) - parah / buruk sekali
+若い (わかい) - muda
+長い (ながい) - panjang
+短い (みじかい) - pendek
+重い (おもい) - berat
+軽い (かるい) - ringan
+広い (ひろい) - luas
+狭い (せまい) - sempit
+急に (きゅうに) - tiba-tiba
+非常に (ひじょうに) - sangat / amat
+壊す (こわす) - merusak / memecahkan
+ほとんど (ほとんど) - hampir seluruhnya
+ずいぶん (ずいぶん) - lumayan / sangat
+やっと (やっと) - akhirnya (setelah bersusah payah)
+とうとう (とうとう) - akhirnya
+必ず (かならず) - pasti / harus / selalu
+ぜひ (ぜひ) - tentu saja / sangat (ajakan)
+たぶん (たぶん) - mungkin / barangkali
+しばらく (しばらく) - sementara waktu / beberapa lama
+はっきり (はっきり) - dengan jelas
+のんびり (のんびり) - secara santai
+消す (けす) - memadamkan / mematikan
+そろそろ (そろそろ) - perlahan-lahan / sebentar lagi
+どんどん (どんどん) - dengan cepat / berturut-turut
+お疲れ様でした (おつかれさまでした) - terima kasih atas kerja kerasnya
+お先に失礼します (おさきにしつれいします) - permisi pulang duluan
+おかげさまで (おかげさまで) - berkat doa Anda (Alhamdulillah)
+実は (じつは) - sebenarnya
+もちろん (もちろん) - tentu saja
+いかがですか (いかがですか) - bagaimana?
+あまり (あまり) - tidak begitu / tidak terlalu
+いかが (いかが) - bagaimana (sopan)
+直す (なおす) - memperbaiki / membenarkan
+いくら (いくら) - berapa pun / meskipun berapa
+一生懸命 (いっしょうけんめい) - dengan sungguh-sungguh
+決して (けっして) - sekali-kali tidak / tidak pernah
+この間 (このあいだ) - tempo hari / baru-baru ini
+これから (これから) - mulai sekarang / dari sekarang
+さっき (さっき) - tadi / baru saja
+すっかり (すっかり) - sepenuhnya / seluruhnya
+ずっと (ずっと) - jauh lebih / terus-menerus
+全然 (ぜんぜん) - sama sekali tidak
+大抵 (たいてい) - biasanya / umumnya
+回す (まわす) - memutar
+だいぶ (だいぶ) - lumayan / sebagian besar
+ちっとも (ちっとも) - sedikit pun tidak
+ちょうど (ちょうど) - pas / tepat / baru saja
+ついに (ついに) - akhirnya (setelah proses panjang)
+特に (とくに) - khususnya / terutama
+なるべく (なるべく) - sebisa mungkin
+もし (もし) - jika / seandainya
+やはり (やはり) - tetap saja / seperti dugaan
+おかしいな (おかしいな) - aneh ya...
+しばらくでした (しばらくでした) - sudah lama tidak jumpa
+返す (かえす) - mengembalikan (barang)
+失礼します (しつれいします) - permisi / mohon maaf
+どうぞお元気で (どうぞおげんきで) - semoga sehat selalu
+どうも (どうも) - terima kasih / salam
+いってらっしゃい (いてらっしゃい) - selamat jalan / hati-hati di jalan
+いってきます (いってきます) - saya berangkat dulu
+ただいま (ただいま) - saya pulang / baru kembali
+おかえりなさい (おかえりなさい) - selamat datang kembali di rumah
+おめでとうございます (おめでとうございます) - selamat!
+医者 (いしゃ) - dokter
+準備 (じゅんび) - persiapan
+間に合う (まにあう) - keburu / sempat / tepat waktu
+渡す (わたす) - menyerahkan
+計画 (けいかく) - rencana / perencanaan
+説明 (せつめい) - penjelasan / keterangan
+空港 (くうこう) - bandara
+予約 (よやく) - reservasi / pemesanan
+外国語 (がいこくご) - bahasa asing
+結果 (けっか) - hasil
+社会 (しゃかい) - masyarakat / sosial
+環境 (かんきょう) - lingkungan
+気持ち (きもち) - perasaan / suasana hati
+丁寧 (ていねい) - sopan santun
+話す (はなす) - berbicara / mengobrol
+複雑 (ふくざつ) - kerumitan
+遅刻 (ちこく) - keterlambatan
+運転 (うんてん) - pengemudian / menyetir
+朝食 (ちょうしょく) - sarapan pagi
+材料 (ざいりょう) - bahan baku / material
+生活費 (せいかつひ) - biaya hidup
+習慣 (しゅうかん) - kebiasaan / adat
+祖父 (そふ) - kakek (pihak sendiri)
+兄弟 (きょうだい) - saudara kandung / kakak adik
+普及 (ふきゅう) - penyebaran / popularitas umum
+残す (のこす) - menyisakan / meninggalkan
+保存 (ほぞん) - penyimpanan / pengawetan
+景色 (けしき) - pemandangan
+住民 (じゅうみん) - penduduk / warga lokal
+意見 (いけん) - pendapat / opini
+簡潔 (かんけつ) - kepadatan / kesingkatan
+出発 (しゅっぱつ) - keberangkatan
+心配 (しんぱい) - kekhawatiran
+技術 (ぎじゅつ) - teknologi / teknik
+政治 (せいじ) - politik
+経済 (けいざい) - ekonomi
+沸かす (わかす) - mendidihkan (air)
+法律 (ほうりつ) - hukum / undang-undang
+恋人 (こいびと) - pacar / kekasih
+夫婦 (ふうふ) - suami istri
+親戚 (しんせき) - kerabat / saudara sepupu/ipar dll
+社長 (しゃちょう) - direktur utama / bos
+公務員 (こうむいん) - pegawai negeri sipil (PNS)
+看護師 (かんごし) - perawat
+小説 (しょうせつ) - novel
+天気予報 (てんきよほう) - prakiraan cuaca
+火事 (かじ) - kebakaran
+押す (おす) - menekan / mendorong
+事故 (じこ) - kecelakaan
+予定 (よてい) - jadwal / rencana acara
+相手 (あいて) - lawan bicara / mitra / partner
+留学生 (りゅうがくせい) - mahasiswa asing / siswa internasional
+実験 (じっけん) - eksperimen / uji coba
+泥棒 (どろぼう) - pencuri / maling
+秋 (あき) - musim gugur
+味 (あじ) - rasa
+遊び (あそび) - permainan / liburan / hiburan
+頭 (あたま) - kepala
+貸す (かす) - meminjamkan
+姉 (あね) - kakak perempuan (sendiri)
+兄 (あに) - kakak laki-laki (sendiri)
+アパート (アパート) - apartemen
+従姉妹 (いとこ) - saudara sepupu
+意味 (いみ) - arti / makna
+妹 (いもうと) - adik perempuan (sendiri)
+入口 (いりぐち) - pintu masuk
+おもちゃ (おもちゃ) - mainan
+思い出 (おもいで) - kenangan
+音楽 (おんがく) - musik
+移す (うつす) - memindahkan
+会話 (かいわ) - percakapan / obrolan
+帰り (かえり) - kepulangan / jalan pulang
+鏡 (かがみ) - cermin
+科学 (かがく) - sains / ilmu pengetahuan
+家事 (かじ) - pekerjaan rumah tangga
+形 (かたち) - bentuk
+金 (かね) - uang / logam mulia / bel
+壁 (かべ) - dinding / tembok
+髪 (かみ) - rambut
+神様 (かみさま) - Tuhan / Dewa
+落とす (おとす) - menjatuhkan / menghilangkan
+体 (からだ) - tubuh / badan
+カレンダー (カレンダー) - kalender
+漢字 (かんじ) - huruf Kanji
+季節 (きせつ) - musim
+規則 (きそく) - peraturan / aturan
+切手 (きって) - perangko
+切符 (きっぷ) - tiket (kereta/bis)
+絹 (きぬ) - sutra
+気分 (きぶん) - suasana hati / kondisi badan
+着物 (きもの) - Kimono
+死ぬ (しぬ) - meninggal / mati
+客 (きゃく) - tamu / pelanggan / konsumen
+急行 (きゅうこう) - kereta ekspres / cepat
+興味 (きょうみ) - minat / ketertarikan
+距離 (きょうり) - jarak
+霧 (きり) - kabut
+近所 (きんじょ) - tetangga / lingkungan sekitar
+牛肉 (ぎゅうにく) - daging sapi
+牛乳 (ぎゅうにゅう) - susu sapi
+行事 (ぎょうじ) - acara / agenda kegiatan / festival
+銀行 (ぎんこう) - bank
+遊ぶ (あそぶ) - bermain / bersenang-senang
+草 (くさ) - rumput
+薬 (くすり) - obat
+果物 (くだもの) - buah-buahan
+口 (くち) - mulut / pintu masuk / lubang
+靴 (くつ) - sepatu
+靴下 (くつした) - kaos kaki
+国 (くに) - negara / kampung halaman
+首 (くび) - leher
+雲 (くも) - awan
+暗闇 (くらやみ) - kegelapan
+拾う (ひろう) - memungut / mengambil
+呼ぶ (よぶ) - memanggil / mengundang
+会議 (かいぎ) - rapat
+工場 (こうじょう) - pabrik
+事務所 (じむしょ) - kantor
+受付 (うけつけ) - resepsionis
+製品 (せいひん) - produk / barang buatan
+機械 (きかい) - mesin
+道具 (どうぐ) - peralatan
+趣味 (しゅみ) - hobi
+特徴 (tokuchou) - ciri khas / keunikan
+理由 (りゆう) - alasan
+飛ぶ (とぶ) - terbang / melompat
+目的 (もくてき) - tujuan
+原因 (げんいん) - penyebab
+経験 (けいけん) - pengalaman
+親友 (しんゆう) - sahabat karib
+両親 (りょうしん) - kedua orang tua
+大人 (おとな) - orang dewasa
+赤ちゃん (あかちゃん) - bayi
+男性 (だんせい) - laki-laki
+女性 (じょせい) - perempuan
+歌手 (かしゅ) - penyanyi
+楽しむ (たのしむ) - menikmati
+新聞 (しんぶん) - koran
+広告 (こうこく) - iklan
+ニュース (ニュース) - berita
+地震 (じしん) - gempa bumi
+台風 (たいふう) - angin topan
+事件 (じけん) - kasus / insiden
+戦争 (せんそう) - perang
+平和 (へいわ) - perdamaian
+自由 (じゆう) - kebebasan
+責任 (せきにん) - tanggung jawab
+住む (すむ) - tinggal / bermukim
+協力 (きょうりょく) - kerja sama
+成功 (せいこう) - kesuksesan / keberhasilan
+グループ (グループ) - kelompok / grup
+コピー (コピー) - fotokopi / salinan
+ゴミ (ゴミ) - sampah
+米 (こめ) - beras / padi
+坂 (さか) - lereng / jalan menanjak
+茶道 (さどう) - upacara minum teh
+砂糖 (さとう) - gula
+塩 (しお) - garam
+休む (やすむ) - beristirahat / libur
+市役所 (しやくしょ) - balai kota / kantor kelurahan
+社交 (しゃこう) - hubungan sosial / pertemanan
+シャワー (シャワー) - pancuran air / shower
+小説 (しょうせつ) - novel
+将来 (しょうらい) - masa depan
+食料 (しょくりょう) - persediaan makanan / pangan
+新聞 (しんぶん) - koran / surat kabar
+寿司 (すし) - Sushi
+生活 (せいかつ) - kehidupan / keseharian
+生産 (せいさん) - produksi
+踏む (ふむ) - menginjak
+専門 (せんもん) - jurusan kuliah / keahlian khusus
+卒業 (そつぎょう) - kelulusan
+祖母 (そぼ) - nenek (pihak sendiri)
+体育 (たいいく) - olahraga / pendidikan jasmani
+台所 (だいどころ) - dapur
+タクシー (タクシー) - taksi
+単語 (たんご) - kosa kata
+地下鉄 (ちかてつ) - kereta bawah tanah / MRT
+中学生 (ちゅうがくせい) - siswa SMP
+地図 (ちず) - peta
+包む (つつむ) - membungkus
+通勤 (つうきん) - pulang pergi kerja / komuting
+冷たさ (つめたさ) - kedinginan / kesejukan
+手袋 (てぶくろ) - sarung tangan
+てんぷら (てんぷら) - Tempura
+展示 (てんじ) - pameran / pajangan
+動物 (どうぶつ) - hewan / binatang
+図書館 (としょかん) - perpustakaan
+床屋 (とこや) - barbershop / pangkas rambut
+友達 (ともだち) - teman / sahabat
+泥 (どろ) - lumpur
+込む (こむ) - padat / ramai / sesak
+泥棒 (どろぼう) - pencuri / perampok
+肉 (にく) - daging
+人形 (にんぎょう) - boneka
+熱 (ねつ) - panas / demam
+年賀状 (ねんが状) - kartu ucapan tahun baru
+野原 (のはら) - padang rumput / lapangan hijau
+飲み物 (のみもの) - minuman
+漫画家 (まんがか) - komikus / pembuat komik
+作家 (さっか) - penulis / pengarang
+画家 (がか) - pelukis
+曇る (くもる) - mendung / berawan
+科学者 (かがくしゃ) - ilmuwan / peneliti sains
+政治家 (せいじか) - politikus
+弁護士 (べんごし) - pengacara
+警察官 (けいさつかん) - petugas polisi
+消防士 (しょうぼうし) - petugas pemadam kebakaran
+研究者 (けんきゅうしゃ) - peneliti
+翻訳者 (ほんやくしゃ) - penerjemah (dokumen/tulisan)
+お祖父さん (おじいさん) - kakek (orang lain)
+お祖母さん (おばあさん) - nenek (orang lain)
+ご両親 (ごりょうしん) - orang tua (orang lain)
+走る (はしる) - berlari
+お子さん (おこさん) - anak (orang lain)
+ご主人 (ごしゅじん) - suami (orang lain)
+奥さん (おくさん) - istri (orang lain)
+北東 (ほくとう) - timur laut
+北西 (ほくせい) - barat laut
+南東 (なんとう) - tenggara
+南西 (nansei) - barat daya
+中央 (ちゅうおう) - pusat / tengah
+周囲 (しゅうい) - sekeliling / lingkaran
+一週間 (いっしゅうかん) - satu minggu (durasi)
+通う (かよう) - pulang pergi (sekolah/kantor)
+乗る (のる) - naik (kendaraan)
+二週間 (にしゅうかん) - dua minggu (durasi)
+一ヶ月 (いっかげつ) - satu bulan (durasi)
+三ヶ月 (さんかげつ) - tiga bulan (durasi)
+半年 (はんねん) - setengah tahun (durasi)
+年間 (ねんかん) - selama satu tahun (durasi)
+中学校 (ちゅうがっこう) - Sekolah Menengah Pertama (SMP)
+小学校 (しょうがっこう) - Sekolah Dasar (SD)
+幼稚園 (ようちえん) - Taman Kanak-kanak (TK)
+大学院 (だいがくいん) - Pascasarjana / S2 / S3
+教科書 (きょうかしょ) - buku pelajaran / buku paket
+降る (ふる) - turun (hujan/salju)
+締め切り (しめきり) - batas waktu / deadline
+洪水 (こうずい) - banjir
+事件 (じけん) - kasus kriminal / insiden
+泥棒 (どろぼう) - pencuri / perampok
+裁判 (さいばん) - pengadilan / persidangan
+歴史 (れきし) - sejarah
+1日 (ついたち) - tanggal 1
+2日 (ふつか) - tanggal 2
+3日 (みっか) - tanggal 3
+4日 (よっか) - tanggal 4
+取る (とる) - mengambil / meraih
+5日 (いつか) - tanggal 5
+6日 (むいか) - tanggal 6
+7日 (なのか) - tanggal 7
+8日 (ようか) - tanggal 8
+9日 (ここのか) - tanggal 9
+10日 (とおか) - tanggal 10
+11日 (じゅういちにち) - tanggal 11
+12日 (じゅうににち) - tanggal 12
+13日 (じゅうさんにち) - tanggal 13
+14日 (じゅうよっか) - tanggal 14
+要る (いる) - memerlukan / butuh
+15日 (じゅうごにち) - tanggal 15
+16日 (じゅうろくにち) - tanggal 16
+17日 (じゅうしちにち) - tanggal 17
+18日 (じゅうはちにち) - tanggal 18
+19日 (じゅうくにち) - tanggal 19
+20日 (はつか) - tanggal 20
+21日 (にじゅういちにち) - tanggal 21
+22日 (にじゅうににち) - tanggal 22
+23日 (にじゅうさんにち) - tanggal 23
+24日 (にじゅうよっか) - tanggal 24
+知る (しる) - tahu / mengenal
+25日 (にじゅうごにち) - tanggal 25
+26日 (にじゅうろくにち) - tanggal 26
+27日 (にじゅうしちにち) - tanggal 27
+28日 (にじゅうはちにち) - tanggal 28
+29日 (にじゅうくにち) - tanggal 29
+30日 (さんじゅうにち) - tanggal 30
+31日 (さんじゅういちにち) - tanggal 31
+一月 (いちがつ) - Januari
+二月 (にがつ) - Februari
+三月 (さんがつ) - Maret
+勝つ (かつ) - menang
+四月 (しがつ) - April
+五月 (ごがつ) - Mei
+六月 (ろくがつ) - Juni
+七月 (しちがつ) - Juli
+八月 (はちがつ) - Agustus
+九月 (くがつ) - September
+十月 (じゅうがつ) - Oktober
+十一月 (じゅういちがつ) - November
+十二月 (じゅうにがつ) - Desember
+〜台 (〜だい) - counter untuk mesin/kendaraan
+吹く (ふく) - meniup / bertiup
+〜枚 (〜まい) - counter untuk benda tipis/lembaran
+〜冊 (〜さつ) - counter untuk buku/majalah
+〜本 (〜ほん) - counter untuk benda panjang/silinder
+〜匹 (〜ひき) - counter untuk hewan kecil (kucing, anjing dll)
+〜杯 (〜はい) - counter untuk gelas/cangkir
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+引く (ひく) - menarik / merujuk (kamus)
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+立つ (たつ) - berdiri
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+止める (とめる) - menghentikan / memarkir
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+踊る (おどる) - menari
+見つける (みつける) - menemukan
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+始める (はじめる) - memulai
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+考える (かんがえる) - berpikir
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+調べる (しらべる) - memeriksa / menyelidiki
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+続ける (つづける) - melanjutkan
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+undefined (undefined) - undefined
+立てる (たてる) - mendirikan / menyusun
+建てる (たてる) - membangun (gedung)
+決める (きめる) - memutuskan
+信じる (しんじる) - mempercayai
+知らせる (しらせる) - memberitahu
+噛む (かむ) - mengunyah / menggigit
+育てる (そだてる) - membesarkan
+負ける (まける) - kalah
+遅れる (おくれる) - terlambat
+植える (うえる) - menanam
+消える (きえる) - padam
+壊れる (こわれる) - rusak
+割れる (われる) - pecah
+折れる (おれる) - patah
+破れる (やぶれる) - robek
+汚れる (よごれる) - kotor
+選ぶ (えらぶ) - memilih
+間違える (まちがえる) - salah
+片付ける (かたづける) - membereskan
+お祝いする (おいわいする) - merayakan
+紹介する (しょうかいする) - memperkenalkan
+案内する (あんないする) - memandu
+説明する (せつめいする) - menjelaskan
+留学する (りゅうがくする) - belajar di luar negeri
+運転する (うんてんする) - mengemudi
+予約する (よやくする) - memesan
+相談する (そうだんする) - berkonsultasi
+誘う (さそう) - mengajak / mengundang
+連絡する (れんらくする) - menghubungi
+準備する (じゅんびする) - mempersiapkan
+復習する (ふくしゅうする) - mengulang
+予習する (よしゅうする) - mempersiapkan
+卒業する (そつぎょうする) - lulus
+運動する (うんどうする) - berolahraga
+心配する (しんぱいする) - khawatir
+招待する (しょうたいする) - mengundang
+諦める (あきらめる) - menyerah
+謝る (あやまる) - meminta maaf
