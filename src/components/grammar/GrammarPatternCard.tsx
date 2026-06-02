@@ -57,6 +57,12 @@ function renderFurigana(furiganaText: string, showFurigana: boolean, patternStr:
     return highlightPattern(furiganaText.replace(/\[[^\]]+\]/g, ''), patternStr);
   }
 
+  const toHiragana = (str: string) => {
+    return str.replace(/[\u30a1-\u30f6]/g, (match) => {
+      return String.fromCharCode(match.charCodeAt(0) - 0x60);
+    });
+  };
+
   const regex = /([^[\]]+)\[([^\]]+)\]/g;
   const elements: React.ReactNode[] = [];
   let lastIndex = 0;
@@ -70,13 +76,41 @@ function renderFurigana(furiganaText: string, showFurigana: boolean, patternStr:
       elements.push(<span key={`plain-${lastIndex}`}>{highlightPattern(plainText, patternStr)}</span>);
     }
 
-    const kanji = match[1];
-    const kana = match[2];
-    
+    const base = match[1];
+    const reading = match[2];
+
+    // Right-to-left alignment parser to split plain prefix from ruby base
+    let baseIdx = base.length - 1;
+    let readIdx = reading.length - 1;
+
+    while (baseIdx >= 0 && readIdx >= 0) {
+      const char = base[baseIdx];
+      const isKanji = /[一-龠々〆ヵヶ]/.test(char);
+      if (isKanji) {
+        baseIdx--;
+      } else {
+        const baseCharH = toHiragana(char);
+        const readCharH = toHiragana(reading[readIdx]);
+        if (baseCharH === readCharH) {
+          baseIdx--;
+          readIdx--;
+        } else {
+          break;
+        }
+      }
+    }
+
+    const prefix = base.substring(0, baseIdx + 1);
+    const rubyBase = base.substring(baseIdx + 1);
+
+    if (prefix) {
+      elements.push(<span key={`pref-${matchIndex}`}>{highlightPattern(prefix, patternStr)}</span>);
+    }
+
     elements.push(
       <ruby key={`ruby-${matchIndex}`} className="ruby-position mx-[1px]">
-        {highlightPattern(kanji, patternStr)}
-        <rt className="text-[10px] text-sumi select-none font-normal tracking-normal mb-0.5">{kana}</rt>
+        {highlightPattern(rubyBase, patternStr)}
+        <rt className="text-[10px] text-sumi select-none font-normal tracking-normal mb-0.5">{reading}</rt>
       </ruby>
     );
 
