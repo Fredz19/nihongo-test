@@ -50,7 +50,7 @@ const verbsCompact = [
   "楽しむ|たのしむ|tanoshimu|menikmati|Verb (Godan)|日本での生活を楽しんでいます。|にほん で の せいかつ を たのしんでいます。|Saya sedang menikmati kehidupan di Jepang.",
   "住む|すむ|sumu|tinggal / bermukim|Verb (Godan)|私はジャカルタに住んでいます。|わたし は ジャカルタ に すんでいます。|Saya tinggal di Jakarta.",
   "休む|やすむ|yasumu|beristirahat / libur|Verb (Godan)|今日は風邪で会社を休みました。|きょう は かぜ で かいしゃ を やすみました。|Hari ini saya libur kerja karena flu.",
-  "踏む|ふむ|fumu|menginjak|Verb (Godan)|電車の中で足を踏まれました。|電しゃ の なか で あし を ふまれました。|Kaki saya terinjak di dalam kereta.",
+  "踏む|ふむ|fumu|menginjak|Verb (Godan)|電車の中で足を踏まれました。|でんしゃ の なか で あし を ふまれました。|Kaki saya terinjak di dalam kereta.",
   "包む|つつむ|tsutsumu|membungkus|Verb (Godan)|プレゼントを綺麗な紙で包みました。|プレゼント を きれいな かみ で つつみました。|Saya membungkus kado dengan kertas yang indah.",
   "込む|こむ|komu|padat / ramai / sesak|Verb (Godan)|朝の電車はとても込んでいます。|あさ の でんしゃ は とても こんでいます。|Kereta pagi hari sangat padat.",
   "曇る|くもる|kumoru|mendung / berawan|Verb (Godan)|午後から空が曇ってきました。|ごご から そら が くもって きました。|Sejak siang langit mulai mendung.",
@@ -144,7 +144,7 @@ const verbsCompact = [
   "続く|つづく|tsuduku|berlanjut|Verb (Godan)|雨が何日も続いています。|あめ が なんにち も つづいています。|Hujan terus berlanjut selama beberapa hari.",
   "連れる|つれる|tsureru|membawa (orang/hewan)|Verb (Ichidan)|子供を動物園へ連れて行きます。|こども を どうぶつえん へ つれて いきます。|Membawa anak pergi ke kebun binatang.",
   "通る|とおる|tooru|melewati / melalui|Verb (Godan)|毎日この道を通って通勤します。|まいにち この みち を とおって つうきん します。|Setiap hari saya melewati jalan ini untuk pergi kerja.",
-  "お届けする|お届けする|otodokesuru|mengantarkan (sopan)|Verb (Irregular)|荷物を午後にお届けします。|にもつ を ごご に おとどけ します。|Saya akan mengantarkan paket pada siang hari.",
+  "お届けする|おとどけする|otodokesuru|mengantarkan (sopan)|Verb (Irregular)|荷物を午後にお届けします。|にもつ を ごご に おとどけ します。|Saya akan mengantarkan paket pada siang hari.",
   "泊まる|とまる|tomaru|menginap|Verb (Godan)|京都の古い旅館に泊まりました。|きょうと の ふるい りょかん に とまりました。|Saya menginap di penginapan kuno di Kyoto.",
   "取り替える|とりかえる|torikaeru|menukar / mengganti|Verb (Ichidan)|電球を取り替えました。|でんきゅう を とりかえました。|Saya mengganti bola lampunya.",
   "投げる|なげる|nageru|melempar|Verb (Ichidan)|ボールを遠くに投げてください。|ボール を とおく に なげて ください。|Tolong lempar bolanya ke tempat jauh.",
@@ -750,7 +750,7 @@ const generateThematicNouns = () => {
   });
 
   additionalThematicItems.forEach((item) => {
-    programmaticList.push(`${item.kanji}|${item.kana}|${item.romaji}|${item.meaning}|${item.type}|${item.jap}|${item.read}|${item.trans}`);
+    programmaticList.push(item);
   });
 
   return programmaticList;

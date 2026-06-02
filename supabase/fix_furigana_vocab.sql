@@ -1,0 +1,101 @@
+-- SQL Fix for Vocabulary & Examples Furigana and Encoding bugs
+-- Copy and run this script directly in the Supabase SQL Editor
+
+-- 1. Correct N5 and N4 vocabularies
+UPDATE public.vocabularies SET kana = 'あそぶ' WHERE id = 'v_n5_auto_26';
+UPDATE public.vocabularies SET kanji = '少し' WHERE id = 'v_n5_auto_118';
+UPDATE public.vocabularies SET kanji = '遅い' WHERE id = 'v_n5_auto_399';
+UPDATE public.vocabularies SET kana = 'はなび' WHERE id = 'v_n5_auto_791';
+UPDATE public.vocabularies SET kana = 'おとどけする' WHERE id = 'v_n4_auto_137';
+
+-- 2. Correct N5 and N4 example readings
+UPDATE public.vocabulary_examples SET reading = 'よぞら に きれいな はなび が あがりました。' WHERE id = 'ex_n5_auto_791';
+UPDATE public.vocabulary_examples SET reading = 'でんしゃ の なか で あし を ふまれました。' WHERE id = 'ex_n4_auto_45';
+
+-- 3. Upsert N4 thematic examples
+INSERT INTO public.vocabulary_examples (id, vocab_id, japanese, reading, translation) VALUES
+('ex_n4_auto_565', 'v_n4_auto_565', '日本のお土産を買いました。', 'にほん の おみやげ を かいました。', 'Saya membeli oleh-oleh Jepang.'),
+('ex_n4_auto_566', 'v_n4_auto_566', '京都の祇園祭りに行きました。', 'きょうと の ぎおんまつり に いきました。', 'Saya pergi ke festival Gion di Kyoto.'),
+('ex_n4_auto_567', 'v_n4_auto_567', '将来、日本で働きたいです。', 'しょうらい、にほん で はたらきたい です。', 'Di masa depan, saya ingin bekerja di Jepang.'),
+('ex_n4_auto_568', 'v_n4_auto_568', '私の大学での専門はITです。', 'わたし の だいがく で の せんもん は IT です。', 'Jurusan saya di universitas adalah IT.'),
+('ex_n4_auto_569', 'v_n4_auto_569', '温泉に入ると疲れが取れます。', 'おんせん に はいる と つかれ が とれます。', 'Mandi di pemandian air panas meredakan lelah.'),
+('ex_n4_auto_570', 'v_n4_auto_570', 'ここに新しい住所を書いてください。', 'ここ に あたらしい じゅうしょ を かいて ください。', 'Tolong tuliskan alamat baru Anda di sini.'),
+('ex_n4_auto_571', 'v_n4_auto_571', '市役所で手続きを行いました。', 'しやくしょ で てづづき を おこないました。', 'Saya mengurus prosedur administrasi di kelurahan.'),
+('ex_n4_auto_572', 'v_n4_auto_572', '落とし物を警察に届けました。', 'おとしもの を けいさつ に とどけました。', 'Saya melaporkan barang hilang ke kepolisian.'),
+('ex_n4_auto_573', 'v_n4_auto_573', '誕生日のお祝いを贈りました。', 'たんじょうび の お祝い を おくりました。', 'Saya mengirim hadiah perayaan ulang tahun.'),
+('ex_n4_auto_574', 'v_n4_auto_574', '美味しいお菓子をいただきました。', 'おいしい おかし を いただきました。', 'Saya menerima cemilan yang enak.'),
+('ex_n4_auto_575', 'v_n4_auto_575', '京都の古いお寺を参拝しました。', 'きょうと の ふるい おてら を さんぱい しました。', 'Saya berziarah ke kuil Buddha kuno di Kyoto.'),
+('ex_n4_auto_576', 'v_n4_auto_576', '神社でお参りをしました。', 'じんじゃ で おまいり を しました。', 'Saya bersembahyang di kuil Shinto.'),
+('ex_n4_auto_577', 'v_n4_auto_577', '毎週日曜日に教会に行きます。', 'まいしゅう にちようび に きょうかい に いきます。', 'Saya pergi ke gereja setiap hari Minggu.'),
+('ex_n4_auto_578', 'v_n4_auto_578', '山の空気はきれいです。', 'やま の くうき は きれい です。', 'Udara di gunung sangat bersih.'),
+('ex_n4_auto_579', 'v_n4_auto_579', '体の具合が少し悪いです。', 'からだ の ぐあい が すこし わるい です。', 'Kondisi kesehatan badan saya agak sedikit buruk.'),
+('ex_n4_auto_580', 'v_n4_auto_580', 'この薬はすぐに効果が出ます。', 'この くすり は すぐに こうか が でます。', 'Obat ini khasiatnya akan langsung terasa.'),
+('ex_n4_auto_581', 'v_n4_auto_581', '買い物の合計は三千円でした。', 'かいもの の ごうけい は さんぜんえん でした。', 'Jumlah total belanjanya adalah 3.000 yen.'),
+('ex_n4_auto_582', 'v_n4_auto_582', '東京の郊外に住んでいます。', 'とうきょう の こうがい に すんでいます。', 'Saya tinggal di pinggiran kota Tokyo.'),
+('ex_n4_auto_583', 'v_n4_auto_583', '今日の歴史の講義は面白かったです。', 'きょう の れきし の こうぎ は おもしろかった です。', 'Kuliah sejarah hari ini sangat menarik.'),
+('ex_n4_auto_584', 'v_n4_auto_584', 'この町は工業が盛んです。', 'この まち は こうぎょう が さかん です。', 'Kota ini industrinya sangat maju.'),
+('ex_n4_auto_585', 'v_n4_auto_585', '東京は交通が便利です。', 'とうきょう は こうつう が べんり です。', 'Transportasi di Tokyo sangat praktis.'),
+('ex_n4_auto_586', 'v_n4_auto_586', '試合の後半に点が入りました。', 'しあい の こうはん に てん が はいりました。', 'Gol tercipta di paruh kedua pertandingan.'),
+('ex_n4_auto_587', 'v_n4_auto_587', '私たちの誤解が解けました。', 'わたし たち の ごかい が とけました。', 'Kesalahpahaman kami telah terselesaikan.'),
+('ex_n4_auto_588', 'v_n4_auto_588', '美味しいごちそうをたくさん食べました。', 'おいしい ごちそう を たくさん たべました。', 'Saya makan banyak hidangan lezat.'),
+('ex_n4_auto_589', 'v_n4_auto_589', '川が両国の国境になっています。', 'かわ が りょうこく の こっきょう に なっています。', 'Sungai menjadi perbatasan kedua negara.'),
+('ex_n4_auto_590', 'v_n4_auto_590', '丁寧な言葉を使いましょう。', 'ていねいな ことば を つかいましょう。', 'Mari gunakan kata-kata yang sopan.'),
+('ex_n4_auto_591', 'v_n4_auto_591', 'ゴミはゴミ箱に捨ててください。', 'ゴミ は ゴミばこ に すててください。', 'Tolong buang sampah di tempat sampah.'),
+('ex_n4_auto_592', 'v_n4_auto_592', 'これが最後のチャンスです。', 'これ が さいご の チャンス です。', 'Ini adalah kesempatan terakhir.'),
+('ex_n4_auto_593', 'v_n4_auto_593', '最近、とても忙しいです。', 'さいきん、たいへん いそがしい です。', 'Akhir-akhir ini saya sangat sibuk.'),
+('ex_n4_auto_594', 'v_n4_auto_594', '最初は英語が全然話せませんでした。', 'さいしょ は えいご が ぜんぜん はなせませんでした。', 'Awalnya saya sama sekali tidak bisa berbahasa Inggris.'),
+('ex_n4_auto_595', 'v_n4_auto_595', '今日の気温は最低五度です。', 'きょう の きおん は さいてい ごど です。', 'Suhu terendah hari ini adalah lima derajat.'),
+('ex_n4_auto_596', 'v_n4_auto_596', '彼は音楽の才能があります。', 'かれ は おんがく の さいのう が あります。', 'Dia memiliki bakat di bidang musik.'),
+('ex_n4_auto_597', 'v_n4_auto_597', 'ポケットに財布が入っています。', 'ポケット に さいふ が はいっています。', 'Ada dompet di dalam saku.'),
+('ex_n4_auto_598', 'v_n4_auto_598', 'この坂を登ると公園があります。', 'この さか を のぼると こうえん が あります。', 'Ada taman jika Anda mendaki tanjakan ini.'),
+('ex_n4_auto_599', 'v_n4_auto_599', '茶道の教室に通っています。', 'さどう の きょうしつ に かよっています。', 'Saya pulang pergi ke kursus upacara minum teh.'),
+('ex_n4_auto_600', 'v_n4_auto_600', '私の夢は有名な小説家になることです。', 'わたし の ゆめ は ゆうめいな しょうせつか に なる こと です。', 'Mimpi saya adalah menjadi seorang novelis terkenal.'),
+('ex_n4_auto_601', 'v_n4_auto_601', '彼は日本のIT会社の社員です。', 'かれ は にほん の IT かいしゃ の しゃいん です。', 'Dia adalah karyawan di perusahaan IT Jepang.'),
+('ex_n4_auto_602', 'v_n4_auto_602', '店員さんがとても親切に案内してくれました。', 'てんいんさん が とても しんせつ に あんない して くれました。', 'Pegawai toko memandu saya dengan sangat ramah.'),
+('ex_n4_auto_603', 'v_n4_auto_603', '駅員に切符の買い方を聞きました。', 'えきいん に きっぷ の かいかた を ききました。', 'Saya menanyakan cara membeli tiket kepada petugas stasiun.'),
+('ex_n4_auto_604', 'v_n4_auto_604', '姉は銀行員として働いています。', 'あね は ぎんこういん として はたらいています。', 'Kakak perempuan saya bekerja sebagai pegawai bank.'),
+('ex_n4_auto_605', 'v_n4_auto_605', '郵便局で手紙とハガキを出しました。', 'ゆうびんきょく で てがみ と ハガキ を だしました。', 'Saya mengirim surat dan kartu pos di kantor pos.'),
+('ex_n4_auto_606', 'v_n4_auto_606', '郵便屋さんが手紙を届けてくれました。', 'ゆうびんやさん が てがみ を とどけて くれました。', 'Tukang pos membawakan surat untuk saya.'),
+('ex_n4_auto_607', 'v_n4_auto_607', 'このデパートの地下には食品売り場があります。', 'この デパート の ちか には しょくひん うりば が あります。', 'Ada konter makanan di lantai bawah tanah department store ini.'),
+('ex_n4_auto_608', 'v_n4_auto_608', '日本では挨拶の際にお辞儀をします。', 'にほん では あいさつ の さい に おじぎ を します。', 'Di Jepang orang membungkuk saat menyapa.'),
+('ex_n4_auto_609', 'v_n4_auto_609', 'ビジネスでは敬語を使うのが基本です。', 'ビジネス では けいご を つかう の が きほん です。', 'Menggunakan Keigo adalah hal dasar dalam bisnis.'),
+('ex_n4_auto_610', 'v_n4_auto_610', 'お湯を沸かしてカップラーメンを作ります。', 'おゆ を わかして カップ ラーメン を つくります。', 'Mendidihkan air panas lalu memasak mi instan cup.'),
+('ex_n4_auto_611', 'v_n4_auto_611', '今日は強い風が吹いています。', 'きょう は つよい かぜ が ふいています。', 'Hari ini angin kencang bertiup.'),
+('ex_n4_auto_612', 'v_n4_auto_612', '日本は地震が多い国です。', 'にほん は じしん が おおい くに です。', 'Jepang adalah negara yang sering terjadi gempa bumi.'),
+('ex_n4_auto_613', 'v_n4_auto_613', '私の趣味は写真を撮ることです。', 'わたし の しゅみ は しゃしん を とる こと です。', 'Hobi saya adalah memotret foto.'),
+('ex_n4_auto_614', 'v_n4_auto_614', '国によって生活の習慣が違います。', 'くに によって せいかつ の しゅうかん が ちがいます。', 'Kebiasaan hidup berbeda tergantung negaranya.'),
+('ex_n4_auto_615', 'v_n4_auto_615', '履歴書に新しい住所を書きます。', 'りれきしょ に あたらしい じゅうしょ を かきます。', 'Saya menulis alamat baru di CV.'),
+('ex_n4_auto_616', 'v_n4_auto_616', '今日の日本語の授業はとても面白かったです。', 'きょう の にほんご の じゅぎょう は とても おもしろかった です。', 'Kelas bahasa Jepang hari ini sangat menarik.'),
+('ex_n4_auto_617', 'v_n4_auto_617', '週末に宿題を全部終わらせました。', 'しゅうまつ に しゅくだい を ぜんぶ おわらせました。', 'Saya menyelesaikan semua PR di akhir pekan.'),
+('ex_n4_auto_618', 'v_n4_auto_618', '友達の紹介で新しいバイトを始めました。', 'ともだち の しょうかい で あたらしい バイト を はじめました。', 'Saya memulai kerja paruh waktu baru berkat rekomendasi teman.'),
+('ex_n4_auto_619', 'v_n4_auto_619', '小学校の時の友達と今でも連絡を取っています。', 'しょうがっこう の とき の ともだち と いま でも れんらく を とっています。', 'Saya masih berhubungan dengan teman SD saya hingga sekarang.'),
+('ex_n4_auto_620', 'v_n4_auto_620', '中学校の部活でバスケをしていました。', 'ちゅうがっこう の ぶかつ で バスケ を していました。', 'Saya bermain basket di ekstrakurikuler SMP.'),
+('ex_n4_auto_621', 'v_n4_auto_621', '高校を卒業したら、大学に進学したいです。', 'こうこう を そつぎょう したら、だいがく に しんがく したい です。', 'Saya ingin melanjutkan ke universitas setelah lulus SMA.'),
+('ex_n4_auto_622', 'v_n4_auto_622', '東京の大学で経済学を学んでいます。', 'とうきょう の だいがく で けいざいがく を まなんいで います。', 'Saya belajar ekonomi di universitas Tokyo.'),
+('ex_n4_auto_623', 'v_n4_auto_623', '大学院で人工知能の研究をするつもりです。', 'だいがくいん で じんこうちのう の けんきゅう を する つもり です。', 'Saya berniat meneliti kecerdasan buatan di pascasarjana.'),
+('ex_n4_auto_624', 'v_n4_auto_624', '教科書の５０ページを開いてください。', 'きょうかしょ の ごじゅう ページ を ひらいて ください。', 'Tolong buka buku pelajaran halaman 50.'),
+('ex_n4_auto_625', 'v_n4_auto_625', '大学の講義は一コマ九十分です。', 'だいがく の こうぎ は ひと コマ きゅうじゅうふん です。', 'Kuliah di universitas berdurasi 90 menit per sesi.'),
+('ex_n4_auto_626', 'v_n4_auto_626', '週末の出来事について作文を書きました。', 'しゅうまつ の できごと について さくぶん を かきました。', 'Saya menulis esai tentang kejadian di akhir pekan.'),
+('ex_n4_auto_627', 'v_n4_auto_627', '明日の試験に向けて一生懸命勉強します。', 'あした の しけん に むけて いっしょうけんめい べんきょう します。', 'Saya belajar sungguh-sungguh untuk ujian besok.'),
+('ex_n4_auto_628', 'v_n4_auto_628', '言葉の使い方が分からない時は辞書を引きます。', 'ことば の つかいかた が わからない とき は じしょ を ひきます。', 'Saat tidak tahu cara menggunakan kata, saya membuka kamus.'),
+('ex_n4_auto_629', 'v_n4_auto_629', '質問がある人は手を挙げてください。', 'しつもん が ある ひと は て を あげて ください。', 'Yang memiliki pertanyaan tolong angkat tangan.'),
+('ex_n4_auto_630', 'v_n4_auto_630', '会社の宿舎に入居することになりました。', 'かいしゃ の しゅくしゃ に にゅうきょ する こと に なりました。', 'Saya memutuskan untuk menempati asrama perusahaan.'),
+('ex_n4_auto_631', 'v_n4_auto_631', '田舎の宿屋に泊まって温泉を楽しみました。', 'いなか の やどや に とまって おんせん を たのしみました。', 'Saya menginap di penginapan desa lalu menikmati onsen.'),
+('ex_n4_auto_632', 'v_n4_auto_632', '旅行のために新しい下着を用意しました。', 'りょこう の ため に あたらしい したぎ を ようい しました。', 'Mempersiapkan pakaian dalam baru untuk perjalanan.'),
+('ex_n4_auto_633', 'v_n4_auto_633', '部屋が冷えるので上着を着てください。', 'へや が ひえる ので うわぎ を きてください。', 'Tolong kenakan jaket karena kamarnya dingin.'),
+('ex_n4_auto_634', 'v_n4_auto_634', '和食はユネスコの無形文化遺産です。', 'わしょく は ユネスコ の むけい ぶんか いさん です。', 'Kuliner Jepang adalah warisan budaya takbenda UNESCO.'),
+('ex_n4_auto_635', 'v_n4_auto_635', 'この洋食レストランのオムライスは美味しいです。', 'この ようしょく レストラン の オムライス は おいしい です。', 'Nasi omelet restoran Barat ini sangat enak.'),
+('ex_n4_auto_636', 'v_n4_auto_636', '昼食は会社の食堂でカレーを食べました。', 'ちゅうしょく は かいしゃ の しょくどう で カレー を たべました。', 'Saya makan siang kari di kantin perusahaan.'),
+('ex_n4_auto_637', 'v_n4_auto_637', '今夜の夕食は家族全員でハンバーグを食べます。', 'こんや の ゆうしょく は かぞく ぜんいん で ハンバーグ を たべます。', 'Makan malam ini semua anggota keluarga makan burger steak.'),
+('ex_n4_auto_638', 'v_n4_auto_638', '間食をしすぎると太ってしまいますよ。', 'かんしょく を しすぎる と ふとって しまいます よ。', 'Jika terlalu banyak ngemil, Anda bisa gemuk lho.'),
+('ex_n4_auto_639', 'v_n4_auto_639', '受験勉強の合間に夜食でうどんを食べました。', 'じゅけん べんきょう の あいま に やしょく で うどん を たべました。', 'Saya makan udon di sela-sela belajar ujian sebagai makan malam larut.'),
+('ex_n4_auto_640', 'v_n4_auto_640', '小学校の給食は栄養のバランスが良いです。', 'しょうがっこう の きゅうしょく は えいよう の バランス が いい です。', 'Makan siang sekolah SD seimbang nilai gizinya.'),
+('ex_n4_auto_641', 'v_n4_auto_641', '毎朝自分で弁当を作って会社に持参しています。', 'まいあさ じぶん で べんとう を つくって かいしゃ に じさん しています。', 'Setiap pagi saya membuat bento sendiri lalu membawanya ke kantor.'),
+('ex_n4_auto_642', 'v_n4_auto_642', '夕食の後、シンクで食器を洗いました。', 'ゆうしょく の あと、シンク で しょっき を あらいました。', 'Saya mencuci peralatan makan di wastafel setelah makan malam.'),
+('ex_n4_auto_643', 'v_n4_auto_643', '水道の蛇口から水が漏れています。', 'すいどう の じゃぐち から みず が もれています。', 'Air bocor dari keran air bersih.'),
+('ex_n4_auto_644', 'v_n4_auto_644', '電気代が上がったので節電しています。', 'でんきだい が あがった ので せつでん しています。', 'Saya menghemat listrik karena tagihan listrik naik.')
+ON CONFLICT (id) DO UPDATE SET
+  vocab_id = EXCLUDED.vocab_id,
+  japanese = EXCLUDED.japanese,
+  reading = EXCLUDED.reading,
+  translation = EXCLUDED.translation;

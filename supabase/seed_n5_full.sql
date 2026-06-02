@@ -26,7 +26,7 @@ INSERT INTO public.vocabularies (id, level, kanji, kana, romaji, meaning, type) 
 ('v_n5_auto_23', 'N5', '家', 'いえ', 'ie', 'house', 'Noun'),
 ('v_n5_auto_24', 'N5', '一月', 'ひとつき', 'hitotsuki', 'one month', 'Noun'),
 ('v_n5_auto_25', 'N5', '暑い', 'あつい', 'atsui', 'hot', 'Noun'),
-('v_n5_auto_26', 'N5', '遊ぶ', 'あ��ぶ', 'asobu', 'to play, to make a visit', 'Noun'),
+('v_n5_auto_26', 'N5', '遊ぶ', 'あそぶ', 'asobu', 'to play, to make a visit', 'Noun'),
 ('v_n5_auto_27', 'N5', '取る', 'とる', 'toru', 'to take something', 'Noun'),
 ('v_n5_auto_28', 'N5', '九', 'きゅう / く', 'kyū / ku', 'nine', 'Noun'),
 ('v_n5_auto_29', 'N5', '閉める', 'しめる', 'shimeru', 'to close something', 'Noun'),
@@ -118,7 +118,7 @@ INSERT INTO public.vocabularies (id, level, kanji, kana, romaji, meaning, type) 
 ('v_n5_auto_115', 'N5', NULL, 'まっすぐ', 'massugu', 'straight ahead, direct', 'Noun'),
 ('v_n5_auto_116', 'N5', '作る', 'つくる', 'tsukuru', 'to make', 'Noun'),
 ('v_n5_auto_117', 'N5', '風', 'かぜ', 'kaze', 'wind', 'Noun'),
-('v_n5_auto_118', 'N5', '少��', 'すこし', 'sukoshi', 'few', 'Noun'),
+('v_n5_auto_118', 'N5', '少し', 'すこし', 'sukoshi', 'few', 'Noun'),
 ('v_n5_auto_119', 'N5', '大学', 'だいがく', 'daigaku', 'university', 'Noun'),
 ('v_n5_auto_120', 'N5', NULL, 'シャツ', 'shatsu', 'shirt', 'Noun'),
 ('v_n5_auto_121', 'N5', '病院', 'びょういん', 'byōin', 'hospital', 'Noun'),
@@ -401,7 +401,7 @@ INSERT INTO public.vocabularies (id, level, kanji, kana, romaji, meaning, type) 
 ('v_n5_auto_396', 'N5', NULL, 'みんな', 'minna', 'everyone', 'Noun'),
 ('v_n5_auto_397', 'N5', '万', 'まん', 'man', 'ten thousand', 'Noun'),
 ('v_n5_auto_398', 'N5', '映画', 'えいが', 'eiga', 'movie', 'Noun'),
-('v_n5_auto_399', 'N5', '遅���', 'おそい', 'osoi', 'late, slow', 'Noun'),
+('v_n5_auto_399', 'N5', '遅い', 'おそい', 'osoi', 'late, slow', 'Noun'),
 ('v_n5_auto_400', 'N5', '耳', 'みみ', 'mimi', 'ear', 'Noun');
 
 INSERT INTO public.vocabularies (id, level, kanji, kana, romaji, meaning, type) VALUES
