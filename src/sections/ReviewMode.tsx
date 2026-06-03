@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import ReactMarkdown from 'react-markdown';
 import {
   ArrowLeft,
   BookOpen,
@@ -145,6 +146,16 @@ export default function ReviewMode() {
                 )}
                 <p className="text-lg leading-relaxed">{q.question}</p>
 
+                {q.imageUrl && (
+                  <div className="my-6 flex justify-center">
+                    <img 
+                      src={q.imageUrl} 
+                      alt="Pilihan Visual" 
+                      className="max-w-md w-full h-auto rounded-xl border border-gray-200 shadow-sm bg-white p-2" 
+                    />
+                  </div>
+                )}
+
                 {/* Highlight word */}
                 {q.highlight && (
                   <div className="mt-4 inline-block px-4 py-2 rounded-lg bg-indigo/5 border border-indigo/20">
@@ -202,9 +213,13 @@ export default function ReviewMode() {
               {showExplanation && (
                 <div className="space-y-4">
                   {/* Main Explanation */}
-                  <div className="p-5 rounded-lg bg-indigo/5 border border-indigo/10">
+                  <div className="p-5 rounded-lg bg-indigo/5 border border-indigo/10 prose prose-sm max-w-none">
                     <h4 className="text-sm font-semibold text-indigo mb-2">Penjelasan</h4>
-                    <p className="text-sm leading-relaxed">{q.explanation}</p>
+                    <div className="text-sm leading-relaxed whitespace-pre-wrap">
+                      <ReactMarkdown>
+                        {q.explanation}
+                      </ReactMarkdown>
+                    </div>
                   </div>
 
                   {/* Kanji Analysis */}

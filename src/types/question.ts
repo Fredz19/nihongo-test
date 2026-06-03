@@ -12,6 +12,7 @@ export interface Question {
   passage?: string;                  // Text passages for Reading section
   highlight?: string;                // Highlighted word for kanji-read type
   audioUrl?: string;                 // Phase 2: URL to Supabase Storage MP3
+  imageUrl?: string;                 // Phase 4: URL to Supabase Storage PNG for visual choices
   options: string[];
   correct: number;                   // 0-indexed
   explanation: string;

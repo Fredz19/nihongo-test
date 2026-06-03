@@ -29,6 +29,7 @@ function mapRow(row: Record<string, unknown>): Question {
     passage: row.passage ? String(row.passage) : undefined,
     highlight: row.highlight ? String(row.highlight) : undefined,
     audioUrl: row.audio_url ? String(row.audio_url) : undefined,
+    imageUrl: row.image_url ? String(row.image_url) : undefined,
     options: Array.isArray(row.options) ? row.options as string[] : JSON.parse(String(row.options)),
     correct: Number(row.correct),
     explanation: String(row.explanation),
@@ -144,7 +145,7 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
           ['Vocabulary', tmpl.vocab_count],
           ['Grammar', tmpl.grammar_count],
           ['Reading', tmpl.reading_count],
-          // Listening skipped in Phase 1 (listening_count = 0)
+          ['Listening', tmpl.listening_count],
         ];
 
         for (const [section, count] of sectionMap) {

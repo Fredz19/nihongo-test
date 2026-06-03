@@ -31,16 +31,16 @@ function ExamAudioPlayer({ src, mode, onEnded }: ExamAudioPlayerProps) {
       audioRef.current.load();
       setIsPlaying(false);
       setCurrentTime(0);
+
+      // Autoplay on source change (for both simulasi and belajar modes)
+      const playPromise = audioRef.current.play();
+      if (playPromise !== undefined) {
+        playPromise
+          .then(() => setIsPlaying(true))
+          .catch((err) => console.log("Autoplay blocked or interrupted:", err));
+      }
     }
   }, [src]);
-
-  useEffect(() => {
-    if (mode === 'simulasi' && audioRef.current) {
-      audioRef.current.play()
-        .then(() => setIsPlaying(true))
-        .catch(() => {});
-    }
-  }, [src, mode]);
 
   const togglePlay = () => {
     if (!audioRef.current || mode === 'simulasi') return;
@@ -525,6 +525,16 @@ export default function MockTest() {
             <p className="text-lg leading-relaxed" style={{ color: '#1a1a1a' }}>
               {q?.question}
             </p>
+
+            {q?.imageUrl && (
+              <div className="my-6 flex justify-center">
+                <img 
+                  src={q.imageUrl} 
+                  alt="Pilihan Visual" 
+                  className="max-w-md w-full h-auto rounded-xl border border-gray-200 shadow-sm bg-white p-2" 
+                />
+              </div>
+            )}
 
             {/* Highlight word for kanji reading questions */}
             {q?.highlight && (
