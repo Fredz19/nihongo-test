@@ -1,0 +1,367 @@
+会議|かいぎ|kaigi|rapat / pertemuan|Noun|午後に重要な会議があります。|ごごに じゅうような かいぎ が あります。|Ada rapat penting di sore hari.
+計画|けいかく|keikaku|rencana / perencanaan|Noun|新しいプロジェクトの計画を立てました。|あたらしい ぷろじぇくと の けいかく を たてました。|Saya telah membuat rencana proyek baru.
+目標|もくひょう|mokuhyou|tujuan / sasaran|Noun|今年の目標を達成するために努力しています。|ことし の もくひょう を たっせいする ために どりょく して います。|Saya berusaha keras untuk mencapai tujuan tahun ini.
+責任|せきにん|sekinin|tanggung jawab|Noun|この仕事の責任は私にあります。|この しごと の せきにん は わたし に あります。|Tanggung jawab pekerjaan ini ada pada saya.
+能力|のうりょく|nouryoku|kemampuan / kapasitas|Noun|彼女はすぐれた能力を持っています。|かのじょ は すぐれた のうりょく を もって います。|Dia memiliki kemampuan yang luar biasa.
+機会|きかい|kikai|kesempatan / peluang|Noun|このような機会はめったにありません。|この ような きかい は めったに ありません。|Kesempatan seperti ini jarang ada.
+問題|もんだい|mondai|masalah / soal|Noun|その問題を解決するために話し合いました。|その もんだい を かいけつする ために はなしあいました。|Kami berdiskusi untuk memecahkan masalah itu.
+解決|かいけつ|kaiketsu|penyelesaian / solusi|Noun|問題の解決に時間がかかりました。|もんだい の かいけつ に じかん が かかりました。|Penyelesaian masalah membutuhkan waktu.
+状況|じょうきょう|joukyou|situasi / keadaan|Noun|現在の状況を正確に把握する必要があります。|げんざい の じょうきょう を せいかく に はあく する ひつよう が あります。|Perlu memahami situasi saat ini dengan tepat.
+経験|けいけん|keiken|pengalaman|Noun|海外での経験が仕事に役立っています。|かいがい での けいけん が しごと に やくだって います。|Pengalaman di luar negeri berguna untuk pekerjaan.
+成功|せいこう|seikou|keberhasilan / sukses|Noun|このプロジェクトの成功は全員の努力のおかげです。|この ぷろじぇくと の せいこう は ぜんいん の どりょく の おかげ です。|Keberhasilan proyek ini berkat usaha semua orang.
+失敗|しっぱい|shippai|kegagalan|Noun|失敗から多くのことを学びました。|しっぱい から おおく の こと を まなびました。|Saya belajar banyak hal dari kegagalan.
+理由|りゆう|riyuu|alasan / sebab|Noun|遅刻した理由を説明してください。|ちこく した りゆう を せつめい して ください。|Tolong jelaskan alasan keterlambatan Anda.
+意見|いけん|iken|pendapat / opini|Noun|あなたの意見を聞かせてください。|あなた の いけん を きかせて ください。|Tolong ceritakan pendapat Anda.
+方法|ほうほう|houhou|metode / cara|Noun|問題を解決する方法を考えています。|もんだい を かいけつ する ほうほう を かんがえて います。|Saya sedang memikirkan cara untuk memecahkan masalah.
+結果|けっか|kekka|hasil / akibat|Noun|試験の結果は来週発表されます。|しけん の けっか は らいしゅう はっぴょう されます。|Hasil ujian akan diumumkan minggu depan.
+原因|げんいん|genin|penyebab / sebab|Noun|事故の原因を調査しています。|じこ の げんいん を ちょうさ して います。|Kami sedang menyelidiki penyebab kecelakaan.
+影響|えいきょう|eikyou|pengaruh / dampak|Noun|その決定は多くの人に影響を与えます。|その けってい は おおく の ひと に えいきょう を あたえます。|Keputusan itu memberikan dampak kepada banyak orang.
+関係|かんけい|kankei|hubungan / kaitan|Noun|二つの出来事には深い関係があります。|ふたつ の できごと に は ふかい かんけい が あります。|Ada hubungan yang dalam antara kedua kejadian itu.
+場合|ばあい|baai|kasus / situasi / keadaan|Noun|緊急の場合は救急車を呼んでください。|きんきゅう の ばあい は きゅうきゅうしゃ を よんで ください。|Dalam keadaan darurat, tolong hubungi ambulan.
+条件|じょうけん|jouken|syarat / kondisi|Noun|採用の条件として英語力が必要です。|さいよう の じょうけん として えいごりょく が ひつよう です。|Kemampuan bahasa Inggris diperlukan sebagai syarat penerimaan.
+目的|もくてき|mokuteki|tujuan / maksud|Noun|この旅行の目的は新しい文化を学ぶことです。|この りょこう の もくてき は あたらしい ぶんか を まなぶ こと です。|Tujuan perjalanan ini adalah belajar budaya baru.
+可能性|かのうせい|kanousei|kemungkinan / potensi|Noun|成功の可能性はまだあります。|せいこう の かのうせい は まだ あります。|Kemungkinan untuk berhasil masih ada.
+必要性|ひつようせい|hitsuyousei|kebutuhan / keperluan|Noun|この規則の必要性について説明します。|この きそく の ひつようせい に ついて せつめい します。|Saya akan menjelaskan tentang keperluan aturan ini.
+重要性|じゅうようせい|juuyousei|kepentingan / pentingnya|Noun|教育の重要性を子供たちに伝えたいです。|きょういく の じゅうようせい を こどもたち に つたえたい です。|Saya ingin menyampaikan pentingnya pendidikan kepada anak-anak.
+課題|かだい|kadai|tugas / masalah yang harus diselesaikan|Noun|今後の課題について議論しました。|こんご の かだい に ついて ぎろん しました。|Kami mendiskusikan tugas-tugas ke depan.
+役割|やくわり|yakuwari|peran / fungsi|Noun|チームの中での自分の役割を理解しています。|ちーむ の なか での じぶん の やくわり を りかい して います。|Saya memahami peran saya dalam tim.
+立場|たちば|tachiba|posisi / sudut pandang|Noun|相手の立場を考えて話すことが大切です。|あいて の たちば を かんがえて はなす こと が たいせつ です。|Penting untuk berbicara dengan mempertimbangkan posisi lawan bicara.
+判断|はんだん|handan|penilaian / keputusan|Noun|難しい状況での判断が求められます。|むずかしい じょうきょう での はんだん が もとめられます。|Penilaian dalam situasi sulit diperlukan.
+決定|けってい|kettei|keputusan / ketetapan|Noun|会社の重要な決定に関わりました。|かいしゃ の じゅうような けってい に かかわりました。|Saya terlibat dalam keputusan penting perusahaan.
+政策|せいさく|seisaku|kebijakan|Noun|政府は新しい経済政策を発表しました。|せいふ は あたらしい けいざい せいさく を はっぴょう しました。|Pemerintah mengumumkan kebijakan ekonomi baru.
+制度|せいど|seido|sistem / institusi|Noun|日本の教育制度は独特な特徴があります。|にほん の きょういく せいど は どくとく な とくちょう が あります。|Sistem pendidikan Jepang memiliki ciri khas yang unik.
+規則|きそく|kisoku|peraturan / aturan|Noun|学校の規則を守ることが大切です。|がっこう の きそく を まもる こと が たいせつ です。|Penting untuk mematuhi peraturan sekolah.
+基準|きじゅん|kijun|standar / tolok ukur|Noun|製品の品質基準を満たす必要があります。|せいひん の ひんしつ きじゅん を みたす ひつよう が あります。|Perlu memenuhi standar kualitas produk.
+管理|かんり|kanri|manajemen / pengelolaan|Noun|時間の管理がうまくできるようになりました。|じかん の かんり が うまく できる ように なりました。|Saya sudah bisa mengelola waktu dengan baik.
+組織|そしき|soshiki|organisasi|Noun|この組織は国際的な活動をしています。|この そしき は こくさいてき な かつどう を して います。|Organisasi ini melakukan kegiatan internasional.
+活動|かつどう|katsudou|kegiatan / aktivitas|Noun|ボランティア活動に参加しています。|ぼらんてぃあ かつどう に さんか して います。|Saya berpartisipasi dalam kegiatan sukarela.
+参加|さんか|sanka|partisipasi / keikutsertaan|Noun|このイベントへの参加をお願いします。|この いべんと へ の さんか を おねがい します。|Kami memohon keikutsertaan Anda dalam acara ini.
+協力|きょうりょく|kyouryoku|kerjasama / kolaborasi|Noun|皆さんの協力があってこそ成功できます。|みなさん の きょうりょく が あって こそ せいこう できます。|Kami bisa berhasil justru karena kerjasama semua orang.
+支援|しえん|shien|dukungan / bantuan|Noun|被災者への支援を続けています。|ひさいしゃ へ の しえん を つづけて います。|Kami terus memberikan dukungan kepada para korban bencana.
+提案|ていあん|teian|usulan / proposal|Noun|新しい提案を会議で発表しました。|あたらしい ていあん を かいぎ で はっぴょう しました。|Saya menyampaikan usulan baru dalam rapat.
+報告|ほうこく|houkoku|laporan|Noun|プロジェクトの進捗報告を提出しました。|ぷろじぇくと の しんちょく ほうこく を ていしゅつ しました。|Saya mengumpulkan laporan kemajuan proyek.
+連絡|れんらく|renraku|kontak / kabar|Noun|何かあったらすぐに連絡してください。|なにか あったら すぐ に れんらく して ください。|Tolong segera hubungi saya jika terjadi sesuatu.
+確認|かくにん|kakunin|konfirmasi / pemeriksaan|Noun|予約の確認メールが届きました。|よやく の かくにん めーる が とどきました。|Email konfirmasi pemesanan telah tiba.
+説明|せつめい|setsumei|penjelasan|Noun|担当者から詳しい説明を受けました。|たんとうしゃ から くわしい せつめい を うけました。|Saya mendapatkan penjelasan rinci dari penanggung jawab.
+交渉|こうしょう|koushou|negosiasi / perundingan|Noun|契約に向けた交渉が続いています。|けいやく に むけた こうしょう が つづいて います。|Negosiasi menuju kontrak terus berlanjut.
+交流|こうりゅう|kouryuu|pertukaran / interaksi|Noun|異文化交流を通じて視野が広がりました。|いぶんか こうりゅう を つうじて しや が ひろがりました。|Wawasan saya meluas melalui pertukaran antar budaya.
+議論|ぎろん|giron|diskusi / perdebatan|Noun|この問題については様々な議論があります。|この もんだい に ついては さまざまな ぎろん が あります。|Ada berbagai diskusi mengenai masalah ini.
+批判|ひはん|hihan|kritik / kritikan|Noun|その政策に対して多くの批判が集まりました。|その せいさく に たいして おおく の ひはん が あつまりました。|Banyak kritik terkumpul terhadap kebijakan itu.
+評価|ひょうか|hyouka|penilaian / evaluasi|Noun|従業員の年次評価を行いました。|じゅうぎょういん の ねんじ ひょうか を おこないました。|Kami melakukan penilaian tahunan karyawan.
+態度|たいど|taido|sikap / perilaku|Noun|仕事への積極的な態度が評価されました。|しごと への せっきょくてき な たいど が ひょうか されました。|Sikap aktif terhadap pekerjaan mendapat penilaian baik.
+習慣|しゅうかん|shuukan|kebiasaan|Noun|健康的な習慣を身につけることが大切です。|けんこうてき な しゅうかん を みにつける こと が たいせつ です。|Penting untuk membiasakan diri dengan kebiasaan sehat.
+文化|ぶんか|bunka|budaya|Noun|日本の文化に興味を持っています。|にほん の ぶんか に きょうみ を もって います。|Saya tertarik dengan budaya Jepang.
+伝統|でんとう|dentou|tradisi|Noun|地域の伝統を守ることが重要です。|ちいき の でんとう を まもる こと が じゅうよう です。|Menjaga tradisi daerah adalah hal yang penting.
+社会|しゃかい|shakai|masyarakat / sosial|Noun|社会の変化に対応することが求められます。|しゃかい の へんか に たいおう する こと が もとめられます。|Diperlukan kemampuan untuk beradaptasi dengan perubahan masyarakat.
+地域|ちいき|chiiki|daerah / wilayah|Noun|地域の人々と協力してイベントを開催しました。|ちいき の ひとびと と きょうりょく して いべんと を かいさい しました。|Kami menyelenggarakan acara bekerja sama dengan warga daerah.
+環境|かんきょう|kankyou|lingkungan|Noun|環境問題に取り組む企業が増えています。|かんきょう もんだい に とりくむ きぎょう が ふえて います。|Perusahaan yang menangani masalah lingkungan semakin bertambah.
+自然|しぜん|shizen|alam / alami|Noun|豊かな自然を次の世代に残したいです。|ゆたかな しぜん を つぎ の せだい に のこしたい です。|Saya ingin mewariskan alam yang kaya kepada generasi berikutnya.
+資源|しげん|shigen|sumber daya|Noun|天然資源を大切に使わなければなりません。|てんねん しげん を たいせつ に つかわなければ なりません。|Kita harus menggunakan sumber daya alam dengan hemat.
+エネルギー||enerugi|energi|Noun|再生可能エネルギーの利用が増えています。|さいせい かのう えねるぎー の りよう が ふえて います。|Penggunaan energi terbarukan semakin meningkat.
+技術|ぎじゅつ|gijutsu|teknologi / teknik|Noun|最新の技術を活用して仕事を効率化しました。|さいしん の ぎじゅつ を かつよう して しごと を こうりつか しました。|Saya meningkatkan efisiensi kerja dengan memanfaatkan teknologi terkini.
+情報|じょうほう|jouhou|informasi|Noun|正確な情報を収集することが大切です。|せいかく な じょうほう を しゅうしゅう する こと が たいせつ です。|Penting untuk mengumpulkan informasi yang akurat.
+データ||deeta|data|Noun|大量のデータを分析して傾向を調べました。|たいりょう の でーた を ぶんせき して けいこう を しらべました。|Saya menganalisis data dalam jumlah besar untuk memeriksa tren.
+システム||shisutemu|sistem|Noun|新しい管理システムを導入しました。|あたらしい かんり しすてむ を どうにゅう しました。|Kami memperkenalkan sistem manajemen baru.
+インターネット||intaanetto|internet|Noun|インターネットを使って世界中の情報が得られます。|いんたーねっと を つかって せかいじゅう の じょうほう が えられます。|Anda bisa mendapatkan informasi dari seluruh dunia menggunakan internet.
+ネットワーク||nettowa-ku|jaringan|Noun|会社のネットワークに問題が発生しました。|かいしゃ の ねっとわーく に もんだい が はっせい しました。|Terjadi masalah pada jaringan perusahaan.
+プログラム||puroguramu|program|Noun|このプログラムは多くの人に役立っています。|この ぷろぐらむ は おおく の ひと に やくだって います。|Program ini bermanfaat bagi banyak orang.
+開発|かいはつ|kaihatsu|pengembangan / pembangunan|Noun|新製品の開発に力を入れています。|しんせいひん の かいはつ に ちから を いれて います。|Kami berfokus pada pengembangan produk baru.
+研究|けんきゅう|kenkyuu|penelitian|Noun|大学で環境問題の研究をしています。|だいがく で かんきょう もんだい の けんきゅう を して います。|Saya melakukan penelitian tentang masalah lingkungan di universitas.
+調査|ちょうさ|chousa|penyelidikan / survei|Noun|市場調査の結果を分析しています。|しじょう ちょうさ の けっか を ぶんせき して います。|Saya menganalisis hasil survei pasar.
+実験|じっけん|jikken|eksperimen / percobaan|Noun|新しい薬の実験が始まりました。|あたらしい くすり の じっけん が はじまりました。|Eksperimen obat baru telah dimulai.
+発明|はつめい|hatsumei|penemuan / invensi|Noun|その発明は社会に大きな変化をもたらしました。|その はつめい は しゃかい に おおきな へんか を もたらしました。|Penemuan itu membawa perubahan besar pada masyarakat.
+発見|はっけん|hakken|penemuan / discovery|Noun|科学者が新しい物質を発見しました。|かがくしゃ が あたらしい ぶっしつ を はっけん しました。|Ilmuwan menemukan zat baru.
+理論|りろん|riron|teori|Noun|この理論を実際に証明するのは難しいです。|この りろん を じっさい に しょうめい する の は むずかしい です。|Sulit untuk membuktikan teori ini secara nyata.
+知識|ちしき|chishiki|pengetahuan|Noun|専門的な知識を身につけるために勉強しています。|せんもんてき な ちしき を みにつける ために べんきょう して います。|Saya belajar untuk memperoleh pengetahuan profesional.
+教育|きょういく|kyouiku|pendidikan|Noun|子供の教育に多くの時間を使っています。|こども の きょういく に おおく の じかん を つかって います。|Saya menggunakan banyak waktu untuk pendidikan anak.
+授業|じゅぎょう|jugyou|pelajaran / kelas|Noun|明日の授業に向けて準備をしています。|あした の じゅぎょう に むけて じゅんび を して います。|Saya sedang mempersiapkan diri untuk pelajaran besok.
+試験|しけん|shiken|ujian / tes|Noun|来月に大切な試験があります。|らいげつ に たいせつ な しけん が あります。|Ada ujian penting bulan depan.
+成績|せいせき|seiseki|nilai / prestasi|Noun|今学期の成績がとても良くなりました。|こん がっき の せいせき が とても よく なりました。|Nilai semester ini menjadi sangat baik.
+授業料|じゅぎょうりょう|jugyouryou|biaya kuliah / uang sekolah|Noun|大学の授業料が毎年上がっています。|だいがく の じゅぎょうりょう が まいとし あがって います。|Biaya kuliah terus naik setiap tahun.
+卒業|そつぎょう|sotsugyou|kelulusan|Noun|来年大学を卒業する予定です。|らいねん だいがく を そつぎょう する よてい です。|Saya berencana lulus dari universitas tahun depan.
+入学|にゅうがく|nyuugaku|penerimaan / masuk sekolah|Noun|春に大学に入学しました。|はる に だいがく に にゅうがく しました。|Saya masuk universitas pada musim semi.
+専攻|せんこう|senkou|jurusan / spesialisasi|Noun|経済学を専攻として選びました。|けいざいがく を せんこう として えらびました。|Saya memilih ekonomi sebagai jurusan.
+講義|こうぎ|kougi|kuliah / ceramah|Noun|有名な教授の講義を聞きに行きました。|ゆうめいな きょうじゅ の こうぎ を きき に いきました。|Saya pergi mendengarkan kuliah dari profesor terkenal.
+宿題|しゅくだい|shukudai|pekerjaan rumah|Noun|宿題を忘れて先生に叱られました。|しゅくだい を わすれて せんせい に しかられました。|Saya lupa mengerjakan PR dan dimarahi guru.
+図書館|としょかん|toshokan|perpustakaan|Noun|週末に図書館で勉強しています。|しゅうまつ に としょかん で べんきょう して います。|Saya belajar di perpustakaan saat akhir pekan.
+実習|じっしゅう|jisshuu|praktik lapangan / magang|Noun|看護の実習で多くのことを学びました。|かんご の じっしゅう で おおく の こと を まなびました。|Saya belajar banyak hal selama praktik keperawatan.
+奨学金|しょうがくきん|shougakukin|beasiswa|Noun|奨学金を受けて留学することができました。|しょうがくきん を うけて りゅうがく する こと が できました。|Saya bisa belajar di luar negeri berkat beasiswa.
+留学|りゅうがく|ryuugaku|studi ke luar negeri|Noun|アメリカへの留学を計画しています。|あめりか へ の りゅうがく を けいかく して います。|Saya berencana studi ke Amerika.
+学力|がくりょく|gakuryoku|kemampuan akademik|Noun|学力の向上のために毎日勉強しています。|がくりょく の こうじょう の ために まいにち べんきょう して います。|Saya belajar setiap hari untuk meningkatkan kemampuan akademik.
+職業|しょくぎょう|shokugyou|pekerjaan / profesi|Noun|将来の職業について真剣に考えています。|しょうらい の しょくぎょう に ついて しんけん に かんがえて います。|Saya serius memikirkan tentang profesi di masa depan.
+就職|しゅうしょく|shuushoku|mendapatkan pekerjaan / masuk kerja|Noun|大学卒業後にすぐ就職しました。|だいがく そつぎょうご に すぐ しゅうしょく しました。|Saya langsung bekerja setelah lulus universitas.
+転職|てんしょく|tenshoku|pindah kerja / ganti profesi|Noun|より良い条件の会社に転職しました。|より よい じょうけん の かいしゃ に てんしょく しました。|Saya pindah ke perusahaan dengan kondisi yang lebih baik.
+採用|さいよう|saiyou|penerimaan karyawan|Noun|今年の新入社員の採用が始まりました。|ことし の しんにゅうしゃいん の さいよう が はじまりました。|Penerimaan karyawan baru tahun ini telah dimulai.
+退職|たいしょく|taishoku|pengunduran diri / pensiun|Noun|長年勤めた会社を退職しました。|ながねん つとめた かいしゃ を たいしょく しました。|Saya mengundurkan diri dari perusahaan tempat saya bekerja bertahun-tahun.
+給料|きゅうりょう|kyuuryou|gaji / upah|Noun|来月から給料が上がることになりました。|らいげつ から きゅうりょう が あがる こと に なりました。|Gaji saya akan naik mulai bulan depan.
+残業|ざんぎょう|zangyou|lembur|Noun|今月は残業が多くて疲れています。|こんげつ は ざんぎょう が おおくて つかれて います。|Saya lelah karena banyak lembur bulan ini.
+休暇|きゅうか|kyuuka|liburan / cuti|Noun|夏休みに一週間の休暇を取りました。|なつやすみ に いっしゅうかん の きゅうか を とりました。|Saya mengambil cuti seminggu saat liburan musim panas.
+出張|しゅっちょう|shucchou|perjalanan dinas|Noun|来週、大阪に出張する予定です。|らいしゅう おさか に しゅっちょう する よてい です。|Saya berencana melakukan perjalanan dinas ke Osaka minggu depan.
+面接|めんせつ|mensetsu|wawancara kerja|Noun|明日、会社の面接があります。|あした かいしゃ の めんせつ が あります。|Ada wawancara kerja di perusahaan besok.
+昇進|しょうしん|shoushin|promosi jabatan|Noun|努力の結果、ついに昇進しました。|どりょく の けっか ついに しょうしん しました。|Berkat kerja keras, saya akhirnya mendapat promosi jabatan.
+部署|ぶしょ|busho|departemen / divisi|Noun|新しい部署に異動になりました。|あたらしい ぶしょ に いどう に なりました。|Saya dipindahkan ke departemen baru.
+上司|じょうし|joushi|atasan|Noun|上司に新しい企画を提案しました。|じょうし に あたらしい きかく を ていあん しました。|Saya mengusulkan rencana baru kepada atasan.
+部下|ぶか|buka|bawahan|Noun|部下の成長を見守るのが上司の役目です。|ぶか の せいちょう を みまもる の が じょうし の やくめ です。|Mengawasi pertumbuhan bawahan adalah tugas atasan.
+同僚|どうりょう|douryou|rekan kerja|Noun|同僚と一緒にプロジェクトを進めています。|どうりょう と いっしょ に ぷろじぇくと を すすめて います。|Saya mengerjakan proyek bersama rekan kerja.
+業務|ぎょうむ|gyoumu|tugas / pekerjaan (formal)|Noun|日常業務をより効率的にする方法を考えています。|にちじょう ぎょうむ を より こうりつてき に する ほうほう を かんがえて います。|Saya memikirkan cara untuk membuat pekerjaan sehari-hari lebih efisien.
+契約|けいやく|keiyaku|kontrak / perjanjian|Noun|新しい取引先と契約を結びました。|あたらしい とりひきさき と けいやく を むすびました。|Kami menandatangani kontrak dengan mitra bisnis baru.
+会社|かいしゃ|kaisha|perusahaan|Noun|彼女は大きな会社に勤めています。|かのじょ は おおきな かいしゃ に つとめて います。|Dia bekerja di perusahaan besar.
+企業|きぎょう|kigyou|perusahaan / korporasi|Noun|多国籍企業が日本市場に参入しました。|たこくせき きぎょう が にほん しじょう に さんにゅう しました。|Perusahaan multinasional memasuki pasar Jepang.
+経営|けいえい|keiei|manajemen perusahaan / pengelolaan bisnis|Noun|会社の経営が順調に進んでいます。|かいしゃ の けいえい が じゅんちょう に すすんで います。|Manajemen perusahaan berjalan lancar.
+経済|けいざい|keizai|ekonomi|Noun|世界経済の動向に注目しています。|せかい けいざい の どうこう に ちゅうもく して います。|Saya memperhatikan perkembangan ekonomi dunia.
+市場|しじょう|shijou|pasar|Noun|新興市場への進出を計画しています。|しんこう しじょう へ の しんしゅつ を けいかく して います。|Kami berencana untuk memasuki pasar berkembang.
+競争|きょうそう|kyousou|persaingan / kompetisi|Noun|激しい競争の中で生き残ることが重要です。|はげしい きょうそう の なか で いきのこる こと が じゅうよう です。|Penting untuk bertahan dalam persaingan yang ketat.
+利益|りえき|rieki|keuntungan / laba|Noun|会社の利益が前年度より増加しました。|かいしゃ の りえき が ぜんねんど より ぞうか しました。|Keuntungan perusahaan meningkat dibanding tahun sebelumnya.
+損失|そんしつ|sonshitsu|kerugian / kehilangan|Noun|今期は大きな損失が出てしまいました。|こんき は おおきな そんしつ が でて しまいました。|Kerugian besar terjadi pada periode ini.
+投資|とうし|toushi|investasi|Noun|将来のために株式投資を始めました。|しょうらい の ために かぶしき とうし を はじめました。|Saya mulai berinvestasi saham untuk masa depan.
+融資|ゆうし|yuushi|pinjaman / pembiayaan|Noun|銀行から事業資金の融資を受けました。|ぎんこう から じぎょう しきん の ゆうし を うけました。|Saya mendapatkan pinjaman dana usaha dari bank.
+税金|ぜいきん|zeikin|pajak|Noun|毎年確定申告をして税金を払っています。|まいとし かくてい しんこく を して ぜいきん を はらって います。|Saya mengajukan laporan pajak dan membayar pajak setiap tahun.
+予算|よさん|yosan|anggaran|Noun|来年度の予算計画を立てました。|らいねんど の よさん けいかく を たてました。|Kami telah menyusun rencana anggaran tahun depan.
+価格|かかく|kakaku|harga|Noun|商品の価格が大幅に値上がりしました。|しょうひん の かかく が おおはば に ねあがり しました。|Harga produk naik secara signifikan.
+物価|ぶっか|bukka|harga barang / tingkat harga|Noun|最近、物価の上昇が続いています。|さいきん ぶっか の じょうしょう が つづいて います。|Belakangan ini kenaikan harga barang terus berlanjut.
+賃金|ちんぎん|chingin|upah / gaji|Noun|最低賃金の引き上げが議論されています。|さいてい ちんぎん の ひきあげ が ぎろん されて います。|Kenaikan upah minimum sedang diperdebatkan.
+景気|けいき|keiki|kondisi ekonomi / situasi bisnis|Noun|景気が回復してきたと感じています。|けいき が かいふく して きた と かんじて います。|Saya merasa kondisi ekonomi mulai membaik.
+不況|ふきょう|fukyou|resesi / kelesuan ekonomi|Noun|長い不況から抜け出すために新政策が必要です。|ながい ふきょう から ぬけだす ために しんせいさく が ひつよう です。|Diperlukan kebijakan baru untuk keluar dari resesi panjang.
+輸出|ゆしゅつ|yushutsu|ekspor|Noun|日本の自動車輸出は世界的に有名です。|にほん の じどうしゃ ゆしゅつ は せかいてきに ゆうめい です。|Ekspor mobil Jepang terkenal di seluruh dunia.
+輸入|ゆにゅう|yunyuu|impor|Noun|食料の輸入に頼りすぎることは危険です。|しょくりょう の ゆにゅう に たよりすぎる こと は きけん です。|Terlalu bergantung pada impor pangan adalah hal yang berbahaya.
+貿易|ぼうえき|boueki|perdagangan internasional|Noun|日本はアメリカとの貿易が盛んです。|にほん は あめりか と の ぼうえき が さかん です。|Perdagangan antara Jepang dan Amerika sangat aktif.
+消費|しょうひ|shouhi|konsumsi|Noun|エネルギー消費を減らす取り組みが必要です。|えねるぎー しょうひ を へらす とりくみ が ひつよう です。|Diperlukan upaya untuk mengurangi konsumsi energi.
+生産|せいさん|seisan|produksi|Noun|工場の生産量が昨年より増えました。|こうじょう の せいさんりょう が さくねん より ふえました。|Jumlah produksi pabrik meningkat dari tahun lalu.
+需要|じゅよう|juyou|permintaan (pasar)|Noun|この製品への需要が急増しています。|この せいひん へ の じゅよう が きゅうぞう して います。|Permintaan terhadap produk ini meningkat pesat.
+供給|きょうきゅう|kyoukyuu|penawaran / pasokan|Noun|供給不足により価格が上がりました。|きょうきゅう ぶそく により かかく が あがりました。|Harga naik akibat kekurangan pasokan.
+政府|せいふ|seifu|pemerintah|Noun|政府は新しい支援策を発表しました。|せいふ は あたらしい しえんさく を はっぴょう しました。|Pemerintah mengumumkan kebijakan dukungan baru.
+政治|せいじ|seiji|politik|Noun|政治に関心を持つ若者が増えています。|せいじ に かんしん を もつ わかもの が ふえて います。|Semakin banyak anak muda yang tertarik pada politik.
+選挙|せんきょ|senkyo|pemilihan umum|Noun|今月の選挙に必ず投票に行きます。|こんげつ の せんきょ に かならず とうひょう に いきます。|Saya pasti akan pergi memilih dalam pemilu bulan ini.
+国会|こっかい|kokkai|parlemen / DPR|Noun|国会で重要な法案が審議されています。|こっかい で じゅうような ほうあん が しんぎ されて います。|Rancangan undang-undang penting sedang dibahas di parlemen.
+法律|ほうりつ|houritsu|hukum / undang-undang|Noun|法律に従って行動することが求められます。|ほうりつ に したがって こうどう する こと が もとめられます。|Diperlukan tindakan yang sesuai dengan hukum.
+条約|じょうやく|jouyaku|perjanjian / traktat|Noun|二国間で新たな条約が締結されました。|にこくかん で あらたな じょうやく が ていけつ されました。|Perjanjian baru disepakati antara dua negara.
+規制|きせい|kisei|regulasi / pembatasan|Noun|環境保護のための規制が強化されました。|かんきょうほご の ための きせい が きょうか されました。|Regulasi untuk perlindungan lingkungan diperkuat.
+権利|けんり|kenri|hak|Noun|すべての人が基本的な権利を持っています。|すべて の ひと が きほんてき な けんり を もって います。|Semua orang memiliki hak-hak dasar.
+義務|ぎむ|gimu|kewajiban|Noun|税金を納めることは国民の義務です。|ぜいきん を おさめる こと は こくみん の ぎむ です。|Membayar pajak adalah kewajiban warga negara.
+犯罪|はんざい|hanzai|kejahatan / kriminal|Noun|犯罪の増加を防ぐための対策が必要です。|はんざい の ぞうか を ふせぐ ための たいさく が ひつよう です。|Diperlukan langkah-langkah untuk mencegah meningkatnya kejahatan.
+事件|じけん|jiken|kejadian / kasus (hukum)|Noun|この事件の真相を明らかにしたいです。|この じけん の しんそう を あきらか に したい です。|Saya ingin mengungkap kebenaran kasus ini.
+裁判|さいばん|saiban|persidangan / pengadilan|Noun|裁判は公正に行われなければなりません。|さいばん は こうせい に おこなわれなければ なりません。|Persidangan harus dilakukan dengan adil.
+判決|はんけつ|hanketsu|putusan pengadilan|Noun|裁判官が有罪の判決を下しました。|さいばんかん が ゆうざい の はんけつ を くだしました。|Hakim menjatuhkan putusan bersalah.
+逮捕|たいほ|taiho|penangkapan|Noun|容疑者が警察に逮捕されました。|ようぎしゃ が けいさつ に たいほ されました。|Tersangka ditangkap oleh polisi.
+証拠|しょうこ|shouko|bukti|Noun|犯罪を証明する証拠が見つかりました。|はんざい を しょうめい する しょうこ が みつかりました。|Bukti yang membuktikan kejahatan ditemukan.
+調停|ちょうてい|choutei|mediasi / penengahan|Noun|争いの解決のために調停が行われました。|あらそい の かいけつ の ために ちょうてい が おこなわれました。|Mediasi dilakukan untuk menyelesaikan perselisihan.
+汚染|おせん|osen|pencemaran|Noun|川の水質汚染が深刻な問題になっています。|かわ の すいしつ おせん が しんこく な もんだい に なって います。|Pencemaran kualitas air sungai menjadi masalah yang serius.
+廃棄物|はいきぶつ|haikibutsu|limbah / sampah|Noun|産業廃棄物の適切な処理が求められます。|さんぎょう はいきぶつ の てきせつ な しょり が もとめられます。|Pengelolaan limbah industri yang tepat sangat diperlukan.
+温暖化|おんだんか|ondanka|pemanasan global|Noun|地球温暖化の対策は緊急の課題です。|ちきゅう おんだんか の たいさく は きんきゅう の かだい です。|Penanggulangan pemanasan global adalah tugas yang mendesak.
+気候|きこう|kikou|iklim|Noun|気候変動が農業に大きな影響を与えています。|きこう へんどう が のうぎょう に おおきな えいきょう を あたえて います。|Perubahan iklim memberikan dampak besar pada pertanian.
+排出|はいしゅつ|haishutsu|emisi / pembuangan|Noun|二酸化炭素の排出を減らすことが重要です。|にさんかたんそ の はいしゅつ を へらす こと が じゅうよう です。|Penting untuk mengurangi emisi karbon dioksida.
+再生|さいせい|saisei|daur ulang / pembaruan|Noun|資源の再生利用を積極的に進めています。|しげん の さいせい りよう を せっきょくてきに すすめて います。|Kami secara aktif mempromosikan daur ulang sumber daya.
+保護|ほご|hogo|perlindungan|Noun|絶滅危惧種の保護が必要です。|ぜつめつ きぐしゅ の ほご が ひつよう です。|Perlindungan terhadap spesies yang terancam punah sangat diperlukan.
+保存|ほぞん|hozon|pelestarian / penyimpanan|Noun|文化財の保存に力を入れています。|ぶんかざい の ほぞん に ちから を いれて います。|Kami berfokus pada pelestarian kekayaan budaya.
+災害|さいがい|saigai|bencana|Noun|地震などの自然災害に備えることが大切です。|じしん など の しぜん さいがい に そなえる こと が たいせつ です。|Penting untuk bersiap menghadapi bencana alam seperti gempa bumi.
+被害|ひがい|higai|kerugian / kerusakan (akibat bencana)|Noun|台風による被害は甚大でした。|たいふう による ひがい は じんだい でした。|Kerusakan akibat topan sangat besar.
+対策|たいさく|taisaku|tindakan penanggulangan|Noun|洪水に対する防災対策を強化しました。|こうずい に たいする ぼうさい たいさく を きょうか しました。|Kami memperkuat langkah-langkah penanggulangan bencana banjir.
+復興|ふっこう|fukkou|pemulihan / rekonstruksi|Noun|震災後の復興に多くの人が協力しました。|しんさいご の ふっこう に おおく の ひと が きょうりょく しました。|Banyak orang bekerjasama dalam pemulihan pasca gempa.
+医療|いりょう|iryou|medis / pelayanan kesehatan|Noun|地方の医療体制を改善する必要があります。|ちほう の いりょう たいせい を かいぜん する ひつよう が あります。|Perlu meningkatkan sistem pelayanan medis di daerah.
+健康|けんこう|kenkou|kesehatan|Noun|健康を維持するために定期的に運動しています。|けんこう を いじ する ために ていきてきに うんどう して います。|Saya berolahraga secara teratur untuk menjaga kesehatan.
+病気|びょうき|byouki|penyakit / sakit|Noun|病気の予防のためにワクチンを接種しました。|びょうき の よぼう の ために わくちん を せっしゅ しました。|Saya divaksinasi untuk mencegah penyakit.
+治療|ちりょう|chiryou|pengobatan / perawatan medis|Noun|新しい治療法が開発されました。|あたらしい ちりょうほう が かいはつ されました。|Metode pengobatan baru telah dikembangkan.
+症状|しょうじょう|shoujou|gejala (penyakit)|Noun|風邪の症状が出始めたので病院に行きました。|かぜ の しょうじょう が ではじめたので びょういん に いきました。|Saya pergi ke rumah sakit karena gejala flu mulai muncul.
+予防|よぼう|yobou|pencegahan|Noun|病気の予防には手洗いが効果的です。|びょうき の よぼう には てあらい が こうかてき です。|Mencuci tangan efektif untuk mencegah penyakit.
+福祉|ふくし|fukushi|kesejahteraan sosial|Noun|社会福祉の充実が政府の課題です。|しゃかい ふくし の じゅうじつ が せいふ の かだい です。|Peningkatan kesejahteraan sosial adalah tugas pemerintah.
+介護|かいご|kaigo|perawatan lansia|Noun|高齢化社会では介護の問題が深刻です。|こうれいか しゃかい では かいご の もんだい が しんこく です。|Masalah perawatan lansia sangat serius dalam masyarakat yang menua.
+保険|ほけん|hoken|asuransi|Noun|健康保険に加入していますか。|けんこう ほけん に かにゅう して います か。|Apakah Anda terdaftar dalam asuransi kesehatan?
+年金|ねんきん|nenkin|dana pensiun|Noun|将来のために年金を積み立てています。|しょうらい の ために ねんきん を つみたてて います。|Saya menabung dana pensiun untuk masa depan.
+人口|じんこう|jinkou|populasi / jumlah penduduk|Noun|日本の人口は減少傾向にあります。|にほん の じんこう は げんしょう けいこう に あります。|Populasi Jepang cenderung mengalami penurunan.
+移民|いみん|imin|imigran / imigrasi|Noun|移民政策について様々な意見があります。|いみん せいさく について さまざまな いけん が あります。|Ada berbagai pendapat mengenai kebijakan imigrasi.
+差別|さべつ|sabetsu|diskriminasi|Noun|あらゆる差別をなくすことが大切です。|あらゆる さべつ を なくす こと が たいせつ です。|Penting untuk menghilangkan segala bentuk diskriminasi.
+平等|びょうどう|byoudou|kesetaraan / kesamaan|Noun|性別に関わらず平等な機会が保障されるべきです。|せいべつ に かかわらず びょうどう な きかい が ほしょう される べき です。|Kesempatan yang setara seharusnya dijamin terlepas dari jenis kelamin.
+人権|じんけん|jinken|hak asasi manusia|Noun|人権の尊重が国際社会で重視されています。|じんけん の そんちょう が こくさい しゃかい で じゅうし されて います。|Penghormatan terhadap hak asasi manusia sangat ditekankan dalam masyarakat internasional.
+少子化|しょうしか|shoushika|penurunan angka kelahiran|Noun|少子化問題は日本社会の深刻な課題です。|しょうしか もんだい は にほん しゃかい の しんこく な かだい です。|Masalah penurunan angka kelahiran adalah tantangan serius masyarakat Jepang.
+高齢化|こうれいか|koureika|penuaan penduduk|Noun|高齢化が進む中で介護の重要性が増しています。|こうれいか が すすむ なか で かいご の じゅうようせい が ましてい ます。|Pentingnya perawatan lansia meningkat seiring dengan penuaan penduduk.
+貧困|ひんこん|hinkon|kemiskinan|Noun|貧困問題の解決には社会的な支援が必要です。|ひんこん もんだい の かいけつ には しゃかいてき な しえん が ひつよう です。|Dukungan sosial diperlukan untuk mengatasi masalah kemiskinan.
+格差|かくさ|kakusa|kesenjangan|Noun|経済的な格差を縮小するための政策が必要です。|けいざいてき な かくさ を しゅくしょう する ための せいさく が ひつよう です。|Diperlukan kebijakan untuk mengurangi kesenjangan ekonomi.
+ボランティア||borantia|sukarelawan|Noun|ボランティア活動に参加して地域に貢献しました。|ぼらんてぃあ かつどう に さんか して ちいき に こうけん しました。|Saya berkontribusi pada komunitas dengan berpartisipasi dalam kegiatan sukarela.
+寄付|きふ|kifu|donasi / sumbangan|Noun|被災地への寄付を集めています。|ひさいち へ の きふ を あつめて います。|Kami mengumpulkan donasi untuk daerah bencana.
+NPO||enpieio|organisasi nirlaba|Noun|このNPOは子供の教育支援を行っています。|この えぬぴーおー は こども の きょういく しえん を おこなって います。|NPO ini melakukan dukungan pendidikan bagi anak-anak.
+リーダー||riidaa|pemimpin / leader|Noun|優れたリーダーはチームをうまくまとめます。|すぐれた りーだー は ちーむ を うまく まとめます。|Pemimpin yang baik berhasil menyatukan tim dengan baik.
+チーム||chiimu|tim|Noun|チームとして目標を達成することが大切です。|ちーむ として もくひょう を たっせい する こと が たいせつ です。|Penting untuk mencapai tujuan sebagai tim.
+プロジェクト||purojekuto|proyek|Noun|このプロジェクトは半年かけて完成しました。|この ぷろじぇくと は はんとし かけて かんせい しました。|Proyek ini selesai dalam waktu setengah tahun.
+スケジュール||sukejuuru|jadwal|Noun|来週のスケジュールを確認してください。|らいしゅう の すけじゅーる を かくにん して ください。|Tolong konfirmasi jadwal minggu depan.
+締め切り|しめきり|shimekiri|batas waktu / deadline|Noun|レポートの締め切りは明日です。|れぽーと の しめきり は あした です。|Batas waktu laporan adalah besok.
+期間|きかん|kikan|periode / jangka waktu|Noun|このプロジェクトの期間は三ヶ月です。|この ぷろじぇくと の きかん は さんかげつ です。|Periode proyek ini adalah tiga bulan.
+手順|てじゅん|tejun|prosedur / langkah-langkah|Noun|作業の手順を説明します。|さぎょう の てじゅん を せつめい します。|Saya akan menjelaskan prosedur pekerjaan.
+段階|だんかい|dankai|tahap / fase|Noun|プロジェクトは現在最終段階に入っています。|ぷろじぇくと は げんざい さいしゅう だんかい に はいって います。|Proyek saat ini telah memasuki tahap akhir.
+進行|しんこう|shinkou|kemajuan / perkembangan|Noun|計画の進行状況を確認しました。|けいかく の しんこう じょうきょう を かくにん しました。|Saya mengkonfirmasi status kemajuan rencana.
+実施|じっし|jisshi|pelaksanaan / implementasi|Noun|新しい制度の実施は来年からです。|あたらしい せいど の じっし は らいねん から です。|Pelaksanaan sistem baru dimulai dari tahun depan.
+改善|かいぜん|kaizen|perbaikan / peningkatan|Noun|業務プロセスの改善に取り組んでいます。|ぎょうむ ぷろせす の かいぜん に とりくんで います。|Saya sedang berupaya memperbaiki proses kerja.
+効率|こうりつ|kouritsu|efisiensi|Noun|業務効率を上げるためにシステムを改良しました。|ぎょうむ こうりつ を あげる ために しすてむ を かいりょう しました。|Saya memperbaiki sistem untuk meningkatkan efisiensi kerja.
+品質|ひんしつ|hinshitsu|kualitas|Noun|製品の品質管理を徹底的に行っています。|せいひん の ひんしつ かんり を てっていてきに おこなって います。|Kami melakukan kontrol kualitas produk secara menyeluruh.
+サービス||saabisu|layanan / jasa|Noun|顧客へのサービスの質を高めることが大切です。|こきゃく へ の さーびす の しつ を たかめる こと が たいせつ です。|Penting untuk meningkatkan kualitas layanan kepada pelanggan.
+顧客|こきゃく|kokyaku|pelanggan|Noun|顧客のニーズに応えることが重要です。|こきゃく の にーず に こたえる こと が じゅうよう です。|Penting untuk memenuhi kebutuhan pelanggan.
+需要|じゅよう|juyou|kebutuhan / permintaan|Noun|市場の需要を正確に把握しています。|しじょう の じゅよう を せいかく に はあく して います。|Saya memahami permintaan pasar dengan tepat.
+広告|こうこく|koukoku|iklan / reklame|Noun|新商品の広告をテレビで流しています。|しんしょうひん の こうこく を てれび で ながして います。|Kami menayangkan iklan produk baru di televisi.
+宣伝|せんでん|senden|promosi / publisitas|Noun|商品の宣伝活動に力を入れています。|しょうひん の せんでん かつどう に ちから を いれて います。|Kami berfokus pada kegiatan promosi produk.
+販売|はんばい|hanbai|penjualan|Noun|オンラインでの販売が急増しています。|おんらいん での はんばい が きゅうぞう して います。|Penjualan online meningkat pesat.
+購入|こうにゅう|kounyuu|pembelian|Noun|新しい機器の購入を検討しています。|あたらしい きき の こうにゅう を けんとう して います。|Kami sedang mempertimbangkan pembelian peralatan baru.
+交通|こうつう|koutsuu|transportasi / lalu lintas|Noun|この地域の交通機関は発達しています。|この ちいき の こうつう きかん は はったつ して います。|Transportasi umum di daerah ini sangat berkembang.
+通勤|つうきん|tsuukin|perjalanan ke tempat kerja|Noun|通勤に一時間かかります。|つうきん に いちじかん かかります。|Perjalanan ke tempat kerja membutuhkan satu jam.
+電車|でんしゃ|densha|kereta listrik|Noun|毎朝電車に乗って会社に行きます。|まいあさ でんしゃ に のって かいしゃ に いきます。|Saya naik kereta listrik setiap pagi ke kantor.
+地下鉄|ちかてつ|chikatetsu|kereta bawah tanah / metro|Noun|地下鉄を使えば渋滞を避けられます。|ちかてつ を つかえば じゅうたい を さけられます。|Anda bisa menghindari kemacetan dengan menggunakan metro.
+バス停|ばすてい|basutei|halte bus|Noun|バス停まで歩いて五分かかります。|ばすてい まで あるいて ごふん かかります。|Butuh waktu 5 menit berjalan ke halte bus.
+道路|どうろ|douro|jalan raya|Noun|この道路は毎朝渋滞が激しいです。|この どうろ は まいあさ じゅうたい が はげしい です。|Jalan ini sangat macet setiap pagi.
+港|みなと|minato|pelabuhan|Noun|この港は国際貿易の拠点です。|この みなと は こくさい ぼうえき の きょてん です。|Pelabuhan ini adalah pusat perdagangan internasional.
+空港|くうこう|kuukou|bandara|Noun|空港で友人を出迎えました。|くうこう で ゆうじん を でむかえました。|Saya menjemput teman di bandara.
+鉄道|てつどう|tetsudou|perkeretaapian|Noun|日本の鉄道は時刻表通りに運行しています。|にほん の てつどう は じこくひょう どおり に うんこう して います。|Kereta Jepang beroperasi sesuai jadwal.
+建設|けんせつ|kensetsu|konstruksi / pembangunan|Noun|新しいビルの建設が始まりました。|あたらしい びる の けんせつ が はじまりました。|Konstruksi gedung baru telah dimulai.
+施設|しせつ|shisetsu|fasilitas|Noun|公共施設の利用者が増えています。|こうきょう しせつ の りようしゃ が ふえて います。|Pengguna fasilitas publik semakin meningkat.
+設備|せつび|setubi|peralatan / fasilitas (infrastruktur)|Noun|オフィスの設備を更新しました。|おふぃす の せつび を こうしん しました。|Kami memperbarui fasilitas kantor.
+機械|きかい|kikai|mesin|Noun|工場の機械が故障してしまいました。|こうじょう の きかい が こしょう して しまいました。|Mesin pabrik mengalami kerusakan.
+道具|どうぐ|dougu|alat / perkakas|Noun|仕事に必要な道具を揃えました。|しごと に ひつよう な どうぐ を そろえました。|Saya telah melengkapi alat-alat yang diperlukan untuk bekerja.
+機能|きのう|kinou|fungsi / fitur|Noun|この機能の使い方を説明します。|この きのう の つかいかた を せつめい します。|Saya akan menjelaskan cara penggunaan fitur ini.
+操作|そうさ|sousa|operasi / pengoperasian|Noun|新しい機械の操作を覚えました。|あたらしい きかい の そうさ を おぼえました。|Saya mempelajari pengoperasian mesin baru.
+修理|しゅうり|shuuri|perbaikan / reparasi|Noun|壊れたパソコンの修理を依頼しました。|こわれた ぱそこん の しゅうり を いらい しました。|Saya meminta perbaikan komputer yang rusak.
+導入|どうにゅう|dounyuu|pengenalan / implementasi baru|Noun|新しいソフトウェアの導入を進めています。|あたらしい そふとうぇあ の どうにゅう を すすめて います。|Kami sedang memajukan implementasi perangkat lunak baru.
+通信|つうしん|tsuushin|komunikasi / telekomunikasi|Noun|国際通信のコストが下がっています。|こくさい つうしん の こすと が さがって います。|Biaya komunikasi internasional semakin turun.
+ソフトウェア||sofutouea|perangkat lunak|Noun|このソフトウェアは使い勝手がとても良いです。|この そふとうぇあ は つかいかって が とても よい です。|Perangkat lunak ini sangat mudah digunakan.
+ハードウェア||haadouea|perangkat keras|Noun|ハードウェアのアップグレードが必要です。|はーどうぇあ の あっぷぐれーど が ひつよう です。|Peningkatan perangkat keras diperlukan.
+人工知能|じんこうちのう|jinkou chinou|kecerdasan buatan / AI|Noun|人工知能の発展が社会を変えています。|じんこう ちのう の はってん が しゃかい を かえて います。|Perkembangan kecerdasan buatan sedang mengubah masyarakat.
+自動化|じどうか|jidouka|otomatisasi|Noun|生産ラインの自動化により効率が上がりました。|せいさん らいん の じどうか により こうりつ が あがりました。|Efisiensi meningkat berkat otomatisasi lini produksi.
+革新|かくしん|kakushin|inovasi / revolusi|Noun|技術革新が新しいビジネスを生み出しています。|ぎじゅつ かくしん が あたらしい びじねす を うみだして います。|Inovasi teknologi melahirkan bisnis-bisnis baru.
+変化|へんか|henka|perubahan|Noun|急速な変化に対応する力が求められます。|きゅうそく な へんか に たいおう する ちから が もとめられます。|Dibutuhkan kemampuan untuk beradaptasi dengan perubahan yang cepat.
+進歩|しんぽ|shinpo|kemajuan / perkembangan|Noun|医学の進歩により多くの病気が治るようになりました。|いがく の しんぽ により おおく の びょうき が なおる ように なりました。|Berkat kemajuan ilmu kedokteran, banyak penyakit bisa disembuhkan.
+発展|はってん|hatten|perkembangan / kemajuan|Noun|途上国の経済発展を支援しています。|とじょうこく の けいざい はってん を しえん して います。|Kami mendukung pembangunan ekonomi negara berkembang.
+向上|こうじょう|koujou|peningkatan / kemajuan|Noun|生活水準の向上のために努力しています。|せいかつ すいじゅん の こうじょう の ために どりょく して います。|Saya berusaha untuk meningkatkan standar hidup.
+解析|かいせき|kaiseki|analisis|Noun|データの解析結果を報告書にまとめました。|でーた の かいせき けっか を ほうこくしょ に まとめました。|Saya merangkum hasil analisis data dalam laporan.
+統計|とうけい|toukei|statistik|Noun|統計によると失業率は低下しています。|とうけい によると しつぎょうりつ は ていか して います。|Menurut statistik, tingkat pengangguran menurun.
+割合|わりあい|wariai|proporsi / persentase|Noun|女性管理職の割合を増やすことが目標です。|じょせい かんりしょく の わりあい を ふやす こと が もくひょう です。|Tujuan kami adalah meningkatkan proporsi manajer perempuan.
+増加|ぞうか|zouka|peningkatan / kenaikan|Noun|観光客の増加により地域が活性化しました。|かんこうきゃく の ぞうか により ちいき が かっせいか しました。|Daerah menjadi lebih hidup berkat peningkatan wisatawan.
+減少|げんしょう|genshou|penurunan / pengurangan|Noun|二酸化炭素の排出量の減少が求められます。|にさんかたんそ の はいしゅつりょう の げんしょう が もとめられます。|Pengurangan emisi karbon dioksida sangat diperlukan.
+傾向|けいこう|keikou|kecenderungan / tren|Noun|健康志向の傾向が強まっています。|けんこう しこう の けいこう が つよまって います。|Kecenderungan kesadaran kesehatan semakin menguat.
+比較|ひかく|hikaku|perbandingan|Noun|二つの方法を比較して最適なものを選びました。|ふたつ の ほうほう を ひかく して さいてき な もの を えらびました。|Saya membandingkan dua metode dan memilih yang paling optimal.
+資料|しりょう|shiryou|materi / dokumen|Noun|会議の資料を準備しました。|かいぎ の しりょう を じゅんび しました。|Saya menyiapkan materi rapat.
+文書|ぶんしょ|bunsho|dokumen / surat|Noun|重要な文書を安全に保管しています。|じゅうような ぶんしょ を あんぜん に ほかん して います。|Saya menyimpan dokumen penting dengan aman.
+記録|きろく|kiroku|catatan / rekaman|Noun|議事録として会議の内容を記録しました。|ぎじろく として かいぎ の ないよう を きろく しました。|Saya mencatat isi rapat sebagai notulensi.
+内容|ないよう|naiyou|isi / konten|Noun|メールの内容を確認してください。|めーる の ないよう を かくにん して ください。|Tolong periksa isi email.
+事例|じれい|jirei|contoh kasus / preseden|Noun|成功した事例を参考にして計画を立てました。|せいこう した じれい を さんこう に して けいかく を たてました。|Saya membuat rencana dengan mengacu pada contoh kasus yang berhasil.
+基礎|きそ|kiso|dasar / fondasi|Noun|英語の基礎を学ぶことから始めました。|えいご の きそ を まなぶ こと から はじめました。|Saya mulai dari mempelajari dasar bahasa Inggris.
+応用|おうよう|ouyou|penerapan / aplikasi|Noun|基礎知識を実際に応用することが重要です。|きそ ちしき を じっさい に おうよう する こと が じゅうよう です。|Penting untuk menerapkan pengetahuan dasar secara nyata.
+専門|せんもん|senmon|spesialisasi / keahlian|Noun|この分野の専門家に意見を聞きました。|この ぶんや の せんもんか に いけん を ききました。|Saya mendengar pendapat ahli di bidang ini.
+分野|ぶんや|bunya|bidang / area|Noun|人工知能の分野で研究をしています。|じんこう ちのう の ぶんや で けんきゅう を して います。|Saya melakukan penelitian di bidang kecerdasan buatan.
+観点|かんてん|kanten|sudut pandang / perspektif|Noun|様々な観点から問題を分析することが大切です。|さまざまな かんてん から もんだい を ぶんせき する こと が たいせつ です。|Penting untuk menganalisis masalah dari berbagai sudut pandang.
+概念|がいねん|gainen|konsep / gagasan|Noun|この新しい概念を理解するのは難しいです。|この あたらしい がいねん を りかい する の は むずかしい です。|Sulit untuk memahami konsep baru ini.
+原則|げんそく|gensoku|prinsip / aturan dasar|Noun|この組織の運営原則を守ることが大切です。|この そしき の うんえい げんそく を まもる こと が たいせつ です。|Penting untuk mematuhi prinsip operasional organisasi ini.
+規模|きぼ|kibo|skala / ukuran|Noun|このプロジェクトは大規模な計画です。|この ぷろじぇくと は だいきぼ な けいかく です。|Proyek ini adalah rencana berskala besar.
+範囲|はんい|han'i|cakupan / ruang lingkup|Noun|調査の範囲を広げることにしました。|ちょうさ の はんい を ひろげる こと に しました。|Kami memutuskan untuk memperluas cakupan penyelidikan.
+対象|たいしょう|taishou|objek / sasaran|Noun|このサービスの対象は高齢者です。|この さーびす の たいしょう は こうれいしゃ です。|Sasaran layanan ini adalah lansia.
+方針|ほうしん|houshin|arah kebijakan / panduan|Noun|会社の経営方針を全員に説明しました。|かいしゃ の けいえい ほうしん を ぜんいん に せつめい しました。|Saya menjelaskan arah kebijakan manajemen perusahaan kepada semua orang.
+戦略|せんりゃく|senryaku|strategi|Noun|競争に勝つための戦略を立てました。|きょうそう に かつ ための せんりゃく を たてました。|Kami menyusun strategi untuk memenangkan persaingan.
+実現|じつげん|jitsugen|realisasi / perwujudan|Noun|夢の実現に向けて努力し続けています。|ゆめ の じつげん に むけて どりょく し つづけて います。|Saya terus berusaha menuju terwujudnya impian.
+達成|たっせい|tassei|pencapaian|Noun|目標の達成に向けて全力を尽くしています。|もくひょう の たっせい に むけて ぜんりょく を つくして います。|Saya mencurahkan segala kemampuan untuk mencapai tujuan.
+貢献|こうけん|kouken|kontribusi / sumbangan|Noun|社会への貢献を大切にして仕事をしています。|しゃかい へ の こうけん を たいせつ に して しごと を して います。|Saya bekerja dengan mengutamakan kontribusi kepada masyarakat.
+分担|ぶんたん|buntan|pembagian tugas|Noun|チームで役割を分担して作業を進めました。|ちーむ で やくわり を ぶんたん して さぎょう を すすめました。|Kami memajukan pekerjaan dengan membagi peran dalam tim.
+共有|きょうゆう|kyouyuu|berbagi / sharing|Noun|情報の共有が業務を円滑にします。|じょうほう の きょうゆう が ぎょうむ を えんかつ に します。|Berbagi informasi membuat pekerjaan berjalan lancar.
+公共|こうきょう|koukyou|publik / umum|Noun|公共の場ではマナーを守ることが大切です。|こうきょう の ば では まなー を まもる こと が たいせつ です。|Penting untuk menjaga tata krama di tempat umum.
+財産|ざいさん|zaisan|harta / aset|Noun|家族の財産を守るために保険に入りました。|かぞく の ざいさん を まもる ために ほけん に はいりました。|Saya membeli asuransi untuk melindungi harta keluarga.
+資産|しさん|shisan|aset / kekayaan|Noun|老後に備えて資産を積み立てています。|ろうご に そなえて しさん を つみたてて います。|Saya menabung aset untuk persiapan hari tua.
+借金|しゃっきん|shakkin|hutang / pinjaman|Noun|借金を返済するために節約生活をしています。|しゃっきん を へんさい する ために せつやく せいかつ を して います。|Saya hidup hemat untuk melunasi hutang.
+返済|へんさい|hensai|pelunasan / pengembalian hutang|Noun|ローンの返済が来月で終わります。|ろーん の へんさい が らいげつ で おわります。|Pelunasan pinjaman akan selesai bulan depan.
+決算|けっさん|kessan|laporan keuangan akhir tahun|Noun|年度末の決算報告を作成しました。|ねんどまつ の けっさん ほうこく を さくせい しました。|Saya menyusun laporan keuangan akhir tahun.
+収入|しゅうにゅう|shuunyuu|pendapatan / penghasilan|Noun|副業を始めて収入が増えました。|ふくぎょう を はじめて しゅうにゅう が ふえました。|Pendapatan saya meningkat setelah mulai pekerjaan sampingan.
+支出|ししゅつ|shishutsu|pengeluaran|Noun|毎月の支出を管理してお金を節約しています。|まいつき の ししゅつ を かんり して おかね を せつやく して います。|Saya menghemat uang dengan mengatur pengeluaran setiap bulan.
+国際|こくさい|kokusai|internasional|Noun|国際的な問題に取り組む機関が必要です。|こくさいてき な もんだい に とりくむ きかん が ひつよう です。|Diperlukan lembaga yang menangani masalah internasional.
+外交|がいこう|gaikou|diplomasi|Noun|外交関係を強化することが国の利益につながります。|がいこう かんけい を きょうか する こと が くに の りえき に つながります。|Memperkuat hubungan diplomatik terhubung dengan kepentingan nasional.
+同盟|どうめい|doumei|aliansi / persekutuan|Noun|両国は軍事同盟を結んでいます。|りょうこく は ぐんじ どうめい を むすんで います。|Kedua negara telah menjalin aliansi militer.
+紛争|ふんそう|funsou|konflik / sengketa|Noun|国際的な紛争を平和的に解決する必要があります。|こくさいてき な ふんそう を へいわてきに かいけつ する ひつよう が あります。|Perlu menyelesaikan konflik internasional secara damai.
+平和|へいわ|heiwa|perdamaian|Noun|世界平和のために各国が協力しています。|せかい へいわ の ために かっこく が きょうりょく して います。|Berbagai negara bekerjasama demi perdamaian dunia.
+安全|あんぜん|anzen|keamanan / keselamatan|Noun|職場の安全を確保することが優先事項です。|しょくば の あんぜん を かくほ する こと が ゆうせん じこう です。|Memastikan keamanan tempat kerja adalah prioritas utama.
+危険|きけん|kiken|bahaya / risiko|Noun|この作業には危険が伴うので注意が必要です。|この さぎょう には きけん が ともなうので ちゅうい が ひつよう です。|Perlu berhati-hati karena pekerjaan ini disertai bahaya.
+防止|ぼうし|boushi|pencegahan|Noun|事故防止のための訓練を定期的に行っています。|じこ ぼうし の ための くんれん を ていきてきに おこなって います。|Kami rutin melakukan pelatihan untuk pencegahan kecelakaan.
+管轄|かんかつ|kankatsu|yurisdiksi / wewenang|Noun|この件は別の部署の管轄です。|この けん は べつ の ぶしょ の かんかつ です。|Urusan ini berada di bawah wewenang departemen lain.
+申請|しんせい|shinsei|permohonan / pengajuan|Noun|補助金の申請書を提出しました。|ほじょきん の しんせいしょ を ていしゅつ しました。|Saya mengumpulkan formulir permohonan subsidi.
+手続き|てつづき|tetsuzuki|prosedur / proses administratif|Noun|ビザの手続きに時間がかかりました。|びざ の てつづき に じかん が かかりました。|Prosedur visa membutuhkan waktu.
+許可|きょか|kyoka|izin / persetujuan|Noun|建設工事の許可を取得しました。|けんせつ こうじ の きょか を しゅとく しました。|Kami mendapatkan izin untuk pekerjaan konstruksi.
+承認|しょうにん|shounin|persetujuan / pengesahan|Noun|計画書の承認を上司からもらいました。|けいかくしょ の しょうにん を じょうし から もらいました。|Saya mendapatkan persetujuan proposal dari atasan.
+拒否|きょひ|kyohi|penolakan|Noun|その要求を正式に拒否しました。|その ようきゅう を せいしきに きょひ しました。|Saya secara resmi menolak permintaan tersebut.
+禁止|きんし|kinshi|larangan / pelarangan|Noun|この区域への立ち入りは禁止されています。|この くいき へ の たちいり は きんし されて います。|Memasuki area ini dilarang.
+処分|しょぶん|shobun|tindakan / sanksi|Noun|規則違反に対して厳しい処分が下されました。|きそく いはん に たいして きびしい しょぶん が くだされました。|Sanksi tegas diberikan terhadap pelanggaran aturan.
+改革|かいかく|kaikaku|reformasi|Noun|行政の改革が強く求められています。|ぎょうせい の かいかく が つよく もとめられて います。|Reformasi administrasi sangat diperlukan.
+運動|うんどう|undou|gerakan / kampanye|Noun|環境保護のための運動が広がっています。|かんきょうほご の ための うんどう が ひろがって います。|Gerakan untuk perlindungan lingkungan semakin meluas.
+主張|しゅちょう|shuchou|klaim / argumen|Noun|自分の主張を明確に伝えることが大切です。|じぶん の しゅちょう を めいかく に つたえる こと が たいせつ です。|Penting untuk menyampaikan argumen sendiri dengan jelas.
+事実|じじつ|jijitsu|fakta|Noun|事実に基づいた判断が必要です。|じじつ に もとづいた はんだん が ひつよう です。|Diperlukan penilaian yang berdasarkan fakta.
+真実|しんじつ|shinjitsu|kebenaran / ketulusan|Noun|真実を隠すことは長期的には良くありません。|しんじつ を かくす こと は ちょうきてきには よく ありません。|Menyembunyikan kebenaran tidak baik dalam jangka panjang.
+証明|しょうめい|shoumei|pembuktian / verifikasi|Noun|自分の無実を証明しなければなりません。|じぶん の むじつ を しょうめい しなければ なりません。|Saya harus membuktikan ketidakbersalahan saya.
+記事|きじ|kiji|artikel / berita|Noun|新聞の記事を参考にしてレポートを書きました。|しんぶん の きじ を さんこう に して れぽーと を かきました。|Saya menulis laporan dengan mengacu pada artikel koran.
+情報源|じょうほうげん|jouhougen|sumber informasi|Noun|信頼できる情報源から情報を集めています。|しんらい できる じょうほうげん から じょうほう を あつめて います。|Saya mengumpulkan informasi dari sumber yang dapat dipercaya.
+メディア||media|media|Noun|メディアの報道が世論に影響を与えています。|めでぃあ の ほうどう が せろん に えいきょう を あたえて います。|Pemberitaan media memberikan pengaruh pada opini publik.
+世論|せろん|seron|opini publik|Noun|この問題に対する世論が二分しています。|この もんだい に たいする せろん が にぶん して います。|Opini publik terhadap masalah ini terbagi dua.
+印象|いんしょう|inshou|kesan / impresi|Noun|第一印象が良いと信頼関係が築きやすいです。|だいいち いんしょう が よい と しんらい かんけい が きずき やすい です。|Jika kesan pertama baik, hubungan kepercayaan mudah terjalin.
+信頼|しんらい|shinrai|kepercayaan / andalan|Noun|顧客との信頼関係を築くことが重要です。|こきゃく と の しんらい かんけい を きずく こと が じゅうよう です。|Penting untuk membangun hubungan kepercayaan dengan pelanggan.
+信用|しんよう|shin'you|kepercayaan / kredit|Noun|長年の取引で信用を積み重ねてきました。|ながねん の とりひき で しんよう を つみかさねてきました。|Kami telah membangun kepercayaan melalui transaksi bertahun-tahun.
+価値|かち|kachi|nilai / harga|Noun|この経験は金銭では測れない価値があります。|この けいけん は きんせん では はかれない かち が あります。|Pengalaman ini memiliki nilai yang tidak bisa diukur dengan uang.
+品格|ひんかく|hinkaku|martabat / wibawa|Noun|社会人としての品格が求められます。|しゃかいじん として の ひんかく が もとめられます。|Martabat sebagai anggota masyarakat dewasa diperlukan.
+礼儀|れいぎ|reigi|sopan santun / etiket|Noun|礼儀正しい行動が信頼を生みます。|れいぎ ただしい こうどう が しんらい を うみます。|Perilaku yang sopan menghasilkan kepercayaan.
+挨拶|あいさつ|aisatsu|salam / sapaan|Noun|朝の挨拶は職場の雰囲気を良くします。|あさ の あいさつ は しょくば の ふんいき を よく します。|Salam pagi membuat suasana tempat kerja menjadi baik.
+感謝|かんしゃ|kansha|rasa syukur / terima kasih|Noun|サポートしてくれた全員への感謝を伝えました。|さぽーと して くれた ぜんいん へ の かんしゃ を つたえました。|Saya menyampaikan rasa terima kasih kepada semua yang mendukung.
+謝罪|しゃざい|shazai|permintaan maaf (formal)|Noun|ミスに対して誠実な謝罪が必要です。|みす に たいして せいじつ な しゃざい が ひつよう です。|Permintaan maaf yang tulus diperlukan atas kesalahan.
+不満|ふまん|fuman|ketidakpuasan / kekesalan|Noun|従業員の不満を解消するための対策を取りました。|じゅうぎょういん の ふまん を かいしょう する ための たいさく を とりました。|Kami mengambil langkah-langkah untuk mengatasi ketidakpuasan karyawan.
+要求|ようきゅう|youkyuu|permintaan / tuntutan|Noun|顧客から新しい要求が来ました。|こきゃく から あたらしい ようきゅう が きました。|Permintaan baru datang dari pelanggan.
+需要|じゅよう|juyou|kebutuhan / permintaan|Noun|この製品の需要は毎年増加しています。|この せいひん の じゅよう は まいとし ぞうか して います。|Permintaan produk ini meningkat setiap tahun.
+苦情|くじょう|kujou|keluhan / komplain|Noun|顧客からの苦情に丁寧に対応しました。|こきゃく からの くじょう に ていねい に たいおう しました。|Saya menanggapi keluhan pelanggan dengan sopan.
+不正|ふせい|fusei|kecurangan / penyimpangan|Noun|不正行為を防ぐための監査が実施されました。|ふせい こうい を ふせぐ ための かんさ が じっし されました。|Audit dilaksanakan untuk mencegah tindakan kecurangan.
+摘発|てきはつ|tekihatsu|pengungkapan / pembongkaran|Noun|腐敗行為の摘発が相次いでいます。|ふはい こうい の てきはつ が あいついで います。|Pengungkapan tindak korupsi terus terjadi berturut-turut.
+腐敗|ふはい|fuhai|korupsi / pembusukan|Noun|政府の腐敗を根絶することが求められます。|せいふ の ふはい を こんぜつ する こと が もとめられます。|Diperlukan pemberantasan korupsi pemerintah.
+正義|せいぎ|seigi|keadilan|Noun|社会の正義を実現するために活動しています。|しゃかい の せいぎ を じつげん する ために かつどう して います。|Saya beraktivitas untuk mewujudkan keadilan sosial.
+公正|こうせい|kousei|kewajaran / keadilan|Noun|公正な評価制度を構築することが目標です。|こうせい な ひょうか せいど を こうちく する こと が もくひょう です。|Tujuan kami adalah membangun sistem penilaian yang adil.
+透明性|とうめいせい|toumeisei|transparansi|Noun|政府の透明性を高めることが重要です。|せいふ の とうめいせい を たかめる こと が じゅうよう です。|Penting untuk meningkatkan transparansi pemerintah.
+責務|せきむ|sekimu|kewajiban / tugas|Noun|公務員としての責務を果たしています。|こうむいん として の せきむ を はたして います。|Saya menjalankan kewajiban sebagai pegawai negeri.
+公務員|こうむいん|koumuin|pegawai negeri / aparatur sipil|Noun|公務員は市民のために働く義務があります。|こうむいん は しみん の ために はたらく ぎむ が あります。|Pegawai negeri berkewajiban bekerja untuk masyarakat.
+行政|ぎょうせい|gyousei|administrasi pemerintahan|Noun|行政サービスの効率化が進んでいます。|ぎょうせい さーびす の こうりつか が すすんで います。|Efisiensi layanan administrasi pemerintahan terus maju.
+議会|ぎかい|gikai|dewan / lembaga legislatif|Noun|議会で重要な法案が可決されました。|ぎかい で じゅうような ほうあん が かけつ されました。|Rancangan undang-undang penting disahkan di dewan.
+委員会|いいんかい|iinkai|komite / panitia|Noun|新しい委員会が設置されました。|あたらしい いいんかい が せっち されました。|Komite baru telah dibentuk.
+審議|しんぎ|shingi|pembahasan / deliberasi|Noun|この提案は委員会で審議されています。|この ていあん は いいんかい で しんぎ されて います。|Usulan ini sedang dibahas dalam komite.
+可決|かけつ|kaketsu|pengesahan / persetujuan (voting)|Noun|予算案が議会で可決されました。|よさんあん が ぎかい で かけつ されました。|Rancangan anggaran disahkan di parlemen.
+否決|ひけつ|hiketsu|penolakan / kegagalan voting|Noun|反対多数でその法案は否決されました。|はんたい たすう で その ほうあん は ひけつ されました。|Rancangan undang-undang itu ditolak dengan suara mayoritas menentang.
+有権者|ゆうけんしゃ|yuukensha|pemilih / konstituen|Noun|有権者の意見を政治に反映させることが重要です。|ゆうけんしゃ の いけん を せいじ に はんえい させる こと が じゅうよう です。|Penting untuk merefleksikan pendapat pemilih dalam politik.
+候補者|こうほしゃ|kouhosha|kandidat / calon|Noun|選挙の候補者が演説をしています。|せんきょ の こうほしゃ が えんぜつ を して います。|Kandidat pemilu sedang berpidato.
+投票|とうひょう|touhyou|pemungutan suara / voting|Noun|選挙の投票率が低下しています。|せんきょ の とうひょうりつ が ていか して います。|Tingkat partisipasi pemilihan semakin menurun.
+党|とう|tou|partai (politik)|Noun|彼女は野党の政策を支持しています。|かのじょ は やとう の せいさく を しじ して います。|Dia mendukung kebijakan partai oposisi.
+大臣|だいじん|daijin|menteri|Noun|外務大臣が外交交渉を行いました。|がいむ だいじん が がいこう こうしょう を おこないました。|Menteri luar negeri melakukan negosiasi diplomatik.
+内閣|ないかく|naikaku|kabinet / dewan menteri|Noun|内閣が新しい政策を承認しました。|ないかく が あたらしい せいさく を しょうにん しました。|Kabinet menyetujui kebijakan baru.
+省庁|しょうちょう|shouchou|kementerian dan badan pemerintah|Noun|省庁間の連携を強化することが必要です。|しょうちょう かん の れんけい を きょうか する こと が ひつよう です。|Perlu memperkuat koordinasi antar kementerian.
+国民|こくみん|kokumin|warga negara / rakyat|Noun|国民の意思を尊重した政治が求められます。|こくみん の いし を そんちょう した せいじ が もとめられます。|Diperlukan politik yang menghormati kehendak rakyat.
+市民|しみん|shimin|warga kota / masyarakat sipil|Noun|市民の声を行政に届けることが大切です。|しみん の こえ を ぎょうせい に とどける こと が たいせつ です。|Penting untuk menyampaikan suara warga kepada pemerintahan.
+住民|じゅうみん|juumin|penduduk / warga|Noun|住民の意見を聞いてから計画を実施します。|じゅうみん の いけん を きいて から けいかく を じっし します。|Kami melaksanakan rencana setelah mendengar pendapat penduduk.
+地方自治|ちほうじち|chihou jichi|pemerintahan daerah / otonomi daerah|Noun|地方自治の強化が地域活性化につながります。|ちほう じち の きょうか が ちいき かっせいか に つながります。|Penguatan pemerintahan daerah terhubung dengan aktivasi daerah.
+予測|よそく|yosoku|prediksi / perkiraan|Noun|来年の経済成長を予測しました。|らいねん の けいざい せいちょう を よそく しました。|Saya memprediksi pertumbuhan ekonomi tahun depan.
+見通し|みとおし|mitooshi|prospek / pandangan ke depan|Noun|経済の見通しは明るくなってきました。|けいざい の みとおし は あかるく なってきました。|Prospek ekonomi semakin cerah.
+課税|かぜい|kazei|perpajakan / pengenaan pajak|Noun|新しい課税制度について説明します。|あたらしい かぜい せいど について せつめい します。|Saya akan menjelaskan tentang sistem perpajakan baru.
+補助金|ほじょきん|hojoukin|subsidi / dana bantuan|Noun|中小企業への補助金が拡充されました。|ちゅうしょう きぎょう へ の ほじょきん が かくじゅう されました。|Subsidi untuk usaha kecil dan menengah diperluas.
+助成金|じょせいきん|joseikin|hibah / dana pendukung|Noun|研究プロジェクトの助成金を獲得しました。|けんきゅう ぷろじぇくと の じょせいきん を かくとく しました。|Kami mendapatkan hibah untuk proyek penelitian.
+景観|けいかん|keikan|pemandangan / lanskap|Noun|この地区の景観を保護する条例があります。|この ちく の けいかん を ほご する じょうれい が あります。|Ada peraturan daerah yang melindungi pemandangan kawasan ini.
+土地|とち|tochi|tanah / lahan|Noun|農業用の土地を確保することが難しくなっています。|のうぎょうよう の とち を かくほ する こと が むずかしく なって います。|Semakin sulit untuk mendapatkan lahan pertanian.
+農業|のうぎょう|nougyou|pertanian|Noun|農業の担い手不足が深刻な問題です。|のうぎょう の にない て ぶそく が しんこく な もんだい です。|Kekurangan tenaga pertanian adalah masalah yang serius.
+工業|こうぎょう|kougyou|industri / perindustrian|Noun|工業地帯の発展が地域経済を支えています。|こうぎょう ちたい の はってん が ちいき けいざい を ささえて います。|Perkembangan kawasan industri mendukung ekonomi daerah.
+商業|しょうぎょう|shougyou|perdagangan / bisnis|Noun|商業地区の再開発が進んでいます。|しょうぎょう ちく の さいかいはつ が すすんで います。|Pembangunan kembali kawasan komersial terus maju.
+産業|さんぎょう|sangyou|industri / sektor industri|Noun|観光産業が地域の主要な収入源です。|かんこう さんぎょう が ちいき の しゅよう な しゅうにゅうげん です。|Industri pariwisata adalah sumber pendapatan utama daerah.
+製造|せいぞう|seizou|pembuatan / manufaktur|Noun|自動車の製造技術が向上しています。|じどうしゃ の せいぞう ぎじゅつ が こうじょう して います。|Teknologi pembuatan mobil semakin meningkat.
+輸送|ゆそう|yusou|transportasi / pengiriman barang|Noun|物流の輸送コストを削減しました。|ぶつりゅう の ゆそう こすと を さくげん しました。|Kami mengurangi biaya pengiriman barang logistik.
+流通|りゅうつう|ryuutsuu|distribusi / sirkulasi|Noun|食料品の流通システムを改善しました。|しょくりょうひん の りゅうつう しすてむ を かいぜん しました。|Kami meningkatkan sistem distribusi bahan makanan.
+加工|かこう|kakou|pengolahan / pemrosesan|Noun|食品加工の技術を学びました。|しょくひん かこう の ぎじゅつ を まなびました。|Saya mempelajari teknologi pengolahan pangan.
+廃棄|はいき|haiki|pembuangan / penghapusan|Noun|古い機器を適切に廃棄する必要があります。|ふるい きき を てきせつ に はいき する ひつよう が あります。|Perlu membuang peralatan lama dengan benar.
+循環|じゅんかん|junkan|siklus / sirkulasi|Noun|資源の循環利用を促進しています。|しげん の じゅんかん りよう を そくしん して います。|Kami mempromosikan penggunaan siklus sumber daya.
+省エネ|しょうエネ|shouene|hemat energi|Noun|省エネの取り組みが企業に広がっています。|しょうえね の とりくみ が きぎょう に ひろがって います。|Upaya hemat energi semakin meluas di perusahaan.
+代替|だいたい|daitai|alternatif / pengganti|Noun|化石燃料の代替エネルギーを開発しています。|かせき ねんりょう の だいたい えねるぎー を かいはつ して います。|Kami mengembangkan energi alternatif pengganti bahan bakar fosil.
+排気|はいき|haiki|emisi gas buang|Noun|車の排気ガスを減らす技術が注目されています。|くるま の はいき がす を へらす ぎじゅつ が ちゅうもく されて います。|Teknologi untuk mengurangi gas buang kendaraan sedang mendapat perhatian.
+地盤|じばん|jiban|fondasi tanah / basis|Noun|地盤の強化工事が行われました。|じばん の きょうか こうじ が おこなわれました。|Pekerjaan penguatan fondasi tanah dilakukan.
+水資源|みずしげん|mizu shigen|sumber daya air|Noun|水資源の保全が世界的な課題です。|みず しげん の ほぜん が せかいてきな かだい です。|Pelestarian sumber daya air adalah tantangan global.
+生態系|せいたいけい|seitaikei|ekosistem|Noun|豊かな生態系を守るための活動をしています。|ゆたかな せいたいけい を まもる ための かつどう を して います。|Kami melakukan kegiatan untuk melindungi ekosistem yang kaya.
+種|しゅ|shu|spesies|Noun|多くの種が絶滅の危機に瀕しています。|おおく の しゅ が ぜつめつ の きき に ひん して います。|Banyak spesies yang terancam punah.
+生物|せいぶつ|seibutsu|makhluk hidup / organisme|Noun|海の生物の多様性が失われつつあります。|うみ の せいぶつ の たようせい が うしなわれつつ あります。|Keanekaragaman makhluk hidup laut mulai hilang.
+植物|しょくぶつ|shokubutsu|tanaman / tumbuhan|Noun|この地域固有の植物を保護しています。|この ちいき こゆう の しょくぶつ を ほご して います。|Kami melindungi tanaman yang khas di daerah ini.
+動物|どうぶつ|doubutsu|hewan / binatang|Noun|野生動物の保護区域を設けました。|やせい どうぶつ の ほごく いき を もうけました。|Kami telah menetapkan kawasan lindung satwa liar.
+海洋|かいよう|kaiyou|kelautan / samudra|Noun|海洋汚染の問題が深刻化しています。|かいよう おせん の もんだい が しんこくか して います。|Masalah pencemaran laut semakin serius.
+河川|かせん|kasen|sungai / aliran air|Noun|河川の水質を改善するための取り組みが進んでいます。|かせん の すいしつ を かいぜん する ための とりくみ が すすんで います。|Upaya untuk meningkatkan kualitas air sungai terus maju.
+森林|しんりん|shinrin|hutan|Noun|森林の乱開発を防ぐための法律があります。|しんりん の らんかいはつ を ふせぐ ための ほうりつ が あります。|Ada undang-undang untuk mencegah pengembangan hutan yang tidak terkendali.
+砂漠|さばく|sabaku|gurun pasir|Noun|砂漠化が進む地域を支援しています。|さばくか が すすむ ちいき を しえん して います。|Kami mendukung daerah-daerah yang mengalami desertifikasi.
+洪水|こうずい|kouzui|banjir|Noun|記録的な洪水により多くの被害が出ました。|きろくてき な こうずい により おおく の ひがい が でました。|Banyak kerusakan terjadi akibat banjir yang memecahkan rekor.
+地震|じしん|jishin|gempa bumi|Noun|地震に備えた訓練を定期的に行っています。|じしん に そなえた くんれん を ていきてきに おこなって います。|Kami rutin melakukan latihan menghadapi gempa bumi.
+台風|たいふう|taifuu|topan|Noun|強い台風が九州地方に上陸しました。|つよい たいふう が きゅうしゅう ちほう に じょうりく しました。|Topan kuat mendarat di wilayah Kyushu.
+火山|かざん|kazan|gunung berapi|Noun|活火山の近くに住むにはリスクがあります。|かつかざん の ちかく に すむ には りすく が あります。|Ada risiko tinggal dekat gunung berapi aktif.
+噴火|ふんか|funka|letusan gunung berapi|Noun|火山の噴火により周辺地域に警戒が発令されました。|かざん の ふんか により しゅうへん ちいき に けいかい が はつれい されました。|Peringatan dikeluarkan untuk daerah sekitar akibat letusan gunung berapi.
+予報|よほう|yohou|prakiraan / ramalan|Noun|明日の天気予報によると雨が降るそうです。|あした の てんき よほう によると あめ が ふる そう です。|Menurut prakiraan cuaca besok, sepertinya akan hujan.

@@ -1,0 +1,300 @@
+やはり|やはり|yahari|ternyata / memang / tetap saja|Adverb|やはり彼の言ったことが正しかった。|やはり かれの いったことが ただしかった。|Ternyata apa yang dia katakan itu benar.
+なかなか|なかなか|nakanaka|cukup / lumayan / tidak mudah|Adverb|この問題はなかなか難しい。|この もんだいは なかなか むずかしい。|Soal ini cukup sulit.
+だいたい|だいたい|daitai|kira-kira / pada umumnya / kebanyakan|Adverb|宿題はだいたい終わった。|しゅくだいは だいたい おわった。|Pekerjaan rumah sudah hampir selesai.
+ほとんど|ほとんど|hotondo|hampir semua / hampir tidak|Adverb|宿題はほとんど終わった。|しゅくだいは ほとんど おわった。|Pekerjaan rumah hampir selesai.
+必ず|かならず|kanarazu|pasti / tanpa kecuali|Adverb|約束は必ず守ってください。|やくそくは かならず まもって ください。|Tolong selalu tepati janji.
+すでに|すでに|sudeni|sudah / telah|Adverb|彼はすでに帰宅した。|かれは すでに きたく した。|Dia sudah pulang ke rumah.
+たいてい|たいてい|taitei|biasanya / kebanyakan|Adverb|たいてい七時に起きます。|たいてい しちじに おきます。|Biasanya saya bangun pukul tujuh.
+ますます|ますます|masumasu|semakin / makin|Adverb|彼女の日本語はますます上手になった。|かのじょの にほんごは ますます じょうずに なった。|Bahasa Jepangnya semakin bagus.
+むしろ|むしろ|mushiro|lebih baik / justru / malah|Adverb|行くよりもむしろ家にいたい。|いくよりも むしろ いえに いたい。|Daripada pergi, lebih baik saya di rumah.
+かならずしも|かならずしも|kanarazushimo|belum tentu / tidak selalu|Adverb|金持ちが必ずしも幸せとは限らない。|かねもちが かならずしも しあわせとは かぎらない。|Orang kaya belum tentu bahagia.
+もちろん|もちろん|mochiron|tentu saja / sudah pasti|Adverb|もちろん行きますよ。|もちろん いきますよ。|Tentu saja saya pergi.
+ようやく|ようやく|youyaku|akhirnya / dengan susah payah|Adverb|ようやく試験に合格した。|ようやく しけんに ごうかく した。|Akhirnya berhasil lulus ujian.
+いよいよ|いよいよ|iyoiyo|akhirnya / semakin (mendekati)|Adverb|いよいよ明日が試験だ。|いよいよ あしたが しけんだ。|Akhirnya besok adalah hari ujian.
+なるべく|なるべく|narubeku|sebisa mungkin / sedapat mungkin|Adverb|なるべく早く来てください。|なるべく はやく きて ください。|Tolong datang secepat mungkin.
+できるだけ|できるだけ|dekirudake|sebisa mungkin / semaksimal mungkin|Adverb|できるだけ多くの本を読みたい。|できるだけ おおくの ほんを よみたい。|Saya ingin membaca buku sebanyak mungkin.
+かなり|かなり|kanari|cukup / lumayan (dalam jumlah besar)|Adverb|今日はかなり疲れた。|きょうは かなり つかれた。|Hari ini saya cukup lelah.
+ずっと|ずっと|zutto|terus-menerus / jauh lebih|Adverb|彼はずっと黙っていた。|かれは ずっと だまって いた。|Dia terus diam saja.
+まだ|まだ|mada|masih / belum|Adverb|彼女はまだ寝ている。|かのじょは まだ ねている。|Dia masih tidur.
+もう|もう|mou|sudah / lagi|Adverb|もう準備ができました。|もう じゅんびが できました。|Sudah siap.
+まず|まず|mazu|pertama-tama / untuk sementara|Adverb|まず手を洗ってから食べましょう。|まず てを あらって から たべましょう。|Mari cuci tangan dulu sebelum makan.
+それほど|それほど|sorehodo|sedemikian / begitu / tidak begitu (dengan negasi)|Adverb|それほど難しくはなかった。|それほど むずかしくは なかった。|Tidak begitu sulit.
+どうせ|どうせ|douse|toh / pada akhirnya / bagaimanapun juga|Adverb|どうせやるなら早くやろう。|どうせ やるなら はやく やろう。|Kalau mau melakukan toh, lakukan saja dengan cepat.
+せっかく|せっかく|sekkaku|dengan susah payah / untunglah|Adverb|せっかく来たのに、彼は不在だった。|せっかく きたのに、かれは ふざいだった。|Sudah susah payah datang, tapi dia tidak ada.
+いっそ|いっそ|isso|sekalian saja / lebih baik sekalian|Adverb|いっそやめてしまおう。|いっそ やめて しまおう。|Sekalian saja berhenti.
+あらかじめ|あらかじめ|arakajime|sebelumnya / lebih awal|Adverb|あらかじめ準備しておくことが大切だ。|あらかじめ じゅんびして おくことが たいせつだ。|Penting untuk mempersiapkan diri sebelumnya.
+改めて|あらためて|aratamete|sekali lagi / di lain waktu / secara resmi|Adverb|改めてお礼を申し上げます。|あらためて おれいを もうしあげます。|Saya sampaikan terima kasih sekali lagi.
+いきなり|いきなり|ikinari|tiba-tiba / mendadak|Adverb|彼はいきなり怒り出した。|かれは いきなり おこりだした。|Dia tiba-tiba marah.
+突然|とつぜん|totsuzen|tiba-tiba / mendadak|Adverb|突然雨が降り始めた。|とつぜん あめが ふりはじめた。|Tiba-tiba hujan mulai turun.
+次第に|しだいに|shidaini|secara bertahap / makin lama makin|Adverb|空が次第に明るくなってきた。|そらが しだいに あかるく なってきた。|Langit semakin lama semakin terang.
+徐々に|じょじょに|jojoni|perlahan-lahan / berangsur-angsur|Adverb|病気は徐々に回復してきた。|びょうきは じょじょに かいふくして きた。|Penyakitnya perlahan-lahan mulai pulih.
+急に|きゅうに|kyuuni|tiba-tiba / mendadak|Adverb|急に気分が悪くなった。|きゅうに きぶんが わるくなった。|Tiba-tiba saya merasa tidak enak badan.
+特に|とくに|tokuni|terutama / khususnya|Adverb|彼は特に数学が得意だ。|かれは とくに すうがくが とくいだ。|Dia terutama pandai dalam matematika.
+主に|おもに|omoni|terutama / sebagian besar|Adverb|この店は主に若者に人気がある。|この みせは おもに わかものに にんきが ある。|Toko ini terutama populer di kalangan anak muda.
+一般的に|いっぱんてきに|ippantekini|secara umum / umumnya|Adverb|一般的に日本人は礼儀正しい。|いっぱんてきに にほんじんは れいぎ ただしい。|Secara umum orang Jepang sangat sopan.
+相変わらず|あいかわらず|aikawarazu|seperti biasa / tidak berubah|Adverb|彼女は相変わらず元気だ。|かのじょは あいかわらず げんきだ。|Dia seperti biasa sehat.
+めったに|めったに|mettani|jarang sekali (dengan negasi)|Adverb|彼はめったに学校を休まない。|かれは めったに がっこうを やすまない。|Dia jarang sekali absen dari sekolah.
+たまに|たまに|tamani|kadang-kadang / sesekali|Adverb|たまには外で食べるのも悪くない。|たまには そとで たべるのも わるくない。|Sesekali makan di luar juga tidak buruk.
+ときどき|ときどき|tokidoki|kadang-kadang|Adverb|ときどき図書館で勉強する。|ときどき としょかんで べんきょうする。|Kadang-kadang saya belajar di perpustakaan.
+しばらく|しばらく|shibaraku|sebentar / untuk sementara waktu|Adverb|しばらく待ってください。|しばらく まって ください。|Tolong tunggu sebentar.
+いつでも|いつでも|itsudemo|kapan saja / selalu|Adverb|いつでも連絡してください。|いつでも れんらくして ください。|Hubungi saya kapan saja.
+どこでも|どこでも|dokodemo|di mana saja|Adverb|どこでも好きな場所で働けます。|どこでも すきな ばしょで はたらけます。|Bisa bekerja di mana saja yang disukai.
+なんでも|なんでも|nandemo|apa saja / apapun|Adverb|彼はなんでもよく食べる子だ。|かれは なんでも よく たべる こだ。|Dia anak yang mau makan apa saja.
+どうも|どうも|doumo|entah bagaimana / sepertinya / memang|Adverb|どうも体の調子が悪い。|どうも からだの ちょうしが わるい。|Entah bagaimana kondisi badan terasa tidak baik.
+どうか|どうか|douka|tolong / mohon / entah bagaimana|Adverb|どうかお許しください。|どうか おゆるしください。|Mohon maafkan saya.
+さっさと|さっさと|sassato|cepat-cepat / segera|Adverb|さっさと宿題を片付けなさい。|さっさと しゅくだいを かたづけなさい。|Cepat-cepat selesaikan pekerjaan rumahmu.
+わざわざ|わざわざ|wazawaza|sengaja / jauh-jauh|Adverb|わざわざ来てくれてありがとう。|わざわざ きてくれて ありがとう。|Terima kasih sudah jauh-jauh datang.
+わざと|わざと|wazato|dengan sengaja / sengaja-sengaja|Adverb|彼はわざと嘘をついた。|かれは わざと うそを ついた。|Dia sengaja berbohong.
+うっかり|うっかり|ukkari|tanpa sengaja / lalai / terlupa|Adverb|うっかり財布を忘れてしまった。|うっかり さいふを わすれて しまった。|Tanpa sengaja saya lupa membawa dompet.
+きちんと|きちんと|kichinto|dengan rapi / dengan benar / teratur|Adverb|部屋をきちんと片付けなさい。|へやを きちんと かたづけなさい。|Bereskan kamar dengan rapi.
+ちゃんと|ちゃんと|chanto|dengan baik / dengan benar / sungguh-sungguh|Adverb|ちゃんと約束を守ってね。|ちゃんと やくそくを まもってね。|Tolong tepati janji dengan baik ya.
+しっかり|しっかり|shikkari|dengan kuat / dengan sungguh-sungguh|Adverb|しっかり勉強して試験に備えよう。|しっかり べんきょうして しけんに そなえよう。|Mari belajar sungguh-sungguh untuk mempersiapkan ujian.
+はっきり|はっきり|hakkiri|dengan jelas / terang-terangan|Adverb|はっきり言ってください。|はっきり いってください。|Tolong katakan dengan jelas.
+すっかり|すっかり|sukkari|sepenuhnya / sama sekali / benar-benar|Adverb|風邪がすっかり治った。|かぜが すっかり なおった。|Flu sudah benar-benar sembuh.
+すっきり|すっきり|sukkiri|segar / lega / bersih|Adverb|部屋を片付けたらすっきりした。|へやを かたづけたら すっきりした。|Setelah membereskan kamar, terasa lega.
+ゆっくり|ゆっくり|yukkuri|perlahan / santai|Adverb|ゆっくり話してください。|ゆっくり はなして ください。|Tolong berbicara dengan perlahan.
+たっぷり|たっぷり|tappuri|penuh / banyak / cukup banyak|Adverb|休日にたっぷり寝た。|きゅうじつに たっぷり ねた。|Di hari libur saya tidur banyak.
+じっくり|じっくり|jikkuri|dengan seksama / dengan sabar / pelan-pelan|Adverb|じっくり考えてから決めます。|じっくり かんがえてから きめます。|Saya akan memutuskan setelah berpikir dengan seksama.
+そっと|そっと|sotto|diam-diam / pelan-pelan / dengan lembut|Adverb|赤ちゃんをそっと置いた。|あかちゃんを そっと おいた。|Saya meletakkan bayi dengan pelan-pelan.
+こっそり|こっそり|kossori|diam-diam / sembunyi-sembunyi|Adverb|彼はこっそり部屋を出て行った。|かれは こっそり へやを でていった。|Dia diam-diam keluar dari kamar.
+もともと|もともと|motomoto|dari semula / pada dasarnya / memang dari awal|Adverb|彼はもともと東京出身だ。|かれは もともと とうきょう しゅっしんだ。|Dia memang berasal dari Tokyo sejak awal.
+元々|もともと|motomoto|pada dasarnya / dari awal|Adverb|この建物はもともと学校だった。|この たてものは もともと がっこうだった。|Bangunan ini pada dasarnya adalah sekolah.
+どうやら|どうやら|douyara|sepertinya / tampaknya / kelihatannya|Adverb|どうやら彼は来ないようだ。|どうやら かれは こない ようだ。|Sepertinya dia tidak akan datang.
+どうにか|どうにか|dounika|entah bagaimana / dengan susah payah|Adverb|どうにか間に合った。|どうにか まにあった。|Entah bagaimana saya berhasil tepat waktu.
+どうにも|どうにも|dounimo|bagaimanapun juga / sama sekali tidak bisa|Adverb|どうにも解決できない問題だ。|どうにも かいけつ できない もんだいだ。|Ini adalah masalah yang bagaimanapun tidak bisa diselesaikan.
+いずれ|いずれ|izure|suatu saat nanti / pada akhirnya / mana pun|Adverb|いずれわかるときが来る。|いずれ わかる ときが くる。|Suatu saat nanti akan ada waktu untuk mengerti.
+いずれも|いずれも|izuremo|keduanya / semua / masing-masing|Adverb|いずれも重要な問題だ。|いずれも じゅうような もんだいだ。|Keduanya adalah masalah penting.
+かつて|かつて|katsute|dahulu / pernah / di masa lalu|Adverb|かつてここに大きな城があった。|かつて ここに おおきな しろが あった。|Dahulu di sini ada istana yang besar.
+いまだに|いまだに|imadani|hingga kini / sampai sekarang pun|Adverb|彼のことはいまだに忘れられない。|かれのことは いまだに わすれられない。|Hingga kini saya masih tidak bisa melupakannya.
+今さら|いまさら|imasara|sekarang ini / terlambat sudah|Adverb|今さら後悔しても遅い。|いまさら こうかいしても おそい。|Menyesal sekarang pun sudah terlambat.
+まさか|まさか|masaka|masa iya / tidak mungkin / sungguh tidak disangka|Adverb|まさかこんなことになるとは思わなかった。|まさか こんなことに なるとは おもわなかった。|Sungguh tidak disangka hal ini akan terjadi.
+もしかして|もしかして|moshikashite|mungkin saja / jangan-jangan|Adverb|もしかして彼女は怒っているのかな。|もしかして かのじょは おこっているのかな。|Jangan-jangan dia sedang marah ya.
+おそらく|おそらく|osoraku|mungkin / kemungkinan besar|Adverb|おそらく明日は雨だろう。|おそらく あしたは あめだろう。|Kemungkinan besar besok akan hujan.
+たぶん|たぶん|tabun|mungkin / barangkali|Adverb|たぶん彼は知らないと思う。|たぶん かれは しらないと おもう。|Mungkin dia tidak tahu.
+確かに|たしかに|tashikani|memang benar / tentu saja / dengan pasti|Adverb|確かに彼の言う通りだ。|たしかに かれの いうとおりだ。|Memang benar seperti yang dia katakan.
+実は|じつは|jitsuha|sebenarnya / sesungguhnya|Adverb|実は昨日から熱があった。|じつは きのうから ねつが あった。|Sebenarnya sejak kemarin sudah demam.
+実に|じつに|jitsuni|sungguh / benar-benar / betul-betul|Adverb|この映画は実に感動的だった。|この えいがは じつに かんどうてきだった。|Film ini sungguh mengharukan.
+まるで|まるで|marude|bagaikan / seolah-olah / sama sekali (dengan negasi)|Adverb|彼女はまるで天使のようだ。|かのじょは まるで てんしの ようだ。|Dia bagaikan malaikat.
+ほぼ|ほぼ|hobo|hampir / kira-kira / kurang lebih|Adverb|計画はほぼ完成した。|けいかくは ほぼ かんせいした。|Rencana hampir selesai.
+約|やく|yaku|kira-kira / sekitar / kurang lebih|Adverb|約一時間かかります。|やく いちじかん かかります。|Membutuhkan waktu sekitar satu jam.
+およそ|およそ|oyoso|kira-kira / sekitar / sama sekali (dengan negasi)|Adverb|この仕事はおよそ三日かかる。|この しごとは およそ みっかかかる。|Pekerjaan ini membutuhkan sekitar tiga hari.
+少なくとも|すくなくとも|sukunakutomo|paling sedikit / setidaknya|Adverb|少なくとも一時間は練習が必要だ。|すくなくとも いちじかんは れんしゅうが ひつようだ。|Setidaknya diperlukan latihan satu jam.
+せめて|せめて|semete|setidaknya / paling tidak|Adverb|せめて一言言ってほしかった。|せめて ひとこと いってほしかった。|Paling tidak seharusnya bilang sepatah kata.
+最も|もっとも|mottomo|paling / yang paling|Adverb|これが最も重要な問題だ。|これが もっとも じゅうような もんだいだ。|Ini adalah masalah yang paling penting.
+さらに|さらに|sarani|lebih lagi / tambah lagi / selain itu|Adverb|成績はさらに上がった。|せいせきは さらに あがった。|Nilai semakin naik lagi.
+もっと|もっと|motto|lebih / lebih lagi|Adverb|もっとゆっくり話してください。|もっと ゆっくり はなしてください。|Tolong berbicara lebih pelan.
+以外に|いがいに|igaini|di luar dugaan / ternyata / diluar ekspektasi|Adverb|試験は以外に簡単だった。|しけんは いがいに かんたんだった。|Ujian ternyata lebih mudah dari dugaan.
+意外と|いがいと|igaito|ternyata / di luar dugaan|Adverb|彼は意外と優しい人だった。|かれは いがいと やさしい ひとだった。|Ternyata dia orang yang baik hati.
+そもそも|そもそも|somosomo|pada dasarnya / sejak awal / dari sananya|Adverb|そもそもこの計画には無理があった。|そもそも この けいかくには むりが あった。|Pada dasarnya rencana ini memang tidak masuk akal.
+あくまでも|あくまでも|akumademo|sampai akhir / tetap saja / hingga habis|Adverb|彼はあくまでも無実を主張した。|かれは あくまでも むじつを しゅちょうした。|Dia tetap bersikukuh bahwa dirinya tidak bersalah.
+あいにく|あいにく|ainiku|sayang sekali / malangnya / tidak beruntung|Adverb|あいにく今日は予定がある。|あいにく きょうは よていが ある。|Sayang sekali hari ini saya ada acara.
+いわば|いわば|iwaba|boleh dikatakan / ibaratnya|Adverb|彼はいわばこのチームのリーダーだ。|かれは いわば この チームの リーダーだ。|Dia boleh dikatakan pemimpin tim ini.
+例えば|たとえば|tatoeba|misalnya / contohnya|Adverb|例えばりんごやみかんが好きです。|たとえば りんごや みかんが すきです。|Misalnya saya suka apel dan jeruk.
+つまり|つまり|tsumari|dengan kata lain / jadi / artinya|Adverb|つまり彼は来ないということだ。|つまり かれは こない ということだ。|Dengan kata lain dia tidak akan datang.
+要するに|ようするに|yousuruni|singkatnya / intinya / pokoknya|Adverb|要するに努力が足りないということだ。|ようするに どりょくが たりない ということだ。|Singkatnya, usahanya masih kurang.
+相当|そうとう|soutou|cukup / lumayan / sangat / setara|Adverb|この仕事は相当大変だった。|この しごとは そうとう たいへんだった。|Pekerjaan ini cukup berat.
+非常に|ひじょうに|hijouni|sangat / amat / luar biasa|Adverb|この問題は非常に重要だ。|この もんだいは ひじょうに じゅうようだ。|Masalah ini sangat penting.
+大変|たいへん|taihen|sangat / luar biasa / repot sekali|Adverb|彼女は大変努力家だ。|かのじょは たいへん どりょくかだ。|Dia sangat rajin bekerja keras.
+随分|ずいぶん|zuibun|sangat / cukup banyak / betul-betul|Adverb|随分久しぶりですね。|ずいぶん ひさしぶりですね。|Sudah lama sekali tidak bertemu ya.
+割と|わりと|warito|relatif / cukup / lumayan|Adverb|この仕事は割と簡単だ。|この しごとは わりと かんたんだ。|Pekerjaan ini relatif mudah.
+比較的|ひかくてきに|hikakutekini|secara relatif / relatif|Adverb|今日は比較的涼しい。|きょうは ひかくてき すずしい。|Hari ini relatif sejuk.
+次に|つぎに|tsugini|berikutnya / selanjutnya|Adverb|次に何をすればいいですか。|つぎに なにを すれば いいですか。|Selanjutnya apa yang harus dilakukan?
+あとで|あとで|atode|nanti / setelah ini|Adverb|あとで電話します。|あとで でんわします。|Saya akan menelepon nanti.
+そのうち|そのうち|sonouchi|suatu saat nanti / dalam waktu dekat|Adverb|そのうち会いに行きます。|そのうち あいに いきます。|Suatu saat nanti saya akan pergi menemuimu.
+どんどん|どんどん|dondon|semakin / terus-menerus / makin cepat|Adverb|日本語がどんどん上手になっている。|にほんごが どんどん じょうずに なっている。|Bahasa Jepang semakin lama semakin bagus.
+いっぱい|いっぱい|ippai|penuh / banyak sekali|Adverb|公園に人がいっぱいいる。|こうえんに ひとが いっぱい いる。|Di taman banyak sekali orang.
+大いに|おおいに|ooini|sangat / sepenuhnya / dengan antusias|Adverb|彼の話は大いに参考になった。|かれの はなしは おおいに さんこうに なった。|Ceritanya sangat bermanfaat sebagai referensi.
+十分に|じゅうぶんに|juubunni|dengan cukup / secara memadai|Adverb|十分に準備してから挑みましょう。|じゅうぶんに じゅんびしてから いどみましょう。|Mari persiapkan diri dengan cukup sebelum mencoba.
+存分に|ぞんぶんに|zonbunni|sepuasnya / sekenyang-kenyangnya|Adverb|休みの日は存分に休んだ。|やすみの ひは ぞんぶんに やすんだ。|Di hari libur saya istirahat sepuasnya.
+無事に|ぶじに|bujini|dengan selamat / dengan aman|Adverb|無事に試験を終えることができた。|ぶじに しけんを おえることが できた。|Bisa menyelesaikan ujian dengan selamat.
+結局|けっきょく|kekkyoku|pada akhirnya / akhirnya|Adverb|結局彼は来なかった。|けっきょく かれは こなかった。|Pada akhirnya dia tidak datang.
+とにかく|とにかく|tonikaku|bagaimanapun / pokoknya / apapun itu|Adverb|とにかく試してみよう。|とにかく ためして みよう。|Bagaimanapun, mari kita coba dulu.
+とりあえず|とりあえず|toriaezu|untuk sementara / pertama-tama|Adverb|とりあえず座ってください。|とりあえず すわってください。|Untuk sementara, silakan duduk.
+あえて|あえて|aete|dengan sengaja / berani-berani|Adverb|あえて難しい道を選んだ。|あえて むずかしい みちを えらんだ。|Dengan sengaja memilih jalan yang sulit.
+自然に|しぜんに|shizennni|secara alami / dengan sendirinya|Adverb|傷は自然に治った。|きずは しぜんに なおった。|Lukanya sembuh dengan sendirinya.
+急いで|いそいで|isoide|dengan tergesa-gesa / dengan cepat|Adverb|急いで駅に向かった。|いそいで えきに むかった。|Bergegas menuju stasiun.
+直接|ちょくせつ|chokusetsu|secara langsung / langsung|Adverb|先生に直接聞いてください。|せんせいに ちょくせつ きいてください。|Tolong tanyakan langsung ke guru.
+間接的に|かんせつてきに|kansetsutekini|secara tidak langsung|Adverb|彼は間接的に断った。|かれは かんせつてきに ことわった。|Dia menolak secara tidak langsung.
+ひとまず|ひとまず|hitomazu|untuk sementara / dulu|Adverb|ひとまず安心した。|ひとまず あんしんした。|Untuk sementara saya merasa lega.
+前もって|まえもって|maemotte|sebelumnya / terlebih dahulu|Adverb|前もって知らせてください。|まえもって しらせてください。|Tolong beritahu sebelumnya.
+本来|ほんらい|honrai|seharusnya / pada dasarnya / aslinya|Adverb|本来ならばもっと早く終わるはずだ。|ほんらい ならば もっと はやく おわるはずだ。|Seharusnya bisa selesai lebih cepat.
+正直|しょうじき|shoujiki|jujur / terus terang|Adverb|正直に言うと、少し不安だ。|しょうじきに いうと、すこし ふあんだ。|Jujur saja, saya sedikit khawatir.
+思わず|おもわず|omowazu|tanpa sengaja / tak tertahan|Adverb|おもしろくて思わず笑ってしまった。|おもしろくて おもわず わらってしまった。|Lucu sehingga tanpa sengaja tertawa.
+思い切って|おもいきって|omoikitte|dengan tekad bulat / berani-berani|Adverb|思い切って彼女に告白した。|おもいきって かのじょに こくはくした。|Dengan tekad bulat saya mengaku perasaan padanya.
+一応|いちおう|ichiou|untuk berjaga-jaga / sekadar / sekedar|Adverb|一応確認しておきます。|いちおう かくにんして おきます。|Saya akan konfirmasi dulu untuk berjaga-jaga.
+おのずと|おのずと|onozuto|dengan sendirinya / secara alami|Adverb|努力すればおのずと結果がついてくる。|どりょくすれば おのずと けっかが ついてくる。|Jika berusaha, hasilnya akan datang dengan sendirinya.
+とたんに|とたんに|totanni|seketika / begitu ... langsung|Adverb|立ち上がったとたんに頭がくらくらした。|たちあがった とたんに あたまが くらくらした。|Begitu berdiri, kepala langsung pusing.
+せいぜい|せいぜい|seizei|paling banyak / sebisa mungkin / paling-paling|Adverb|せいぜい頑張ってください。|せいぜい がんばってください。|Berusahalah semaksimal mungkin.
+もはや|もはや|mohaya|sudah / tidak lagi / kini|Adverb|もはや間に合わない。|もはや まにあわない。|Sudah tidak bisa tepat waktu lagi.
+しかも|しかも|shikamo|lagipula / selain itu / bahkan|Adverb|値段が安く、しかもおいしい。|ねだんが やすく、しかも おいしい。|Harganya murah, lagipula enak.
+たとえ|たとえ|tatoe|meskipun / sekalipun / walau|Adverb|たとえ失敗しても諦めない。|たとえ しっぱいしても あきらめない。|Meskipun gagal, tidak akan menyerah.
+どうしても|どうしても|doushitemo|bagaimanapun juga / sungguh ingin / tidak bisa tidak|Adverb|どうしてもこの問題が解けない。|どうしても この もんだいが とけない。|Bagaimanapun juga tidak bisa memecahkan masalah ini.
+しかし|しかし|shikashi|namun / tetapi / akan tetapi|Conjunction|雨が降った。しかし試合は続けられた。|あめが ふった。しかし しあいは つづけられた。|Hujan turun. Namun pertandingan tetap dilanjutkan.
+だから|だから|dakara|oleh karena itu / makanya|Conjunction|熱があった。だから学校を休んだ。|ねつが あった。だから がっこうを やすんだ。|Saya demam. Makanya absen sekolah.
+したがって|したがって|shitagatte|oleh karena itu / dengan demikian|Conjunction|証拠がない。したがって無罪だ。|しょうこが ない。したがって むざいだ。|Tidak ada bukti. Dengan demikian tidak bersalah.
+そのため|そのため|sonotame|untuk itu / karena itu / oleh sebab itu|Conjunction|雪が降った。そのため電車が遅れた。|ゆきが ふった。そのため でんしゃが おくれた。|Salju turun. Karena itu kereta terlambat.
+それに|それに|soreni|selain itu / lagipula / ditambah lagi|Conjunction|この店は安い。それにおいしい。|この みせは やすい。それに おいしい。|Toko ini murah. Selain itu enak.
+ところが|ところが|tokoroga|namun / tapi ternyata / meski begitu|Conjunction|急いで行った。ところが店はもう閉まっていた。|いそいで いった。ところが みせは もう しまっていた。|Saya bergegas pergi. Tapi ternyata toko sudah tutup.
+それでも|それでも|soredemo|meskipun begitu / tetap saja|Conjunction|難しかった。それでも最後まで頑張った。|むずかしかった。それでも さいごまで がんばった。|Sulit. Meskipun begitu saya tetap berusaha sampai akhir.
+一方|いっぽう|ippou|di sisi lain / sementara itu / sedangkan|Conjunction|兄は勉強が好きだ。一方、弟はスポーツが好きだ。|あには べんきょうが すきだ。いっぽう、おとうとは スポーツが すきだ。|Kakak suka belajar. Di sisi lain, adik suka olahraga.
+また|また|mata|dan juga / lagi / selain itu|Conjunction|彼は歌も上手で、また踊りも得意だ。|かれは うたも じょうずで、また おどりも とくいだ。|Dia pandai bernyanyi, dan juga mahir menari.
+さらに|さらに|sarani|lebih jauh lagi / bahkan / ditambah lagi|Conjunction|問題が増えた。さらに時間も足りなくなった。|もんだいが ふえた。さらに じかんも たりなく なった。|Masalah bertambah. Bahkan waktunya juga menjadi kurang.
+そして|そして|soshite|dan / lalu / kemudian|Conjunction|勉強して、そして試験を受けた。|べんきょうして、そして しけんを うけた。|Belajar, lalu mengikuti ujian.
+それから|それから|sorekara|setelah itu / dan kemudian|Conjunction|昼ご飯を食べた。それから散歩した。|ひるごはんを たべた。それから さんぽした。|Makan siang. Setelah itu berjalan-jalan.
+しかしながら|しかしながら|shikashinagara|meski demikian / akan tetapi|Conjunction|計画は良かった。しかしながら実行が難しかった。|けいかくは よかった。しかしながら じっこうが むずかしかった。|Rencananya bagus. Meski demikian pelaksanaannya sulit.
+ただし|ただし|tadashi|namun / kecuali / dengan syarat|Conjunction|参加できます。ただし、事前に登録が必要です。|さんかできます。ただし、じぜんに とうろくが ひつようです。|Boleh berpartisipasi. Namun, perlu daftar terlebih dahulu.
+もっとも|もっとも|mottomo|namun / memang / meski begitu|Conjunction|賛成です。もっとも条件次第ですが。|さんせいです。もっとも じょうけんしだいですが。|Saya setuju. Namun tergantung kondisinya.
+なぜなら|なぜなら|nazenara|karena / sebab|Conjunction|遅刻した。なぜなら電車が遅れたからだ。|ちこくした。なぜなら でんしゃが おくれたからだ。|Saya terlambat. Karena kereta terlambat.
+つまり|つまり|tsumari|artinya / dengan kata lain / jadi|Conjunction|彼は来ない。つまり会議は延期だ。|かれは こない。つまり かいぎは えんきだ。|Dia tidak datang. Artinya rapat ditunda.
+要するに|ようするに|yousuruni|singkatnya / intinya|Conjunction|要するに、もっと努力が必要だということだ。|ようするに、もっと どりょくが ひつようだ ということだ。|Singkatnya, perlu lebih banyak usaha.
+すなわち|すなわち|sunawachi|yaitu / dengan kata lain / artinya|Conjunction|彼は社長、すなわちこの会社のトップだ。|かれは しゃちょう、すなわち この かいしゃの トップだ。|Dia adalah direktur, yaitu puncak perusahaan ini.
+または|または|mataWA|atau / ataupun|Conjunction|電話またはメールで連絡してください。|でんわ または メールで れんらくしてください。|Tolong hubungi melalui telepon atau email.
+あるいは|あるいは|aruiwa|atau / mungkin juga|Conjunction|今日あるいは明日行きます。|きょう あるいは あした いきます。|Saya akan pergi hari ini atau besok.
+もしくは|もしくは|moshikuwa|atau / kalau tidak|Conjunction|現金もしくはカードでお支払いください。|げんきん もしくは カードで おしはらいください。|Tolong bayar dengan tunai atau kartu.
+ならびに|ならびに|narabini|serta / dan juga / beserta|Conjunction|社長ならびに社員の皆さんにご挨拶します。|しゃちょう ならびに しゃいんの みなさんに ごあいさつします。|Saya menyapa direktur serta seluruh karyawan.
+および|および|oyobi|dan / serta / beserta|Conjunction|名前および住所を記入してください。|なまえ および じゅうしょを きにゅうしてください。|Tolong isi nama dan alamat.
+それとも|それとも|soretomo|atau / ataukah|Conjunction|コーヒーにしますか、それとも紅茶にしますか。|コーヒーに しますか、それとも こうちゃに しますか。|Apakah mau kopi, ataukah teh?
+なお|なお|nao|selain itu / sebagai tambahan / masih saja|Conjunction|会議は三時からです。なお、場所は変更になりました。|かいぎは さんじからです。なお、ばしょは へんこうに なりました。|Rapat mulai pukul tiga. Selain itu, tempatnya telah berubah.
+ところで|ところで|tokorode|ngomong-ngomong / omong-omong / soit|Conjunction|ところで、最近お体はいかがですか。|ところで、さいきん おからだは いかがですか。|Ngomong-ngomong, bagaimana kondisi badan Anda belakangan ini?
+さて|さて|sate|nah / baiklah / sekarang|Conjunction|さて、そろそろ始めましょうか。|さて、そろそろ はじめましょうか。|Nah, mari kita mulai sekarang.
+では|では|dewa|kalau begitu / nah / baiklah|Conjunction|では、明日またお会いしましょう。|では、あした また おあいしましょう。|Kalau begitu, sampai jumpa lagi besok.
+というのは|というのは|toiunoha|karena / sebab / maksudnya adalah|Conjunction|遅れた。というのは、道が混んでいたからだ。|おくれた。というのは、みちが こんでいたからだ。|Saya terlambat. Karena jalannya macet.
+ゆえに|ゆえに|yueni|oleh karena itu / maka dari itu|Conjunction|彼は努力した。ゆえに成功した。|かれは どりょくした。ゆえに せいこうした。|Dia bekerja keras. Oleh karena itu dia berhasil.
+それゆえ|それゆえ|soreyue|oleh karena itu / itulah mengapa|Conjunction|証拠がある。それゆえ疑いの余地はない。|しょうこが ある。それゆえ うたがいの よちは ない。|Ada buktinya. Itulah mengapa tidak ada keraguan.
+一方で|いっぽうで|ippoude|di sisi lain / sementara itu|Conjunction|経済は発展した。一方で環境問題も増えた。|けいざいは はってんした。いっぽうで かんきょうもんだいも ふえた。|Ekonomi berkembang. Di sisi lain masalah lingkungan juga meningkat.
+反面|はんめん|hanmen|namun di sisi lain / sebaliknya|Conjunction|彼は親切だ。反面、少し頑固なところもある。|かれは しんせつだ。はんめん、すこし がんこな ところも ある。|Dia baik hati. Namun di sisi lain ada juga sisi keras kepala.
+逆に|ぎゃくに|gyakuni|sebaliknya / malah|Conjunction|助けようとしたが、逆に迷惑をかけてしまった。|たすけようとしたが、ぎゃくに めいわくを かけてしまった。|Saya berusaha membantu, tapi malah mengganggu.
+その上|そのうえ|sonoue|ditambah lagi / selain itu / lagipula|Conjunction|雨が降った。その上、風も強かった。|あめが ふった。そのうえ、かぜも つよかった。|Hujan turun. Ditambah lagi anginnya juga kencang.
+それどころか|それどころか|soredokoroka|bahkan lebih dari itu / bukannya|Conjunction|問題は解決しない。それどころか悪化している。|もんだいは かいけつしない。それどころか あっかしている。|Masalah tidak terselesaikan. Bahkan lebih dari itu, semakin memburuk.
+とはいえ|とはいえ|tohaie|meski begitu / walau demikian|Conjunction|難しい。とはいえ、挑戦する価値はある。|むずかしい。とはいえ、ちょうせんする かちは ある。|Sulit. Meski begitu, ada nilai untuk mencobanya.
+ただ|ただ|tada|hanya saja / namun / cuma|Conjunction|行きたい。ただ時間がない。|いきたい。ただ じかんが ない。|Ingin pergi. Hanya saja tidak ada waktu.
+特に|とくに|tokuni|terutama / khususnya|Conjunction|全員参加してください。特に新入社員は必須です。|ぜんいん さんかしてください。とくに しんにゅうしゃいんは ひっすです。|Tolong semua berpartisipasi. Terutama karyawan baru wajib hadir.
+そのくせ|そのくせ|sonokuse|padahal / meski begitu / namun|Conjunction|彼はよく知らないのに、そのくせ偉そうに話す。|かれは よく しらないのに、そのくせ えらそうに はなす。|Padahal dia tidak tahu banyak, namun berbicara dengan sombong.
+なのに|なのに|nanoni|padahal / meskipun / walaupun|Conjunction|一生懸命勉強したのに、なのに試験に落ちた。|いっしょうけんめい べんきょうしたのに、なのに しけんに おちた。|Sudah belajar sungguh-sungguh, padahal tetap gagal ujian.
+それなのに|それなのに|sorenanoni|padahal begitu / meski demikian|Conjunction|彼は謝った。それなのに彼女はまだ怒っている。|かれは あやまった。それなのに かのじょは まだ おこっている。|Dia sudah minta maaf. Padahal begitu dia masih marah.
+かつ|かつ|katsu|dan sekaligus / serta|Conjunction|安くかつ品質の高い商品を探している。|やすく かつ ひんしつの たかい しょうひんを さがしている。|Saya mencari produk yang murah dan sekaligus berkualitas tinggi.
+もしも|もしも|moshimo|jika / seandainya|Conjunction|もしも困ったことがあれば相談してください。|もしも こまった ことが あれば そうだんして ください。|Jika ada masalah, silakan konsultasikan.
+仮に|かりに|karini|seandainya / misalkan / andaikan|Conjunction|仮に失敗したとしても、経験になる。|かりに しっぱいしたとしても、けいけんに なる。|Seandainya pun gagal, itu akan menjadi pengalaman.
+たとえ〜ても|たとえ〜ても|tatoe~temo|meskipun / sekalipun|Conjunction|たとえ雨が降っても試合は行います。|たとえ あめが ふっても しあいは おこないます。|Meskipun hujan, pertandingan tetap dilaksanakan.
+お互いに|おたがいに|otagaini|saling / bersama-sama / antara satu sama lain|Expression|お互いに助け合うことが大切だ。|おたがいに たすけあうことが たいせつだ。|Saling membantu satu sama lain itu penting.
+一般的に|いっぱんてきに|ippantekini|secara umum / umumnya|Expression|一般的に言えば、運動は健康に良い。|いっぱんてきに いえば、うんどうは けんこうに よい。|Secara umum, olahraga baik untuk kesehatan.
+具体的に|ぐたいてきに|gutaitekini|secara konkret / secara spesifik|Expression|具体的にどういう意味ですか。|ぐたいてきに どういう いみですか。|Secara konkret, apa maksudnya?
+基本的に|きほんてきに|kihontekini|pada dasarnya / secara mendasar|Expression|基本的には賛成ですが、詳細を確認したい。|きほんてきには さんせいですが、しょうさいを かくにんしたい。|Pada dasarnya saya setuju, tapi ingin mengkonfirmasi detailnya.
+効果的に|こうかてきに|koukatekini|secara efektif / dengan efektif|Expression|時間を効果的に使うことが重要だ。|じかんを こうかてきに つかうことが じゅうようだ。|Menggunakan waktu secara efektif itu penting.
+積極的に|せっきょくてきに|sekkyokutekini|secara aktif / dengan giat|Expression|積極的に意見を述べてください。|せっきょくてきに いけんを のべてください。|Tolong sampaikan pendapat Anda secara aktif.
+消極的に|しょうきょくてきに|shoukyokutekini|secara pasif / dengan tidak aktif|Expression|彼はいつも消極的な態度をとる。|かれは いつも しょうきょくてきな たいどを とる。|Dia selalu bersikap pasif.
+自由に|じゆうに|jiyuuni|dengan bebas / secara bebas|Expression|自由に意見を言ってください。|じゆうに いけんを いってください。|Silakan sampaikan pendapat dengan bebas.
+正式に|せいしきに|seishikini|secara resmi / dengan resmi|Expression|正式に申し込みをしてください。|せいしきに もうしこみを してください。|Tolong lakukan pendaftaran secara resmi.
+個人的に|こじんてきに|kojintekini|secara pribadi / menurut saya pribadi|Expression|個人的にはこの意見に反対だ。|こじんてきには この いけんに はんたいだ。|Secara pribadi saya menentang pendapat ini.
+最終的に|さいしゅうてきに|saishutekini|pada akhirnya / akhirnya|Expression|最終的には彼の提案が採用された。|さいしゅうてきには かれの ていあんが さいようされた。|Pada akhirnya usulannya diterima.
+理想的に|りそうてきに|risoutekini|secara ideal / idealnya|Expression|理想的には全員参加してほしい。|りそうてきには ぜんいん さんかしてほしい。|Idealnya saya ingin semua orang berpartisipasi.
+現実的に|げんじつてきに|genjitsutekini|secara realistis / secara nyata|Expression|現実的に考えると難しい。|げんじつてきに かんがえると むずかしい。|Jika dipikir secara realistis, ini sulit.
+社会的に|しゃかいてきに|shakaiteki ni|secara sosial / dalam masyarakat|Expression|社会的に責任ある行動をとるべきだ。|しゃかいてきに せきにんある こうどうを とるべきだ。|Seharusnya mengambil tindakan yang bertanggung jawab secara sosial.
+経済的に|けいざいてきに|keizaiteki ni|secara ekonomi / dari segi ekonomi|Expression|経済的に安定した生活を送りたい。|けいざいてきに あんていした せいかつを おくりたい。|Saya ingin menjalani kehidupan yang stabil secara ekonomi.
+文化的に|ぶんかてきに|bunkateki ni|secara budaya / dari segi budaya|Expression|文化的に豊かな国を旅したい。|ぶんかてきに ゆたかな くにを たびしたい。|Saya ingin bepergian ke negara yang kaya secara budaya.
+的確に|てきかくに|tekikakuni|secara tepat / dengan akurat|Expression|状況を的確に判断することが大切だ。|じょうきょうを てきかくに はんだんすることが たいせつだ。|Penting untuk menilai situasi dengan tepat.
+率直に|そっちょくに|socchokuni|dengan jujur / terus terang / blak-blakan|Expression|率直に言うと、その計画には問題がある。|そっちょくに いうと、その けいかくには もんだいが ある。|Terus terang, ada masalah dengan rencana itu.
+誠実に|せいじつに|seijitsuni|dengan tulus / dengan jujur|Expression|誠実に対応することで信頼が生まれる。|せいじつに たいおうすることで しんらいが うまれる。|Dengan merespons secara tulus, kepercayaan akan terbentuk.
+十分に|じゅうぶんに|juubunni|dengan cukup / secara memadai|Expression|状況を十分に理解した上で判断してください。|じょうきょうを じゅうぶんに りかいした うえで はんだんしてください。|Tolong ambil keputusan setelah memahami situasi dengan cukup.
+丁寧に|ていねいに|teinei ni|dengan sopan / dengan cermat|Expression|丁寧に説明してくれてありがとう。|ていねいに せつめいしてくれてありがとう。|Terima kasih sudah menjelaskan dengan sopan.
+慎重に|しんちょうに|shinchoni|dengan hati-hati / dengan cermat|Expression|慎重に判断することが大切だ。|しんちょうに はんだんすることが たいせつだ。|Penting untuk membuat keputusan dengan hati-hati.
+丁寧に|ていねいに|teinei ni|dengan teliti / dengan rapi|Expression|丁寧に手紙を書いた。|ていねいに てがみを かいた。|Saya menulis surat dengan teliti.
+徹底的に|てっていてきに|tetteiteki ni|secara menyeluruh / tuntas|Expression|問題を徹底的に調査した。|もんだいを てっていてきに ちょうさした。|Saya menyelidiki masalah secara menyeluruh.
+合理的に|ごうりてきに|gouri teki ni|secara rasional / secara logis|Expression|合理的に考えればその選択は正しい。|ごうりてきに かんがえれば その せんたくは ただしい。|Jika dipikir secara rasional, pilihan itu benar.
+精神的に|せいしんてきに|seishinteki ni|secara mental / dari segi mental|Expression|精神的に強くなる必要がある。|せいしんてきに つよく なる ひつようが ある。|Perlu menjadi kuat secara mental.
+肉体的に|にくたいてきに|nikutaiteki ni|secara fisik / dari segi fisik|Expression|肉体的にも精神的にも疲れた。|にくたいてきにも せいしんてきにも つかれた。|Saya lelah baik secara fisik maupun mental.
+将来的に|しょうらいてきに|shourai teki ni|di masa mendatang / untuk ke depannya|Expression|将来的にはこの技術が普及するだろう。|しょうらいてきには この ぎじゅつが ふきゅうするだろう。|Di masa mendatang teknologi ini kemungkinan akan menyebar luas.
+定期的に|ていきてきに|teiki teki ni|secara berkala / secara rutin|Expression|定期的に健康診断を受けることが大切だ。|ていきてきに けんこうしんだんを うけることが たいせつだ。|Penting untuk menjalani pemeriksaan kesehatan secara berkala.
+系統的に|けいとうてきに|keitou teki ni|secara sistematis|Expression|情報を系統的に整理する必要がある。|じょうほうを けいとうてきに せいりする ひつようが ある。|Perlu mengatur informasi secara sistematis.
+公式に|こうしきに|kousiki ni|secara resmi / secara formal|Expression|その決定は公式に発表された。|その けっていは こうしきに はっぴょうされた。|Keputusan itu diumumkan secara resmi.
+独自に|どくじに|dokuji ni|secara mandiri / dengan caranya sendiri|Expression|彼は独自に研究を進めた。|かれは どくじに けんきゅうを すすめた。|Dia memajukan penelitiannya secara mandiri.
+自主的に|じしゅてきに|jishuteki ni|secara mandiri / atas inisiatif sendiri|Expression|自主的に勉強する習慣をつけよう。|じしゅてきに べんきょうする しゅうかんを つけよう。|Mari biasakan belajar atas inisiatif sendiri.
+公平に|こうへいに|kouhei ni|secara adil / dengan adil|Expression|全員を公平に扱うことが大切だ。|ぜんいんを こうへいに あつかうことが たいせつだ。|Penting untuk memperlakukan semua orang secara adil.
+平等に|びょうどうに|byoudou ni|secara setara / dengan setara|Expression|機会を平等に与えることが必要だ。|きかいを びょうどうに あたえることが ひつようだ。|Perlu memberikan kesempatan secara setara.
+安全に|あんぜんに|anzen ni|dengan aman / secara aman|Expression|安全に作業を進めてください。|あんぜんに さぎょうを すすめてください。|Tolong lanjutkan pekerjaan dengan aman.
+確実に|かくじつに|kakujitsu ni|dengan pasti / secara pasti|Expression|確実に成果を出すために計画を立てた。|かくじつに せいかを だすために けいかくを たてた。|Saya membuat rencana untuk menghasilkan hasil yang pasti.
+効率的に|こうりつてきに|kouritsu teki ni|secara efisien / dengan efisien|Expression|時間を効率的に使いましょう。|じかんを こうりつてきに つかいましょう。|Mari gunakan waktu secara efisien.
+継続的に|けいぞくてきに|keizoku teki ni|secara berkelanjutan / terus-menerus|Expression|継続的に努力することが成功への道だ。|けいぞくてきに どりょくすることが せいこうへの みちだ。|Berusaha secara berkelanjutan adalah jalan menuju kesuksesan.
+本格的に|ほんかくてきに|honkaku teki ni|secara serius / sungguh-sungguh|Expression|本格的に日本語を勉強し始めた。|ほんかくてきに にほんごを べんきょうし はじめた。|Saya mulai belajar bahasa Jepang secara serius.
+自動的に|じどうてきに|jidou teki ni|secara otomatis / dengan sendirinya|Expression|ドアは自動的に開く。|ドアは じどうてきに ひらく。|Pintu terbuka secara otomatis.
+本質的に|ほんしつてきに|honshitsu teki ni|pada dasarnya / secara esensial|Expression|本質的にはどちらも同じ問題だ。|ほんしつてきには どちらも おなじ もんだいだ。|Pada dasarnya keduanya adalah masalah yang sama.
+前向きに|まえむきに|maemuki ni|secara positif / dengan optimis|Expression|前向きに考えることが大切だ。|まえむきに かんがえることが たいせつだ。|Penting untuk berpikir secara positif.
+批判的に|ひはんてきに|hihan teki ni|secara kritis / dengan kritis|Expression|情報を批判的に読む力が必要だ。|じょうほうを ひはんてきに よむ ちからが ひつようだ。|Diperlukan kemampuan untuk membaca informasi secara kritis.
+柔軟に|じゅうなんに|juunan ni|secara fleksibel / dengan fleksibel|Expression|状況に応じて柔軟に対応しよう。|じょうきょうに おうじて じゅうなんに たいおうしよう。|Mari merespons secara fleksibel sesuai situasi.
+突発的に|とっぱつてきに|toppatsu teki ni|secara mendadak / tiba-tiba|Expression|突発的な問題が発生した。|とっぱつてきな もんだいが はっせいした。|Masalah mendadak telah terjadi.
+計画的に|けいかくてきに|keikaku teki ni|secara terencana / dengan rencana|Expression|計画的に貯金することが大切だ。|けいかくてきに ちょきんすることが たいせつだ。|Penting untuk menabung secara terencana.
+段階的に|だんかいてきに|dankai teki ni|secara bertahap / step by step|Expression|問題を段階的に解決していこう。|もんだいを だんかいてきに かいけつして いこう。|Mari selesaikan masalah secara bertahap.
+すっぱり|すっぱり|suppari|dengan tuntas / benar-benar berhenti / sama sekali|Adverb|すっぱりたばこをやめた。|すっぱり たばこを やめた。|Dia benar-benar berhenti merokok.
+うまく|うまく|umaku|dengan baik / dengan terampil|Adverb|うまく説明できなかった。|うまく せつめいできなかった。|Tidak bisa menjelaskan dengan baik.
+うっすら|うっすら|ussura|samar-samar / sedikit / tipis|Adverb|空がうっすら明るくなってきた。|そらが うっすら あかるく なってきた。|Langit mulai samar-samar terang.
+じわじわ|じわじわ|jiwajuwa|perlahan namun pasti / makin lama makin|Adverb|じわじわと痛みが増してきた。|じわじわと いたみが ましてきた。|Rasa sakitnya perlahan-lahan semakin bertambah.
+あっという間に|あっというまに|attouiumani|dalam sekejap / dalam waktu singkat|Adverb|時間があっという間に過ぎた。|じかんが あっというまに すぎた。|Waktu berlalu dalam sekejap.
+ぎりぎり|ぎりぎり|girigiri|pas-pasan / tepat di batas / nyaris|Adverb|ぎりぎりで試験に合格した。|ぎりぎりで しけんに ごうかくした。|Lulus ujian dengan nilai yang pas-pasan.
+しょっちゅう|しょっちゅう|shocchuu|sering sekali / terus-terusan|Adverb|彼はしょっちゅう遅刻する。|かれは しょっちゅう ちこくする。|Dia sering sekali terlambat.
+ぐっと|ぐっと|gutto|dengan kuat / jauh lebih / menekan perasaan|Adverb|ぐっと我慢した。|ぐっと がまんした。|Saya menahan diri dengan kuat.
+ふと|ふと|futo|tiba-tiba / tanpa sengaja / secara tiba-tiba|Adverb|ふと昔のことを思い出した。|ふと むかしのことを おもいだした。|Tiba-tiba saya teringat kejadian di masa lalu.
+むやみに|むやみに|muyamini|sembarangan / tanpa pikir panjang / seenaknya|Adverb|むやみに人を疑うのはよくない。|むやみに ひとを うたがうのは よくない。|Tidak baik mencurigai orang secara sembarangan.
+みるみる|みるみる|mirumiru|dengan cepat terlihat / semakin terlihat|Adverb|みるみる空が暗くなってきた。|みるみる そらが くらくなってきた。|Langit dengan cepat menjadi gelap.
+いちいち|いちいち|ichichi|satu per satu / setiap kali / secara detail|Adverb|いちいち確認するのは面倒だ。|いちいち かくにんするのは めんどうだ。|Mengkonfirmasi satu per satu itu repot.
+案外|あんがい|angai|di luar dugaan / ternyata|Adverb|案外早く終わった。|あんがい はやく おわった。|Ternyata selesai lebih cepat dari dugaan.
+概して|がいして|gaishite|pada umumnya / secara garis besar|Adverb|概して彼の仕事は丁寧だ。|がいして かれの しごとは ていねいだ。|Pada umumnya pekerjaannya teliti.
+自ら|みずから|mizukara|sendiri / secara pribadi|Adverb|彼は自ら申し出た。|かれは みずから もうしでた。|Dia sendiri yang mengajukan diri.
+互いに|たがいに|tagaini|saling / bergantian|Adverb|互いに意見を交換した。|たがいに いけんを こうかんした。|Kami saling bertukar pendapat.
+共に|ともに|tomoni|bersama-sama / bersamaan|Adverb|困難を共に乗り越えた。|こんなんを ともに のりこえた。|Kami bersama-sama melewati kesulitan.
+いかに|いかに|ikani|betapa / bagaimana / seberapa|Adverb|いかに大切かがわかった。|いかに たいせつかが わかった。|Saya mengerti betapa pentingnya hal itu.
+とっくに|とっくに|tokkuni|sudah lama / dari tadi / sejak lama|Adverb|彼はとっくに知っていた。|かれは とっくに しっていた。|Dia sudah tahu dari tadi.
+まともに|まともに|matomoni|dengan benar / dengan serius / secara wajar|Adverb|まともに答えてくれない。|まともに こたえてくれない。|Tidak mau menjawab dengan benar.
+いっせいに|いっせいに|isseini|serentak / secara bersamaan|Adverb|生徒たちはいっせいに立ち上がった。|せいとたちは いっせいに たちあがった。|Para murid berdiri serentak.
+一斉に|いっせいに|isseini|serempak / bersamaan|Adverb|選手たちは一斉にスタートした。|せんしゅたちは いっせいに スタートした。|Para atlet start secara serempak.
+ひたすら|ひたすら|hitasura|hanya / terus-menerus / gigih|Adverb|彼はひたすら練習を続けた。|かれは ひたすら れんしゅうを つづけた。|Dia terus-menerus melanjutkan latihan.
+頑なに|かたくなに|katakunani|dengan keras kepala / dengan teguh|Adverb|彼は頑なに拒否した。|かれは かたくなに きょひした。|Dia dengan keras kepala menolak.
+ひっきりなしに|ひっきりなしに|hikkirinanshini|terus-menerus tanpa henti|Adverb|電話がひっきりなしにかかってくる。|でんわが ひっきりなしに かかってくる。|Telepon terus-menerus berdering tanpa henti.
+絶えず|たえず|taezu|senantiasa / terus-menerus / selalu|Adverb|彼女は絶えず努力している。|かのじょは たえず どりょくしている。|Dia senantiasa berusaha keras.
+ぐるぐる|ぐるぐる|guruguru|berputar-putar / terus berputar|Adverb|頭の中でぐるぐると考えが回っている。|あたまの なかで ぐるぐると かんがえが まわっている。|Pikiran terus berputar-putar di dalam kepala.
+ぼんやり|ぼんやり|bonyari|samar / melamun / tidak jelas|Adverb|彼はぼんやりと窓の外を見ていた。|かれは ぼんやりと まどの そとを みていた。|Dia melamun melihat keluar jendela.
+相互に|そうごに|sougoni|secara timbal balik / saling|Adverb|両国は相互に協力することにした。|りょうこくは そうごに きょうりょくすることにした。|Kedua negara memutuskan untuk saling bekerja sama.
+別々に|べつべつに|betsubetsuni|secara terpisah / masing-masing|Adverb|会計は別々にお願いします。|かいけいは べつべつに おねがいします。|Tolong bayar tagihan secara terpisah.
+一緒に|いっしょに|isshoni|bersama-sama / bersama|Adverb|一緒に食事しませんか。|いっしょに しょくじしませんか。|Mau makan bersama-sama tidak?
+同時に|どうじに|dojini|secara bersamaan / serentak|Adverb|二つの仕事を同時にこなした。|ふたつの しごとを どうじに こなした。|Menyelesaikan dua pekerjaan secara bersamaan.
+改めて|あらためて|aratamete|dengan baru / lagi dengan resmi|Adverb|改めて連絡します。|あらためて れんらくします。|Saya akan menghubungi lagi.
+次々と|つぎつぎと|tsugitsugito|satu demi satu / berturut-turut|Adverb|問題が次々と起きた。|もんだいが つぎつぎと おきた。|Masalah muncul satu demi satu.
+長々と|ながながと|naganagato|dengan panjang lebar / berlarut-larut|Adverb|彼は長々と話し続けた。|かれは ながながと はなしつづけた。|Dia terus berbicara dengan panjang lebar.
+改めまして|あらためまして|aratamemashite|sekali lagi / dengan resmi|Expression|改めまして、よろしくお願いします。|あらためまして、よろしく おねがいします。|Sekali lagi, saya mohon kerjasamanya.
+言わば|いわば|iwaba|ibaratnya / kalau boleh dikatakan|Expression|彼は言わばこの分野の第一人者だ。|かれは いわば この ぶんやの だいいちにんしゃだ。|Dia ibaratnya pionir di bidang ini.
+急遽|きゅうきょ|kyuukyo|mendadak / tiba-tiba / dalam keadaan darurat|Adverb|急遽会議が開かれた。|きゅうきょ かいぎが ひらかれた。|Rapat diadakan secara mendadak.
+速やかに|すみやかに|sumiyakani|dengan segera / dengan cepat|Adverb|速やかに対応してください。|すみやかに たいおうしてください。|Tolong segera tangani.
+直ちに|ただちに|tadachini|segera / seketika / langsung|Adverb|直ちに行動に移してください。|ただちに こうどうに うつしてください。|Tolong segera bertindak.
+常に|つねに|tsuneni|selalu / senantiasa|Adverb|常に最善を尽くすことが大切だ。|つねに さいぜんを つくすことが たいせつだ。|Penting untuk selalu memberikan yang terbaik.
+往々にして|おうおうにして|ouounishite|seringkali / kerap|Adverb|往々にしてそういうことが起きる。|おうおうにして そういうことが おきる。|Hal seperti itu seringkali terjadi.
+あからさまに|あからさまに|akarasamani|secara terang-terangan / blak-blakan|Adverb|あからさまに嫌な顔をした。|あからさまに いやな かおを した。|Dia membuat muka tidak suka secara terang-terangan.
+おのおの|おのおの|onoono|masing-masing / setiap orang|Adverb|おのおのが責任を持って行動した。|おのおのが せきにんを もって こうどうした。|Masing-masing bertindak dengan penuh tanggung jawab.
+ひとりでに|ひとりでに|hitorideni|dengan sendirinya / secara otomatis|Adverb|ドアがひとりでに閉まった。|ドアが ひとりでに しまった。|Pintu tertutup dengan sendirinya.
+果たして|はたして|hatashite|sungguhkah / apakah benar / ternyata|Adverb|果たして彼は来るだろうか。|はたして かれは くるだろうか。|Sungguhkah dia akan datang?
+改めて言うと|あらためていうと|aratameteiouto|kalau dikatakan ulang / tepatnya|Expression|改めて言うと、明日が締め切りです。|あらためて いうと、あしたが しめきりです。|Kalau dikatakan ulang, tenggat waktunya adalah besok.
+たとえるなら|たとえるなら|tatoerounara|kalau diumpamakan / ibarat|Expression|たとえるなら彼はライオンのようだ。|たとえるなら かれは ライオンの ようだ。|Kalau diumpamakan, dia seperti singa.
+というか|というか|toiuka|atau lebih tepatnya / atau bagaimana|Expression|困ったというか、どうすればいいかわからない。|こまったというか、どうすれば いいか わからない。|Atau lebih tepatnya, tidak tahu harus bagaimana.
+それはそうと|それはそうと|sorehaSouto|anyway / ngomong-ngomong|Expression|それはそうと、最近どうですか。|それはそうと、さいきん どうですか。|Anyway, bagaimana kabarmu belakangan ini?
+もっとも〜が|もっとも〜が|mottomo~ga|memang benar namun / meski demikian|Expression|もっとも難しい試験だったが、合格できた。|もっとも むずかしい しけんだったが、ごうかくできた。|Memang ujian yang paling sulit, namun berhasil lulus.
+言うまでもなく|いうまでもなく|iumademonaku|sudah tidak perlu dikatakan / sudah jelas|Expression|健康が大切なのは言うまでもない。|けんこうが たいせつなのは いうまでもない。|Sudah tidak perlu dikatakan bahwa kesehatan itu penting.
+改めて言えば|あらためていえば|aratameteIeba|kalau diungkapkan kembali|Expression|改めて言えば、努力なしに成功はない。|あらためて いえば、どりょくなしに せいこうは ない。|Kalau diungkapkan kembali, tidak ada kesuksesan tanpa usaha.
+端的に言えば|たんてきにいえば|tantekini ieba|singkatnya / secara langsung|Expression|端的に言えば、時間が足りない。|たんてきに いえば、じかんが たりない。|Singkatnya, waktunya tidak cukup.
+結論から言えば|けつろんからいえば|ketsuronfrom ieba|dari kesimpulannya / intinya|Expression|結論から言えば、この計画は失敗だ。|けつろんから いえば、この けいかくは しっぱいだ。|Dari kesimpulannya, rencana ini gagal.
+全体的に|ぜんたいてきに|zentaiteki ni|secara keseluruhan / overall|Expression|全体的に見れば悪くない結果だ。|ぜんたいてきに みれば わるくない けっかだ。|Secara keseluruhan hasilnya tidak buruk.
+長期的に|ちょうきてきに|choukiteki ni|dalam jangka panjang|Expression|長期的に考えると有利だ。|ちょうきてきに かんがえると ゆうりだ。|Dalam jangka panjang ini menguntungkan.
+短期的に|たんきてきに|tankiteki ni|dalam jangka pendek|Expression|短期的な解決策が必要だ。|たんきてきな かいけつさくが ひつようだ。|Diperlukan solusi jangka pendek.
+互いの立場から|たがいのたちばから|tagainno tachiba kara|dari sudut pandang masing-masing|Expression|互いの立場から考えることが大切だ。|たがいの たちばから かんがえることが たいせつだ。|Penting untuk mempertimbangkan dari sudut pandang masing-masing.
+総合的に|そうごうてきに|sougouteki ni|secara komprehensif / secara menyeluruh|Expression|総合的に判断してください。|そうごうてきに はんだんしてください。|Tolong pertimbangkan secara komprehensif.
+一方的に|いっぽうてきに|ippoutekini|secara sepihak / searah|Expression|彼は一方的に話し続けた。|かれは いっぽうてきに はなしつづけた。|Dia terus berbicara secara searah.
+対等に|たいとうに|taitouni|secara setara / sejajar|Expression|対等に話し合うことが重要だ。|たいとうに はなしあうことが じゅうようだ。|Penting untuk berdiskusi secara setara.
+活発に|かっぱつに|kappatsu ni|secara aktif / dengan semangat|Expression|議論が活発に行われた。|ぎろんが かっぱつに おこなわれた。|Diskusi dilaksanakan dengan aktif.
+積み重ねて|つみかさねて|tsumikasanete|dengan menumpuk / secara bertahap|Expression|経験を積み重ねて成長した。|けいけんを つみかさねて せいちょうした。|Bertumbuh dengan mengumpulkan pengalaman secara bertahap.
+思い切り|おもいきり|omoikiri|sepenuh hati / sepuasnya / habis-habisan|Expression|思い切り楽しんでください。|おもいきり たのしんでください。|Silakan menikmati sepenuh hati.
+手早く|てばやく|tebayaku|dengan cepat dan tangkas / dengan gesit|Expression|手早く準備を済ませた。|てばやく じゅんびを すませた。|Menyelesaikan persiapan dengan cepat dan gesit.
+いかにも|いかにも|ikanimo|sungguh-sungguh / betul sekali / memang tampak|Expression|いかにも日本らしい風景だ。|いかにも にほんらしい ふうけいだ。|Sungguh-sungguh pemandangan yang khas Jepang.
+今後とも|こんごとも|kongotomo|ke depannya / dorongan untuk masa depan|Expression|今後ともよろしくお願いします。|こんごとも よろしく おねがいします。|Mohon kerjasamanya ke depannya juga.
+今となっては|いまとなっては|ima to natte wa|sekarang sudah terlanjur / kini|Expression|今となっては後悔しても仕方がない。|いまとなっては こうかいしても しかたがない。|Sekarang sudah terlanjur, menyesal pun tidak ada gunanya.
+むろん|むろん|muron|tentu saja / sudah jelas|Adverb|むろん参加するつもりです。|むろん さんかする つもりです。|Tentu saja saya bermaksud ikut serta.
+やがて|やがて|yagate|tidak lama lagi / akhirnya / segera|Adverb|やがて春が来るだろう。|やがて はるが くるだろう。|Tidak lama lagi musim semi akan tiba.
+もとより|もとより|motoyori|dari semula / sudah tentu / apalagi|Adverb|彼はもとより賛成していた。|かれは もとより さんせいしていた。|Dia dari semula sudah setuju.
+折に触れて|おりにふれて|orinifurete|sewaktu-waktu / dari waktu ke waktu|Expression|折に触れて昔のことを思い出す。|おりにふれて むかしのことを おもいだす。|Sewaktu-waktu saya teringat masa lalu.
+名実ともに|めいじつともに|meijitsutomoni|baik nama maupun kenyataan / benar-benar|Expression|彼は名実ともに一流の選手だ。|かれは めいじつともに いちりゅうの せんしゅだ。|Dia adalah atlet kelas satu baik nama maupun kenyataan.

@@ -1,0 +1,279 @@
+具体的|ぐたいてき|gutaiteki|konkret / spesifik|Adjective (Na)|もっと具体的な例を挙げてください。|もっと ぐたいてきな れいを あげて ください。|Tolong berikan contoh yang lebih konkret.
+抽象的|ちゅうしょうてき|chuushouteki|abstrak|Adjective (Na)|彼の説明は抽象的すぎて理解できない。|かれの せつめいは ちゅうしょうてき すぎて りかいできない。|Penjelasannya terlalu abstrak sehingga tidak bisa dipahami.
+適切|てきせつ|tekisetsu|tepat / sesuai / pantas|Adjective (Na)|この状況に適切な対応をしてください。|この じょうきょうに てきせつな たいおうを して ください。|Tolong berikan respons yang tepat untuk situasi ini.
+不適切|ふてきせつ|futekisetsu|tidak tepat / tidak pantas|Adjective (Na)|その発言は不適切だと上司に注意された。|その はつげんは ふてきせつだと じょうしに ちゅういされた。|Saya diperingatkan oleh atasan bahwa pernyataan itu tidak pantas.
+明らか|あきらか|akiraka|jelas / nyata / terang|Adjective (Na)|彼が嘘をついているのは明らかだ。|かれが うそを ついているのは あきらかだ。|Sudah jelas bahwa dia berbohong.
+正直|しょうじき|shoujiki|jujur / terus terang|Adjective (Na)|彼女はいつも正直な意見を言ってくれる。|かのじょは いつも しょうじきな いけんを いって くれる。|Dia selalu memberikan pendapat yang jujur.
+誠実|せいじつ|seijitsu|tulus / jujur / dapat dipercaya|Adjective (Na)|あの政治家は誠実な人物として知られている。|あの せいじかは せいじつな じんぶつとして しられている。|Politisi itu dikenal sebagai orang yang tulus.
+慎重|しんちょう|shinchou|berhati-hati / cermat|Adjective (Na)|重要な決断は慎重に行う必要がある。|じゅうような けつだんは しんちょうに おこなう ひつようが ある。|Keputusan penting perlu dilakukan dengan hati-hati.
+積極的|せっきょくてき|sekkyokuteki|aktif / proaktif / antusias|Adjective (Na)|彼は会議でいつも積極的に発言する。|かれは かいぎで いつも せっきょくてきに はつげんする。|Dia selalu berbicara secara aktif dalam rapat.
+消極的|しょうきょくてき|shoukyokuteki|pasif / tidak bersemangat|Adjective (Na)|彼女は新しいことに対して消極的な態度を取る。|かのじょは あたらしい ことに たいして しょうきょくてきな たいどを とる。|Dia bersikap pasif terhadap hal-hal baru.
+柔軟|じゅうなん|juunan|fleksibel / lentur|Adjective (Na)|彼は状況に応じて柔軟に対応できる。|かれは じょうきょうに おうじて じゅうなんに たいおうできる。|Dia bisa merespons secara fleksibel sesuai situasi.
+厳格|げんかく|genkaku|ketat / tegas / keras|Adjective (Na)|父は子供の頃、とても厳格な人だった。|ちちは こどもの ころ、 とても げんかくな ひとだった。|Ayah adalah orang yang sangat tegas saat saya kecil.
+複雑|ふくざつ|fukuzatsu|rumit / kompleks|Adjective (Na)|この問題は複雑で簡単には解決できない。|この もんだいは ふくざつで かんたんには かいけつできない。|Masalah ini rumit dan tidak bisa diselesaikan dengan mudah.
+単純|たんじゅん|tanjun|sederhana / polos|Adjective (Na)|解決策は思ったより単純だった。|かいけつさくは おもった より たんじゅんだった。|Solusinya lebih sederhana dari yang saya bayangkan.
+豊か|ゆたか|yutaka|kaya / makmur / melimpah|Adjective (Na)|この地域は自然が豊かで観光客に人気がある。|この ちいきは しぜんが ゆたかで かんこうきゃくに にんきが ある。|Daerah ini kaya akan alam dan populer di kalangan wisatawan.
+貧しい|まずしい|mazushii|miskin / kekurangan|Adjective (I)|貧しい家庭で育ったが、今は成功している。|まずしい かていで そだったが、 いまは せいこうしている。|Saya dibesarkan di keluarga miskin, tetapi sekarang berhasil.
+激しい|はげしい|hageshii|hebat / sengit / keras|Adjective (I)|昨夜は激しい雨が降り続けた。|ゆうべは はげしい あめが ふりつづけた。|Semalam hujan deras terus-menerus.
+穏やか|おだやか|odayaka|tenang / damai / lembut|Adjective (Na)|彼女は穏やかな性格で、みんなに好かれている。|かのじょは おだやかな せいかくで、 みんなに すかれている。|Dia berwatak tenang dan disukai semua orang.
+丁寧|ていねい|teinei|sopan / teliti / hati-hati|Adjective (Na)|彼はいつも丁寧な言葉遣いをする人だ。|かれは いつも ていねいな ことばづかいを する ひとだ。|Dia adalah orang yang selalu menggunakan kata-kata yang sopan.
+無礼|ぶれい|burei|tidak sopan / kasar / lancang|Adjective (Na)|目上の人に無礼な態度を取るべきではない。|めうえの ひとに ぶれいな たいどを とるべきでは ない。|Tidak seharusnya bersikap tidak sopan kepada orang yang lebih tua.
+親切|しんせつ|shinsetsu|ramah / baik hati|Adjective (Na)|近所の人はとても親切で、引っ越しを手伝ってくれた。|きんじょの ひとは とても しんせつで、 ひっこしを てつだって くれた。|Tetangga sangat baik hati dan membantu pindahan saya.
+不親切|ふしんせつ|fushinsetsu|tidak ramah / tidak baik hati|Adjective (Na)|そのお店の店員は不親切で、また行きたくない。|その おみせの てんいんは ふしんせつで、 また いきたくない。|Pelayan di toko itu tidak ramah, saya tidak ingin pergi lagi.
+真剣|しんけん|shinken|serius / sungguh-sungguh|Adjective (Na)|彼は将来について真剣に考えている。|かれは しょうらいに ついて しんけんに かんがえている。|Dia memikirkan masa depannya dengan serius.
+真面目|まじめ|majime|serius / tekun / rajin|Adjective (Na)|彼女は真面目な学生で、成績がいつもトップだ。|かのじょは まじめな がくせいで、 せいせきが いつも トップだ。|Dia adalah siswa yang rajin dan nilainya selalu terbaik.
+いい加減|いいかげん|iikagen|sembarangan / seadanya / tidak bertanggung jawab|Adjective (Na)|彼のいい加減な仕事ぶりには困っている。|かれの いいかげんな しごとぶりには こまっている。|Saya kesulitan dengan cara kerja sembarangannya.
+器用|きよう|kiyou|terampil / cekatan / pandai tangan|Adjective (Na)|彼は何でも器用にこなすので周りに頼られている。|かれは なんでも きように こなすので まわりに たよられている。|Dia diandalkan oleh orang sekitarnya karena cekatan dalam segalanya.
+不器用|ぶきよう|bukiyou|tidak terampil / canggung|Adjective (Na)|私は手先が不器用で、料理がなかなかうまくできない。|わたしは てさきが ぶきようで、 りょうりが なかなか うまくできない。|Saya tidak terampil dengan tangan, sehingga sulit memasak dengan baik.
+勤勉|きんべん|kinben|rajin / tekun / giat|Adjective (Na)|勤勉な努力が成功への近道だと信じている。|きんべんな どりょくが せいこうへの ちかみちだと しんじている。|Saya percaya bahwa kerja keras yang tekun adalah jalan pintas menuju kesuksesan.
+怠慢|たいまん|taiman|malas / lalai / lengah|Adjective (Na)|怠慢な態度が仕事の失敗につながった。|たいまんな たいどが しごとの しっぱいに つながった。|Sikap malas menyebabkan kegagalan dalam pekerjaan.
+勇敢|ゆうかん|yuukan|berani / gagah berani|Adjective (Na)|消防士は勇敢に燃える建物に飛び込んだ。|しょうぼうしは ゆうかんに もえる たてものに とびこんだ。|Petugas pemadam kebakaran dengan berani melompat ke bangunan yang terbakar.
+臆病|おくびょう|okubyou|penakut / pengecut|Adjective (Na)|臆病な私でも、その時だけは勇気が出た。|おくびょうな わたしでも、 そのときだけは ゆうきが でた。|Bahkan aku yang penakut pun, hanya saat itu saja keberanianku muncul.
+賢い|かしこい|kashikoi|cerdas / bijak / pandai|Adjective (I)|彼女は賢い子で、難しい問題もすぐに解く。|かのじょは かしこい こで、 むずかしい もんだいも すぐに とく。|Dia anak yang cerdas, bahkan soal sulit pun langsung terpecahkan.
+愚か|おろか|oroka|bodoh / tolol / dungu|Adjective (Na)|あの時の愚かな判断を今でも後悔している。|あの ときの おろかな はんだんを いまでも こうかいしている。|Saya masih menyesal atas keputusan bodoh saat itu.
+謙虚|けんきょ|kenkyo|rendah hati / tidak sombong|Adjective (Na)|成功しても謙虚な姿勢を忘れないでください。|せいこうしても けんきょな しせいを わすれないで ください。|Meskipun sukses, jangan lupa bersikap rendah hati.
+傲慢|ごうまん|gouman|sombong / angkuh / arogan|Adjective (Na)|彼の傲慢な態度に同僚たちは不満を持っている。|かれの ごうまんな たいどに どうりょうたちは ふまんを もっている。|Para rekan kerja merasa tidak puas dengan sikapnya yang arogan.
+冷静|れいせい|reisei|tenang / kepala dingin|Adjective (Na)|緊急事態でも冷静に判断することが大切だ。|きんきゅうじたいでも れいせいに はんだんすることが たいせつだ。|Penting untuk tetap tenang dan bijak dalam keadaan darurat.
+冷淡|れいたん|reitan|dingin / tidak peduli / acuh|Adjective (Na)|彼は他人の苦しみに対して冷淡な反応をした。|かれは たにんの くるしみに たいして れいたんな はんのうを した。|Dia bereaksi dengan dingin terhadap penderitaan orang lain.
+親密|しんみつ|shinmitsu|akrab / intim / dekat|Adjective (Na)|二人は長年の友人として親密な関係を築いてきた。|ふたりは ながねんの ゆうじんとして しんみつな かんけいを きずいてきた。|Keduanya telah membangun hubungan yang akrab sebagai teman lama.
+疎遠|そえん|soen|renggang / jarang berhubungan|Adjective (Na)|卒業後、彼とは疎遠になってしまった。|そつぎょうご、 かれとは そえんに なってしまった。|Setelah lulus, hubungan kami dengan dia menjadi renggang.
+深刻|しんこく|shinkoku|serius / gawat / mengkhawatirkan|Adjective (Na)|環境問題は深刻な課題として認識されている。|かんきょうもんだいは しんこくな かだいとして にんしきされている。|Masalah lingkungan diakui sebagai tantangan yang serius.
+軽率|けいそつ|keisotsu|ceroboh / gegabah / tergesa-gesa|Adjective (Na)|軽率な発言が誤解を招いてしまった。|けいそつな はつげんが ごかいを まねいて しまった。|Pernyataan yang gegabah menyebabkan kesalahpahaman.
+熱心|ねっしん|nesshin|bersemangat / antusias / tekun|Adjective (Na)|彼女は英語の勉強に熱心で、毎日練習している。|かのじょは えいごの べんきょうに ねっしんで、 まいにち れんしゅうしている。|Dia bersemangat belajar bahasa Inggris dan berlatih setiap hari.
+熱烈|ねつれつ|netsuretsu|antusias / bergairah / membara|Adjective (Na)|ファンたちは選手に熱烈な声援を送った。|ファンたちは せんしゅに ねつれつな せいえんを おくった。|Para penggemar memberikan dukungan yang membara kepada atlet.
+穏健|おんけん|onken|moderat / wajar / tidak ekstrem|Adjective (Na)|彼は政治的に穏健な立場をとっている。|かれは せいじてきに おんけんな たちばを とっている。|Dia mengambil posisi yang moderat secara politik.
+過激|かげき|kageki|ekstrem / radikal / berlebihan|Adjective (Na)|過激な意見を持つグループが衝突を起こした。|かげきな いけんを もつ グループが しょうとつを おこした。|Kelompok yang memiliki pendapat ekstrem menyebabkan bentrokan.
+正確|せいかく|seikaku|tepat / akurat / presisi|Adjective (Na)|科学的な実験では正確な測定が必要だ。|かがくてきな じっけんでは せいかくな そくていが ひつようだ。|Pengukuran yang akurat diperlukan dalam eksperimen ilmiah.
+不正確|ふせいかく|fuseikaku|tidak akurat / tidak tepat|Adjective (Na)|不正確な情報を広めることは危険だ。|ふせいかくな じょうほうを ひろめることは きけんだ。|Menyebarkan informasi yang tidak akurat adalah hal yang berbahaya.
+平和|へいわ|heiwa|damai / tenteram|Adjective (Na)|平和な社会を実現するために努力し続けたい。|へいわな しゃかいを じつげんする ために どりょくし つづけたい。|Saya ingin terus berusaha untuk mewujudkan masyarakat yang damai.
+危険|きけん|kiken|berbahaya / berisiko|Adjective (Na)|その地域は治安が悪く、夜一人で歩くのは危険だ。|その ちいきは ちあんが わるく、 よる ひとりで あるくのは きけんだ。|Keamanan di daerah itu buruk, berbahaya berjalan sendirian di malam hari.
+安全|あんぜん|anzen|aman / selamat|Adjective (Na)|子供が安全に遊べる公園を作ることが大切だ。|こどもが あんぜんに あそべる こうえんを つくることが たいせつだ。|Penting untuk membuat taman di mana anak-anak bisa bermain dengan aman.
+便利|べんり|benri|nyaman / praktis / berguna|Adjective (Na)|スマートフォンは生活をとても便利にしてくれた。|スマートフォンは せいかつを とても べんりに してくれた。|Ponsel pintar membuat hidup menjadi sangat praktis.
+不便|ふべん|fuben|tidak nyaman / tidak praktis|Adjective (Na)|田舎は交通が不便だが、自然が豊かで気に入っている。|いなかは こうつうが ふべんだが、 しぜんが ゆたかで きに いっている。|Di pedesaan transportasinya tidak nyaman, tetapi saya menyukainya karena alamnya kaya.
+重要|じゅうよう|juuyou|penting / krusial|Adjective (Na)|この会議では重要な決定が行われる予定だ。|この かいぎでは じゅうような けっていが おこなわれる よていだ。|Dalam rapat ini direncanakan akan dibuat keputusan penting.
+必要|ひつよう|hitsuyou|perlu / diperlukan|Adjective (Na)|健康を保つためには規則正しい生活が必要だ。|けんこうを たもつ ためには きそくただしい せいかつが ひつようだ。|Kehidupan yang teratur diperlukan untuk menjaga kesehatan.
+不必要|ふひつよう|fuhitsuyou|tidak perlu / tidak diperlukan|Adjective (Na)|不必要な出費を減らして貯金を増やしたい。|ふひつような しゅっぴを へらして ちょきんを ふやしたい。|Saya ingin mengurangi pengeluaran yang tidak perlu dan menambah tabungan.
+有効|ゆうこう|yuukou|efektif / berlaku / sah|Adjective (Na)|このパスポートはまだ有効なので問題ない。|この パスポートは まだ ゆうこうなので もんだいない。|Paspor ini masih berlaku, jadi tidak ada masalah.
+無効|むこう|mukou|tidak berlaku / batal / tidak sah|Adjective (Na)|期限が切れた契約は無効とみなされる。|きげんが きれた けいやくは むこうと みなされる。|Kontrak yang telah kedaluwarsa dianggap tidak berlaku.
+有名|ゆうめい|yuumei|terkenal / mashyur|Adjective (Na)|この料理店は地元で有名で、週末はいつも満席だ。|この りょうりてんは じもとで ゆうめいで、 しゅうまつは いつも まんせきだ。|Restoran ini terkenal di daerah setempat dan selalu penuh di akhir pekan.
+無名|むめい|mumei|tidak dikenal / anonim|Adjective (Na)|その無名の画家は死後に評価されるようになった。|その むめいの がかは しごに ひょうかされるように なった。|Pelukis yang tidak dikenal itu mulai dihargai setelah meninggal.
+自由|じゆう|jiyuu|bebas / merdeka|Adjective (Na)|言論の自由は民主主義の基本的な権利だ。|げんろんの じゆうは みんしゅしゅぎの きほんてきな けんりだ。|Kebebasan berbicara adalah hak dasar demokrasi.
+平等|びょうどう|byoudou|setara / adil / sama rata|Adjective (Na)|すべての人に平等な機会が与えられるべきだ。|すべての ひとに びょうどうな きかいが あたえられるべきだ。|Semua orang seharusnya diberi kesempatan yang sama.
+不平等|ふびょうどう|fubyoudou|tidak setara / tidak adil|Adjective (Na)|社会の不平等な格差を縮めることが求められている。|しゃかいの ふびょうどうな かくさを ちぢめることが もとめられている。|Diperlukan upaya untuk memperkecil kesenjangan yang tidak setara dalam masyarakat.
+特別|とくべつ|tokubetsu|istimewa / khusus / spesial|Adjective (Na)|今日は母の誕生日なので、特別なディナーを準備した。|きょうは はははの たんじょうびなので、 とくべつな ディナーを じゅんびした。|Karena hari ini ulang tahun ibu, saya menyiapkan makan malam yang istimewa.
+普通|ふつう|futsuu|biasa / normal / umum|Adjective (Na)|彼の反応は普通ではなく、何か隠しているようだ。|かれの はんのうは ふつうでは なく、 なにか かくしているようだ。|Reaksinya tidak normal, sepertinya dia menyembunyikan sesuatu.
+独特|どくとく|dokutoku|unik / khas / istimewa|Adjective (Na)|この地域には独特の文化と伝統がある。|この ちいきには どくとくの ぶんかと でんとうが ある。|Daerah ini memiliki budaya dan tradisi yang unik.
+一般的|いっぱんてき|ippanteki|umum / lazim / biasa|Adjective (Na)|一般的な考え方では、努力すれば報われると言われる。|いっぱんてきな かんがえかたでは、 どりょくすれば むくわれると いわれる。|Dalam pandangan umum, dikatakan bahwa usaha akan membuahkan hasil.
+具体的|ぐたいてき|gutaiteki2|konkret / spesifik|Adjective (Na)|計画を立てる際は具体的な目標を設定することが大切だ。|けいかくを たてる さいは ぐたいてきな もくひょうを せっていすることが たいせつだ。|Saat membuat rencana, penting untuk menetapkan tujuan yang konkret.
+明確|めいかく|meikaku|jelas / tegas / pasti|Adjective (Na)|指示が明確でないと、部下が困惑してしまう。|しじが めいかくでないと、 ぶかが こんわくして しまう。|Jika instruksi tidak jelas, bawahan akan kebingungan.
+曖昧|あいまい|aimai|ambigu / samar / tidak jelas|Adjective (Na)|彼の返事は曖昧で、賛成なのか反対なのかわからない。|かれの へんじは あいまいで、 さんせいなのか はんたいなのか わからない。|Jawabannya ambigu, tidak tahu apakah setuju atau tidak.
+真実|しんじつ|shinjitsu|benar / nyata / asli|Adjective (Na)|真実の愛は時間が経っても変わらないと信じている。|しんじつの あいは じかんが たっても かわらないと しんじている。|Saya percaya bahwa cinta yang sejati tidak berubah meski waktu berlalu.
+偽り|いつわり|itsuwari|palsu / bohong / dusta|Adjective (Na)|偽りの笑顔で接客するのは疲れることだ。|いつわりの えがおで せっきゃくするのは つかれることだ。|Melayani pelanggan dengan senyum palsu adalah hal yang melelahkan.
+親しい|したしい|shitashii|akrab / dekat / intim|Adjective (I)|親しい友人と久しぶりに食事を楽しんだ。|したしい ゆうじんと ひさしぶりに しょくじを たのしんだ。|Saya menikmati makan bersama teman akrab setelah lama tidak bertemu.
+厳しい|きびしい|kibishii|keras / ketat / berat|Adjective (I)|厳しい訓練に耐えて、ようやく合格できた。|きびしい くんれんに たえて、 ようやく ごうかくできた。|Setelah bertahan dalam latihan yang berat, akhirnya saya bisa lulus.
+優しい|やさしい|yasashii|lembut / baik hati / ramah|Adjective (I)|彼女は優しい言葉で落ち込んだ私を励ましてくれた。|かのじょは やさしい ことばで おちこんだ わたしを はげましてくれた。|Dia menyemangati saya yang sedang sedih dengan kata-kata yang lembut.
+厳しい|きびしい|kibishii|keras / berat / tegas|Adjective (I)|今年の冬は例年より厳しい寒さが続いている。|ことしの ふゆは れいねんより きびしい さむさが つづいている。|Musim dingin tahun ini terus berlanjut dengan dingin yang lebih keras dari biasanya.
+弱い|よわい|yowai|lemah / tidak kuat|Adjective (I)|彼は体が弱いので、無理をしないように言われている。|かれは からだが よわいので、 むりを しないように いわれている。|Karena badannya lemah, dia diminta untuk tidak memaksakan diri.
+強い|つよい|tsuyoi|kuat / kencang / keras|Adjective (I)|強い意志があれば、どんな困難も乗り越えられる。|つよい いしが あれば、 どんな こんなんも のりこえられる。|Dengan tekad yang kuat, kesulitan apapun bisa diatasi.
+深い|ふかい|fukai|dalam / mendalam / pekat|Adjective (I)|二人の間には深い信頼関係が築かれている。|ふたりの あいだには ふかい しんらいかんけいが きずかれている。|Di antara keduanya telah dibangun hubungan kepercayaan yang mendalam.
+浅い|あさい|asai|dangkal / tidak dalam|Adjective (I)|この池は浅いので子供でも安心して入れる。|この いけは あさいので こどもでも あんしんして はいれる。|Kolam ini dangkal sehingga anak-anak pun bisa masuk dengan aman.
+細かい|こまかい|komakai|rinci / detail / halus|Adjective (I)|彼女は細かいところにもよく気がつく人だ。|かのじょは こまかい ところにも よく きが つく ひとだ。|Dia adalah orang yang memperhatikan hal-hal yang rinci.
+大まか|おおまか|oomaka|kasar / garis besar / tidak rinci|Adjective (Na)|まずは大まかな計画を立てて、後で詳細を詰めよう。|まずは おおまかな けいかくを たてて、 あとで しょうさいを つめよう。|Mari buat rencana garis besar dulu, kemudian bahas detailnya nanti.
+鋭い|するどい|surudoi|tajam / cerdas / peka|Adjective (I)|彼は鋭い観察力を持つ優秀な刑事だ。|かれは するどい かんさつりょくを もつ ゆうしゅうな けいじだ。|Dia adalah detektif unggul yang memiliki kemampuan observasi yang tajam.
+鈍い|にぶい|nibui|tumpul / lambat / lamban|Adjective (I)|彼は動きが鈍いが、慎重で正確な仕事をする。|かれは うごきが にぶいが、 しんちょうで せいかくな しごとを する。|Gerakannya lamban, tetapi dia bekerja dengan hati-hati dan akurat.
+速い|はやい|hayai|cepat / gesit|Adjective (I)|この新型列車は時速三百キロ以上で走ることができる。|この しんがた れっしゃは じそく さんびゃくキロ いじょうで はしることができる。|Kereta baru ini dapat melaju lebih dari 300 kilometer per jam.
+遅い|おそい|osoi|lambat / terlambat|Adjective (I)|バスが遅いので、次回からは電車を使うことにした。|バスが おそいので、 じかいからは でんしゃを つかうことに した。|Karena busnya lambat, saya memutuskan untuk menggunakan kereta mulai lain kali.
+長い|ながい|nagai|panjang / lama|Adjective (I)|この小説はとても長いが、内容が面白くて一気に読んだ。|この しょうせつは とても ながいが、 ないようが おもしろくて いっきに よんだ。|Novel ini sangat panjang, tetapi isinya menarik sehingga saya membacanya sekaligus.
+短い|みじかい|mijikai|pendek / singkat|Adjective (I)|夏休みは短いので、効率よく楽しみたい。|なつやすみは みじかいので、 こうりつよく たのしみたい。|Liburan musim panas singkat, jadi saya ingin menikmatinya secara efisien.
+広い|ひろい|hiroi|luas / lebar / lapang|Adjective (I)|新しいアパートは広くて、家具を置いても余裕がある。|あたらしい アパートは ひろくて、 かぐを おいても よゆうが ある。|Apartemen baru ini luas, masih ada ruang ekstra meski sudah ditaruh furnitur.
+狭い|せまい|semai|sempit / terbatas|Adjective (I)|この部屋は狭いが、工夫次第で快適にできる。|この へやは せまいが、 くふうしだいで かいてきに できる。|Kamar ini sempit, tetapi bisa dibuat nyaman tergantung kreativitas.
+重い|おもい|omoi|berat / serius / tidak ringan|Adjective (I)|この荷物は重すぎて、一人では運べない。|この にもつは おもすぎて、 ひとりでは はこべない。|Barang bawaan ini terlalu berat, tidak bisa dibawa sendiri.
+軽い|かるい|karui|ringan / enteng / tidak berat|Adjective (I)|このリュックサックは軽くて丈夫なので旅行に最適だ。|この リュックサックは かるくて じょうぶなので りょこうに さいてきだ。|Ransel ini ringan dan kuat sehingga sangat cocok untuk perjalanan.
+固い|かたい|katai|keras / kaku / padat|Adjective (I)|このパンは固くなっているが、温めれば柔らかくなる。|この パンは かたくなっているが、 あたためれば やわらかくなる。|Roti ini sudah mengeras, tetapi akan menjadi lembut jika dipanaskan.
+柔らかい|やわらかい|yawarakai|lembut / lunak / tidak keras|Adjective (I)|生まれたばかりの赤ちゃんの肌は柔らかくて気持ちいい。|うまれたばかりの あかちゃんの はだは やわらかくて きもちいい。|Kulit bayi yang baru lahir terasa lembut dan menyenangkan.
+明るい|あかるい|akarui|cerah / ceria / terang|Adjective (I)|彼女は明るい性格で、どんな場でも場を和ませる。|かのじょは あかるい せいかくで、 どんな ばでも ばを なごませる。|Dia berwatak ceria dan bisa meredakan suasana di tempat apapun.
+暗い|くらい|kurai|gelap / suram / murung|Adjective (I)|部屋が暗いと気分が落ち込みやすいと言われている。|へやが くらいと きぶんが おちこみやすいと いわれている。|Dikatakan bahwa kamar yang gelap membuat suasana hati mudah murung.
+賑やか|にぎやか|nigiyaka|ramai / sibuk / meriah|Adjective (Na)|週末になると、この商店街はとても賑やかになる。|しゅうまつに なると、 この しょうてんがいは とても にぎやかに なる。|Saat akhir pekan tiba, kawasan pertokoan ini menjadi sangat ramai.
+静か|しずか|shizuka|tenang / sunyi / hening|Adjective (Na)|図書館では静かにしなければならないというルールがある。|としょかんでは しずかに しなければ ならないという ルールが ある。|Ada aturan bahwa harus tenang di perpustakaan.
+新鮮|しんせん|shinsen|segar / baru / tidak basi|Adjective (Na)|毎朝市場で新鮮な野菜を買うのが日課になっている。|まいあさ いちばで しんせんな やさいを かうのが にっかに なっている。|Membeli sayuran segar di pasar setiap pagi sudah menjadi rutinitas.
+不新鮮|ふしんせん|fushinsen|tidak segar / basi|Adjective (Na)|不新鮮な食材を使うと料理の味が落ちる。|ふしんせんな しょくざいを つかうと りょうりの あじが おちる。|Jika menggunakan bahan makanan yang tidak segar, cita rasa masakan akan menurun.
+清潔|せいけつ|seiketsu|bersih / higienis|Adjective (Na)|食事の前に清潔な手で食べることが大切だ。|しょくじの まえに せいけつな てで たべることが たいせつだ。|Penting untuk makan dengan tangan yang bersih sebelum makan.
+不潔|ふけつ|fuketsu|kotor / tidak bersih / jorok|Adjective (Na)|不潔な環境では病気になりやすいので気をつけよう。|ふけつな かんきょうでは びょうきに なりやすいので きを つけよう。|Mari berhati-hati karena di lingkungan yang kotor mudah jatuh sakit.
+清々しい|すがすがしい|sugasugashii|segar / sejuk / menyegarkan|Adjective (I)|朝の散歩は清々しくて一日の始まりに最適だ。|あさの さんぽは すがすがしくて いちにちの はじまりに さいてきだ。|Jalan pagi terasa menyegarkan dan sangat cocok untuk memulai hari.
+みすぼらしい||misuborashii|lusuh / compang-camping / memprihatinkan|Adjective (I)|みすぼらしい格好をしていても、彼の才能は本物だった。|みすぼらしい かっこうを していても、 かれの さいのうは ほんものだった。|Meskipun penampilannya lusuh, bakatnya adalah nyata.
+あやしい|怪しい|ayashii|mencurigakan / meragukan|Adjective (I)|あの角に立っている人の行動が怪しいと感じた。|あの かどに たっている ひとの こうどうが あやしいと かんじた。|Saya merasa perilaku orang yang berdiri di sudut itu mencurigakan.
+不思議|ふしぎ|fushigi|aneh / misterius / ajaib|Adjective (Na)|宇宙には不思議な現象がたくさん存在している。|うちゅうには ふしぎな げんしょうが たくさん そんざいしている。|Di luar angkasa terdapat banyak fenomena yang misterius.
+自然|しぜん|shizen|alami / wajar / natural|Adjective (Na)|その女優の演技はとても自然で、観客を引き込んだ。|その じょゆうの えんぎは とても しぜんで、 かんきゃくを ひきこんだ。|Akting aktris itu sangat natural dan menarik perhatian penonton.
+不自然|ふしぜん|fushizen|tidak alami / tidak wajar / janggal|Adjective (Na)|彼の笑顔は不自然で、何か無理をしているように見えた。|かれの えがおは ふしぜんで、 なにか むりを しているように みえた。|Senyumnya tidak natural, terlihat seperti sedang memaksakan diri.
+合理的|ごうりてき|gouriteki|rasional / logis / masuk akal|Adjective (Na)|彼女はいつも合理的な判断を下す優秀なリーダーだ。|かのじょは いつも ごうりてきな はんだんを くだす ゆうしゅうな リーダーだ。|Dia adalah pemimpin unggul yang selalu membuat keputusan yang rasional.
+非合理的|ひごうりてき|higouriteki|tidak rasional / tidak logis|Adjective (Na)|感情的な決断は非合理的になりやすいと言われる。|かんじょうてきな けつだんは ひごうりてきに なりやすいと いわれる。|Dikatakan bahwa keputusan yang emosional cenderung menjadi tidak rasional.
+効率的|こうりつてき|kouritsuteki|efisien / produktif|Adjective (Na)|効率的な勉強法を身につけることで成績が向上した。|こうりつてきな べんきょうほうを みにつけることで せいせきが こうじょうした。|Dengan menguasai metode belajar yang efisien, nilai saya meningkat.
+非効率|ひこうりつ|hikouritsu|tidak efisien / boros waktu|Adjective (Na)|この作業は非効率なので、もっと良い方法を考えよう。|この さぎょうは ひこうりつなので、 もっと よい ほうほうを かんがえよう。|Pekerjaan ini tidak efisien, mari pikirkan metode yang lebih baik.
+理想的|りそうてき|risouteki|ideal / sempurna|Adjective (Na)|理想的な環境で仕事をすることが生産性を高める。|りそうてきな かんきょうで しごとを することが せいさんせいを たかめる。|Bekerja di lingkungan yang ideal meningkatkan produktivitas.
+現実的|げんじつてき|genjitsuteki|realistis / praktis|Adjective (Na)|夢を持つことは大事だが、現実的な計画も必要だ。|ゆめを もつことは だいじだが、 げんじつてきな けいかくも ひつようだ。|Penting untuk memiliki impian, tetapi rencana yang realistis juga diperlukan.
+非現実的|ひげんじつてき|higenjitsuteki|tidak realistis / mustahil|Adjective (Na)|その計画は非現実的で実現不可能だと批判された。|その けいかくは ひげんじつてきで じつげん ふかのうだと ひはんされた。|Rencana itu dikritik sebagai tidak realistis dan tidak mungkin terwujud.
+社交的|しゃこうてき|shakouteki|ramah / suka bergaul / sosial|Adjective (Na)|社交的な人は新しい環境でもすぐに友達を作れる。|しゃこうてきな ひとは あたらしい かんきょうでも すぐに ともだちを つくれる。|Orang yang suka bergaul bisa segera membuat teman bahkan di lingkungan baru.
+内向的|ないこうてき|naikouteki|introvert / pendiam / menyendiri|Adjective (Na)|内向的な性格の人でも、得意な分野では活躍できる。|ないこうてきな せいかくの ひとでも、 とくいな ぶんやでは かつやくできる。|Bahkan orang yang berwatak introvert pun bisa bersinar di bidang yang mereka kuasai.
+外向的|がいこうてき|gaikouteki|ekstrovert / terbuka / suka bersosialisasi|Adjective (Na)|外向的な彼は初対面の人とも気軽に話せる。|がいこうてきな かれは しょたいめんの ひととも きがるに はなせる。|Dia yang ekstrovert bisa dengan mudah berbicara dengan orang yang baru dikenalnya.
+感情的|かんじょうてき|kannjouteki|emosional / mudah terpengaruh perasaan|Adjective (Na)|感情的になると冷静な判断ができなくなる。|かんじょうてきに なると れいせいな はんだんが できなくなる。|Ketika menjadi emosional, kita tidak bisa membuat keputusan yang tenang.
+論理的|ろんりてき|ronriteki|logis / analitis|Adjective (Na)|論理的な思考を養うことはビジネスでも役立つ。|ろんりてきな しこうを やしなうことは ビジネスでも やくたつ。|Mengembangkan pemikiran yang logis berguna juga dalam bisnis.
+科学的|かがくてき|kagakuteki|ilmiah / saintifik|Adjective (Na)|科学的な根拠に基づいた意見を述べることが重要だ。|かがくてきな こんきょに もとづいた いけんを のべることが じゅうようだ。|Penting untuk menyampaikan pendapat yang berdasarkan bukti ilmiah.
+伝統的|でんとうてき|dentouteki|tradisional / konvensional|Adjective (Na)|伝統的な文化を次の世代に伝えることが大切だ。|でんとうてきな ぶんかを つぎの せだいに つたえることが たいせつだ。|Penting untuk meneruskan budaya tradisional kepada generasi berikutnya.
+革新的|かくしんてき|kakushinteki|inovatif / revolusioner|Adjective (Na)|革新的なアイデアが会社の成長を加速させた。|かくしんてきな アイデアが かいしゃの せいちょうを かそくさせた。|Ide yang inovatif mempercepat pertumbuhan perusahaan.
+保守的|ほしゅてき|hoshuteki|konservatif / tradisional|Adjective (Na)|彼は保守的な考え方を持ち、変化を好まない。|かれは ほしゅてきな かんがえかたを もち、 へんかを このまない。|Dia memiliki pemikiran yang konservatif dan tidak menyukai perubahan.
+批判的|ひはんてき|hihanteki|kritis / suka mengkritik|Adjective (Na)|批判的な目で物事を見ることは大切だが、建設的でなければならない。|ひはんてきな めで ものごとを みることは たいせつだが、 けんせつてきでなければ ならない。|Melihat sesuatu dengan pandangan kritis itu penting, tetapi harus bersifat konstruktif.
+建設的|けんせつてき|kensetsuteki|konstruktif / membangun|Adjective (Na)|会議では建設的な議論を心がけましょう。|かいぎでは けんせつてきな ぎろんを こころがけましょう。|Mari berusaha untuk melakukan diskusi yang konstruktif dalam rapat.
+破壊的|はかいてき|hakaiteki|destruktif / merusak|Adjective (Na)|破壊的な批判は相手を傷つけるだけで何も解決しない。|はかいてきな ひはんは あいてを きずつけるだけで なにも かいけつしない。|Kritik yang destruktif hanya menyakiti orang lain dan tidak menyelesaikan apapun.
+積極的|せっきょくてき|sekkyokuteki2|aktif / proaktif|Adjective (Na)|問題を積極的に解決しようとする姿勢が大切だ。|もんだいを せっきょくてきに かいけつしようとする しせいが たいせつだ。|Sikap yang aktif berusaha menyelesaikan masalah itu penting.
+消極的|しょうきょくてき|shoukyokuteki2|pasif / tidak bersemangat|Adjective (Na)|消極的な姿勢では成長が遅くなるとアドバイスされた。|しょうきょくてきな しせいでは せいちょうが おそくなると アドバイスされた。|Saya diberi saran bahwa dengan sikap yang pasif, pertumbuhan akan melambat.
+前向き|まえむき|maemuki|positif / optimis / maju|Adjective (Na)|どんな困難にも前向きに取り組む姿勢を大切にしている。|どんな こんなんにも まえむきに とりくむ しせいを たいせつに している。|Saya menghargai sikap untuk menghadapi kesulitan apapun dengan positif.
+後ろ向き|うしろむき|ushiromuki|negatif / pesimis / mundur|Adjective (Na)|後ろ向きな考えをやめて、未来を見ることが大切だ。|うしろむきな かんがえを やめて、 みらいを みることが たいせつだ。|Penting untuk berhenti berpikir negatif dan melihat ke depan.
+優秀|ゆうしゅう|yuushuu|unggul / brilian / berbakat|Adjective (Na)|彼は優秀な研究者として国際的に評価されている。|かれは ゆうしゅうな けんきゅうしゃとして こくさいてきに ひょうかされている。|Dia dihargai secara internasional sebagai peneliti yang unggul.
+平凡|へいぼん|heibon|biasa-biasa saja / tidak menonjol|Adjective (Na)|平凡な日常の中に小さな幸せを見つけることが大切だ。|へいぼんな にちじょうの なかに ちいさな しあわせを みつけることが たいせつだ。|Penting untuk menemukan kebahagiaan kecil di dalam keseharian yang biasa-biasa saja.
+特殊|とくしゅ|tokushu|khusus / spesial / luar biasa|Adjective (Na)|この機械は特殊な技術を使って作られた。|この きかいは とくしゅな ぎじゅつを つかって つくられた。|Mesin ini dibuat menggunakan teknologi khusus.
+一般的|いっぱんてき|ippanteki2|umum / biasa / lazim|Adjective (Na)|一般的な常識を身につけることも教育の一環だ。|いっぱんてきな じょうしきを みにつけることも きょういくの いっかんだ。|Menguasai pengetahuan umum juga merupakan bagian dari pendidikan.
+個性的|こせいてき|koseiteki|memiliki kepribadian unik / khas|Adjective (Na)|彼女の個性的なファッションはいつも注目を集める。|かのじょの こせいてきな ファッションは いつも ちゅうもくを あつめる。|Fashion-nya yang unik selalu menarik perhatian.
+画期的|かっきてき|kakkiteki|revolusioner / terobosan / epocal|Adjective (Na)|この発明は医療分野において画期的な進歩をもたらした。|この はつめいは いりょうぶんやに おいて かっきてきな しんぽを もたらした。|Penemuan ini membawa kemajuan revolusioner di bidang medis.
+可能|かのう|kanou|mungkin / bisa dilakukan|Adjective (Na)|努力次第でどんな夢も実現可能だと信じている。|どりょくしだいで どんな ゆめも じつげん かのうだと しんじている。|Saya percaya bahwa impian apapun bisa terwujud tergantung usaha.
+不可能|ふかのう|fukanou|tidak mungkin / mustahil|Adjective (Na)|一人の力だけでは不可能なことも、チームなら実現できる。|ひとりの ちからだけでは ふかのうなことも、 チームなら じつげんできる。|Hal yang mustahil dengan kekuatan satu orang pun bisa terwujud jika dilakukan sebagai tim.
+必死|ひっし|hisshi|mati-matian / sungguh-sungguh / nekad|Adjective (Na)|彼は試験に合格するために必死に勉強した。|かれは しけんに ごうかくするために ひっしに べんきょうした。|Dia belajar mati-matian untuk lulus ujian.
+夢中|むちゅう|muchuu|asyik / tergila-gila / tenggelam dalam|Adjective (Na)|子供たちはゲームに夢中になりすぎないように制限が必要だ。|こどもたちは ゲームに むちゅうに なりすぎないように せいげんが ひつようだ。|Diperlukan batasan agar anak-anak tidak terlalu asyik dengan game.
+必然的|ひつぜんてき|hitsuzenteki|pasti terjadi / tak terhindarkan|Adjective (Na)|努力をすれば、必然的に成果が出てくる。|どりょくを すれば、 ひつぜんてきに せいかが でてくる。|Jika berusaha, hasilnya pasti akan muncul.
+偶然|ぐうぜん|guuzen|kebetulan / tidak disengaja|Adjective (Na)|偶然の出会いが人生を大きく変えることがある。|ぐうぜんの であいが じんせいを おおきく かえることが ある。|Pertemuan yang kebetulan bisa mengubah hidup secara besar-besaran.
+根本的|こんぽんてき|konponteki|mendasar / fundamental|Adjective (Na)|問題を解決するには根本的な原因を探ることが必要だ。|もんだいを かいけつするには こんぽんてきな げんいんを さぐることが ひつようだ。|Untuk menyelesaikan masalah, perlu mencari penyebab yang mendasar.
+表面的|ひょうめんてき|hyoumenteki|superfisial / di permukaan saja|Adjective (Na)|表面的な対策では根本的な解決にならない。|ひょうめんてきな たいさくでは こんぽんてきな かいけつに ならない。|Tindakan yang superfisial tidak akan menjadi solusi yang mendasar.
+自発的|じはつてき|jihatsuteki|sukarela / atas inisiatif sendiri|Adjective (Na)|自発的に行動する社員は職場で高く評価される。|じはつてきに こうどうする しゃいんは しょくばで たかく ひょうかされる。|Karyawan yang bertindak atas inisiatif sendiri sangat dihargai di tempat kerja.
+強制的|きょうせいてき|kyouseiteki|paksa / wajib / memaksa|Adjective (Na)|強制的な参加ではなく、自発的な参加を促すべきだ。|きょうせいてきな さんかでは なく、 じはつてきな さんかを うながすべきだ。|Seharusnya mendorong partisipasi sukarela, bukan partisipasi yang dipaksakan.
+相互|そうご|sougo|saling / timbal balik / mutual|Adjective (Na)|相互理解がなければ、良い関係は築けない。|そうごりかいが なければ、 よい かんけいは きずけない。|Tanpa saling memahami, hubungan yang baik tidak bisa dibangun.
+一方的|いっぽうてき|ippouteki|sepihak / satu arah|Adjective (Na)|一方的な意見ばかり主張するのは良くない。|いっぽうてきな いけんばかり しゅちょうするのは よくない。|Tidak baik hanya mengemukakan pendapat yang sepihak.
+対等|たいとう|taitou|setara / sejajar / sama derajat|Adjective (Na)|両国は対等な立場で交渉を進めた。|りょうこくは たいとうな たちばで こうしょうを すすめた。|Kedua negara melanjutkan negosiasi dengan posisi yang setara.
+上品|じょうひん|jouhin|elegan / halus / berwibawa|Adjective (Na)|彼女の上品な振る舞いは周囲の人々を魅了した。|かのじょの じょうひんな ふるまいは しゅういの ひとびとを みりょうした。|Perilakunya yang elegan memikat orang-orang di sekitarnya.
+下品|げひん|gehin|kasar / vulgar / tidak sopan|Adjective (Na)|下品な言葉遣いは人の印象を大きく悪くする。|げひんな ことばづかいは ひとの いんしょうを おおきく わるくする。|Pilihan kata yang kasar sangat merusak kesan seseorang.
+誠意|せいい|seii|tulus / dengan hati|Adjective (Na)|誠意ある対応が顧客の信頼を得るために必要だ。|せいいある たいおうが こきゃくの しんらいを えるために ひつようだ。|Respons yang tulus diperlukan untuk mendapatkan kepercayaan pelanggan.
+無駄|むだ|muda|sia-sia / percuma / boros|Adjective (Na)|無駄な時間を減らして、もっと効率よく働きたい。|むだな じかんを へらして、 もっと こうりつよく はたらきたい。|Saya ingin mengurangi waktu yang terbuang sia-sia dan bekerja lebih efisien.
+有益|ゆうえき|yuueki|bermanfaat / berguna|Adjective (Na)|この本は実生活に有益な情報が多く含まれている。|この ほんは じっせいかつに ゆうえきな じょうほうが おおく ふくまれている。|Buku ini mengandung banyak informasi yang bermanfaat untuk kehidupan sehari-hari.
+有害|ゆうがい|yuugai|berbahaya / merugikan / beracun|Adjective (Na)|過度な飲酒は体に有害であることが証明されている。|かどな いんしゅは からだに ゆうがいであることが しょうめいされている。|Sudah terbukti bahwa minum alkohol berlebihan berbahaya bagi tubuh.
+無害|むがい|mugai|tidak berbahaya / aman|Adjective (Na)|この化学物質は人体に無害だと研究者が確認した。|この かがくぶっしつは じんたいに むがいだと けんきゅうしゃが かくにんした。|Para peneliti memastikan bahwa zat kimia ini tidak berbahaya bagi tubuh manusia.
+快適|かいてき|kaiteki|nyaman / menyenangkan|Adjective (Na)|快適な職場環境は社員の生産性を高める。|かいてきな しょくばかんきょうは しゃいんの せいさんせいを たかめる。|Lingkungan kerja yang nyaman meningkatkan produktivitas karyawan.
+不快|ふかい|fukai|tidak nyaman / tidak enak / tidak menyenangkan|Adjective (Na)|騒音は周囲の人にとって不快な環境を作り出す。|そうおんは しゅういの ひとに とって ふかいな かんきょうを つくりだす。|Kebisingan menciptakan lingkungan yang tidak nyaman bagi orang di sekitarnya.
+幸福|こうふく|koufuku|bahagia / sejahtera|Adjective (Na)|小さな喜びの積み重ねが幸福な人生を作ると思う。|ちいさな よろこびの つみかさねが こうふくな じんせいを つくると おもう。|Saya pikir akumulasi kebahagiaan kecil yang menciptakan kehidupan yang bahagia.
+不幸|ふこう|fukou|tidak bahagia / sial / malang|Adjective (Na)|不幸な出来事が続いても、希望を持ち続けることが大切だ。|ふこうな できごとが つづいても、 きぼうを もちつづけることが たいせつだ。|Penting untuk terus memiliki harapan meskipun kejadian yang tidak bahagia terus berlanjut.
+素直|すなお|sunao|penurut / jujur / tulus / tidak membantah|Adjective (Na)|素直な子どもは教えやすくて、成長も早い。|すなおな こどもは おしえやすくて、 せいちょうも はやい。|Anak yang penurut mudah diajar dan tumbuh dengan cepat.
+頑固|がんこ|ganko|keras kepala / teguh pendirian|Adjective (Na)|彼は頑固な性格で、一度決めたことを変えない。|かれは がんこな せいかくで、 いちど きめたことを かえない。|Dia berwatak keras kepala dan tidak mengubah keputusan yang sudah dibuat.
+素朴|そぼく|soboku|sederhana / polos / apa adanya|Adjective (Na)|田舎の人々の素朴な生活が私の心を和ませた。|いなかの ひとびとの そぼくな せいかつが わたしの こころを なごませた。|Kehidupan sederhana orang-orang di pedesaan menenangkan hati saya.
+洗練|せんれん|senren|halus / elegan / berkelas|Adjective (Na)|彼女の洗練されたセンスはファッション業界で注目されている。|かのじょの せんれんされた センスは ファッション ぎょうかいで ちゅうもくされている。|Selera yang halus darinya menarik perhatian di industri fashion.
+粗雑|そざつ|sozatsu|kasar / sembarangan / asal-asalan|Adjective (Na)|粗雑な仕事は顧客の信頼を失う原因になる。|そざつな しごとは こきゃくの しんらいを うしなう げんいんに なる。|Pekerjaan yang asal-asalan menjadi penyebab hilangnya kepercayaan pelanggan.
+高度|こうど|koudo|tinggi / canggih / maju|Adjective (Na)|この技術は高度な専門知識を必要とする。|この ぎじゅつは こうどな せんもんちしきを ひつようと する。|Teknologi ini memerlukan pengetahuan ahli yang tinggi.
+低度|ていど|teido|rendah / standar rendah|Adjective (Na)|低度な品質の製品はすぐに壊れてしまうことが多い。|ていどな ひんしつの せいひんは すぐに こわれてしまうことが おおい。|Produk dengan kualitas rendah sering kali cepat rusak.
+複雑|ふくざつ|fukuzatsu2|kompleks / rumit|Adjective (Na)|人間関係は複雑で、簡単には理解できないことが多い。|にんげんかんけいは ふくざつで、 かんたんには りかいできないことが おおい。|Hubungan manusia itu kompleks dan sering kali tidak mudah dipahami.
+単調|たんちょう|tanchou|monoton / membosankan / tidak bervariasi|Adjective (Na)|同じ作業を繰り返す単調な仕事は集中力が続かない。|おなじ さぎょうを くりかえす たんちょうな しごとは しゅうちゅうりょくが つづかない。|Pekerjaan monoton yang mengulang pekerjaan yang sama membuat konsentrasi sulit berlanjut.
+多様|たよう|tayou|beragam / bervariasi / majemuk|Adjective (Na)|多様な意見を取り入れることで、より良い決断ができる。|たような いけんを とりいれることで、 より よい けつだんが できる。|Dengan memasukkan berbagai pendapat yang beragam, keputusan yang lebih baik bisa dibuat.
+均一|きんいつ|kin'itsu|seragam / homogen / sama rata|Adjective (Na)|製品の品質を均一に保つことが工場の課題だ。|せいひんの ひんしつを きんいつに たもつことが こうじょうの かだいだ。|Mempertahankan kualitas produk yang seragam adalah tantangan bagi pabrik.
+不均一|ふきんいつ|fukin'itsu|tidak seragam / tidak merata|Adjective (Na)|不均一な品質の製品は消費者の不満を招く。|ふきんいつな ひんしつの せいひんは しょうひしゃの ふまんを まねく。|Produk dengan kualitas yang tidak seragam menyebabkan ketidakpuasan konsumen.
+活発|かっぱつ|kappatsu|aktif / bersemangat / lincah|Adjective (Na)|活発な子どもは学習能力も高い傾向がある。|かっぱつな こどもは がくしゅうのうりょくも たかい けいこうが ある。|Anak yang aktif cenderung juga memiliki kemampuan belajar yang tinggi.
+おとなしい||otonashii|pendiam / kalem / penurut|Adjective (I)|おとなしい性格の彼でも、不正には強く抗議した。|おとなしい せいかくの かれでも、 ふせいには つよく こうぎした。|Bahkan dia yang berwatak pendiam pun dengan tegas memprotes ketidakadilan.
+活気|かっき|kakki|penuh semangat / hidup / bergairah|Adjective (Na)|活気ある商店街は地域経済の活性化に貢献している。|かっきある しょうてんがいは ちいきけいざいの かっせいかに こうけんしている。|Kawasan perbelanjaan yang penuh semangat berkontribusi pada aktivasi ekonomi daerah.
+沈滞|ちんたい|chintai|stagnan / lesu / tidak berkembang|Adjective (Na)|沈滞した経済を立て直すための政策が求められている。|ちんたいした けいざいを たてなおすための せいさくが もとめられている。|Kebijakan untuk memulihkan ekonomi yang stagnan sangat diperlukan.
+豪華|ごうか|gouka|mewah / megah / glamor|Adjective (Na)|豪華なホテルに泊まるのは旅行の特別な楽しみだ。|ごうかな ホテルに とまるのは りょこうの とくべつな たのしみだ。|Menginap di hotel mewah adalah kesenangan khusus dalam perjalanan.
+質素|しっそ|shisso|sederhana / hemat / tidak berlebihan|Adjective (Na)|質素な生活を送りながらも、人生を楽しむことができる。|しっそな せいかつを おくりながらも、 じんせいを たのしむことが できる。|Sambil menjalani kehidupan yang sederhana, kita masih bisa menikmati hidup.
+誇り高い|ほこりたかい|hokoritakai|bangga / berjiwa besar / bermaruah|Adjective (I)|彼女は誇り高い職人で、自分の仕事に最大の努力を注ぐ。|かのじょは ほこりたかい しょくにんで、 じぶんの しごとに さいだいの どりょくを そそぐ。|Dia adalah pengrajin yang bangga dan mencurahkan usaha maksimal untuk pekerjaannya.
+卑しい|いやしい|iyashii|rendah / hina / vulgar|Adjective (I)|卑しい行為は他人の尊厳を傷つける。|いやしい こういは たにんの そんげんを きずつける。|Tindakan yang hina melukai martabat orang lain.
+若い|わかい|wakai|muda / berusia muda|Adjective (I)|若い世代が新しいアイデアで社会を変えていく。|わかい せだいが あたらしい アイデアで しゃかいを かえていく。|Generasi muda mengubah masyarakat dengan ide-ide baru.
+老いた|おいた|oita|tua / berusia lanjut|Adjective (I)|老いた親の面倒を見ることは子の責任だと思う。|おいた おやの めんどうを みることは こどもの せきにんだと おもう。|Saya pikir merawat orang tua yang sudah tua adalah tanggung jawab anak.
+新しい|あたらしい|atarashii|baru / segar / modern|Adjective (I)|新しい技術を積極的に学ぶことが大切な時代になった。|あたらしい ぎじゅつを せっきょくてきに まなぶことが たいせつな じだいに なった。|Ini telah menjadi zaman di mana penting untuk secara aktif mempelajari teknologi baru.
+古い|ふるい|furui|lama / kuno / usang|Adjective (I)|古い建物を保存することで地域の歴史を守ることができる。|ふるい たてものを ほぞんすることで ちいきの れきしを まもることが できる。|Dengan melestarikan bangunan lama, sejarah daerah bisa dijaga.
+甘い|あまい|amai|manis / lunak / permisif|Adjective (I)|子供に甘い親は将来的に問題を引き起こすことがある。|こどもに あまい おやは しょうらいてきに もんだいを ひきおこすことが ある。|Orang tua yang lunak terhadap anak bisa menimbulkan masalah di masa depan.
+辛い|つらい|tsurai|berat / menyakitkan / sulit|Adjective (I)|辛い経験も後になって振り返れば成長の糧になる。|つらい けいけんも あとに なって ふりかえれば せいちょうの かてに なる。|Pengalaman yang menyakitkan pun, jika dilihat ke belakang kemudian hari, akan menjadi bahan tumbuh.
+苦しい|くるしい|kurushii|menderita / tersiksa / sesak|Adjective (I)|経済的に苦しい状況でも、諦めずに頑張り続けた。|けいざいてきに くるしい じょうきょうでも、 あきらめずに がんばりつづけた。|Meskipun dalam situasi yang sulit secara ekonomi, saya terus berusaha tanpa menyerah.
+楽しい|たのしい|tanoshii|menyenangkan / menggembirakan|Adjective (I)|楽しい思い出は人生の宝物になる。|たのしい おもいでは じんせいの たからものに なる。|Kenangan yang menyenangkan menjadi harta kehidupan.
+悲しい|かなしい|kanashii|sedih / mengharukan|Adjective (I)|悲しい映画を見て、思わず涙が出てしまった。|かなしい えいがを みて、 おもわず なみだが でてしまった。|Menonton film yang sedih, tanpa sadar air mata mengalir.
+寂しい|さびしい|sabishii|kesepian / sepi / sendiri|Adjective (I)|一人暮らしを始めた最初の頃はとても寂しかった。|ひとりぐらしを はじめた さいしょの ころは とても さびしかった。|Pada awal mulai tinggal sendiri, saya sangat kesepian.
+懐かしい|なつかしい|natsukashii|nostalgia / rindu / penuh kenangan|Adjective (I)|故郷の景色を見ると、懐かしい気持ちになる。|こきょうの けしきを みると、 なつかしい きもちに なる。|Ketika melihat pemandangan kampung halaman, saya merasakan nostalgia.
+恥ずかしい|はずかしい|hazukashii|malu / memalukan|Adjective (I)|大勢の前で失敗してとても恥ずかしかった。|おおぜいの まえで しっぱいして とても はずかしかった。|Saya sangat malu karena gagal di depan banyak orang.
+羨ましい|うらやましい|urayamashii|iri / cemburu / ingin seperti|Adjective (I)|彼の才能が羨ましくて、自分も頑張ろうと思った。|かれの さいのうが うらやましくて、 じぶんも がんばろうと おもった。|Saya iri dengan bakatnya dan berpikir untuk berusaha sendiri juga.
+珍しい|めずらしい|mezurashii|langka / jarang / tidak biasa|Adjective (I)|この植物は日本では珍しく、特別な環境でしか育たない。|この しょくぶつは にほんでは めずらしく、 とくべつな かんきょうでしか そだたない。|Tanaman ini langka di Jepang dan hanya tumbuh di lingkungan khusus.
+惜しい|おしい|oshii|sayang / disayangkan / hampir|Adjective (I)|あと少しで合格だったのに、本当に惜しかった。|あと すこしで ごうかくだったのに、 ほんとうに おしかった。|Sayang sekali, padahal tinggal sedikit lagi sudah bisa lulus.
+懸命|けんめい|kenmei|sepenuh hati / sungguh-sungguh / keras|Adjective (Na)|彼は懸命に働いて家族を養っている。|かれは けんめいに はたらいて かぞくを やしなっている。|Dia bekerja sepenuh hati untuk menafkahi keluarganya.
+華やか|はなやか|hanayaka|meriah / semarak / mencolok|Adjective (Na)|華やかなパーティーで多くの著名人が集まった。|はなやかな パーティーで おおくの ちょめいじんが あつまった。|Banyak orang terkenal berkumpul di pesta yang meriah.
+地味|じみ|jimi|sederhana / tidak mencolok / kalem|Adjective (Na)|彼女の地味な服装とは裏腹に、性格はとても明るい。|かのじょの じみな ふくそうとは うらはらに、 せいかくは とても あかるい。|Berlawanan dengan penampilannya yang sederhana, kepribadiannya sangat ceria.
+おめでたい||omedetai|berbahagia / menyenangkan / menggembirakan|Adjective (I)|おめでたい席には赤と白の飾りが定番だ。|おめでたい せきには あかと しろの かざりが ていばんだ。|Dekorasi merah dan putih sudah standar untuk acara yang membahagiakan.
+縁起がいい|えんぎがいい|engiga ii|membawa keberuntungan / pertanda baik|Adjective (I)|富士山を初夢で見ることは縁起がいいと言われている。|ふじさんを はつゆめで みることは えんぎがいいと いわれている。|Dikatakan bahwa melihat Gunung Fuji dalam mimpi pertama tahun baru adalah pertanda baik.
+縁起が悪い|えんぎがわるい|engiga warui|sial / pertanda buruk|Adjective (I)|四という数字は縁起が悪いと言われることが多い。|し という すうじは えんぎが わるいと いわれることが おおい。|Angka empat sering dikatakan membawa sial.
+恵まれた|めぐまれた|megumareta|beruntung / dikaruniai / diberkahi|Adjective (I)|恵まれた環境で育った彼は周りの苦労を理解しにくい。|めぐまれた かんきょうで そだった かれは まわりの くろうを りかいしにくい。|Dia yang dibesarkan di lingkungan yang beruntung sulit memahami penderitaan orang sekitarnya.
+惨め|みじめ|mijime|menyedihkan / merana / hina|Adjective (Na)|失敗して惨めな思いをしたが、その経験が成長につながった。|しっぱいして みじめな おもいを したが、 その けいけんが せいちょうに つながった。|Saya merasakan kesengsaraan karena gagal, tetapi pengalaman itu mengarah pada pertumbuhan.
+残念|ざんねん|zannen|kecewa / disayangkan / sayang|Adjective (Na)|試合に負けてとても残念だったが、次は頑張ろうと思った。|しあいに まけて とても ざんねんだったが、 つぎは がんばろうと おもった。|Saya sangat kecewa karena kalah dalam pertandingan, tetapi saya berpikir untuk berusaha lebih keras berikutnya.
+満足|まんぞく|manzoku|puas / merasa cukup|Adjective (Na)|目標を達成して、心から満足した気持ちになった。|もくひょうを たっせいして、 こころから まんぞくした きもちに なった。|Setelah mencapai tujuan, saya merasakan kepuasan dari lubuk hati.
+不満|ふまん|fuman|tidak puas / tidak senang / kecewa|Adjective (Na)|現状に不満を感じていても、行動しなければ何も変わらない。|げんじょうに ふまんを かんじていても、 こうどうしなければ なにも かわらない。|Meskipun merasa tidak puas dengan keadaan saat ini, tidak ada yang berubah jika tidak bertindak.
+幸い|さいわい|saiwai|beruntung / syukurlah / untungnya|Adjective (Na)|幸いなことに、事故の怪我は軽かった。|さいわいなことに、 じこの けがは かるかった。|Untungnya, luka akibat kecelakaan itu ringan.
+不幸せ|ふしあわせ|fushiawase|tidak bahagia / malang / sial|Adjective (Na)|不幸せな人生を送るのは、考え方次第で変えられる。|ふしあわせな じんせいを おくるのは、 かんがえかたしだいで かえられる。|Menjalani kehidupan yang tidak bahagia bisa diubah tergantung cara berpikir.
+頼もしい|たのもしい|tanomoshii|dapat diandalkan / meyakinkan / kuat|Adjective (I)|頼もしい部下がいるおかげで、仕事がうまく回っている。|たのもしい ぶかが いるおかげで、 しごとが うまく まわっている。|Berkat adanya bawahan yang dapat diandalkan, pekerjaan berjalan dengan baik.
+情けない|なさけない|nasakenai|menyedihkan / memalukan / memprihatinkan|Adjective (I)|こんな小さなことで諦めるなんて、情けない話だ。|こんな ちいさなことで あきらめるなんて、 なさけない はなしだ。|Sungguh memprihatinkan bahwa menyerah karena hal sekecil ini.
+ふさわしい||fusawashii|pantas / sesuai / layak|Adjective (I)|彼はこのポジションにふさわしい能力を持っている。|かれは この ポジションに ふさわしい のうりょくを もっている。|Dia memiliki kemampuan yang pantas untuk posisi ini.
+相応しい|ふさわしい|fusawashii2|sesuai / pantas / cocok|Adjective (I)|この場にふさわしい服装で参加することが求められる。|この ばに ふさわしい ふくそうで さんかすることが もとめられる。|Diminta untuk berpartisipasi dengan pakaian yang sesuai dengan tempat ini.
+等しい|ひとしい|hitoshii|sama / setara / identik|Adjective (I)|この二つの三角形は面積が等しい。|この ふたつの さんかっけいは めんせきが ひとしい。|Dua segitiga ini memiliki luas yang sama.
+異なる|ことなる|kotonaru|berbeda / berlainan|Adjective (I)|二人の意見は根本的に異なっていたので、合意に至らなかった。|ふたりの いけんは こんぽんてきに ことなっていたので、 ごういに いたらなかった。|Pendapat keduanya berbeda secara mendasar sehingga tidak mencapai kesepakatan.
+新たな|あらたな|aratana|baru / segar (formal)|Adjective (Na)|新たな目標を設定して、挑戦を続けることが重要だ。|あらたな もくひょうを せっていして、 ちょうせんを つづけることが じゅうようだ。|Penting untuk menetapkan tujuan baru dan terus menghadapi tantangan.
+よそよそしい||yosoyososhii|dingin / tidak akrab / menjaga jarak|Adjective (I)|以前は仲が良かったのに、最近彼はよそよそしい態度をとる。|いぜんは なかが よかったのに、 さいきん かれは よそよそしい たいどを とる。|Dulu kami akrab, tetapi belakangan ini dia bersikap menjaga jarak.
+和やか|なごやか|nagoyaka|harmonis / akrab / hangat|Adjective (Na)|和やかな雰囲気の中で会議が進んだ。|なごやかな ふんいきの なかで かいぎが すすんだ。|Rapat berlangsung dalam suasana yang harmonis.
+にぎやか|賑やか|nigiyaka2|ramai / meriah / semarak|Adjective (Na)|新年の祭りはとてもにぎやかで、町全体が活気に溢れていた。|しんねんの まつりは とても にぎやかで、 まち ぜんたいが かっきに あふれていた。|Festival Tahun Baru sangat meriah dan seluruh kota dipenuhi semangat.
+清らか|きよらか|kiyoraka|bersih / murni / suci|Adjective (Na)|山から流れる清らかな水は飲料に適している。|やまから ながれる きよらかな みずは いんりょうに てきしている。|Air jernih yang mengalir dari pegunungan cocok untuk diminum.
+汚い|きたない|kitanai|kotor / jorok / tidak bersih|Adjective (I)|汚い手で食事をするのは衛生的に問題がある。|きたない てで しょくじを するのは えいせいてきに もんだいが ある。|Makan dengan tangan kotor adalah masalah dari segi kebersihan.
+綺麗|きれい|kirei|cantik / indah / bersih|Adjective (Na)|桜の花が綺麗に咲いて、公園に多くの人が集まった。|さくらの はなが きれいに さいて、 こうえんに おおくの ひとが あつまった。|Bunga sakura mekar dengan indah dan banyak orang berkumpul di taman.
+醜い|みにくい|minikui|jelek / buruk rupa / tidak menarik|Adjective (I)|外見が醜くても、心が美しければ本当の美しさがある。|がいけんが みにくくても、 こころが うつくしければ ほんとうの うつくしさが ある。|Meskipun penampilan jelek, jika hatinya indah maka ada keindahan sejati.
+哀れ|あわれ|aware|kasihan / menyedihkan / memilukan|Adjective (Na)|哀れな状況に置かれた人々を助けることが私たちの義務だ。|あわれな じょうきょうに おかれた ひとびとを たすけることが わたしたちの ぎむだ。|Membantu orang-orang yang berada dalam situasi yang menyedihkan adalah kewajiban kita.
+あっさり||assari|sederhana / ringan / tidak berlebihan|Adjective (Na)|彼はあっさりとした性格で、物事をくよくよ考えない。|かれは あっさりとした せいかくで、 ものごとを くよくよ かんがえない。|Dia berwatak yang sederhana dan tidak memikirkan sesuatu secara berlebihan.
+すっきり||sukkiri|segar / lega / rapi|Adjective (Na)|部屋を掃除したらすっきりした気持ちになれた。|へやを そうじしたら すっきりした きもちに なれた。|Setelah membersihkan kamar, saya merasa lega dan segar.
+さわやか||sawayaka|segar / menyegarkan / bersih|Adjective (Na)|さわやかな朝の空気を吸いながら散歩するのが好きだ。|さわやかな あさの くうきを すいながら さんぽするのが すきだ。|Saya suka berjalan sambil menghirup udara pagi yang segar.
+のどか||nodoka|tenang / damai / tenteram|Adjective (Na)|のどかな田舎の風景を見ていると、心が落ち着く。|のどかな いなかの ふうけいを みていると、 こころが おちつく。|Ketika melihat pemandangan pedesaan yang damai, hati menjadi tenang.
+穏やか|おだやか|odayaka2|tenang / lembut / kalem|Adjective (Na)|彼の穏やかな声が心を落ち着かせてくれた。|かれの おだやかな こえが こころを おちつかせてくれた。|Suaranya yang tenang menenangkan hati saya.
+激しい|はげしい|hageshii2|intens / sengit / dahsyat|Adjective (I)|選手たちの激しい練習が実を結び、優勝することができた。|せんしゅたちの はげしい れんしゅうが みを むすび、 ゆうしょうすることができた。|Latihan para atlet yang intens membuahkan hasil dan mereka bisa menjadi juara.
+乱暴|らんぼう|ranbou|kasar / brutal / sembarangan|Adjective (Na)|乱暴な言葉は人間関係を壊す原因になる。|らんぼうな ことばは にんげんかんけいを こわす げんいんに なる。|Kata-kata yang kasar menjadi penyebab rusaknya hubungan antar manusia.
+丁重|ていちょう|teichou|sopan / hormat / penuh tata krama|Adjective (Na)|お客様には丁重な対応を心がけましょう。|おきゃくさまには ていちょうな たいおうを こころがけましょう。|Mari berusaha untuk memberikan respons yang sopan kepada pelanggan.
+愉快|ゆかい|yukai|menyenangkan / lucu / menggembirakan|Adjective (Na)|愉快な仲間と過ごした時間はかけがえのない思い出だ。|ゆかいな なかまと すごした じかんは かけがえのない おもいでだ。|Waktu yang dihabiskan bersama teman-teman yang menyenangkan adalah kenangan yang tak ternilai.
+不愉快|ふゆかい|fuyukai|tidak menyenangkan / tidak nyaman / menjengkelkan|Adjective (Na)|彼の不愉快な態度が会議の雰囲気を悪くした。|かれの ふゆかいな たいどが かいぎの ふんいきを わるくした。|Sikap tidak menyenangkannya merusak suasana rapat.
+深刻|しんこく|shinkoku2|serius / gawat / berat|Adjective (Na)|水不足は世界規模で深刻な問題になっている。|みずぶそくは せかいきぼで しんこくな もんだいに なっている。|Kekurangan air telah menjadi masalah serius dalam skala global.
+軽微|けいび|keibi|ringan / tidak serius / kecil|Adjective (Na)|幸い、事故による被害は軽微だった。|さいわい、 じこによる ひがいは けいびだった。|Untungnya, kerugian akibat kecelakaan itu ringan.
+過度|かど|kado|berlebihan / terlalu / ekstrem|Adjective (Na)|過度なストレスは心身の健康に悪影響を与える。|かどな ストレスは しんしんの けんこうに あくえいきょうを あたえる。|Stres yang berlebihan berdampak buruk pada kesehatan jiwa dan raga.
+適度|てきど|tekido|sedang / secukupnya / sewajarnya|Adjective (Na)|適度な運動は健康維持に大切だと医者に勧められた。|てきどな うんどうは けんこういじに たいせつだと いしゃに すすめられた。|Saya disarankan oleh dokter bahwa olahraga yang sedang penting untuk menjaga kesehatan.
+完全|かんぜん|kanzen|sempurna / penuh / total|Adjective (Na)|完全な計画などなく、柔軟に対応することが大切だ。|かんぜんな けいかくなどなく、 じゅうなんに たいおうすることが たいせつだ。|Tidak ada rencana yang sempurna, penting untuk merespons secara fleksibel.
+不完全|ふかんぜん|fukanzen|tidak sempurna / ada kekurangan|Adjective (Na)|不完全な情報をもとに判断するのは危険だ。|ふかんぜんな じょうほうを もとに はんだんするのは きけんだ。|Membuat keputusan berdasarkan informasi yang tidak lengkap adalah berbahaya.
+粗末|そまつ|somatsu|kasar / tidak rapi / tidak berharga|Adjective (Na)|粗末な扱いを受けた従業員はやる気をなくす。|そまつな あつかいを うけた じゅうぎょういんは やるきを なくす。|Karyawan yang diperlakukan dengan buruk kehilangan motivasi.
+丁寧|ていねい|teinei2|teliti / hati-hati / rajin|Adjective (Na)|丁寧な作業が高品質な製品を生み出す。|ていねいな さぎょうが こうひんしつな せいひんを うみだす。|Pekerjaan yang teliti menghasilkan produk berkualitas tinggi.
+大げさ|おおげさ|oogesa|berlebihan / melebih-lebihkan / dramatis|Adjective (Na)|彼の大げさな反応に周りの人は戸惑った。|かれの おおげさな はんのうに まわりの ひとは とまどった。|Orang-orang di sekitarnya kebingungan dengan reaksinya yang berlebihan.
+控えめ|ひかえめ|hikaeme|rendah hati / sederhana / tidak berlebihan|Adjective (Na)|控えめな性格の人でも、自分の意見はしっかり持つべきだ。|ひかえめな せいかくの ひとでも、 じぶんの いけんは しっかり もつべきだ。|Bahkan orang yang berwatak rendah hati sekalipun seharusnya memiliki pendapat sendiri yang kuat.
+執拗|しつよう|shitsuyou|gigih / keras kepala / tidak mau menyerah|Adjective (Na)|彼は執拗に同じ質問を繰り返し、相手を困らせた。|かれは しつような に おなじ しつもんを くりかえし、 あいてを こまらせた。|Dia berulang kali mengajukan pertanyaan yang sama dengan gigih dan membuat lawan bicaranya kesulitan.
+なだらか||nadaraka|landai / mulus / bertahap|Adjective (Na)|この山のなだらかな斜面は初心者でも登りやすい。|この やまの なだらかな しゃめんは しょしんしゃでも のぼりやすい。|Lereng pegunungan yang landai ini mudah didaki bahkan oleh pemula.
+険しい|けわしい|kewashii|terjal / curam / keras|Adjective (I)|険しい山道を登るのは体力が必要だ。|けわしい やまみちを のぼるのは たいりょくが ひつようだ。|Mendaki jalan gunung yang terjal memerlukan stamina.
+鮮やか|あざやか|azayaka|cerah / mencolok / jelas|Adjective (Na)|秋の紅葉は鮮やかな色で山を染める。|あきの こうようは あざやかな いろで やまを そめる。|Daun-daun musim gugur mewarnai pegunungan dengan warna yang cerah.
+薄い|うすい|usui|tipis / pucat / encer / hambar|Adjective (I)|このスープは薄くて味がほとんどしない。|この スープは うすくて あじが ほとんど しない。|Sup ini encer dan hampir tidak berasa.
+濃い|こい|koi|pekat / tebal / kuat / gelap|Adjective (I)|朝は濃いコーヒーを飲まないと目が覚めない。|あさは こい コーヒーを のまないと めが さめない。|Di pagi hari, mata tidak bisa terbuka tanpa minum kopi yang kuat.
+細い|ほそい|hosoi|tipis / ramping / kurus|Adjective (I)|細い路地を通り抜けると、古い神社があった。|ほそい ろじを とおりぬけると、 ふるい じんじゃが あった。|Ketika melewati gang yang sempit, ada kuil tua di sana.
+太い|ふとい|futoi|tebal / gemuk / besar|Adjective (I)|この木は幹が太くて、何百年も生きているように見える。|この きは みきが ふとくて、 なんびゃくねんも いきているように みえる。|Pohon ini memiliki batang yang tebal dan terlihat seolah telah hidup beratus-ratus tahun.
+浅い|あさい|asai2|dangkal / tidak mendalam|Adjective (I)|彼の知識は浅く、専門的な質問には答えられなかった。|かれの ちしきは あさく、 せんもんてきな しつもんには こたえられなかった。|Pengetahuannya dangkal dan tidak bisa menjawab pertanyaan yang spesifik.
+近い|ちかい|chikai|dekat / tidak jauh|Adjective (I)|駅に近い場所に住むと、通勤がとても楽になる。|えきに ちかい ばしょに すむと、 つうきんが とても らくに なる。|Jika tinggal di tempat yang dekat dari stasiun, komuter menjadi sangat mudah.
+遠い|とおい|tooi|jauh / terpencil|Adjective (I)|故郷が遠いので、年に一度しか帰れない。|こきょうが とおいので、 ねんに いちどしか かえれない。|Karena kampung halaman jauh, saya hanya bisa pulang sekali setahun.
+丸い|まるい|marui|bulat / lingkaran|Adjective (I)|地球は丸いということを最初に証明したのは誰だろうか。|ちきゅうは まるいということを さいしょに しょうめいしたのは だれだろうか。|Siapakah yang pertama kali membuktikan bahwa bumi itu bulat?
+鋭利|えいり|eiri|sangat tajam / runcing|Adjective (Na)|鋭利なナイフは料理に便利だが、取り扱いに注意が必要だ。|えいりな ナイフは りょうりに べんりだが、 とりあつかいに ちゅういが ひつようだ。|Pisau yang sangat tajam berguna untuk memasak, tetapi perlu berhati-hati dalam penggunaannya.
+穏やか|おだやか|odayaka3|tenang / tenteram / tidak bergelombang|Adjective (Na)|穏やかな海を眺めながらコーヒーを飲む時間が好きだ。|おだやかな うみを ながめながら コーヒーを のむ じかんが すきだ。|Saya suka waktu minum kopi sambil memandang laut yang tenang.
+荒い|あらい|arai|kasar / keras / tidak halus|Adjective (I)|荒い波が船の航行を困難にした。|あらい なみが ふねの こうこうを こんなんに した。|Gelombang yang keras menyulitkan pelayaran kapal.
+険悪|けんあく|ken'aku|tidak bersahabat / tegang / buruk|Adjective (Na)|二国間の険悪な関係が戦争のリスクを高めている。|にこくかんの けんあくな かんけいが せんそうの リスクを たかめている。|Hubungan yang tegang antara dua negara meningkatkan risiko perang.
+友好的|ゆうこうてき|yuukouteki|ramah / bersahabat|Adjective (Na)|友好的な雰囲気の中で交渉を進めることができた。|ゆうこうてきな ふんいきの なかで こうしょうを すすめることができた。|Negosiasi bisa dilanjutkan dalam suasana yang bersahabat.
+敵対的|てきたいてき|tekitaiteki|bermusuhan / antagonis|Adjective (Na)|敵対的な態度を取るより、協力することが大切だ。|てきたいてきな たいどを とるより、 きょうりょくすることが たいせつだ。|Lebih penting untuk bekerja sama daripada bersikap bermusuhan.
+頑丈|がんじょう|ganjou|kuat / kokoh / tahan lama|Adjective (Na)|頑丈な建物は地震の際にも安全を確保できる。|がんじょうな たてものは じしんの さいにも あんぜんを かくほできる。|Bangunan yang kokoh bisa memastikan keamanan bahkan saat gempa bumi.
+もろい||moroi|rapuh / lemah / mudah hancur|Adjective (I)|この素材はもろいので、取り扱いに注意してください。|この そざいは もろいので、 とりあつかいに ちゅういしてください。|Bahan ini rapuh, jadi harap berhati-hati dalam penanganannya.
+惜しげない|おしげない|oshigenai|dermawan / murah hati / tanpa sayang|Adjective (I)|彼は惜しげなく時間と知識を後輩たちのために使った。|かれは おしげなく じかんと ちしきを こうはいたちの ために つかった。|Dia tanpa sayang menggunakan waktu dan pengetahuannya untuk para junior.
+気まぐれ|きまぐれ|kimagure|berubah-ubah / tidak konsisten / gila-gilaan|Adjective (Na)|気まぐれな天気が農作業を難しくしている。|きまぐれな てんきが のうさぎょうを むずかしくしている。|Cuaca yang berubah-ubah mempersulit pekerjaan pertanian.
+着実|ちゃくじつ|chakujitsu|stabil / konsisten / pasti|Adjective (Na)|着実な努力が長期的な成功につながる。|ちゃくじつな どりょくが ちょうきてきな せいこうに つながる。|Usaha yang konsisten mengarah pada kesuksesan jangka panjang.
+不安定|ふあんてい|fuantei|tidak stabil / goyah / labil|Adjective (Na)|不安定な経済状況が人々の生活に影響を与えている。|ふあんていな けいざいじょうきょうが ひとびとの せいかつに えいきょうを あたえている。|Kondisi ekonomi yang tidak stabil mempengaruhi kehidupan masyarakat.
+安定|あんてい|antei|stabil / mantap / kokoh|Adjective (Na)|安定した収入があることで、将来の計画が立てやすい。|あんていした しゅうにゅうが あることで、 しょうらいの けいかくが たてやすい。|Dengan adanya pendapatan yang stabil, mudah untuk membuat rencana masa depan.
+危うい|あやうい|ayaui|berbahaya / hampir saja / kritis|Adjective (I)|彼の危うい行動が周囲の人を心配させた。|かれの あやうい こうどうが しゅういの ひとを しんぱいさせた。|Tindakannya yang berbahaya membuat orang-orang di sekitarnya khawatir.
+不稳当|ふおんとう|fuontou|tidak pantas / tidak pada tempatnya|Adjective (Na)|その場にふさわしくない不穏当な発言が問題になった。|その ばに ふさわしくない ふおんとうな はつげんが もんだいに なった。|Pernyataan yang tidak pantas dan tidak sesuai dengan tempat itu menjadi masalah.
+穏当|おんとう|ontou|pantas / wajar / layak|Adjective (Na)|穏当な解決策を見つけることが双方にとって最善だ。|おんとうな かいけつさくを みつけることが そうほうに とって さいぜんだ。|Menemukan solusi yang wajar adalah yang terbaik bagi kedua pihak.
+鮮明|せんめい|senmei|jelas / terang / tajam|Adjective (Na)|あの事件の記憶は今でも鮮明に残っている。|あの じけんの きおくは いまでも せんめいに のこっている。|Kenangan peristiwa itu masih tersisa dengan jelas hingga sekarang.
+不鮮明|ふせんめい|fusenmei|tidak jelas / kabur / buram|Adjective (Na)|古い写真は色が不鮮明になってしまっていた。|ふるい しゃしんは いろが ふせんめいに なってしまっていた。|Warna foto lama itu sudah menjadi kabur.
+素晴らしい|すばらしい|subarashii|luar biasa / menakjubkan / mengagumkan|Adjective (I)|彼女の演奏は素晴らしく、会場全体が感動した。|かのじょの えんそう は すばらしく、 かいじょう ぜんたいが かんどうした。|Penampilannya luar biasa dan seluruh hadirin sangat tergerak.
+ひどい||hidoi|parah / kejam / menyedihkan|Adjective (I)|ひどい天気のせいで、試合が中止になってしまった。|ひどい てんきの せいで、 しあいが ちゅうしに なってしまった。|Karena cuaca yang parah, pertandingan terpaksa dibatalkan.
+すごい||sugoi|luar biasa / hebat / dahsyat|Adjective (I)|彼のプレゼンはすごくて、全員が圧倒された。|かれの プレゼンは すごくて、 ぜんいんが あっとうされた。|Presentasinya luar biasa dan semua orang terkagum-kagum.
+おかしい||okashii|aneh / lucu / tidak wajar|Adjective (I)|彼の話はおかしくて、みんなが笑い出した。|かれの はなしは おかしくて、 みんなが わらいだした。|Ceritanya lucu dan semua orang mulai tertawa.
+粗い|あらい|arai2|kasar / tidak halus / berbutir|Adjective (I)|この紙ヤスリは粗いので、木材の研磨に適している。|この かみヤスリは あらいので、 もくざいの けんまに てきしている。|Ampelas ini kasar sehingga cocok untuk mengampelas kayu.
+細やか|こまやか|komayaka|detail / teliti / penuh perhatian|Adjective (Na)|彼女の細やかな気遣いに感謝している。|かのじょの こまやかな きづかいに かんしゃしている。|Saya berterima kasih atas perhatiannya yang penuh detail.

@@ -1,0 +1,552 @@
+諦める|あきらめる|akirameru|menyerah / putus asa|Verb (Ichidan)|どんなに難しくても諦めないでください。|どんなに むずかしくても あきらめないで ください。|Sesulit apapun, tolong jangan menyerah.
+怒る|おこる|okoru|marah|Verb (Godan)|先生は遅刻した学生を怒った。|せんせいは ちこくした がくせいを おこった。|Guru memarahi siswa yang terlambat.
+驚く|おどろく|odoroku|terkejut / kagum|Verb (Godan)|突然の知らせに皆が驚いた。|とつぜんの しらせに みなが おどろいた。|Semua orang terkejut dengan kabar yang tiba-tiba.
+落ち着く|おちつく|ochitsuku|tenang / menenangkan diri|Verb (Godan)|深呼吸して落ち着いてください。|しんこきゅうして おちついて ください。|Tolong tarik napas dalam-dalam dan tenang.
+選ぶ|えらぶ|erabu|memilih|Verb (Godan)|たくさんの候補の中から一つを選んだ。|たくさんの こうほの なかから ひとつを えらんだ。|Aku memilih satu dari banyak kandidat.
+応じる|おうじる|oujiru|merespons / menyesuaikan|Verb (Ichidan)|状況に応じて対応を変えてください。|じょうきょうに おうじて たいおうを かえて ください。|Tolong ubah penanganan sesuai situasi.
+思い込む|おもいこむ|omoikomu|percaya kuat / berasumsi|Verb (Godan)|彼は自分が正しいと思い込んでいる。|かれは じぶんが ただしいと おもいこんでいる。|Dia yakin sekali bahwa dirinya benar.
+気づく|きづく|kizuku|menyadari / mengetahui|Verb (Godan)|財布を忘れたことに途中で気づいた。|さいふを わすれたことに とちゅうで きづいた。|Aku menyadari di tengah jalan bahwa aku lupa dompet.
+断る|ことわる|kotowaru|menolak / menolak permintaan|Verb (Godan)|丁寧に相手の申し出を断った。|ていねいに あいての もうしでを ことわった。|Aku menolak tawaran lawan bicara dengan sopan.
+確認する|かくにんする|kakunin suru|mengonfirmasi / memeriksa|Verb (Irregular)|予約の前に内容を確認してください。|よやくの まえに ないようを かくにんして ください。|Tolong periksa isinya sebelum memesan.
+感じる|かんじる|kanjiru|merasakan|Verb (Ichidan)|春の暖かさを体全体で感じた。|はるの あたたかさを からだ ぜんたいで かんじた。|Aku merasakan kehangatan musim semi dengan seluruh tubuh.
+関係する|かんけいする|kankei suru|berhubungan / berkaitan|Verb (Irregular)|この問題は環境に関係することだ。|この もんだいは かんきょうに かんけいする ことだ。|Masalah ini berkaitan dengan lingkungan.
+決定する|けっていする|kettei suru|memutuskan / menetapkan|Verb (Irregular)|会議で新しい方針を決定した。|かいぎで あたらしい ほうしんを けっていした。|Kebijakan baru ditetapkan dalam rapat.
+後悔する|こうかいする|koukai suru|menyesal|Verb (Irregular)|あのとき諦めたことを後悔している。|あのとき あきらめたことを こうかいしている。|Aku menyesal karena menyerah saat itu.
+混乱する|こんらんする|konran suru|kebingungan / kacau|Verb (Irregular)|突然の変更で皆が混乱した。|とつぜんの へんこうで みなが こんらんした。|Semua orang kebingungan karena perubahan mendadak.
+叱る|しかる|shikaru|memarahi / menghukum|Verb (Godan)|親は子どもの失敗を叱った。|おやは こどもの しっぱいを しかった。|Orang tua memarahi kegagalan anak.
+従う|したがう|shitagau|mengikuti / patuh|Verb (Godan)|規則に従って行動してください。|きそくに したがって こうどうして ください。|Tolong bertindak sesuai aturan.
+準備する|じゅんびする|junbi suru|mempersiapkan|Verb (Irregular)|試験のために十分に準備した。|しけんの ために じゅうぶんに じゅんびした。|Aku mempersiapkan diri dengan cukup untuk ujian.
+信頼する|しんらいする|shinrai suru|mempercayai / mengandalkan|Verb (Irregular)|彼はいつも仲間を信頼している。|かれは いつも なかまを しんらいしている。|Dia selalu mempercayai rekan-rekannya.
+諦める|あきらめる|akirameru|menyerah|Verb (Ichidan)|夢を諦めるのはまだ早い。|ゆめを あきらめるのは まだ はやい。|Masih terlalu cepat untuk menyerah pada mimpi.
+集める|あつめる|atsumeru|mengumpulkan|Verb (Ichidan)|世界中の切手を集めるのが趣味だ。|せかいじゅうの きってを あつめるのが しゅみだ。|Hobi saya mengumpulkan perangko dari seluruh dunia.
+表す|あらわす|arawasu|mengungkapkan / menyatakan|Verb (Godan)|言葉で気持ちを表すのは難しい。|ことばで きもちを あらわすのは むずかしい。|Mengungkapkan perasaan dengan kata-kata itu sulit.
+改める|あらためる|aratameru|memperbaiki / mengubah|Verb (Ichidan)|悪い習慣を改める必要がある。|わるい しゅうかんを あらためる ひつようが ある。|Perlu memperbaiki kebiasaan buruk.
+憧れる|あこがれる|akogareru|merindukan / mengidolakan|Verb (Ichidan)|子どもの頃から医者に憧れていた。|こどもの ころから いしゃに あこがれていた。|Sejak kecil aku mengidolakan dokter.
+合わせる|あわせる|awaseru|menyesuaikan / menggabungkan|Verb (Ichidan)|スケジュールを相手に合わせる。|スケジュールを あいてに あわせる。|Menyesuaikan jadwal dengan lawan bicara.
+急ぐ|いそぐ|isogu|terburu-buru|Verb (Godan)|電車に乗り遅れないように急いだ。|でんしゃに のりおくれないように いそいだ。|Aku terburu-buru agar tidak ketinggalan kereta.
+祈る|いのる|inoru|berdoa / berharap|Verb (Godan)|試験の合格を祈っている。|しけんの ごうかくを いのっている。|Aku berdoa agar lulus ujian.
+疑う|うたがう|utagau|meragukan / mencurigai|Verb (Godan)|彼の言葉を疑う理由はない。|かれの ことばを うたがう りゆうは ない。|Tidak ada alasan untuk meragukan kata-katanya.
+失う|うしなう|ushinau|kehilangan|Verb (Godan)|事故で記憶を失ってしまった。|じこで きおくを うしなって しまった。|Aku kehilangan ingatan karena kecelakaan.
+訴える|うったえる|uttaeru|mengadukan / menggugat|Verb (Ichidan)|不当な扱いを会社に訴えた。|ふとうな あつかいを かいしゃに うったえた。|Aku mengadukan perlakuan tidak adil kepada perusahaan.
+得る|える|eru|mendapatkan / memperoleh|Verb (Ichidan)|努力して良い結果を得ることができた。|どりょくして よい けっかを えることが できた。|Dengan berusaha, aku bisa mendapatkan hasil yang baik.
+押さえる|おさえる|osaeru|menahan / mengontrol|Verb (Ichidan)|感情を押さえるのが難しかった。|かんじょうを おさえるのが むずかしかった。|Sulit menahan emosi.
+教わる|おそわる|osowaru|belajar dari / diajar|Verb (Godan)|先輩に料理を教わった。|せんぱいに りょうりを おそわった。|Aku belajar memasak dari senior.
+落とす|おとす|otosu|menjatuhkan / mengurangi|Verb (Godan)|スマホを床に落としてしまった。|スマホを ゆかに おとして しまった。|Aku menjatuhkan ponsel ke lantai tanpa sengaja.
+思い出す|おもいだす|omoidasu|mengingat kembali|Verb (Godan)|古い写真を見て昔を思い出した。|ふるい しゃしんを みて むかしを おもいだした。|Melihat foto lama, aku teringat masa lalu.
+終わらせる|おわらせる|owaraseru|menyelesaikan / mengakhiri|Verb (Ichidan)|早く仕事を終わらせて帰りたい。|はやく しごとを おわらせて かえりたい。|Aku ingin cepat menyelesaikan pekerjaan dan pulang.
+替える|かえる|kaeru|mengganti / menukar|Verb (Ichidan)|古い電池を新しいものに替えた。|ふるい でんちを あたらしいものに かえた。|Aku mengganti baterai lama dengan yang baru.
+欠かす|かかす|kakasu|melewatkan / tidak melakukan|Verb (Godan)|毎日の運動を欠かさない。|まいにちの うんどうを かかさない。|Aku tidak pernah melewatkan olahraga setiap hari.
+隠す|かくす|kakusu|menyembunyikan|Verb (Godan)|子どもがプレゼントを隠していた。|こどもが プレゼントを かくしていた。|Anak-anak menyembunyikan hadiah.
+重なる|かさなる|kasanaru|bertumpuk / tumpang tindih|Verb (Godan)|会議の予定が重なってしまった。|かいぎの よていが かさなって しまった。|Jadwal rapat tumpang tindih.
+稼ぐ|かせぐ|kasegu|menghasilkan uang / bekerja keras|Verb (Godan)|アルバイトでお金を稼いでいる。|アルバイトで おかねを かせいでいる。|Aku menghasilkan uang dari kerja paruh waktu.
+片付ける|かたづける|katazukeru|membereskan / merapikan|Verb (Ichidan)|食事の後でテーブルを片付けた。|しょくじの あとで テーブルを かたづけた。|Aku membereskan meja setelah makan.
+構う|かまう|kamau|peduli / mengurusi|Verb (Godan)|他人のことに構いすぎないほうがいい。|たにんの ことに かまいすぎない ほうが いい。|Sebaiknya jangan terlalu mengurusi urusan orang lain.
+通う|かよう|kayou|pergi-pulang / rutin mengunjungi|Verb (Godan)|毎日電車で学校に通っている。|まいにち でんしゃで がっこうに かよっている。|Aku pergi ke sekolah dengan kereta setiap hari.
+変わる|かわる|kawaru|berubah|Verb (Godan)|引越してから生活が大きく変わった。|ひっこして から せいかつが おおきく かわった。|Kehidupan berubah besar setelah pindah.
+考える|かんがえる|kangaeru|memikirkan / mempertimbangkan|Verb (Ichidan)|将来のことをよく考えてから決める。|しょうらいの ことを よく かんがえてから きめる。|Aku memutuskan setelah memikirkan masa depan dengan baik.
+聞こえる|きこえる|kikoeru|terdengar|Verb (Ichidan)|隣の部屋から音楽が聞こえる。|となりの へやから おんがくが きこえる。|Musik terdengar dari kamar sebelah.
+決める|きめる|kimeru|memutuskan / menentukan|Verb (Ichidan)|どの大学に行くか早く決めなければ。|どの だいがくに いくか はやく きめなければ。|Harus cepat memutuskan akan kuliah di mana.
+気をつける|きをつける|ki wo tsukeru|berhati-hati|Verb (Ichidan)|道を渡るときは車に気をつけて。|みちを わたるときは くるまに きをつけて。|Hati-hati terhadap mobil saat menyeberang jalan.
+加える|くわえる|kuwaeru|menambahkan|Verb (Ichidan)|料理に少し塩を加えた。|りょうりに すこし しおを くわえた。|Aku menambahkan sedikit garam ke masakan.
+比べる|くらべる|kuraberu|membandingkan|Verb (Ichidan)|去年と今年の成績を比べてみた。|きょねんと ことしの せいせきを くらべてみた。|Aku mencoba membandingkan nilai tahun lalu dan tahun ini.
+繰り返す|くりかえす|kurikaesu|mengulangi|Verb (Godan)|同じ失敗を繰り返さないように気をつける。|おなじ しっぱいを くりかえさないように きをつける。|Berhati-hati agar tidak mengulangi kesalahan yang sama.
+加わる|くわわる|kuwawaru|bergabung / ikut serta|Verb (Godan)|新しいメンバーがチームに加わった。|あたらしい メンバーが チームに くわわった。|Anggota baru bergabung dengan tim.
+消える|きえる|kieru|menghilang / padam|Verb (Ichidan)|夜空の星がだんだん消えていった。|よぞらの ほしが だんだん きえていった。|Bintang-bintang di langit malam perlahan menghilang.
+越える|こえる|koeru|melewati / melampaui|Verb (Ichidan)|目標を越えるために努力し続ける。|もくひょうを こえるために どりょくし つづける。|Aku terus berusaha untuk melampaui target.
+困る|こまる|komaru|kebingungan / kesulitan|Verb (Godan)|財布を忘れて本当に困った。|さいふを わすれて ほんとうに こまった。|Aku benar-benar kesulitan karena lupa dompet.
+込む|こむ|komu|ramai / padat|Verb (Godan)|週末の電車はとても込んでいる。|しゅうまつの でんしゃは とても こんでいる。|Kereta di akhir pekan sangat padat.
+壊す|こわす|kowasu|merusak|Verb (Godan)|うっかり花瓶を壊してしまった。|うっかり かびんを こわして しまった。|Aku tanpa sengaja merusak vas bunga.
+壊れる|こわれる|kowareru|rusak / hancur|Verb (Ichidan)|古い洗濯機がとうとう壊れた。|ふるい せんたくきが とうとう こわれた。|Mesin cuci tua akhirnya rusak.
+探す|さがす|sagasu|mencari|Verb (Godan)|なくした鍵をずっと探している。|なくした かぎを ずっと さがしている。|Aku terus mencari kunci yang hilang.
+下げる|さげる|sageru|menurunkan / mengurangi|Verb (Ichidan)|値段を少し下げてもらえますか。|ねだんを すこし さげて もらえますか。|Bisakah harganya diturunkan sedikit?
+支える|ささえる|sasaeru|menopang / mendukung|Verb (Ichidan)|家族が私の夢を支えてくれている。|かぞくが わたしの ゆめを ささえてくれている。|Keluarga mendukung impianku.
+誘う|さそう|sasou|mengajak / mengundang|Verb (Godan)|友達を映画に誘った。|ともだちを えいがに さそった。|Aku mengajak teman ke bioskop.
+叫ぶ|さけぶ|sakebu|berteriak|Verb (Godan)|助けを求めて大声で叫んだ。|たすけを もとめて おおごえで さけんだ。|Aku berteriak keras meminta pertolongan.
+触る|さわる|sawaru|menyentuh|Verb (Godan)|展示品には触らないでください。|てんじひんには さわらないで ください。|Tolong jangan menyentuh barang pameran.
+示す|しめす|shimesu|menunjukkan / memperlihatkan|Verb (Godan)|データで証拠を示した。|データで しょうこを しめした。|Aku menunjukkan bukti dengan data.
+信じる|しんじる|shinjiru|mempercayai|Verb (Ichidan)|彼の言葉を信じることにした。|かれの ことばを しんじることに した。|Aku memutuskan untuk mempercayai kata-katanya.
+調べる|しらべる|shiraberu|menyelidiki / memeriksa|Verb (Ichidan)|インターネットで情報を調べた。|インターネットで じょうほうを しらべた。|Aku mencari informasi di internet.
+過ぎる|すぎる|sugiru|terlalu / melewati|Verb (Ichidan)|食べすぎると体に悪い。|たべすぎると からだに わるい。|Makan terlalu banyak tidak baik untuk kesehatan.
+進む|すすむ|susumu|maju / berlanjut|Verb (Godan)|計画が順調に進んでいる。|けいかくが じゅんちょうに すすんでいる。|Rencana berjalan dengan lancar.
+勧める|すすめる|susumeru|merekomendasikan / menganjurkan|Verb (Ichidan)|友達にこの本を勧めた。|ともだちに この ほんを すすめた。|Aku merekomendasikan buku ini kepada teman.
+捨てる|すてる|suteru|membuang|Verb (Ichidan)|古い雑誌を捨てることにした。|ふるい ざっしを すてることに した。|Aku memutuskan untuk membuang majalah lama.
+済む|すむ|sumu|selesai / cukup|Verb (Godan)|宿題が済んだら遊んでいいよ。|しゅくだいが すんだら あそんでいいよ。|Kalau PR sudah selesai, boleh bermain.
+育てる|そだてる|sodateru|membesarkan / membudidayakan|Verb (Ichidan)|両親が私を大切に育ててくれた。|りょうしんが わたしを たいせつに そだてて くれた。|Orang tua membesarkan aku dengan penuh kasih sayang.
+揃える|そろえる|soroeru|merapikan / melengkapi|Verb (Ichidan)|靴を玄関に揃えて並べた。|くつを げんかんに そろえて ならべた。|Aku merapikan sepatu berjejer di pintu masuk.
+揃う|そろう|sorou|lengkap / berkumpul|Verb (Godan)|全員が揃ったので会議を始めよう。|ぜんいんが そろったので かいぎを はじめよう。|Semua sudah berkumpul, mari mulai rapat.
+倒れる|たおれる|taoreru|jatuh / roboh|Verb (Ichidan)|強い風で木が倒れた。|つよい かぜで きが たおれた。|Pohon roboh karena angin kencang.
+足りる|たりる|tariru|cukup / memadai|Verb (Ichidan)|お金が足りないので困っている。|おかねが たりないので こまっている。|Aku kesulitan karena uangnya tidak cukup.
+確かめる|たしかめる|tashikameru|memastikan / mengecek|Verb (Ichidan)|出かける前にガスを確かめた。|でかける まえに ガスを たしかめた。|Aku memastikan gas sebelum keluar.
+助ける|たすける|tasukeru|menolong / menyelamatkan|Verb (Ichidan)|溺れている子どもを助けた。|おぼれている こどもを たすけた。|Aku menolong anak yang tenggelam.
+楽しむ|たのしむ|tanoshimu|menikmati|Verb (Godan)|休日は音楽を聴いて楽しんでいる。|きゅうじつは おんがくを きいて たのしんでいる。|Di hari libur aku menikmati waktu dengan mendengarkan musik.
+頼む|たのむ|tanomu|meminta tolong / memesan|Verb (Godan)|先生に推薦状を頼んだ。|せんせいに すいせんじょうを たのんだ。|Aku meminta surat rekomendasi kepada guru.
+試す|ためす|tamesu|mencoba / menguji|Verb (Godan)|新しいレシピを試してみた。|あたらしい レシピを ためしてみた。|Aku mencoba resep baru.
+溜まる|たまる|tamaru|menumpuk / terakumulasi|Verb (Godan)|仕事のストレスが溜まっている。|しごとの ストレスが たまっている。|Stres pekerjaan menumpuk.
+伝える|つたえる|tsutaeru|menyampaikan / memberitahu|Verb (Ichidan)|大切なメッセージを正確に伝えた。|たいせつな メッセージを せいかくに つたえた。|Aku menyampaikan pesan penting dengan tepat.
+続ける|つづける|tsuzukeru|melanjutkan|Verb (Ichidan)|毎日練習を続けることが大切だ。|まいにち れんしゅうを つづけることが たいせつだ。|Penting untuk terus berlatih setiap hari.
+続く|つづく|tsuzuku|berlanjut / berlangsung terus|Verb (Godan)|雨が三日間も続いている。|あめが みっかかんも つづいている。|Hujan terus berlangsung selama tiga hari.
+繋がる|つながる|tsunagaru|terhubung / tersambung|Verb (Godan)|ネットワークにうまく繋がらない。|ネットワークに うまく つながらない。|Tidak bisa terhubung dengan baik ke jaringan.
+疲れる|つかれる|tsukareru|kelelahan|Verb (Ichidan)|長い旅で体がとても疲れた。|ながい たびで からだが とても つかれた。|Tubuhku sangat lelah karena perjalanan panjang.
+使い果たす|つかいはたす|tsukaihatasu|menghabiskan seluruhnya|Verb (Godan)|旅行でお金を使い果たしてしまった。|りょこうで おかねを つかいはたして しまった。|Aku menghabiskan semua uang saat perepan.
+連れる|つれる|tsureru|membawa / menemani|Verb (Ichidan)|犬を公園に連れて行った。|いぬを こうえんに つれて いった。|Aku membawa anjing ke taman.
+出会う|であう|deau|bertemu / berjumpa|Verb (Godan)|旅先で素晴らしい人に出会った。|たびさきで すばらしい ひとに であった。|Aku bertemu orang yang luar biasa saat bepergian.
+出かける|でかける|dekakeru|keluar / pergi|Verb (Ichidan)|晴れたので気分転換に出かけた。|はれたので きぶんてんかんに でかけた。|Karena cerah, aku keluar untuk menyegarkan pikiran.
+できる|できる|dekiru|bisa / selesai|Verb (Ichidan)|努力すれば何でもできると思う。|どりょくすれば なんでも できると おもう。|Aku pikir dengan usaha, apapun bisa dilakukan.
+照らす|てらす|terasu|menyinari / menerangi|Verb (Godan)|太陽が大地を明るく照らしている。|たいようが だいちを あかるく てらしている。|Matahari menerangi bumi dengan terang.
+取り組む|とりくむ|torikumu|menghadapi / menangani|Verb (Godan)|新しいプロジェクトに真剣に取り組んでいる。|あたらしい プロジェクトに しんけんに とりくんでいる。|Aku serius menangani proyek baru.
+取り出す|とりだす|toridasu|mengeluarkan / mengambil|Verb (Godan)|バッグから財布を取り出した。|バッグから さいふを とりだした。|Aku mengeluarkan dompet dari tas.
+直す|なおす|naosu|memperbaiki / memperbaiki|Verb (Godan)|壊れた自転車を自分で直した。|こわれた じてんしゃを じぶんで なおした。|Aku memperbaiki sepeda yang rusak sendiri.
+直る|なおる|naoru|sembuh / diperbaiki|Verb (Godan)|風邪がやっと直った。|かぜが やっと なおった。|Flu akhirnya sembuh.
+慣れる|なれる|nareru|terbiasa|Verb (Ichidan)|新しい環境にだんだん慣れてきた。|あたらしい かんきょうに だんだん なれてきた。|Aku perlahan terbiasa dengan lingkungan baru.
+悩む|なやむ|nayamu|kebingungan / khawatir|Verb (Godan)|進路について悩んでいる。|しんろに ついて なやんでいる。|Aku sedang bimbang tentang pilihan karir.
+逃げる|にげる|nigeru|melarikan diri / kabur|Verb (Ichidan)|危険を感じて急いで逃げた。|きけんを かんじて いそいで にげた。|Merasakan bahaya, aku segera melarikan diri.
+似る|にる|niru|mirip / serupa|Verb (Ichidan)|兄は性格が父親に似ている。|あには せいかくが ちちおやに にている。|Kakak memiliki kepribadian yang mirip dengan ayah.
+願う|ねがう|negau|berharap / memohon|Verb (Godan)|世界平和を心から願っている。|せかい へいわを こころから ねがっている。|Aku setulus hati berharap akan perdamaian dunia.
+乗り越える|のりこえる|norikoeru|mengatasi / melewati|Verb (Ichidan)|どんな困難も乗り越えられると信じている。|どんな こんなんも のりこえられると しんじている。|Aku percaya bisa mengatasi kesulitan apapun.
+残る|のこる|nokoru|tersisa / tinggal|Verb (Godan)|食事が少し残ってしまった。|しょくじが すこし のこって しまった。|Makanan tersisa sedikit.
+述べる|のべる|noberu|menyatakan / memaparkan|Verb (Ichidan)|意見を丁寧に述べた。|いけんを ていねいに のべた。|Aku memaparkan pendapat dengan sopan.
+運ぶ|はこぶ|hakobu|membawa / mengangkut|Verb (Godan)|重い荷物を車で運んだ。|おもい にもつを くるまで はこんだ。|Aku mengangkut barang bawaan yang berat dengan mobil.
+外す|はずす|hazusu|melepas / tidak hadir|Verb (Godan)|眼鏡を外してから寝る。|めがねを はずしてから ねる。|Aku melepas kacamata sebelum tidur.
+始まる|はじまる|hajimaru|dimulai|Verb (Godan)|授業が時間通りに始まった。|じゅぎょうが じかんどおりに はじまった。|Pelajaran dimulai tepat waktu.
+払う|はらう|harau|membayar|Verb (Godan)|レストランで食事代を払った。|レストランで しょくじだいを はらった。|Aku membayar biaya makan di restoran.
+引き受ける|ひきうける|hikiukeru|menerima tanggung jawab|Verb (Ichidan)|難しい仕事を引き受けることにした。|むずかしい しごとを ひきうけることに した。|Aku memutuskan menerima pekerjaan yang sulit.
+引っ張る|ひっぱる|hipparu|menarik|Verb (Godan)|ドアを強く引っ張って開けた。|ドアを つよく ひっぱって あけた。|Aku menarik pintu dengan kuat untuk membukanya.
+広がる|ひろがる|hirogaru|menyebar / meluas|Verb (Godan)|火事がすぐに広がってしまった。|かじが すぐに ひろがって しまった。|Kebakaran segera menyebar.
+広げる|ひろげる|hirogeru|melebarkan / mengembangkan|Verb (Ichidan)|地図を広げて道を確認した。|ちずを ひろげて みちを かくにんした。|Aku membuka peta untuk memeriksa jalan.
+増える|ふえる|fueru|bertambah / meningkat|Verb (Ichidan)|最近、外国人観光客が増えている。|さいきん、がいこくじん かんこうきゃくが ふえている。|Belakangan ini jumlah wisatawan asing meningkat.
+増やす|ふやす|fuyasu|menambah / meningkatkan|Verb (Godan)|収入を増やすために副業を始めた。|しゅうにゅうを ふやすために ふくぎょうを はじめた。|Aku mulai pekerjaan sampingan untuk menambah penghasilan.
+踏む|ふむ|fumu|menginjak / melangkahi|Verb (Godan)|芝生を踏まないでください。|しばふを ふまないで ください。|Tolong jangan menginjak rumput.
+震える|ふるえる|furueru|gemetar|Verb (Ichidan)|寒さで手が震えていた。|さむさで てが ふるえていた。|Tanganku gemetar karena kedinginan.
+触れる|ふれる|fureru|menyentuh / menyinggung|Verb (Ichidan)|文化の違いに触れることができた。|ぶんかの ちがいに ふれることが できた。|Aku bisa menyentuh/merasakan perbedaan budaya.
+褒める|ほめる|homeru|memuji|Verb (Ichidan)|先生は学生の努力を褒めた。|せんせいは がくせいの どりょくを ほめた。|Guru memuji usaha para siswa.
+待ち合わせる|まちあわせる|machiawaseru|membuat janji bertemu|Verb (Ichidan)|駅前で友達と待ち合わせた。|えきまえで ともだちと まちあわせた。|Aku membuat janji bertemu dengan teman di depan stasiun.
+守る|まもる|mamoru|melindungi / menjaga|Verb (Godan)|約束を必ず守ってください。|やくそくを かならず まもって ください。|Tolong pasti jaga janjimu.
+迷う|まよう|mayou|bimbang / tersesat|Verb (Godan)|どちらを選ぶか迷っている。|どちらを えらぶか まよっている。|Aku sedang bimbang memilih yang mana.
+見かける|みかける|mikakeru|melihat sesekali / menjumpai|Verb (Ichidan)|最近、彼女を駅でよく見かける。|さいきん、かのじょを えきで よく みかける。|Belakangan ini aku sering melihatnya di stasiun.
+見つかる|みつかる|mitsukaru|ditemukan|Verb (Godan)|なくした財布がやっと見つかった。|なくした さいふが やっと みつかった。|Dompet yang hilang akhirnya ditemukan.
+見つける|みつける|mitsukeru|menemukan|Verb (Ichidan)|良い仕事をやっと見つけることができた。|よい しごとを やっと みつけることが できた。|Aku akhirnya bisa menemukan pekerjaan yang baik.
+認める|みとめる|mitomeru|mengakui / menyetujui|Verb (Ichidan)|自分の間違いを認めることが大切だ。|じぶんの まちがいを みとめることが たいせつだ。|Penting untuk mengakui kesalahan sendiri.
+向かう|むかう|mukau|menuju / menghadap|Verb (Godan)|会議室に向かって歩いた。|かいぎしつに むかって あるいた。|Aku berjalan menuju ruang rapat.
+向ける|むける|mukeru|mengarahkan|Verb (Ichidan)|カメラを被写体に向けた。|カメラを ひしゃたいに むけた。|Aku mengarahkan kamera ke objek foto.
+申し込む|もうしこむ|moushikomu|mendaftar / mengajukan permohonan|Verb (Godan)|セミナーに参加を申し込んだ。|セミナーに さんかを もうしこんだ。|Aku mendaftar untuk ikut seminar.
+求める|もとめる|motomeru|mencari / menuntut|Verb (Ichidan)|より良い生活を求めて努力している。|より よい せいかつを もとめて どりょくしている。|Aku berusaha mencari kehidupan yang lebih baik.
+戻る|もどる|modoru|kembali|Verb (Godan)|忘れ物をして学校に戻った。|わすれものを して がっこうに もどった。|Aku kembali ke sekolah karena ada yang ketinggalan.
+戻す|もどす|modosu|mengembalikan|Verb (Godan)|借りた本を図書館に戻した。|かりた ほんを としょかんに もどした。|Aku mengembalikan buku yang dipinjam ke perpustakaan.
+役立てる|やくだてる|yakudateru|memanfaatkan / menggunakan|Verb (Ichidan)|経験を仕事に役立てることができた。|けいけんを しごとに やくだてることが できた。|Aku bisa memanfaatkan pengalaman dalam pekerjaan.
+やり遂げる|やりとげる|yaritogeru|menyelesaikan hingga tuntas|Verb (Ichidan)|困難でもやり遂げる意志が大切だ。|こんなんでも やりとげる いしが たいせつだ。|Tekad untuk menuntaskan walau sulit itu penting.
+呼ぶ|よぶ|yobu|memanggil / mengundang|Verb (Godan)|救急車を呼んでください。|きゅうきゅうしゃを よんで ください。|Tolong panggil ambulans.
+用意する|よういする|youi suru|mempersiapkan|Verb (Irregular)|パーティーの料理を用意した。|パーティーの りょうりを よういした。|Aku mempersiapkan makanan untuk pesta.
+喜ぶ|よろこぶ|yorokobu|bergembira / senang|Verb (Godan)|プレゼントをもらって子どもが喜んだ。|プレゼントを もらって こどもが よろこんだ。|Anak itu bergembira mendapat hadiah.
+理解する|りかいする|rikai suru|memahami|Verb (Irregular)|説明を聞いてやっと理解できた。|せつめいを きいて やっと りかいできた。|Aku akhirnya paham setelah mendengar penjelasan.
+利用する|りようする|riyou suru|menggunakan / memanfaatkan|Verb (Irregular)|公共交通機関を積極的に利用している。|こうきょう こうつうきかんを せっきょくてきに りようしている。|Aku aktif menggunakan transportasi umum.
+連絡する|れんらくする|renraku suru|menghubungi / memberi kabar|Verb (Irregular)|何かあればすぐに連絡してください。|なにかあれば すぐに れんらくして ください。|Tolong segera hubungi jika ada sesuatu.
+和らげる|やわらげる|yawarageru|meredakan / melembutkan|Verb (Ichidan)|薬で痛みを和らげた。|くすりで いたみを やわらげた。|Aku meredakan rasa sakit dengan obat.
+焦る|あせる|aseru|tergesa-gesa / panik|Verb (Godan)|大切な試験が迫って焦っている。|たいせつな しけんが せまって あせっている。|Aku panik karena ujian penting sudah dekat.
+当たる|あたる|ataru|tepat sasaran / kena|Verb (Godan)|予想が当たって嬉しかった。|よそうが あたって うれしかった。|Aku senang karena perkiraan tepat sasaran.
+当てる|あてる|ateru|mengenai / menebak|Verb (Ichidan)|クイズの答えを当てることができた。|クイズの こたえを あてることが できた。|Aku bisa menebak jawaban kuis.
+改善する|かいぜんする|kaizen suru|memperbaiki / meningkatkan|Verb (Irregular)|サービスの質を改善するために努力している。|サービスの しつを かいぜんするために どりょくしている。|Aku berusaha meningkatkan kualitas layanan.
+感謝する|かんしゃする|kansha suru|berterima kasih / bersyukur|Verb (Irregular)|いつも助けてくれる友達に感謝している。|いつも たすけてくれる ともだちに かんしゃしている。|Aku berterima kasih kepada teman yang selalu membantuku.
+管理する|かんりする|kanri suru|mengelola / mengatur|Verb (Irregular)|時間を上手に管理することが大切だ。|じかんを じょうずに かんりすることが たいせつだ。|Penting untuk mengelola waktu dengan baik.
+記録する|きろくする|kiroku suru|mencatat / merekam|Verb (Irregular)|毎日の気温を記録している。|まいにちの きおんを きろくしている。|Aku mencatat suhu setiap hari.
+協力する|きょうりょくする|kyouryoku suru|bekerja sama|Verb (Irregular)|チームで協力して問題を解決した。|チームで きょうりょくして もんだいを かいけつした。|Tim bekerja sama menyelesaikan masalah.
+緊張する|きんちょうする|kinchou suru|gugup / tegang|Verb (Irregular)|発表の前にとても緊張した。|はっぴょうの まえに とても きんちょうした。|Aku sangat gugup sebelum presentasi.
+けんかする|けんかする|kenka suru|bertengkar|Verb (Irregular)|兄弟でよくけんかをする。|きょうだいで よく けんかを する。|Aku sering bertengkar dengan saudara.
+結婚する|けっこんする|kekkon suru|menikah|Verb (Irregular)|来年、彼女と結婚する予定だ。|らいねん、かのじょと けっこんする よていだ。|Aku berencana menikah dengan dia tahun depan.
+研究する|けんきゅうする|kenkyuu suru|meneliti / mempelajari|Verb (Irregular)|大学で環境問題を研究している。|だいがくで かんきょうもんだいを けんきゅうしている。|Aku meneliti masalah lingkungan di universitas.
+検討する|けんとうする|kentou suru|mempertimbangkan / mengkaji|Verb (Irregular)|新しい提案を検討している。|あたらしい ていあんを けんとうしている。|Aku sedang mempertimbangkan proposal baru.
+工夫する|くふうする|kufuu suru|berinovasi / berkreasi|Verb (Irregular)|限られた材料で工夫して料理を作った。|かぎられた ざいりょうで くふうして りょうりを つくった。|Aku berkreasi memasak dengan bahan yang terbatas.
+交換する|こうかんする|kouukan suru|menukar / bertukar|Verb (Irregular)|友達と連絡先を交換した。|ともだちと れんらくさきを こうかんした。|Aku bertukar kontak dengan teman.
+行動する|こうどうする|koudou suru|bertindak / beraksi|Verb (Irregular)|考えるだけでなく行動することが大切だ。|かんがえるだけでなく こうどうすることが たいせつだ。|Penting tidak hanya berpikir tapi juga bertindak.
+採用する|さいようする|saiyou suru|mengadopsi / mempekerjakan|Verb (Irregular)|会社が新しい方針を採用した。|かいしゃが あたらしい ほうしんを さいようした。|Perusahaan mengadopsi kebijakan baru.
+参加する|さんかする|sanka suru|berpartisipasi|Verb (Irregular)|地域のイベントに積極的に参加している。|ちいきの イベントに せっきょくてきに さんかしている。|Aku aktif berpartisipasi dalam acara komunitas.
+指示する|しじする|shiji suru|memberikan instruksi|Verb (Irregular)|上司に指示された通りに動いた。|じょうしに しじされた とおりに うごいた。|Aku bergerak sesuai instruksi atasan.
+失望する|しつぼうする|shitsubou suru|kecewa|Verb (Irregular)|期待していたのに結果に失望した。|きたいしていたのに けっかに しつぼうした。|Aku sudah berharap, namun kecewa dengan hasilnya.
+失敗する|しっぱいする|shippai suru|gagal|Verb (Irregular)|今回は失敗したが次は成功したい。|こんかいは しっぱいしたが つぎは せいこうしたい。|Kali ini gagal, tapi ingin berhasil berikutnya.
+修理する|しゅうりする|shuuri suru|memperbaiki|Verb (Irregular)|故障した車を修理に出した。|こしょうした くるまを しゅうりに だした。|Aku mengirimkan mobil yang rusak untuk diperbaiki.
+消費する|しょうひする|shouhi suru|mengonsumsi / menghabiskan|Verb (Irregular)|電力を節約して消費を減らしている。|でんりょくを せつやくして しょうひを へらしている。|Aku menghemat listrik untuk mengurangi konsumsi.
+紹介する|しょうかいする|shoukai suru|memperkenalkan|Verb (Irregular)|友達を家族に紹介した。|ともだちを かぞくに しょうかいした。|Aku memperkenalkan teman kepada keluarga.
+成功する|せいこうする|seikou suru|berhasil / sukses|Verb (Irregular)|長年の努力がついに成功した。|ながねんの どりょくが ついに せいこうした。|Usaha bertahun-tahun akhirnya berhasil.
+説明する|せつめいする|setsumei suru|menjelaskan|Verb (Irregular)|先生が授業の内容を丁寧に説明した。|せんせいが じゅぎょうの ないようを ていねいに せつめいした。|Guru menjelaskan isi pelajaran dengan sopan.
+相談する|そうだんする|soudan suru|bermusyawarah / konsultasi|Verb (Irregular)|困ったときは先生に相談する。|こまったときは せんせいに そうだんする。|Saat kesulitan, aku berkonsultasi dengan guru.
+注意する|ちゅういする|chuui suru|memperhatikan / berhati-hati|Verb (Irregular)|子どもに道路を渡るとき注意するよう言った。|こどもに どうろを わたるとき ちゅういするよう いった。|Aku menyuruh anak berhati-hati saat menyeberang jalan.
+挑戦する|ちょうせんする|chousen suru|menantang / mencoba|Verb (Irregular)|新しいことに挑戦する勇気が必要だ。|あたらしいことに ちょうせんする ゆうきが ひつようだ。|Dibutuhkan keberanian untuk mencoba hal baru.
+調整する|ちょうせいする|chousei suru|menyesuaikan / mengatur|Verb (Irregular)|スケジュールを調整する必要がある。|スケジュールを ちょうせいする ひつようが ある。|Perlu menyesuaikan jadwal.
+通知する|つうちする|tuuchi suru|memberitahu / menginformasikan|Verb (Irregular)|メールで結果を通知した。|メールで けっかを つうちした。|Aku memberitahu hasilnya via email.
+提案する|ていあんする|teian suru|mengusulkan / mengajukan|Verb (Irregular)|新しい解決策を提案した。|あたらしい かいけつさくを ていあんした。|Aku mengusulkan solusi baru.
+提出する|ていしゅつする|teishutsu suru|mengumpulkan / menyerahkan|Verb (Irregular)|レポートを期限までに提出した。|レポートを きげんまでに ていしゅつした。|Aku mengumpulkan laporan sebelum tenggat waktu.
+転換する|てんかんする|tenkan suru|mengubah / beralih|Verb (Irregular)|話題を転換して気まずさをなくした。|わだいを てんかんして きまずさを なくした。|Aku mengalihkan topik untuk menghilangkan kecanggungen.
+当選する|とうせんする|tousen suru|terpilih / menang undian|Verb (Irregular)|抽選に当選して旅行券をもらった。|ちゅうせんに とうせんして りょこうけんを もらった。|Aku menang undian dan mendapat tiket perjalanan.
+独立する|どくりつする|dokuritsu suru|mandiri / merdeka|Verb (Irregular)|大学卒業後に親から独立した。|だいがく そつぎょうごに おやから どくりつした。|Aku mandiri dari orang tua setelah lulus kuliah.
+努力する|どりょくする|doryoku suru|berusaha / berupaya|Verb (Irregular)|毎日努力することが夢への近道だ。|まいにち どりょくすることが ゆめへの ちかみちだ。|Berusaha setiap hari adalah jalan pintas menuju impian.
+認識する|にんしきする|ninshiki suru|mengenali / menyadari|Verb (Irregular)|問題の深刻さを認識する必要がある。|もんだいの しんこくさを にんしきする ひつようが ある。|Perlu menyadari keseriusan masalah.
+把握する|はあくする|haaku suru|memahami / menguasai|Verb (Irregular)|状況を正確に把握することが大切だ。|じょうきょうを せいかくに はあくすることが たいせつだ。|Penting untuk memahami situasi dengan tepat.
+反省する|はんせいする|hansei suru|merefleksi / introspeksi|Verb (Irregular)|失敗を反省して次に活かしたい。|しっぱいを はんせいして つぎに いかしたい。|Aku ingin merefleksi kegagalan dan memanfaatkannya di masa depan.
+判断する|はんだんする|handan suru|menilai / memutuskan|Verb (Irregular)|情報を集めてから判断する。|じょうほうを あつめてから はんだんする。|Aku memutuskan setelah mengumpulkan informasi.
+比較する|ひかくする|hikaku suru|membandingkan|Verb (Irregular)|二つの商品を比較してから購入した。|ふたつの しょうひんを ひかくしてから こうにゅうした。|Aku membeli setelah membandingkan dua produk.
+否定する|ひていする|hitei suru|menyangkal / menolak|Verb (Irregular)|彼はその事実を否定した。|かれは その じじつを ひていした。|Dia menyangkal fakta tersebut.
+評価する|ひょうかする|hyouka suru|mengevaluasi / menilai|Verb (Irregular)|上司が部下の仕事を公正に評価した。|じょうしが ぶかの しごとを こうせいに ひょうかした。|Atasan menilai pekerjaan bawahan secara adil.
+複雑する|ふくざつする|fukuzatsu suru|memperumit|Verb (Irregular)|問題を複雑にしないほうがいい。|もんだいを ふくざつに しない ほうが いい。|Sebaiknya jangan memperumit masalah.
+分析する|ぶんせきする|bunseki suru|menganalisis|Verb (Irregular)|データを細かく分析した。|データを こまかく ぶんせきした。|Aku menganalisis data secara detail.
+変化する|へんかする|henka suru|berubah|Verb (Irregular)|気候が急速に変化している。|きこうが きゅうそくに へんかしている。|Iklim berubah dengan cepat.
+保存する|ほぞんする|hozon suru|menyimpan / melestarikan|Verb (Irregular)|ファイルをこまめに保存する習慣をつけた。|ファイルを こまめに ほぞんする しゅうかんを つけた。|Aku membiasakan diri untuk sering menyimpan file.
+満足する|まんぞくする|manzoku suru|merasa puas|Verb (Irregular)|今の生活にとても満足している。|いまの せいかつに とても まんぞくしている。|Aku sangat puas dengan kehidupan saat ini.
+無視する|むしする|mushi suru|mengabaikan|Verb (Irregular)|批判を無視して自分の信念を貫いた。|ひはんを むしして じぶんの しんねんを つらぬいた。|Aku mengabaikan kritikan dan mempertahankan keyakinanku.
+命令する|めいれいする|meirei suru|memerintahkan|Verb (Irregular)|上司が部下に残業を命令した。|じょうしが ぶかに ざんぎょうを めいれいした。|Atasan memerintahkan bawahan untuk lembur.
+目標にする|もくひょうにする|mokuhyou ni suru|menjadikan tujuan|Verb (Irregular)|JLPT N1合格を目標にしている。|JLPT N1 ごうかくを もくひょうに している。|Aku menjadikan lulus JLPT N1 sebagai tujuan.
+問題にする|もんだいにする|mondai ni suru|mempermasalahkan|Verb (Irregular)|小さいことを問題にしないでください。|ちいさい ことを もんだいに しないで ください。|Tolong jangan mempermasalahkan hal kecil.
+約束する|やくそくする|yakusoku suru|berjanji|Verb (Irregular)|明日必ず来ると約束した。|あした かならず くると やくそくした。|Aku berjanji pasti akan datang besok.
+容認する|ようにんする|younin suru|menerima / mengizinkan|Verb (Irregular)|規則違反を容認することはできない。|きそく いはんを ようにんすることは できない。|Tidak bisa menerima pelanggaran aturan.
+予定する|よていする|yotei suru|merencanakan / menjadwalkan|Verb (Irregular)|来月旅行を予定している。|らいげつ りょこうを よていしている。|Aku merencanakan perjalanan bulan depan.
+落胆する|らくたんする|rakutan suru|kecewa / putus asa|Verb (Irregular)|試験に落ちて落胆した。|しけんに おちて らくたんした。|Aku kecewa karena gagal ujian.
+理想とする|りそうとする|risou to suru|menjadikan ideal|Verb (Irregular)|彼のような人を理想としている。|かれのような ひとを りそうとしている。|Aku menjadikan orang seperti dia sebagai idaman.
+了解する|りょうかいする|ryoukai suru|memahami / setuju|Verb (Irregular)|指示の内容を了解した。|しじの ないようを りょうかいした。|Aku memahami isi instruksi.
+論じる|ろんじる|ronjiru|mendiskusikan / berargumen|Verb (Ichidan)|環境問題について深く論じた。|かんきょうもんだいに ついて ふかく ろんじた。|Aku mendiskusikan masalah lingkungan secara mendalam.
+上がる|あがる|agaru|naik / meningkat|Verb (Godan)|気温が急に上がった。|きおんが きゅうに あがった。|Suhu tiba-tiba naik.
+上げる|あげる|ageru|menaikkan / memberikan|Verb (Ichidan)|給料を上げてほしいと上司に頼んだ。|きゅうりょうを あげてほしいと じょうしに たのんだ。|Aku meminta kenaikan gaji kepada atasan.
+歩き回る|あるきまわる|arukimawaru|berjalan-jalan / berkeliling|Verb (Godan)|観光地を一日中歩き回った。|かんこうちを いちにちじゅう あるきまわった。|Aku berkeliling tempat wisata sepanjang hari.
+与える|あたえる|ataeru|memberikan / memberi pengaruh|Verb (Ichidan)|失敗から大きな教訓を与えられた。|しっぱいから おおきな きょうくんを あたえられた。|Aku diberi pelajaran besar dari kegagalan.
+浴びる|あびる|abiru|mandi / terkena|Verb (Ichidan)|朝シャワーを浴びてから出かける。|あさ シャワーを あびてから でかける。|Aku mandi dulu sebelum keluar di pagi hari.
+争う|あらそう|arasou|bersaing / bertengkar|Verb (Godan)|二人は同じポジションを争っている。|ふたりは おなじ ポジションを あらそっている。|Keduanya bersaing untuk posisi yang sama.
+生かす|いかす|ikasu|memanfaatkan / menghidupkan|Verb (Godan)|留学経験を仕事に生かしたい。|りゅうがく けいけんを しごとに いかしたい。|Aku ingin memanfaatkan pengalaman belajar di luar negeri dalam pekerjaan.
+意識する|いしきする|ishiki suru|menyadari / memperhatikan|Verb (Irregular)|体の健康を常に意識している。|からだの けんこうを つねに いしきしている。|Aku selalu memperhatikan kesehatan tubuh.
+痛む|いたむ|itamu|terasa sakit|Verb (Godan)|転んで膝が痛んでいる。|ころんで ひざが いたんでいる。|Lututku terasa sakit karena jatuh.
+移動する|いどうする|idou suru|berpindah / bergerak|Verb (Irregular)|仕事で都市間を移動することが多い。|しごとで としかんを いどうすることが おおい。|Aku sering berpindah antar kota untuk pekerjaan.
+意味する|いみする|imi suru|berarti / bermakna|Verb (Irregular)|この記号は何を意味するのか。|この きごうは なにを いみするのか。|Apa arti simbol ini?
+受け入れる|うけいれる|ukeireru|menerima / menyambut|Verb (Ichidan)|他の意見を素直に受け入れることが大切だ。|ほかの いけんを すなおに うけいれることが たいせつだ。|Penting untuk menerima pendapat orang lain dengan lapang dada.
+受け取る|うけとる|uketoru|menerima / mengambil|Verb (Godan)|荷物を受け取るために在宅していた。|にもつを うけとるために ざいたく していた。|Aku di rumah untuk menerima paket.
+動かす|うごかす|ugokasu|menggerakkan|Verb (Godan)|重い家具を一人で動かした。|おもい かぐを ひとりで うごかした。|Aku menggerakkan perabotan berat sendirian.
+追いかける|おいかける|oikakeru|mengejar|Verb (Ichidan)|逃げる犯人を警察が追いかけた。|にげる はんにんを けいさつが おいかけた。|Polisi mengejar tersangka yang melarikan diri.
+追い越す|おいこす|oikosu|menyalip / melampaui|Verb (Godan)|高速道路で別の車を追い越した。|こうそくどうろで べつの くるまを おいこした。|Aku menyalip mobil lain di jalan tol.
+送り出す|おくりだす|okuridasu|melepas / mengantar pergi|Verb (Godan)|子どもを笑顔で学校に送り出した。|こどもを えがおで がっこうに おくりだした。|Aku mengantar anak pergi ke sekolah dengan senyuman.
+落ち込む|おちこむ|ochikomu|tertekan / jatuh semangat|Verb (Godan)|試験に落ちてひどく落ち込んでいる。|しけんに おちて ひどく おちこんでいる。|Aku sangat tertekan karena gagal ujian.
+覚える|おぼえる|oboeru|mengingat / mempelajari|Verb (Ichidan)|新しい単語を毎日10個覚えている。|あたらしい たんごを まいにち じゅっこ おぼえている。|Aku mengingat 10 kosakata baru setiap hari.
+思いやる|おもいやる|omoiyaru|berempati / mempedulikan|Verb (Godan)|相手の気持ちを思いやることが大切だ。|あいての きもちを おもいやることが たいせつだ。|Penting untuk berempati terhadap perasaan orang lain.
+抱える|かかえる|kakaeru|menanggung / menghadapi|Verb (Ichidan)|多くの問題を一人で抱えている。|おおくの もんだいを ひとりで かかえている。|Aku menanggung banyak masalah sendirian.
+帰宅する|きたくする|kitaku suru|pulang ke rumah|Verb (Irregular)|仕事が終わって帰宅した。|しごとが おわって きたくした。|Aku pulang ke rumah setelah selesai bekerja.
+切り替える|きりかえる|kirikaezu|beralih / mengubah|Verb (Ichidan)|気持ちを切り替えて前向きに頑張る。|きもちを きりかえて まえむきに がんばる。|Aku beralih pikiran dan berusaha secara positif.
+くずれる|くずれる|kuzureru|runtuh / berantakan|Verb (Ichidan)|天気が崩れて雨になった。|てんきが くずれて あめに なった。|Cuaca memburuk dan menjadi hujan.
+繰り広げる|くりひろげる|kurihirogeru|mengembangkan / mementaskan|Verb (Ichidan)|二チームが激しい試合を繰り広げた。|に チームが はげしい しあいを くりひろげた。|Dua tim memainkan pertandingan yang sengit.
+加速する|かそくする|kasoku suru|mempercepat / berakselerasi|Verb (Irregular)|プロジェクトの進行が加速している。|プロジェクトの しんこうが かそくしている。|Kemajuan proyek semakin cepat.
+期待する|きたいする|kitai suru|berharap / mengharapkan|Verb (Irregular)|良い結果を期待している。|よい けっかを きたいしている。|Aku mengharapkan hasil yang baik.
+記念する|きねんする|kinen suru|memperingati / merayakan|Verb (Irregular)|創立100年を記念する式典が開かれた。|そうりつ ひゃくねんを きねんする しきてんが ひらかれた。|Upacara peringatan 100 tahun pendirian diadakan.
+経験する|けいけんする|keiken suru|mengalami|Verb (Irregular)|留学で様々なことを経験した。|りゅうがくで さまざまな ことを けいけんした。|Aku mengalami berbagai hal saat belajar di luar negeri.
+継続する|けいぞくする|keizoku suru|melanjutkan / meneruskan|Verb (Irregular)|勉強を継続することが合格への鍵だ。|べんきょうを けいぞくすることが ごうかくへの かぎだ。|Melanjutkan belajar adalah kunci kelulusan.
+見学する|けんがくする|kengaku suru|mengunjungi / study tour|Verb (Irregular)|工場を見学させてもらった。|こうじょうを けんがくさせて もらった。|Aku diperbolehkan mengunjungi pabrik.
+告白する|こくはくする|kokuhaku suru|mengaku / mengungkapkan perasaan|Verb (Irregular)|好きな人に告白する勇気が出なかった。|すきな ひとに こくはくする ゆうきが でなかった。|Aku tidak punya keberanian untuk mengungkapkan perasaan ke orang yang kusukai.
+ゴールする|ゴールする|gooru suru|mencapai garis finis|Verb (Irregular)|マラソンでゴールしたとき涙が出た。|マラソンで ゴールしたとき なみだが でた。|Air mata keluar saat mencapai garis finis di maraton.
+最終する|さいしゅうする|saishuu suru|mengakhiri / menyelesaikan|Verb (Irregular)|プロジェクトを無事に最終した。|プロジェクトを ぶじに さいしゅうした。|Proyek berakhir dengan selamat.
+採点する|さいてんする|saiten suru|memberikan nilai / mengoreksi|Verb (Irregular)|先生が試験の答案を採点している。|せんせいが しけんの とうあんを さいてんしている。|Guru sedang mengoreksi jawaban ujian.
+作成する|さくせいする|sakusei suru|membuat / menyusun|Verb (Irregular)|報告書を丁寧に作成した。|ほうこくしょを ていねいに さくせいした。|Aku menyusun laporan dengan teliti.
+参照する|さんしょうする|sanshou suru|merujuk / mengacu|Verb (Irregular)|詳細については資料を参照してください。|しょうさいに ついては しりょうを さんしょうして ください。|Tolong rujuk dokumen untuk detailnya.
+賛成する|さんせいする|sansei suru|setuju / mendukung|Verb (Irregular)|彼の意見に賛成する。|かれの いけんに さんせいする。|Aku setuju dengan pendapatnya.
+実現する|じつげんする|jitsugen suru|mewujudkan / terealisasi|Verb (Irregular)|夢をいつか実現させたい。|ゆめを いつか じつげんさせたい。|Aku ingin mewujudkan impian suatu hari nanti.
+実行する|じっこうする|jikkou suru|melaksanakan / mengeksekusi|Verb (Irregular)|計画を立てたらすぐに実行する。|けいかくを たてたら すぐに じっこうする。|Setelah membuat rencana, langsung melaksanakannya.
+実感する|じっかんする|jikkan suru|merasakan secara nyata|Verb (Irregular)|努力の成果を実感できた。|どりょくの せいかを じっかんできた。|Aku bisa merasakan hasil usaha secara nyata.
+受験する|じゅけんする|juken suru|mengikuti ujian|Verb (Irregular)|来月、JLPT N3を受験する予定だ。|らいげつ、JLPT N3を じゅけんする よていだ。|Aku berencana mengikuti ujian JLPT N3 bulan depan.
+主張する|しゅちょうする|shuchou suru|berpendapat / mengklaim|Verb (Irregular)|自分の意見を自信を持って主張した。|じぶんの いけんを じしんを もって しゅちょうした。|Aku mengemukakan pendapat dengan penuh percaya diri.
+承認する|しょうにんする|shounin suru|menyetujui / mengesahkan|Verb (Irregular)|上司が提案を承認してくれた。|じょうしが ていあんを しょうにんして くれた。|Atasan menyetujui proposal.
+証明する|しょうめいする|shoumei suru|membuktikan|Verb (Irregular)|自分の無実を証明したい。|じぶんの むじつを しょうめいしたい。|Aku ingin membuktikan ketidakbersalahanku.
+消滅する|しょうめつする|shoumetsu suru|lenyap / punah|Verb (Irregular)|この言語は消滅の危機にある。|この げんごは しょうめつの ききに ある。|Bahasa ini berada di ambang kepunahan.
+所有する|しょゆうする|shoyuu suru|memiliki|Verb (Irregular)|複数の不動産を所有している。|ふくすうの ふどうさんを しょゆうしている。|Dia memiliki beberapa properti.
+進化する|しんかする|shinka suru|berevolusi / berkembang|Verb (Irregular)|技術は急速に進化している。|ぎじゅつは きゅうそくに しんかしている。|Teknologi berkembang dengan pesat.
+診断する|しんだんする|shindan suru|mendiagnosis|Verb (Irregular)|医者がインフルエンザと診断した。|いしゃが インフルエンザと しんだんした。|Dokter mendiagnosis flu.
+信用する|しんようする|shinyou suru|mempercayai / mengandalkan|Verb (Irregular)|彼を信用して任せることにした。|かれを しんようして まかせることに した。|Aku memutuskan mempercayai dan menyerahkan padanya.
+推薦する|すいせんする|suisen suru|merekomendasikan|Verb (Irregular)|優秀な学生を大学院に推薦した。|ゆうしゅうな がくせいを だいがくいんに すいせんした。|Aku merekomendasikan siswa berprestasi ke program pascasarjana.
+節約する|せつやくする|setsuyaku suru|berhemat / menghemat|Verb (Irregular)|電気代を節約するためにエアコンを控えた。|でんきだいを せつやくするために エアコンを ひかえた。|Aku mengurangi AC untuk menghemat tagihan listrik.
+選択する|せんたくする|sentaku suru|memilih / menyeleksi|Verb (Irregular)|自分の将来について慎重に選択した。|じぶんの しょうらいに ついて しんちょうに せんたくした。|Aku memilih dengan hati-hati tentang masa depanku.
+増加する|ぞうかする|zouka suru|meningkat / bertambah|Verb (Irregular)|人口が増加しているという報告がある。|じんこうが ぞうかしているという ほうこくが ある。|Ada laporan bahwa populasi meningkat.
+存在する|そんざいする|sonzai suru|ada / eksis|Verb (Irregular)|その動物は現在も存在している。|その どうぶつは げんざいも そんざいしている。|Hewan itu masih ada hingga kini.
+対応する|たいおうする|taiou suru|merespons / menangani|Verb (Irregular)|クレームに迅速に対応することが大切だ。|クレームに じんそくに たいおうすることが たいせつだ。|Penting untuk merespons keluhan dengan cepat.
+対話する|たいわする|taiwa suru|berdialog / berdiskusi|Verb (Irregular)|異文化間の対話が必要だ。|いぶんかかんの たいわが ひつようだ。|Dialog antar budaya diperlukan.
+達成する|たっせいする|tassei suru|mencapai / meraih|Verb (Irregular)|目標を達成したとき、とても嬉しかった。|もくひょうを たっせいしたとき、とても うれしかった。|Aku sangat senang saat mencapai tujuan.
+担当する|たんとうする|tantou suru|bertanggung jawab / menangani|Verb (Irregular)|このプロジェクトを担当しています。|この プロジェクトを たんとうしています。|Aku yang menangani proyek ini.
+注目する|ちゅうもくする|chuumoku suru|memperhatikan / menaruh perhatian|Verb (Irregular)|最近、この技術に注目が集まっている。|さいきん、この ぎじゅつに ちゅうもくが あつまっている。|Belakangan ini perhatian terkumpul pada teknologi ini.
+調査する|ちょうさする|chousa suru|menyelidiki / mensurvei|Verb (Irregular)|市場を詳しく調査することにした。|しじょうを くわしく ちょうさすることに した。|Aku memutuskan untuk menyelidiki pasar secara detail.
+長続きする|ながつづきする|nagatsuzuki suru|bertahan lama / berlangsung lama|Verb (Irregular)|ダイエットを長続きさせるのは難しい。|ダイエットを ながつづきさせるのは むずかしい。|Sulit untuk mempertahankan diet dalam jangka panjang.
+停止する|ていしする|teishi suru|berhenti / menghentikan|Verb (Irregular)|機械が突然停止した。|きかいが とつぜん ていしした。|Mesin tiba-tiba berhenti.
+展開する|てんかいする|tenkai suru|mengembangkan / berkembang|Verb (Irregular)|物語が思わぬ方向に展開した。|ものがたりが おもわぬ ほうこうに てんかいした。|Cerita berkembang ke arah yang tidak terduga.
+登録する|とうろくする|touroku suru|mendaftar / meregistrasi|Verb (Irregular)|ウェブサイトに会員登録した。|ウェブサイトに かいいん とうろくした。|Aku mendaftar sebagai anggota di website.
+特定する|とくていする|tokutei suru|mengidentifikasi / menentukan|Verb (Irregular)|問題の原因を特定することができた。|もんだいの げんいんを とくていすることが できた。|Aku berhasil mengidentifikasi penyebab masalah.
+取得する|しゅとくする|shutoku suru|memperoleh / mendapatkan|Verb (Irregular)|運転免許を取得した。|うんてん めんきょを しゅとくした。|Aku mendapatkan SIM.
+分類する|ぶんるいする|bunrui suru|mengklasifikasikan|Verb (Irregular)|書類を種類ごとに分類した。|しょるいを しゅるいごとに ぶんるいした。|Aku mengklasifikasikan dokumen berdasarkan jenisnya.
+保護する|ほごする|hogo suru|melindungi|Verb (Irregular)|絶滅危惧種を保護する活動に参加した。|ぜつめつ きぐしゅを ほごする かつどうに さんかした。|Aku berpartisipasi dalam kegiatan melindungi spesies yang terancam punah.
+補充する|ほじゅうする|hojuu suru|mengisi ulang / menambah|Verb (Irregular)|冷蔵庫の食材を補充した。|れいぞうこの しょくざいを ほじゅうした。|Aku mengisi ulang bahan makanan di kulkas.
+報告する|ほうこくする|houkoku suru|melaporkan|Verb (Irregular)|進捗状況を上司に報告した。|しんちょく じょうきょうを じょうしに ほうこくした。|Aku melaporkan perkembangan kepada atasan.
+待機する|たいきする|taiki suru|menunggu / siap siaga|Verb (Irregular)|救助チームが現場で待機している。|きゅうじょ チームが げんばで たいきしている。|Tim penyelamat siap siaga di lokasi.
+黙る|だまる|damaru|diam / tidak berbicara|Verb (Godan)|彼は何も言わずに黙っていた。|かれは なにも いわずに だまっていた。|Dia diam tanpa mengatakan apapun.
+付き合う|つきあう|tsukiau|berpacaran / bergaul|Verb (Godan)|彼女と三年間付き合っている。|かのじょと さんねんかん つきあっている。|Aku sudah pacaran dengan dia selama tiga tahun.
+手伝う|てつだう|tetsudau|membantu|Verb (Godan)|引越しを友達が手伝ってくれた。|ひっこしを ともだちが てつだってくれた。|Teman membantuku pindahan.
+飛ぶ|とぶ|tobu|terbang / melompat|Verb (Godan)|鳥が空高く飛んでいる。|とりが そら たかく とんでいる。|Burung terbang tinggi di langit.
+取り替える|とりかえる|torikaezu|mengganti / menukar|Verb (Ichidan)|壊れた部品を新しいものに取り替えた。|こわれた ぶひんを あたらしいものに とりかえた。|Aku mengganti suku cadang yang rusak dengan yang baru.
+眠れる|ねむれる|nemureru|bisa tidur|Verb (Ichidan)|心配で夜なかなか眠れなかった。|しんぱいで よる なかなか ねむれなかった。|Aku tidak bisa tidur malam karena khawatir.
+流れる|ながれる|nagareru|mengalir|Verb (Ichidan)|川がゆっくりと流れている。|かわが ゆっくりと ながれている。|Sungai mengalir perlahan.
+慣らす|ならす|narasu|membiasakan|Verb (Godan)|早起きする習慣に体を慣らしている。|はやおきする しゅうかんに からだを ならしている。|Aku membiasakan tubuh dengan kebiasaan bangun pagi.
+握る|にぎる|nigiru|menggenggam / memegang|Verb (Godan)|緊張して手をぎゅっと握った。|きんちょうして てを ぎゅっと にぎった。|Aku menggenggam tangan erat karena gugup.
+乗り込む|のりこむ|norikomu|menaiki / masuk ke dalam|Verb (Godan)|バスに乗り込んで席を探した。|バスに のりこんで せきを さがした。|Aku naik bus dan mencari kursi.
+能力を発揮する|のうりょくをはっきする|nouryoku wo hakki suru|menunjukkan kemampuan|Verb (Irregular)|試験で自分の能力を発揮した。|しけんで じぶんの のうりょくを はっきした。|Aku menunjukkan kemampuanku di ujian.
+生き残る|いきのこる|ikinokoru|bertahan hidup|Verb (Godan)|過酷な状況で生き残ることができた。|かこくな じょうきょうで いきのこることが できた。|Aku berhasil bertahan hidup dalam kondisi yang berat.
+生き生きする|いきいきする|ikiiki suru|hidup penuh semangat|Verb (Irregular)|自分の好きな仕事をして生き生きしている。|じぶんの すきな しごとを して いきいきしている。|Aku hidup penuh semangat dengan bekerja di bidang yang kusukai.
+言い訳する|いいわけする|iiwake suru|beralasan / berdalih|Verb (Irregular)|失敗を言い訳ばかりしてはいけない。|しっぱいを いいわけばかり しては いけない。|Tidak boleh hanya berdalih atas kegagalan.
+色づく|いろづく|irodzuku|menjadi berwarna / berubah warna|Verb (Godan)|秋になると葉が美しく色づく。|あきに なると はが うつくしく いろづく。|Saat musim gugur, daun-daun berubah warna dengan indah.
+植える|うえる|ueru|menanam|Verb (Ichidan)|庭に花の苗を植えた。|にわに はなの なえを うえた。|Aku menanam bibit bunga di halaman.
+受け止める|うけとめる|uketomeru|menerima / menanggapi|Verb (Ichidan)|批判を前向きに受け止めることが大切だ。|ひはんを まえむきに うけとめることが たいせつだ。|Penting untuk menerima kritik secara positif.
+打ち明ける|うちあける|uchiakeru|mengungkapkan / membuka diri|Verb (Ichidan)|悩みを親友に打ち明けた。|なやみを しんゆうに うちあけた。|Aku mengungkapkan kekhawatiranku kepada sahabat.
+打ち込む|うちこむ|uchikomu|menekuni / fokus pada|Verb (Godan)|趣味に打ち込む時間が大切だ。|しゅみに うちこむ じかんが たいせつだ。|Waktu untuk menekuni hobi itu penting.
+埋める|うめる|umeru|mengisi / menimbun|Verb (Ichidan)|溝を土で埋めた。|みぞを つちで うめた。|Aku menimbun parit dengan tanah.
+恨む|うらむ|uramu|menyimpan dendam|Verb (Godan)|誰も恨まずに前向きに生きたい。|だれも うらまずに まえむきに いきたい。|Aku ingin hidup positif tanpa menyimpan dendam kepada siapapun.
+羨む|うらやむ|urayamu|iri / mengiri|Verb (Godan)|人の成功を羨むより自分が頑張るべきだ。|ひとの せいこうを うらやむより じぶんが がんばるべきだ。|Lebih baik berusaha sendiri daripada iri dengan kesuksesan orang lain.
+得意とする|とくいとする|tokui to suru|unggul dalam / ahli|Verb (Irregular)|彼は交渉を得意としている。|かれは こうしょうを とくいとしている。|Dia ahli dalam negosiasi.
+折れる|おれる|oreru|patah / menyerah|Verb (Ichidan)|強風で木の枝が折れた。|きょうふうで きの えだが おれた。|Ranting pohon patah karena angin kencang.
+終える|おえる|oeru|mengakhiri / menyelesaikan|Verb (Ichidan)|ようやく長い旅を終えた。|ようやく ながい たびを おえた。|Akhirnya aku menyelesaikan perjalanan panjang.
+解決する|かいけつする|kaiketsu suru|menyelesaikan / memecahkan|Verb (Irregular)|二人で話し合って問題を解決した。|ふたりで はなしあって もんだいを かいけつした。|Kami berdua mendiskusikan dan menyelesaikan masalah.
+解釈する|かいしゃくする|kaishaku suru|menafsirkan / menginterpretasikan|Verb (Irregular)|文章を自分なりに解釈した。|ぶんしょうを じぶんなりに かいしゃくした。|Aku menafsirkan teks dengan caraku sendiri.
+解散する|かいさんする|kaisan suru|membubarkan / bubar|Verb (Irregular)|会議が終わって参加者は解散した。|かいぎが おわって さんかしゃは かいさんした。|Rapat selesai dan peserta bubar.
+改善する|かいぜんする|kaizen suru|memperbaiki / meningkatkan|Verb (Irregular)|生活習慣を改善するために努力している。|せいかつ しゅうかんを かいぜんするために どりょくしている。|Aku berusaha memperbaiki kebiasaan hidup.
+確立する|かくりつする|kakuritsu suru|memantapkan / menegakkan|Verb (Irregular)|自分のスタイルを確立することが大切だ。|じぶんの スタイルを かくりつすることが たいせつだ。|Penting untuk memantapkan gaya sendiri.
+活躍する|かつやくする|katsuyaku suru|aktif / berprestasi|Verb (Irregular)|彼女はスポーツ界で活躍している。|かのじょは スポーツかいで かつやくしている。|Dia berprestasi di dunia olahraga.
+可能にする|かのうにする|kanou ni suru|memungkinkan|Verb (Irregular)|技術の進歩が多くのことを可能にした。|ぎじゅつの しんぽが おおくの ことを かのうに した。|Kemajuan teknologi memungkinkan banyak hal.
+関心を持つ|かんしんをもつ|kanshin wo motsu|menaruh minat|Verb (Godan)|環境問題に関心を持つ人が増えている。|かんきょうもんだいに かんしんを もつ ひとが ふえている。|Orang yang menaruh minat pada masalah lingkungan semakin banyak.
+記憶する|きおくする|kioku suru|mengingat / menghafal|Verb (Irregular)|大量の情報を記憶するのは難しい。|たいりょうの じょうほうを きおくするのは むずかしい。|Sulit untuk mengingat informasi dalam jumlah besar.
+競争する|きょうそうする|kyousou suru|bersaing|Verb (Irregular)|他の会社と激しく競争している。|ほかの かいしゃと はげしく きょうそうしている。|Kami bersaing ketat dengan perusahaan lain.
+競う|きそう|kisou|bersaing / berkompetisi|Verb (Godan)|選手たちが金メダルを目指して競っている。|せんしゅたちが きんメダルを めざして きそっている。|Para atlet bersaing mengincar medali emas.
+許可する|きょかする|kyoka suru|mengizinkan|Verb (Irregular)|上司が外出を許可してくれた。|じょうしが がいしゅつを きょかして くれた。|Atasan mengizinkan aku keluar.
+禁止する|きんしする|kinshi suru|melarang|Verb (Irregular)|この公園ではボール遊びが禁止されている。|この こうえんでは ボールあそびが きんしされている。|Bermain bola dilarang di taman ini.
+傾向がある|けいこうがある|keikou ga aru|memiliki kecenderungan|Verb (Godan)|彼は物事を悪く考える傾向がある。|かれは ものごとを わるく かんがえる けいこうが ある。|Dia memiliki kecenderungan untuk berpikir negatif.
+欠席する|けっせきする|kesseki suru|tidak hadir / absen|Verb (Irregular)|体調不良で授業を欠席した。|たいちょう ふりょうで じゅぎょうを けっせきした。|Aku absen dari kelas karena kondisi kesehatan buruk.
+原因となる|げんいんとなる|genin to naru|menjadi penyebab|Verb (Godan)|ストレスが多くの病気の原因となる。|ストレスが おおくの びょうきの げんいんと なる。|Stres menjadi penyebab banyak penyakit.
+限定する|げんていする|gentei suru|membatasi / membatasi|Verb (Irregular)|参加者を20名に限定した。|さんかしゃを にじゅうめいに げんていした。|Peserta dibatasi hingga 20 orang.
+交流する|こうりゅうする|kouryu suru|berinteraksi / bertukar|Verb (Irregular)|異文化の人と交流することが好きだ。|いぶんかの ひとと こうりゅうすることが すきだ。|Aku suka berinteraksi dengan orang dari budaya berbeda.
+国際化する|こくさいかする|kokusaika suru|menginternasionalisasi|Verb (Irregular)|企業が国際化するためには語学力が必要だ。|きぎょうが こくさいかするためには ごがくりょくが ひつようだ。|Kemampuan bahasa diperlukan untuk perusahaan menginternasionalisasi diri.
+答える|こたえる|kotaeru|menjawab|Verb (Ichidan)|先生の質問に正確に答えた。|せんせいの しつもんに せいかくに こたえた。|Aku menjawab pertanyaan guru dengan tepat.
+驚かす|おどろかす|odorokasu|mengejutkan|Verb (Godan)|サプライズで彼女を驚かした。|サプライズで かのじょを おどろかした。|Aku mengejutkan dia dengan kejutan.
+押しつける|おしつける|oshitsukeru|memaksakan|Verb (Ichidan)|自分の意見を他人に押しつけるのはよくない。|じぶんの いけんを たにんに おしつけるのは よくない。|Tidak baik memaksakan pendapatmu kepada orang lain.
+思い浮かぶ|おもいうかぶ|omoiukabu|terpikir / teringat|Verb (Godan)|良いアイデアが頭に思い浮かんだ。|よい アイデアが あたまに おもいうかんだ。|Ide yang baik terlintas di pikiranku.
+見直す|みなおす|minaousu|meninjau ulang / melihat kembali|Verb (Godan)|計画を見直す必要がある。|けいかくを みなおす ひつようが ある。|Perlu meninjau ulang rencana.
+覚悟する|かくごする|kakugo suru|bersiap / bertekad|Verb (Irregular)|難しい道を選ぶ覚悟ができている。|むずかしい みちを えらぶ かくごが できている。|Aku sudah bertekad untuk memilih jalan yang sulit.
+引退する|いんたいする|intai suru|pensiun / mundur|Verb (Irregular)|選手として引退する時期が来た。|せんしゅとして いんたいする じきが きた。|Waktunya mundur sebagai atlet telah tiba.
+意見を述べる|いけんをのべる|iken wo noberu|menyampaikan pendapat|Verb (Ichidan)|会議で自分の意見を述べる機会があった。|かいぎで じぶんの いけんを のべる きかいが あった。|Aku punya kesempatan menyampaikan pendapat di rapat.
+関わる|かかわる|kakawaru|terlibat / berkaitan|Verb (Godan)|この事件に関わりたくない。|この じけんに かかわりたくない。|Aku tidak mau terlibat dalam kasus ini.
+繰り越す|くりこす|kurikosu|membawa ke depan / dilanjutkan|Verb (Godan)|未使用の予算を来月に繰り越した。|みしようの よさんを らいげつに くりこした。|Anggaran yang tidak terpakai dibawa ke bulan berikutnya.
+経つ|たつ|tatsu|berlalu (waktu)|Verb (Godan)|卒業してから10年が経った。|そつぎょうしてから じゅうねんが たった。|10 tahun telah berlalu sejak kelulusan.
+傷つける|きずつける|kizutsukeru|melukai / menyakiti|Verb (Ichidan)|言葉で人を傷つけることがある。|ことばで ひとを きずつけることが ある。|Terkadang ada orang yang disakiti oleh kata-kata.
+傷つく|きずつく|kizutsuku|terluka / tersakiti|Verb (Godan)|友達の言葉に深く傷ついた。|ともだちの ことばに ふかく きずついた。|Aku sangat terluka oleh kata-kata teman.
+機能する|きのうする|kinou suru|berfungsi|Verb (Irregular)|システムが正常に機能しているか確認する。|システムが せいじょうに きのうしているか かくにんする。|Memeriksa apakah sistem berfungsi dengan normal.
+距離を置く|きょりをおく|kyori wo oku|menjaga jarak|Verb (Godan)|問題のある人から距離を置くようにしている。|もんだいのある ひとから きょりを おくように している。|Aku berusaha menjaga jarak dari orang yang bermasalah.
+嫌がる|いやがる|iyagaru|menolak dengan enggan / tidak suka|Verb (Godan)|子どもが野菜を食べるのを嫌がっている。|こどもが やさいを たべるのを いやがっている。|Anak tidak mau makan sayuran.
+工夫を凝らす|くふうをこらす|kufuu wo korasu|mencurahkan kreativitas|Verb (Godan)|料理に工夫を凝らして見た目も美しくした。|りょうりに くふうを こらして みためも うつくしくした。|Aku mencurahkan kreativitas dalam masakan dan membuatnya indah dipandang.
+傾く|かたむく|katamuku|miring / condong|Verb (Godan)|強風で木が傾いた。|きょうふうで きが かたむいた。|Pohon miring karena angin kencang.
+見渡す|みわたす|miwatasu|melihat sekeliling / memandang luas|Verb (Godan)|山の頂上から町を見渡した。|やまの ちょうじょうから まちを みわたした。|Aku memandang kota dari puncak gunung.
+見守る|みまもる|mimamoru|memantau / mengawasi|Verb (Godan)|先生が生徒を温かく見守っている。|せんせいが せいとを あたたかく みまもっている。|Guru mengawasi murid dengan penuh kasih sayang.
+向上する|こうじょうする|koujou suru|meningkat / berkembang|Verb (Irregular)|日々の練習で実力が向上した。|ひびの れんしゅうで じつりょくが こうじょうした。|Kemampuan meningkat dengan latihan setiap hari.
+望む|のぞむ|nozomu|menginginkan / mengharapkan|Verb (Godan)|平和な世界を強く望んでいる。|へいわな せかいを つよく のぞんでいる。|Aku sangat menginginkan dunia yang damai.
+悩ませる|なやませる|nayamaseru|membuat khawatir / menyusahkan|Verb (Ichidan)|複雑な問題が頭を悩ませている。|ふくざつな もんだいが あたまを なやませている。|Masalah yang rumit membuatku pusing.
+並べる|ならべる|naraberu|menyusun / berbaris|Verb (Ichidan)|商品を棚に綺麗に並べた。|しょうひんを たなに きれいに ならべた。|Aku menyusun produk di rak dengan rapi.
+入学する|にゅうがくする|nyuugaku suru|masuk sekolah/universitas|Verb (Irregular)|来年、大学に入学する予定だ。|らいねん、だいがくに にゅうがくする よていだ。|Aku berencana masuk universitas tahun depan.
+認める|みとめる|mitomeru|mengakui / mengizinkan|Verb (Ichidan)|彼の才能を皆が認めている。|かれの さいのうを みなが みとめている。|Semua orang mengakui bakatnya.
+抜け出す|ぬけだす|nukedasu|keluar dari / melarikan diri|Verb (Godan)|日常のルーティンから抜け出したい。|にちじょうの ルーティンから ぬけだしたい。|Aku ingin keluar dari rutinitas sehari-hari.
+眠る|ねむる|nemuru|tidur / terlelap|Verb (Godan)|疲れてすぐに深く眠った。|つかれて すぐに ふかく ねむった。|Karena lelah, aku langsung tidur nyenyak.
+乗り越える|のりこえる|norikoeru|melewati / mengatasi|Verb (Ichidan)|試練を乗り越えた後、もっと強くなれた。|しれんを のりこえた あと、もっと つよくなれた。|Setelah melewati cobaan, aku menjadi lebih kuat.
+話し合う|はなしあう|hanashiau|berdiskusi / berunding|Verb (Godan)|問題について家族で話し合った。|もんだいに ついて かぞくで はなしあった。|Aku berdiskusi dengan keluarga tentang masalah itu.
+反映する|はんえいする|han'ei suru|mencerminkan / memantulkan|Verb (Irregular)|この作品は社会の現実を反映している。|この さくひんは しゃかいの げんじつを はんえいしている。|Karya ini mencerminkan realita sosial.
+反論する|はんろんする|hanron suru|membantah / berargumen balik|Verb (Irregular)|彼の発言に丁寧に反論した。|かれの はつげんに ていねいに はんろんした。|Aku membantah pernyataannya dengan sopan.
+引き下がる|ひきさがる|hikisagaru|mundur / mengalah|Verb (Godan)|証拠を見せられて引き下がった。|しょうこを みせられて ひきさがった。|Aku mundur setelah diperlihatkan bukti.
+非難する|ひなんする|hinan suru|mengkritik / mencela|Verb (Irregular)|他人を非難するのは簡単だ。|たにんを ひなんするのは かんたんだ。|Mengkritik orang lain itu mudah.
+引き止める|ひきとめる|hikidomeru|mencegah pergi / menahan|Verb (Ichidan)|辞めようとした社員を引き止めた。|やめようとした しゃいんを ひきとめた。|Aku mencegah karyawan yang hendak mengundurkan diri.
+増す|ます|masu|bertambah / meningkat|Verb (Godan)|努力するほど自信が増す。|どりょくするほど じしんが ます。|Semakin banyak berusaha, semakin bertambah kepercayaan diri.
+磨く|みがく|migaku|mengasah / menggosok|Verb (Godan)|毎日歯を丁寧に磨いている。|まいにち はを ていねいに みがいている。|Aku menggosok gigi dengan teliti setiap hari.
+結び付く|むすびつく|musubitsuku|terhubung / berkaitan|Verb (Godan)|努力と成功は必ず結び付く。|どりょくと せいこうは かならず むすびつく。|Usaha dan kesuksesan pasti saling berkaitan.
+結び付ける|むすびつける|musubitsukeru|menghubungkan / mengaitkan|Verb (Ichidan)|二つの概念を結び付けて考えた。|ふたつの がいねんを むすびつけて かんがえた。|Aku memikirkan dua konsep secara berkaitan.
+もたらす|もたらす|motarasu|membawa / mengakibatkan|Verb (Godan)|技術の発展は多くの変化をもたらした。|ぎじゅつの はってんは おおくの へんかを もたらした。|Perkembangan teknologi membawa banyak perubahan.
+盛り上がる|もりあがる|moriagaru|semakin semarak / bersemangat|Verb (Godan)|パーティーがだんだん盛り上がってきた。|パーティーが だんだん もりあがってきた。|Pesta semakin semarak.
+燃える|もえる|moeru|terbakar / bersemangat|Verb (Ichidan)|競争心が燃えるような試合だった。|きょうそうしんが もえるような しあいだった。|Pertandingan itu membakar semangat persaingan.
+催す|もよおす|moyoosu|menyelenggarakan / merasa|Verb (Godan)|地域で大きなイベントを催した。|ちいきで おおきな イベントを もよおした。|Kami menyelenggarakan acara besar di komunitas.
+求められる|もとめられる|motomerareru|dituntut / diperlukan|Verb (Ichidan)|この仕事では高いコミュニケーション能力が求められる。|この しごとでは たかい コミュニケーション のうりょくが もとめられる。|Pekerjaan ini menuntut kemampuan komunikasi yang tinggi.
+訳す|やくす|yakusu|menerjemahkan|Verb (Godan)|日本語の文章を英語に訳した。|にほんごの ぶんしょうを えいごに やくした。|Aku menerjemahkan teks Jepang ke bahasa Inggris.
+辞める|やめる|yameru|berhenti / mengundurkan diri|Verb (Ichidan)|長年勤めた会社を辞めることにした。|ながねん つとめた かいしゃを やめることに した。|Aku memutuskan berhenti dari perusahaan yang sudah lama kubekerja.
+やり直す|やりなおす|yarinaosu|mengulang dari awal / memperbaiki|Verb (Godan)|間違えた部分をやり直した。|まちがえた ぶぶんを やりなおした。|Aku mengulang bagian yang salah.
+揺れる|ゆれる|yureru|bergoyang / berguncang|Verb (Ichidan)|地震で建物が激しく揺れた。|じしんで たてものが はげしく ゆれた。|Bangunan berguncang keras karena gempa bumi.
+許す|ゆるす|yurusu|memaafkan / mengizinkan|Verb (Godan)|過ちを認めた彼を許すことにした。|あやまちを みとめた かれを ゆるすことに した。|Aku memutuskan memaafkan dia yang telah mengakui kesalahannya.
+寄る|よる|yoru|mampir / mendekat|Verb (Godan)|帰り道にコンビニに寄った。|かえりみちに コンビニに よった。|Aku mampir ke minimarket dalam perjalanan pulang.
+読み解く|よみとく|yomitoku|membaca dan memahami|Verb (Godan)|難しい文章を丁寧に読み解いた。|むずかしい ぶんしょうを ていねいに よみといた。|Aku membaca dan memahami teks yang sulit dengan teliti.
+呼びかける|よびかける|yobikakeru|menyerukan / mengajak|Verb (Ichidan)|市民にゴミ拾いへの参加を呼びかけた。|しみんに ゴミひろいへの さんかを よびかけた。|Aku menyerukan warga untuk berpartisipasi dalam memungut sampah.
+分かり合う|わかりあう|wakariau|saling memahami|Verb (Godan)|文化が違っても分かり合える。|ぶんかが ちがっても わかりあえる。|Meski berbeda budaya, kita bisa saling memahami.
+忘れる|わすれる|wasureru|melupakan|Verb (Ichidan)|大切な約束を忘れてしまった。|たいせつな やくそくを わすれて しまった。|Aku melupakan janji penting.
+割り込む|わりこむ|warikomu|menyela / menyerobot|Verb (Godan)|列に割り込むのはマナー違反だ。|れつに わりこむのは マナー いはんだ。|Menyerobot antrian adalah pelanggaran etika.
+分担する|ぶんたんする|buntan suru|berbagi tugas / membagi|Verb (Irregular)|作業を分担して效率よく進めた。|さぎょうを ぶんたんして こうりつよく すすめた。|Kami membagi tugas dan mengerjakan secara efisien.
+返答する|へんとうする|hentou suru|menjawab / merespons|Verb (Irregular)|メールへの返答が遅くなってしまった。|メールへの へんとうが おそくなって しまった。|Jawabanku atas email terlambat.
+報じる|ほうじる|houjiru|memberitakan / melaporkan|Verb (Ichidan)|ニュースでその事故が報じられた。|ニュースで その じこが ほうじられた。|Kecelakaan itu diberitakan di berita.
+保つ|たもつ|tamotsu|menjaga / mempertahankan|Verb (Godan)|健康を保つために適度な運動が必要だ。|けんこうを たもつために てきどな うんどうが ひつようだ。|Olahraga secukupnya diperlukan untuk menjaga kesehatan.
+補う|おぎなう|oginau|melengkapi / menutupi kekurangan|Verb (Godan)|栄養をサプリメントで補っている。|えいようを サプリメントで おぎなっている。|Aku melengkapi gizi dengan suplemen.
+招く|まねく|maneku|mengundang / mengakibatkan|Verb (Godan)|不注意が事故を招くことがある。|ふちゅうが じこを まねくことが ある。|Kecerobohan terkadang mengakibatkan kecelakaan.
+丸める|まるめる|marumeru|membulatkan / melipat|Verb (Ichidan)|紙をまるめてゴミ箱に投げた。|かみを まるめて ゴミばこに なげた。|Aku menggulung kertas dan melemparnya ke tempat sampah.
+基づく|もとづく|motozuku|berlandaskan / berdasarkan|Verb (Godan)|事実に基づいた情報のみを伝える。|じじつに もとづいた じょうほうのみを つたえる。|Aku hanya menyampaikan informasi yang berdasarkan fakta.
+申し出る|もうしでる|moushideru|menawarkan / mengajukan diri|Verb (Ichidan)|困っている人に助けを申し出た。|こまっている ひとに たすけを もうしでた。|Aku menawarkan bantuan kepada orang yang kesulitan.
+設ける|もうける|moukeru|menyiapkan / menetapkan|Verb (Ichidan)|会議のための場所を設けた。|かいぎの ための ばしょを もうけた。|Aku menyiapkan tempat untuk rapat.
+見習う|みならう|minarau|mencontoh / belajar dari|Verb (Godan)|先輩の仕事の仕方を見習いたい。|せんぱいの しごとの しかたを みならいたい。|Aku ingin mencontoh cara kerja senior.
+見逃す|みのがす|minogasu|melewatkan / membiarkan berlalu|Verb (Godan)|大切なシーンを見逃してしまった。|たいせつな シーンを みのがして しまった。|Aku melewatkan adegan penting.
+まとめる|まとめる|matomeru|merangkum / menyatukan|Verb (Ichidan)|会議の内容をレポートにまとめた。|かいぎの ないようを レポートに まとめた。|Aku merangkum isi rapat dalam laporan.
+真似る|まねる|maneru|meniru / mencontoh|Verb (Ichidan)|尊敬する人の行動を真似ることで成長できる。|そんけいする ひとの こうどうを まねることで せいちょうできる。|Bisa berkembang dengan meniru tindakan orang yang dihormati.
+設定する|せっていする|settei suru|mengatur / menetapkan|Verb (Irregular)|パソコンの設定を変更した。|パソコンの せっていを へんこうした。|Aku mengubah pengaturan komputer.
+掃除する|そうじする|souji suru|membersihkan|Verb (Irregular)|週末に部屋の掃除をした。|しゅうまつに へやの そうじを した。|Aku membersihkan kamar di akhir pekan.
+卒業する|そつぎょうする|sotsugyou suru|lulus / wisuda|Verb (Irregular)|来年、大学を卒業する予定だ。|らいねん、だいがくを そつぎょうする よていだ。|Aku berencana lulus universitas tahun depan.
+尊重する|そんちょうする|sonchou suru|menghormati / menghargai|Verb (Irregular)|お互いの意見を尊重することが大切だ。|おたがいの いけんを そんちょうすることが たいせつだ。|Penting untuk saling menghargai pendapat satu sama lain.
+発展する|はってんする|hatten suru|berkembang / maju|Verb (Irregular)|この地域は経済的に発展している。|この ちいきは けいざいてきに はってんしている。|Daerah ini berkembang secara ekonomi.
+変更する|へんこうする|henkou suru|mengubah / memodifikasi|Verb (Irregular)|予定を急に変更された。|よていを きゅうに へんこうされた。|Jadwal diubah secara mendadak.
+目指す|めざす|mezasu|mengincar / menuju|Verb (Godan)|医者を目指して毎日勉強している。|いしゃを めざして まいにち べんきょうしている。|Aku belajar setiap hari dengan mengincar menjadi dokter.
+迷惑をかける|めいわくをかける|meiwaku wo kakeru|merepotkan / menyusahkan|Verb (Ichidan)|周りに迷惑をかけないよう気をつけている。|まわりに めいわくを かけないよう きをつけている。|Aku berhati-hati agar tidak merepotkan orang sekitar.
+迷い込む|まよいこむ|mayoikomu|tersesat masuk|Verb (Godan)|知らない道に迷い込んでしまった。|しらない みちに まよいこんで しまった。|Aku tersesat masuk ke jalan yang tidak kukenal.
+目覚める|めざめる|mezameru|terbangun / tersadar|Verb (Ichidan)|夢の音で目覚めてしまった。|ゆめの おとで めざめて しまった。|Aku terbangun karena suara dalam mimpi.
+焼ける|やける|yakeru|terbakar / matang dibakar|Verb (Ichidan)|太陽でお肌が焼けてしまった。|たいようで おはだが やけて しまった。|Kulitku terbakar sinar matahari.
+役に立つ|やくにたつ|yaku ni tatsu|berguna / bermanfaat|Verb (Godan)|この経験がいつか役に立つと思う。|この けいけんが いつか やくに たつと おもう。|Aku pikir pengalaman ini akan berguna suatu saat nanti.
+収める|おさめる|osameru|mencapai / menyimpan|Verb (Ichidan)|交渉を成功に収めることができた。|こうしょうを せいこうに おさめることが できた。|Aku berhasil mencapai negosiasi yang sukses.
+汚れる|よごれる|yogoreru|menjadi kotor|Verb (Ichidan)|泥の中で遊んで服が汚れた。|どろの なかで あそんで ふくが よごれた。|Baju menjadi kotor karena bermain di lumpur.
+汚す|よごす|yogosu|mengotori|Verb (Godan)|床を汚さないように注意する。|ゆかを よごさないように ちゅういする。|Berhati-hati agar tidak mengotori lantai.
+養う|やしなう|yashinau|menghidupi / memelihara|Verb (Godan)|家族を養うために一生懸命働いている。|かぞくを やしなうために いっしょうけんめい はたらいている。|Aku bekerja keras untuk menghidupi keluarga.
+揺さぶる|ゆさぶる|yusaburu|mengguncang / menggoyahkan|Verb (Godan)|その言葉が私の心を深く揺さぶった。|その ことばが わたしの こころを ふかく ゆさぶった。|Kata-kata itu sangat mengguncang hatiku.
+浮かぶ|うかぶ|ukabu|muncul / terapung|Verb (Godan)|突然良いアイデアが浮かんだ。|とつぜん よい アイデアが うかんだ。|Tiba-tiba muncul ide yang baik.
+浮かべる|うかべる|ukaberu|mengapungkan / menunjukkan|Verb (Ichidan)|笑顔を浮かべながら話した。|えがおを うかべながら はなした。|Aku berbicara sambil menunjukkan senyuman.
+受け継ぐ|うけつぐ|uketsugu|mewarisi / meneruskan|Verb (Godan)|祖父の仕事を受け継ぐことになった。|そふの しごとを うけつぐことに なった。|Aku akan meneruskan pekerjaan kakek.
+動く|うごく|ugoku|bergerak|Verb (Godan)|地震で建物が大きく動いた。|じしんで たてものが おおきく うごいた。|Bangunan bergerak besar saat gempa.
+奪う|うばう|ubau|merebut / merampas|Verb (Godan)|事故が彼の視力を奪った。|じこが かれの しりょくを うばった。|Kecelakaan merenggut penglihatannya.
+映る|うつる|utsuru|terlihat / tercermin|Verb (Godan)|鏡に自分の顔が映っている。|かがみに じぶんの かおが うつっている。|Wajahku terlihat di cermin.
+映す|うつす|utsusu|memproyeksikan / memantulkan|Verb (Godan)|スクリーンに映像を映した。|スクリーンに えいぞうを うつした。|Aku memproyeksikan gambar ke layar.
+移る|うつる|utsuru|berpindah / bergerak|Verb (Godan)|次の話題に移りましょう。|つぎの わだいに うつりましょう。|Mari beralih ke topik berikutnya.
+恵まれる|めぐまれる|megumareru|dianugerahi / beruntung|Verb (Ichidan)|良い環境に恵まれて育った。|よい かんきょうに めぐまれて そだった。|Aku tumbuh dianugerahi lingkungan yang baik.
+命じる|めいじる|meijiru|memerintahkan|Verb (Ichidan)|上司が部下に仕事を命じた。|じょうしが ぶかに しごとを めいじた。|Atasan memerintahkan bawahan untuk bekerja.
+申す|もうす|mousu|mengatakan (sopan)|Verb (Godan)|田中と申します。|たなかと もうします。|Nama saya Tanaka (bentuk sopan).
+踏み込む|ふみこむ|fumikomu|melangkah masuk / masuk lebih dalam|Verb (Godan)|詳細な問題に踏み込んで話し合った。|しょうさいな もんだいに ふみこんで はなしあった。|Kami berdiskusi lebih dalam mengenai masalah detail.
+振り返る|ふりかえる|furikaeru|menoleh / merefleksi|Verb (Godan)|過去を振り返ることで学べることがある。|かこを ふりかえることで まなべることが ある。|Ada yang bisa dipelajari dengan merefleksi masa lalu.
+振る|ふる|furu|mengayunkan / menolak|Verb (Godan)|別れ際に大きく手を振った。|わかれぎわに おおきく てを ふった。|Aku melambaikan tangan besar-besaran saat berpisah.
+分かれる|わかれる|wakareru|berpisah / terbagi|Verb (Ichidan)|道が二つに分かれている。|みちが ふたつに わかれている。|Jalan terbagi menjadi dua.
+隠れる|かくれる|kakureru|bersembunyi|Verb (Ichidan)|子どもたちが木の陰に隠れた。|こどもたちが きの かげに かくれた。|Anak-anak bersembunyi di balik pohon.
+抱く|だく|daku|memeluk / memiliki perasaan|Verb (Godan)|赤ちゃんをやさしく抱いた。|あかちゃんを やさしく だいた。|Aku memeluk bayi dengan lembut.
+抱きしめる|だきしめる|dakishimeru|memeluk erat|Verb (Ichidan)|久しぶりに会った親友を抱きしめた。|ひさしぶりに あった しんゆうを だきしめた。|Aku memeluk erat sahabat yang lama tidak bertemu.
+絶える|たえる|taeru|berhenti / putus|Verb (Ichidan)|連絡が絶えてしまった。|れんらくが たえて しまった。|Kontak terputus.
+耐える|たえる|taeru|tahan / bertahan|Verb (Ichidan)|痛みに耐えながら練習を続けた。|いたみに たえながら れんしゅうを つづけた。|Aku terus berlatih sambil menahan rasa sakit.
+試みる|こころみる|こころみる|mencoba / berupaya|Verb (Ichidan)|新しい方法を試みることにした。|あたらしい ほうほうを こころみることに した。|Aku memutuskan untuk mencoba cara baru.
+来る|くる|kuru|datang|Verb (Irregular)|友達が遠くから会いに来てくれた。|ともだちが とおくから あいに きてくれた。|Teman datang dari jauh untuk menemuiku.
+する|する|suru|melakukan|Verb (Irregular)|毎朝ジョギングをするようにしている。|まいあさ ジョギングを するように している。|Aku membiasakan diri jogging setiap pagi.
+言う|いう|iu|mengatakan|Verb (Godan)|はっきりと自分の意見を言うことが大切だ。|はっきりと じぶんの いけんを いうことが たいせつだ。|Penting untuk menyatakan pendapat dengan jelas.
+聞く|きく|kiku|mendengar / bertanya|Verb (Godan)|分からないことは遠慮なく聞いてください。|わからない ことは えんりょなく きいて ください。|Tolong jangan segan bertanya jika tidak mengerti.
+見える|みえる|mieru|terlihat / tampak|Verb (Ichidan)|霧で山が見えなくなった。|きりで やまが みえなくなった。|Gunung tidak terlihat karena kabut.
+話す|はなす|hanasu|berbicara|Verb (Godan)|外国語で流暢に話せるようになりたい。|がいこくごで りゅうちょうに はなせるように なりたい。|Aku ingin bisa berbicara dengan fasih dalam bahasa asing.
+食べる|たべる|taberu|makan|Verb (Ichidan)|栄養バランスを考えて食べることが大切だ。|えいよう バランスを かんがえて たべることが たいせつだ。|Penting untuk makan dengan mempertimbangkan keseimbangan gizi.
+飲む|のむ|nomu|minum|Verb (Godan)|水をこまめに飲む習慣をつけた。|みずを こまめに のむ しゅうかんを つけた。|Aku membiasakan diri minum air secara teratur.
+書く|かく|kaku|menulis|Verb (Godan)|毎日日記を書く習慣がある。|まいにち にっきを かく しゅうかんが ある。|Aku punya kebiasaan menulis buku harian setiap hari.
+読む|よむ|yomu|membaca|Verb (Godan)|毎晩本を読んでから眠る。|まいばん ほんを よんでから ねむる。|Aku tidur setelah membaca buku setiap malam.
+歩く|あるく|aruku|berjalan|Verb (Godan)|健康のために毎日30分歩いている。|けんこうの ために まいにち さんじゅっぷん あるいている。|Aku berjalan 30 menit setiap hari untuk kesehatan.
+走る|はしる|hashiru|berlari|Verb (Godan)|毎朝5キロ走るのが日課だ。|まいあさ ごキロ はしるのが にっかだ。|Berlari 5 km setiap pagi adalah rutinitas harianku.
+働く|はたらく|hataraku|bekerja|Verb (Godan)|家族のために一生懸命働いている。|かぞくの ために いっしょうけんめい はたらいている。|Aku bekerja keras untuk keluarga.
+勉強する|べんきょうする|benkyou suru|belajar|Verb (Irregular)|試験のために毎日4時間勉強している。|しけんの ために まいにち よじかん べんきょうしている。|Aku belajar 4 jam setiap hari untuk ujian.
+休む|やすむ|yasumu|beristirahat / tidak hadir|Verb (Godan)|体調が悪くて会社を休んだ。|たいちょうが わるくて かいしゃを やすんだ。|Aku tidak masuk kerja karena kondisi badan buruk.
+泳ぐ|およぐ|oyogu|berenang|Verb (Godan)|夏は毎日プールで泳いでいた。|なつは まいにち プールで およいでいた。|Di musim panas aku berenang di kolam setiap hari.
+登る|のぼる|noboru|mendaki / naik|Verb (Godan)|富士山に登るのが夢だ。|ふじさんに のぼるのが ゆめだ。|Mendaki Gunung Fuji adalah impianku.
+降りる|おりる|oriru|turun|Verb (Ichidan)|次の駅で電車を降りる。|つぎの えきで でんしゃを おりる。|Aku turun dari kereta di stasiun berikutnya.
+乗る|のる|noru|naik (kendaraan)|Verb (Godan)|バスに乗って学校に通っている。|バスに のって がっこうに かよっている。|Aku pergi ke sekolah dengan naik bus.
+買う|かう|kau|membeli|Verb (Godan)|セールで欲しかったものを買った。|セールで ほしかったものを かった。|Aku membeli barang yang kuinginkan saat obral.
+売る|うる|uru|menjual|Verb (Godan)|不用品をフリマアプリで売った。|ふようひんを フリマ アプリで うった。|Aku menjual barang tidak terpakai di aplikasi jual beli.
+作る|つくる|tsukuru|membuat|Verb (Godan)|友達の誕生日にケーキを作った。|ともだちの たんじょうびに ケーキを つくった。|Aku membuat kue untuk ulang tahun teman.
+開ける|あける|akeru|membuka|Verb (Ichidan)|窓を開けて新鮮な空気を入れた。|まどを あけて しんせんな くうきを いれた。|Aku membuka jendela untuk memasukkan udara segar.
+閉める|しめる|shimeru|menutup|Verb (Ichidan)|外出する前に全ての窓を閉めた。|がいしゅつする まえに すべての まどを しめた。|Aku menutup semua jendela sebelum keluar.
+入れる|いれる|ireru|memasukkan|Verb (Ichidan)|荷物をバッグに入れた。|にもつを バッグに いれた。|Aku memasukkan barang ke dalam tas.
+出す|だす|dasu|mengeluarkan / mengumpulkan|Verb (Godan)|引き出しからハンコを出した。|ひきだしから ハンコを だした。|Aku mengeluarkan stempel dari laci.
+持つ|もつ|motsu|memegang / memiliki|Verb (Godan)|重い荷物を一人で持つのは大変だ。|おもい にもつを ひとりで もつのは たいへんだ。|Memegang barang bawaan yang berat sendirian itu berat.
+置く|おく|oku|meletakkan|Verb (Godan)|大切なものは安全な場所に置いている。|たいせつなものは あんぜんな ばしょに おいている。|Aku meletakkan barang berharga di tempat yang aman.
+取る|とる|toru|mengambil / mengambil|Verb (Godan)|棚から本を取って読んだ。|たなから ほんを とって よんだ。|Aku mengambil buku dari rak dan membacanya.
+貸す|かす|kasu|meminjamkan|Verb (Godan)|友達に傘を貸してあげた。|ともだちに かさを かして あげた。|Aku meminjamkan payung kepada teman.
+借りる|かりる|kariru|meminjam|Verb (Ichidan)|図書館で本を借りた。|としょかんで ほんを かりた。|Aku meminjam buku dari perpustakaan.
+教える|おしえる|oshieru|mengajarkan / memberi tahu|Verb (Ichidan)|友達に料理の作り方を教えた。|ともだちに りょうりの つくりかたを おしえた。|Aku mengajarkan cara memasak kepada teman.
+習う|ならう|narau|belajar dari|Verb (Godan)|ピアノを先生に習っている。|ピアノを せんせいに ならっている。|Aku belajar piano dari guru.
+考え直す|かんがえなおす|kangaenaosu|mempertimbangkan kembali|Verb (Godan)|一度考え直してから返事をする。|いちど かんがえなおして から へんじを する。|Aku menjawab setelah mempertimbangkan kembali sekali.
+知らせる|しらせる|shiraseru|memberitahu|Verb (Ichidan)|結果が分かったらすぐ知らせてください。|けっかが わかったら すぐ しらせて ください。|Tolong segera beritahu jika hasilnya sudah diketahui.
+探し出す|さがしだす|sagashidasu|menemukan setelah mencari|Verb (Godan)|長時間かけてやっと資料を探し出した。|ちょうじかん かけて やっと しりょうを さがしだした。|Setelah waktu yang lama, aku akhirnya berhasil menemukan dokumen.
+引き継ぐ|ひきつぐ|hikitsugu|meneruskan / mewarisi tugas|Verb (Godan)|前任者から業務を引き継いだ。|ぜんにんしゃから ぎょうむを ひきついだ。|Aku meneruskan tugas dari pendahuluku.
+数える|かぞえる|kazoeru|menghitung|Verb (Ichidan)|参加者の数を一人ずつ数えた。|さんかしゃの かずを ひとりずつ かぞえた。|Aku menghitung jumlah peserta satu per satu.
+集まる|あつまる|atsumaru|berkumpul|Verb (Godan)|卒業生が母校に集まった。|そつぎょうせいが ぼこうに あつまった。|Para lulusan berkumpul di sekolah asal.
+分かる|わかる|wakaru|mengerti / memahami|Verb (Godan)|説明を聞いてやっと意味が分かった。|せつめいを きいて やっと いみが わかった。|Aku akhirnya mengerti artinya setelah mendengar penjelasan.
+決まる|きまる|kimaru|diputuskan / ditetapkan|Verb (Godan)|会議で次の計画が決まった。|かいぎで つぎの けいかくが きまった。|Rencana berikutnya ditetapkan dalam rapat.
+始める|はじめる|hajimeru|memulai|Verb (Ichidan)|新しい趣味を始めることにした。|あたらしい しゅみを はじめることに した。|Aku memutuskan untuk memulai hobi baru.
+終わる|おわる|owaru|selesai / berakhir|Verb (Godan)|長い会議がやっと終わった。|ながい かいぎが やっと おわった。|Rapat yang panjang akhirnya selesai.
+止まる|とまる|tomaru|berhenti|Verb (Godan)|赤信号で車が止まった。|あかしんごうで くるまが とまった。|Mobil berhenti di lampu merah.
+止める|とめる|tomeru|menghentikan|Verb (Ichidan)|彼女の泣き声を聞いて思わず足を止めた。|かのじょの なきごえを きいて おもわず あしを とめた。|Aku tanpa sadar menghentikan langkah saat mendengar suara tangisannya.
+移す|うつす|utsusu|memindahkan|Verb (Godan)|データを新しいパソコンに移した。|データを あたらしい パソコンに うつした。|Aku memindahkan data ke komputer baru.
+変える|かえる|kaeru|mengubah|Verb (Ichidan)|髪型を思い切って変えた。|かみがたを おもいきって かえた。|Aku mengubah gaya rambut dengan berani.
+進める|すすめる|susumeru|memajukan / melanjutkan|Verb (Ichidan)|プロジェクトを予定通りに進めた。|プロジェクトを よていどおりに すすめた。|Aku memajukan proyek sesuai rencana.
+残す|のこす|nokosu|menyisakan / meninggalkan|Verb (Godan)|次の世代に良い環境を残したい。|つぎの せだいに よい かんきょうを のこしたい。|Aku ingin meninggalkan lingkungan yang baik untuk generasi berikutnya.
+起こす|おこす|okosu|membangunkan / menimbulkan|Verb (Godan)|毎朝6時に父が起こしてくれる。|まいあさ ろくじに ちちが おこしてくれる。|Ayah membangunkanku setiap pagi pukul 6.
+起きる|おきる|okiru|bangun / terjadi|Verb (Ichidan)|毎朝6時に起きる習慣がある。|まいあさ ろくじに おきる しゅうかんが ある。|Aku punya kebiasaan bangun pukul 6 setiap pagi.
+着る|きる|kiru|memakai (pakaian)|Verb (Ichidan)|今日は大事な会議があるのでスーツを着た。|きょうは だいじな かいぎが あるので スーツを きた。|Aku memakai jas karena ada rapat penting hari ini.
+脱ぐ|ぬぐ|nugu|melepas (pakaian)|Verb (Godan)|玄関で靴を脱いでください。|げんかんで くつを ぬいでください。|Tolong lepas sepatu di pintu masuk.
+かける|かける|kakeru|mengenakan / memasang|Verb (Ichidan)|眼鏡をかけると字が見えやすくなる。|めがねを かけると じが みえやすくなる。|Dengan memakai kacamata, tulisan lebih mudah terlihat.
+運動する|うんどうする|undou suru|berolahraga|Verb (Irregular)|健康のために毎日運動するようにしている。|けんこうの ために まいにち うんどうするように している。|Aku membiasakan diri berolahraga setiap hari untuk kesehatan.
+旅行する|りょこうする|ryokou suru|berwisata / bepergian|Verb (Irregular)|毎年夏に家族で旅行するのが恒例だ。|まいとし なつに かぞくで りょこうするのが こうれいだ。|Berwisata bersama keluarga setiap musim panas sudah jadi tradisi.
+連絡する|れんらくする|renraku suru|menghubungi|Verb (Irregular)|急用が出たのですぐに連絡した。|きゅうようが でたので すぐに れんらくした。|Ada keperluan mendadak jadi aku langsung menghubungi.
+注文する|ちゅうもんする|chuumon suru|memesan|Verb (Irregular)|レストランで料理を注文した。|レストランで りょうりを ちゅうもんした。|Aku memesan makanan di restoran.
+予約する|よやくする|yoyaku suru|mereservasi / membuat janji|Verb (Irregular)|レストランを事前に予約しておいた。|レストランを じぜんに よやくしておいた。|Aku mereservasi restoran sebelumnya.
+試験する|しけんする|shiken suru|menguji / melakukan tes|Verb (Irregular)|新しいシステムを実際に試験した。|あたらしい システムを じっさいに しけんした。|Aku menguji sistem baru secara nyata.
+検査する|けんさする|kensa suru|memeriksa / menginspeksi|Verb (Irregular)|病院で定期的に体を検査している。|びょういんで ていきてきに からだを けんさしている。|Aku memeriksakan tubuh secara rutin di rumah sakit.
+発表する|はっぴょうする|happyou suru|mempresentasikan / mengumumkan|Verb (Irregular)|クラスの前でレポートを発表した。|クラスの まえで レポートを はっぴょうした。|Aku mempresentasikan laporan di depan kelas.
+紹介する|しょうかいする|shoukai suru|memperkenalkan|Verb (Irregular)|新しい同僚をチームに紹介した。|あたらしい どうりょうを チームに しょうかいした。|Aku memperkenalkan rekan baru ke tim.
+翻訳する|ほんやくする|honyaku suru|menerjemahkan|Verb (Irregular)|英語の記事を日本語に翻訳した。|えいごの きじを にほんごに ほんやくした。|Aku menerjemahkan artikel bahasa Inggris ke bahasa Jepang.
+投票する|とうひょうする|touhyou suru|memberikan suara / memilih|Verb (Irregular)|選挙で自分の考えを投票で示した。|せんきょで じぶんの かんがえを とうひょうで しめした。|Aku menunjukkan pikiranku melalui pemungutan suara di pemilu.
+録音する|ろくおんする|rokuon suru|merekam suara|Verb (Irregular)|授業の説明を録音して後で聴いた。|じゅぎょうの せつめいを ろくおんして あとで きいた。|Aku merekam penjelasan pelajaran dan mendengarnya nanti.
+撮影する|さつえいする|satsuei suru|memotret / merekam|Verb (Irregular)|旅行中に美しい風景を撮影した。|りょこうちゅうに うつくしい ふうけいを さつえいした。|Aku memotret pemandangan indah saat perjalanan.
+展示する|てんじする|tenji suru|memamerkan|Verb (Irregular)|美術館で絵を展示している。|びじゅつかんで えを てんじしている。|Lukisan dipamerkan di museum seni.
+整理する|せいりする|seiri suru|merapikan / mengatur|Verb (Irregular)|書類を種類ごとに整理した。|しょるいを しゅるいごとに せいりした。|Aku merapikan dokumen berdasarkan jenisnya.
+整備する|せいびする|seibi suru|memelihara / merawat|Verb (Irregular)|自動車を定期的に整備している。|じどうしゃを ていきてきに せいびしている。|Aku merawat mobil secara rutin.
+入力する|にゅうりょくする|nyuuryoku suru|memasukkan data|Verb (Irregular)|パソコンにデータを入力した。|パソコンに データを にゅうりょくした。|Aku memasukkan data ke komputer.
+出力する|しゅつりょくする|shutsuryoku suru|mengeluarkan data / mencetak|Verb (Irregular)|必要な書類を出力した。|ひつような しょるいを しゅつりょくした。|Aku mencetak dokumen yang diperlukan.
+消去する|しょうきょする|shoukyo suru|menghapus|Verb (Irregular)|不要なファイルを消去した。|ふような ファイルを しょうきょした。|Aku menghapus file yang tidak diperlukan.
+登場する|とうじょうする|toujou suru|muncul / tampil|Verb (Irregular)|新しいキャラクターが物語に登場した。|あたらしい キャラクターが ものがたりに とうじょうした。|Karakter baru muncul dalam cerita.
+成立する|せいりつする|seiritsu suru|terbentuk / berlaku|Verb (Irregular)|二者間で合意が成立した。|にしゃかんで ごういが せいりつした。|Kesepakatan terbentuk antara dua pihak.
+失う|うしなう|ushinau|kehilangan|Verb (Godan)|大切な人を失う悲しみは計り知れない。|たいせつな ひとを うしなう かなしみは はかりしれない。|Kesedihan kehilangan orang yang dicintai tidak terukur.
+恥じる|はじる|hajiru|merasa malu|Verb (Ichidan)|自分の行動を恥じている。|じぶんの こうどうを はじている。|Aku merasa malu atas tindakanku sendiri.
+慌てる|あわてる|awateru|panik / terburu-buru|Verb (Ichidan)|急いで来たので慌てて転んだ。|いそいで きたので あわてて ころんだ。|Aku terjatuh karena panik datang terburu-buru.
+嘘をつく|うそをつく|uso wo tsuku|berbohong|Verb (Godan)|どんな状況でも嘘をつかないようにしている。|どんな じょうきょうでも うそをつかないように している。|Aku berusaha untuk tidak berbohong dalam situasi apapun.
+主に使う|おもにつかう|omoni tsukau|terutama menggunakan|Verb (Godan)|仕事では主にメールを使って連絡している。|しごとでは おもに メールを つかって れんらくしている。|Dalam pekerjaan, aku terutama menggunakan email untuk berkomunikasi.
+受け持つ|うけもつ|ukemotsu|bertanggung jawab atas / memegang|Verb (Godan)|今年はクラス全体を受け持つことになった。|ことしは クラス ぜんたいを うけもつことに なった。|Tahun ini aku bertanggung jawab atas seluruh kelas.
+表現する|ひょうげんする|hyougen suru|mengekspresikan|Verb (Irregular)|気持ちを言葉で表現するのが苦手だ。|きもちを ことばで ひょうげんするのが にがてだ。|Aku tidak pandai mengekspresikan perasaan dengan kata-kata.
+計画する|けいかくする|keikaku suru|merencanakan|Verb (Irregular)|旅行の計画を細かく立てた。|りょこうの けいかくを こまかく たてた。|Aku membuat rencana perjalanan secara detail.
+実施する|じっしする|jisshi suru|melaksanakan / mengimplementasikan|Verb (Irregular)|新しい制度を来月から実施する。|あたらしい せいどを らいげつから じっしする。|Sistem baru akan dilaksanakan mulai bulan depan.
+拡大する|かくだいする|kakudai suru|memperluas / memperbesar|Verb (Irregular)|事業を海外に拡大することを検討している。|じぎょうを かいがいに かくだいすることを けんとうしている。|Kami sedang mempertimbangkan untuk memperluas bisnis ke luar negeri.
+縮小する|しゅくしょうする|shukushou suru|memperkecil / memangkas|Verb (Irregular)|コストを削減するために事業を縮小した。|コストを さくげんするために じぎょうを しゅくしょうした。|Kami memangkas bisnis untuk mengurangi biaya.
+促進する|そくしんする|sokushin suru|mempromosikan / mempercepat|Verb (Irregular)|環境に優しい製品の普及を促進している。|かんきょうに やさしい せいひんの ふきゅうを そくしんしている。|Kami mempromosikan penyebaran produk ramah lingkungan.
+維持する|いじする|iji suru|mempertahankan / menjaga|Verb (Irregular)|良好な関係を維持することが大切だ。|りょうこうな かんけいを いじすることが たいせつだ。|Penting untuk mempertahankan hubungan yang baik.
+活用する|かつようする|katsuyou suru|memanfaatkan / menggunakan secara efektif|Verb (Irregular)|空き時間を活用して語学を学んでいる。|あきじかんを かつようして ごがくを まなんでいる。|Aku memanfaatkan waktu luang untuk belajar bahasa.
+負ける|まける|makeru|kalah|Verb (Ichidan)|試合に負けたが多くを学んだ。|しあいに まけたが おおくを まなんだ。|Aku kalah dalam pertandingan tapi banyak belajar.
+勝つ|かつ|katsu|menang|Verb (Godan)|自分に勝つことが一番難しい。|じぶんに かつことが いちばん むずかしい。|Mengalahkan diri sendiri adalah hal yang paling sulit.
+恵む|めぐむ|megumu|memberi / menganugerahi|Verb (Godan)|困っている人に食べ物を恵んだ。|こまっている ひとに たべものを めぐんだ。|Aku memberikan makanan kepada orang yang kesulitan.
+縛る|しばる|shibaru|mengikat / membatasi|Verb (Godan)|ルールに縛られすぎると自由を失う。|ルールに しばられすぎると じゆうを うしなう。|Terlalu terikat aturan akan kehilangan kebebasan.
+解く|とく|toku|memecahkan / melepas|Verb (Godan)|難しい数学の問題を解いた。|むずかしい すうがくの もんだいを といた。|Aku memecahkan soal matematika yang sulit.
+攻める|せめる|semeru|menyerang|Verb (Ichidan)|積極的に攻めることが大切だ。|せっきょくてきに せめることが たいせつだ。|Penting untuk menyerang secara aktif.
+守る|まもる|mamoru|mempertahankan / melindungi|Verb (Godan)|大切なものを守るために戦う。|たいせつなものを まもるために たたかう。|Aku berjuang untuk melindungi apa yang berharga.
+防ぐ|ふせぐ|fusegu|mencegah / menghalangi|Verb (Godan)|風邪を防ぐためにマスクをしている。|かぜを ふせぐために マスクを している。|Aku memakai masker untuk mencegah flu.
+避ける|さける|sakeru|menghindari|Verb (Ichidan)|混んでいる時間帯を避けて出かけた。|こんでいる じかんたいを さけて でかけた。|Aku keluar dengan menghindari jam sibuk.
+逃れる|のがれる|nogareru|lolos dari / menghindar|Verb (Ichidan)|責任から逃れることはできない。|せきにんから のがれることは できない。|Tidak bisa lari dari tanggung jawab.
+追う|おう|ou|mengejar / mengikuti|Verb (Godan)|自分の夢を諦めずに追い続けている。|じぶんの ゆめを あきらめずに おいつづけている。|Aku terus mengejar impianku tanpa menyerah.
+達する|たっする|tassuru|mencapai / tiba di|Verb (Irregular)|目標に達するまで諦めない。|もくひょうに たっするまで あきらめない。|Aku tidak menyerah sampai mencapai tujuan.
+積み重ねる|つみかさねる|tsumikasaneru|menumpuk / mengakumulasi|Verb (Ichidan)|毎日の努力を積み重ねて夢を実現した。|まいにちの どりょくを つみかさねて ゆめを じつげんした。|Aku mewujudkan impian dengan mengakumulasi usaha setiap hari.
+見習う|みならう|minarau|mencontoh / belajar dari|Verb (Godan)|先輩のやり方を見習って成長した。|せんぱいの やりかたを みならって せいちょうした。|Aku berkembang dengan mencontoh cara senior.
+取り戻す|とりもどす|torimodosu|mendapatkan kembali|Verb (Godan)|失った自信を取り戻すために努力した。|うしなった じしんを とりもどすために どりょくした。|Aku berusaha mendapatkan kembali kepercayaan diri yang hilang.
+見渡す|みわたす|miwatasu|memandang sekeliling|Verb (Godan)|丘の上から広い海を見渡した。|おかの うえから ひろい うみを みわたした。|Aku memandang laut yang luas dari atas bukit.
+気にする|きにする|ki ni suru|memikirkan / khawatir tentang|Verb (Irregular)|他人の目を気にしすぎないようにしている。|たにんの めを きにしすぎないように している。|Aku berusaha tidak terlalu memikirkan pandangan orang lain.
+決断する|けつだんする|ketsudan suru|memutuskan dengan tegas|Verb (Irregular)|重要な場面では素早く決断することが大切だ。|じゅうような ばめんでは すばやく けつだんすることが たいせつだ。|Penting untuk membuat keputusan cepat di momen penting.
+言い聞かせる|いいきかせる|iikikaseru|membujuk / meyakinkan|Verb (Ichidan)|自分に大丈夫だと言い聞かせた。|じぶんに だいじょうぶだと いいきかせた。|Aku meyakinkan diri sendiri bahwa semuanya baik-baik saja.
+乗り出す|のりだす|noridasu|memulai dengan semangat / maju|Verb (Godan)|新しいビジネスに乗り出すことを決めた。|あたらしい ビジネスに のりだすことを きめた。|Aku memutuskan untuk memulai bisnis baru dengan penuh semangat.
+怠る|おこたる|okotaru|lalai / mengabaikan|Verb (Godan)|健康管理を怠ると後で後悔する。|けんこう かんりを おこたると あとで こうかいする。|Jika lalai menjaga kesehatan, akan menyesal nanti.
+率いる|ひきいる|hikiiru|memimpin / mengepalai|Verb (Ichidan)|彼は10人のチームを率いている。|かれは じゅうにんの チームを ひきいている。|Dia memimpin tim yang beranggotakan 10 orang.
+見直す|みなおす|minaousu|meninjau ulang / menghargai kembali|Verb (Godan)|友人の良さを改めて見直した。|ゆうじんの よさを あらためて みなおした。|Aku menghargai kembali kebaikan teman.
+向き合う|むきあう|mukiau|menghadapi / berhadapan|Verb (Godan)|困難な現実と向き合う勇気が必要だ。|こんなんな げんじつと むきあう ゆうきが ひつようだ。|Dibutuhkan keberanian untuk menghadapi kenyataan yang sulit.
+承知する|しょうちする|shouchi suru|mengetahui / menyetujui|Verb (Irregular)|ご要望は承知しました。|ごようぼうは しょうちしました。|Saya sudah memahami permintaan Anda.
+喜ばせる|よろこばせる|yorokobaseru|membuat gembira|Verb (Ichidan)|家族を喜ばせるために料理を作った。|かぞくを よろこばせるために りょうりを つくった。|Aku memasak untuk membuat keluarga gembira.
+まとまる|まとまる|matomaru|bersatu / mencapai kesepakatan|Verb (Godan)|長い議論の末、意見がまとまった。|ながい ぎろんの すえ、いけんが まとまった。|Setelah diskusi panjang, pendapat akhirnya mencapai kesepakatan.
+言い張る|いいはる|iiharu|bersikeras / ngotot|Verb (Godan)|彼は自分が正しいと言い張っている。|かれは じぶんが ただしいと いいはっている。|Dia bersikeras bahwa dirinya benar.
+聞き取る|ききとる|kikitoru|mendengarkan dengan cermat / memahami dari pendengaran|Verb (Godan)|ネイティブの発音をしっかり聞き取った。|ネイティブの はつおんを しっかり ききとった。|Aku mendengarkan dengan cermat pengucapan penutur asli.
+取り扱う|とりあつかう|toriatsukau|menangani / memperlakukan|Verb (Godan)|機密情報は慎重に取り扱う必要がある。|きみつ じょうほうは しんちょうに とりあつかう ひつようが ある。|Informasi rahasia perlu ditangani dengan hati-hati.
+吹き込む|ふきこむ|fukikomu|meniupkan / merekam|Verb (Godan)|新鮮な風がドアから吹き込んだ。|しんせんな かぜが ドアから ふきこんだ。|Angin segar berhembus masuk dari pintu.
+落とし込む|おとしこむ|otoshikomu|mengimplementasikan / menerapkan|Verb (Godan)|アイデアを実際の計画に落とし込んだ。|アイデアを じっさいの けいかくに おとしこんだ。|Aku menerapkan ide ke dalam rencana nyata.
+成り立つ|なりたつ|naritatsu|terbentuk / berlaku|Verb (Godan)|信頼関係があって初めて協力が成り立つ。|しんらい かんけいが あって はじめて きょうりょくが なりたつ。|Kerja sama baru bisa terbentuk ketika ada hubungan kepercayaan.
+踏まえる|ふまえる|fumaeru|berdasarkan / mempertimbangkan|Verb (Ichidan)|現状を踏まえた上で計画を立てた。|げんじょうを ふまえた うえで けいかくを たてた。|Aku membuat rencana berdasarkan kondisi saat ini.
+持ち込む|もちこむ|mochikomu|membawa masuk / mengangkut|Verb (Godan)|会議室に私物を持ち込まないでください。|かいぎしつに しぶつを もちこまないで ください。|Tolong jangan membawa barang pribadi ke ruang rapat.
+
+

@@ -1,0 +1,397 @@
+気候|きこう|kikou|iklim|Noun|日本の気候は四季がはっきりしています。|にほんの きこうは しきが はっきりしています。|Iklim Jepang memiliki empat musim yang jelas.
+台風|たいふう|taifuu|topan; tifon|Noun|今年の台風はとても強かったです。|ことしの たいふうは とても つよかったです。|Topan tahun ini sangat kuat.
+梅雨|つゆ|tsuyu|musim hujan (di Jepang)|Noun|梅雨の季節は毎日雨が降ります。|つゆの きせつは まいにち あめが ふります。|Selama musim hujan, hujan turun setiap hari.
+季節|きせつ|kisetsu|musim|Noun|春は一番好きな季節です。|はるは いちばん すきな きせつです。|Musim semi adalah musim yang paling saya sukai.
+気温|きおん|kion|suhu udara|Noun|今日の気温は三十度を超えています。|きょうの きおんは さんじゅうどを こえています。|Suhu hari ini melebihi 30 derajat.
+湿度|しつど|shitsudo|kelembapan|Noun|夏は湿度が高くて不快です。|なつは しつどが たかくて ふかいです。|Musim panas tidak nyaman karena kelembapannya tinggi.
+霧|きり|kiri|kabut|Noun|朝、山に霧がかかっていました。|あさ、やまに きりが かかっていました。|Pagi itu, gunung diselimuti kabut.
+嵐|あらし|arashi|badai|Noun|昨夜の嵐で木が倒れました。|さくやの あらしで きが たおれました。|Pohon tumbang akibat badai semalam.
+雷|かみなり|kaminari|petir; guntur|Noun|雷の音が怖くて眠れませんでした。|かみなりの おとが こわくて ねむれませんでした。|Saya tidak bisa tidur karena takut suara petir.
+雪|ゆき|yuki|salju|Noun|北海道では冬に大雪が降ります。|ほっかいどうでは ふゆに おおゆきが ふります。|Di Hokkaido, salju lebat turun di musim dingin.
+洪水|こうずい|kouzui|banjir|Noun|大雨で川が氾濫し洪水が起きました。|おおあめで かわが はんらんし こうずいが おきました。|Sungai meluap karena hujan lebat dan terjadi banjir.
+干ばつ|かんばつ|kanbatsu|kekeringan|Noun|今年の干ばつで農作物に大きな被害が出ました。|ことしの かんばつで のうさくもつに おおきな ひがいが でました。|Kekeringan tahun ini menyebabkan kerusakan besar pada hasil pertanian.
+地震|じしん|jishin|gempa bumi|Noun|昨日の夜、大きな地震がありました。|きのうの よる、おおきな じしんが ありました。|Tadi malam terjadi gempa bumi besar.
+津波|つなみ|tsunami|tsunami|Noun|地震の後、津波の警報が出されました。|じしんの あと、つなみの けいほうが だされました。|Setelah gempa, peringatan tsunami dikeluarkan.
+火山|かざん|kazan|gunung berapi|Noun|富士山は日本で最も有名な火山です。|ふじさんは にほんで もっとも ゆうめいな かざんです。|Gunung Fuji adalah gunung berapi paling terkenal di Jepang.
+砂漠|さばく|sabaku|gurun pasir|Noun|砂漠では昼と夜の気温差が激しいです。|さばくでは ひると よるの きおんさが はげしいです。|Di gurun, perbedaan suhu antara siang dan malam sangat ekstrem.
+森林|しんりん|shinrin|hutan|Noun|森林の減少は地球温暖化に影響します。|しんりんの げんしょうは ちきゅうおんだんかに えいきょうします。|Berkurangnya hutan berdampak pada pemanasan global.
+海岸|かいがん|kaigan|pantai; garis pantai|Noun|夏休みに海岸でキャンプをしました。|なつやすみに かいがんで キャンプを しました。|Saya berkemah di tepi pantai saat liburan musim panas.
+湖|みずうみ|mizuumi|danau|Noun|その湖は透明度がとても高いです。|その みずうみは とうめいどが とても たかいです。|Danau itu memiliki kejernihan air yang sangat tinggi.
+川|かわ|kawa|sungai|Noun|子供たちは川で魚を捕まえました。|こどもたちは かわで さかなを つかまえました。|Anak-anak menangkap ikan di sungai.
+平野|へいや|heiya|dataran|Noun|関東平野は日本最大の平野です。|かんとうへいやは にほんさいだいの へいやです。|Dataran Kanto adalah dataran terluas di Jepang.
+山脈|さんみゃく|sanmyaku|pegunungan; barisan gunung|Noun|アルプス山脈はヨーロッパで最も高い山脈です。|アルプスさんみゃくは ヨーロッパで もっとも たかい さんみゃくです。|Pegunungan Alpen adalah pegunungan tertinggi di Eropa.
+島|しま|shima|pulau|Noun|その島には美しいビーチがあります。|その しまには うつくしい ビーチが あります。|Pulau itu memiliki pantai yang indah.
+半島|はんとう|hantou|semenanjung|Noun|伊豆半島は温泉で有名です。|いずはんとうは おんせんで ゆうめいです。|Semenanjung Izu terkenal dengan pemandian air panasnya.
+砂浜|すなはま|sunahama|pantai berpasir|Noun|白い砂浜がどこまでも続いていました。|しろい すなはまが どこまでも つづいていました。|Pantai berpasir putih terbentang tanpa batas.
+文化|ぶんか|bunka|budaya|Noun|日本の文化に興味があります。|にほんの ぶんかに きょうみが あります。|Saya tertarik dengan budaya Jepang.
+伝統|でんとう|dentou|tradisi|Noun|この祭りは長い伝統を持っています。|この まつりは ながい でんとうを もっています。|Festival ini memiliki tradisi yang panjang.
+習慣|しゅうかん|shuukan|kebiasaan; adat|Noun|毎朝散歩する習慣があります。|まいあさ さんぽする しゅうかんが あります。|Saya punya kebiasaan berjalan-jalan setiap pagi.
+礼儀|れいぎ|reigi|sopan santun; etiket|Noun|日本では礼儀を守ることがとても大切です。|にほんでは れいぎを まもることが とても たいせつです。|Di Jepang, menjaga sopan santun sangatlah penting.
+祭り|まつり|matsuri|festival; perayaan|Noun|夏祭りで浴衣を着て踊りました。|なつまつりで ゆかたを きて おどりました。|Saya mengenakan yukata dan menari di festival musim panas.
+神社|じんじゃ|jinja|kuil Shinto|Noun|初詣に神社へ行きました。|はつもうでに じんじゃへ いきました。|Saya pergi ke kuil Shinto untuk doa pertama di tahun baru.
+寺|てら|tera|kuil Buddha|Noun|京都には有名なお寺がたくさんあります。|きょうとには ゆうめいな おてらが たくさん あります。|Di Kyoto banyak terdapat kuil Buddha yang terkenal.
+茶道|さどう|sadou|upacara minum teh|Noun|茶道は日本の伝統文化の一つです。|さどうは にほんの でんとうぶんかの ひとつです。|Upacara minum teh adalah salah satu budaya tradisional Jepang.
+武道|ぶどう|budou|seni bela diri Jepang|Noun|武道を通じて精神力を鍛えることができます。|ぶどうを つうじて せいしんりょくを きたえることが できます。|Melalui seni bela diri, kita dapat melatih kekuatan mental.
+着物|きもの|kimono|kimono|Noun|成人式には着物を着ました。|せいじんしきには きものを きました。|Saya mengenakan kimono di upacara hari kedewasaan.
+浴衣|ゆかた|yukata|yukata (kimono kasual)|Noun|夏祭りには浴衣を着るのが一般的です。|なつまつりには ゆかたを きるのが いっぱんてきです。|Mengenakan yukata saat festival musim panas adalah hal yang umum.
+能|のう|nou|teater Noh|Noun|能は室町時代に完成した伝統芸能です。|のうは むろまちじだいに かんせいした でんとうげいのうです。|Noh adalah seni pertunjukan tradisional yang disempurnakan pada periode Muromachi.
+歌舞伎|かぶき|kabuki|teater Kabuki|Noun|歌舞伎は日本を代表する伝統芸術です。|かぶきは にほんを だいひょうする でんとうげいじゅつです。|Kabuki adalah seni tradisional yang mewakili Jepang.
+相撲|すもう|sumou|gulat sumo|Noun|相撲は日本の国技として知られています。|すもうは にほんの こくぎとして しられています。|Sumo dikenal sebagai olahraga nasional Jepang.
+武士|ぶし|bushi|samurai; prajurit|Noun|武士は名誉を何よりも大切にしました。|ぶしは めいよを なによりも たいせつに しました。|Para samurai menghargai kehormatan di atas segalanya.
+将軍|しょうぐん|shougun|shogun|Noun|江戸時代、将軍が日本を支配していました。|えどじだい、しょうぐんが にほんを しはいしていました。|Pada periode Edo, shogun menguasai Jepang.
+感情|かんじょう|kanjou|emosi; perasaan|Noun|感情をうまくコントロールすることが大切です。|かんじょうを うまく コントロールすることが たいせつです。|Penting untuk mengontrol emosi dengan baik.
+気持ち|きもち|kimochi|perasaan; suasana hati|Noun|あなたの気持ちがよくわかります。|あなたの きもちが よく わかります。|Saya sangat memahami perasaanmu.
+感謝|かんしゃ|kansha|rasa syukur; terima kasih|Noun|いつも感謝の気持ちを忘れないようにしています。|いつも かんしゃの きもちを わすれないように しています。|Saya selalu berusaha tidak melupakan rasa syukur.
+喜び|よろこび|yorokobi|kegembiraan; sukacita|Noun|子供の笑顔を見るのは最高の喜びです。|こどもの えがおを みるのは さいこうの よろこびです。|Melihat senyum anak-anak adalah kegembiraan tertinggi.
+悲しみ|かなしみ|kanashimi|kesedihan; duka|Noun|別れの悲しみはいつか消えるでしょう。|わかれの かなしみは いつか きえるでしょう。|Kesedihan perpisahan suatu saat akan hilang.
+怒り|いかり|ikari|kemarahan; amarah|Noun|怒りをそのままにしておくのは体に悪いです。|いかりを そのままに しておくのは からだに わるいです。|Membiarkan kemarahan begitu saja tidak baik untuk tubuh.
+不安|ふあん|fuan|kekhawatiran; kecemasan|Noun|試験前はいつも不安になります。|しけんまえは いつも ふあんに なります。|Saya selalu merasa cemas sebelum ujian.
+緊張|きんちょう|kinchou|ketegangan; gugup|Noun|発表の前に強い緊張を感じました。|はっぴょうの まえに つよい きんちょうを かんじました。|Saya merasakan ketegangan yang kuat sebelum presentasi.
+恥ずかしさ|はずかしさ|hazukashisa|rasa malu|Noun|人前で失敗した恥ずかしさは忘れられません。|ひとまえで しっぱいした はずかしさは わすれられません。|Rasa malu karena gagal di depan orang lain tidak bisa saya lupakan.
+孤独|こどく|kodoku|kesepian; kesendirian|Noun|大都市にいても孤独を感じることがあります。|だいとしに いても こどくを かんじることが あります。|Bahkan di kota besar, kadang saya merasa kesepian.
+希望|きぼう|kibou|harapan|Noun|将来に希望を持って頑張っています。|しょうらいに きぼうを もって がんばっています。|Saya bekerja keras dengan harapan untuk masa depan.
+後悔|こうかい|koukai|penyesalan|Noun|あの時の選択を今でも後悔しています。|あのときの せんたくを いまでも こうかいしています。|Saya masih menyesali pilihan yang saya buat waktu itu.
+満足|まんぞく|manzoku|kepuasan|Noun|仕事の結果に満足しています。|しごとの けっかに まんぞくしています。|Saya puas dengan hasil kerja saya.
+失望|しつぼう|shitsubou|kekecewaan|Noun|期待が大きかった分、失望も大きかったです。|きたいが おおきかった ぶん、しつぼうも おおきかったです。|Semakin besar harapannya, semakin besar pula kekecewaannya.
+恐怖|きょうふ|kyoufu|rasa takut; ketakutan|Noun|暗い場所への恐怖は子供の頃からです。|くらい ばしょへの きょうふは こどもの ころからです。|Ketakutan terhadap tempat gelap sudah ada sejak masa kecil.
+信頼|しんらい|shinrai|kepercayaan; rasa percaya|Noun|長年の信頼関係を大切にしています。|ながねんの しんらいかんけいを たいせつに しています。|Saya menghargai hubungan kepercayaan yang telah terjalin bertahun-tahun.
+驚き|おどろき|odoroki|keterkejutan; rasa heran|Noun|彼女の言葉には驚きを隠せませんでした。|かのじょの ことばには おどろきを かくせませんでした。|Saya tidak bisa menyembunyikan keterkejutan atas kata-katanya.
+体調|たいちょう|taichou|kondisi fisik; kesehatan tubuh|Noun|最近体調が優れないので病院に行きました。|さいきん たいちょうが すぐれないので びょういんに いきました。|Karena kondisi fisik saya kurang baik belakangan ini, saya pergi ke rumah sakit.
+健康|けんこう|kenkou|kesehatan|Noun|健康のために毎日運動しています。|けんこうの ために まいにち うんどうしています。|Saya berolahraga setiap hari demi kesehatan.
+症状|しょうじょう|shoujou|gejala (penyakit)|Noun|風邪の症状が三日間続きました。|かぜの しょうじょうが みっかかん つづきました。|Gejala flu berlanjut selama tiga hari.
+病気|びょうき|byouki|penyakit; sakit|Noun|病気が治るまでゆっくり休んでください。|びょうきが なおるまで ゆっくり やすんでください。|Silakan beristirahat dengan tenang sampai penyakitnya sembuh.
+怪我|けが|kega|cedera; luka|Noun|スポーツ中に怪我をしないように注意してください。|スポーツちゅうに けがを しないように ちゅういしてください。|Harap berhati-hati agar tidak cedera saat berolahraga.
+傷|きず|kizu|luka; bekas luka|Noun|転んで膝に傷ができました。|ころんで ひざに きずが できました。|Saya jatuh dan lutut saya luka.
+熱|ねつ|netsu|demam; panas|Noun|昨日から熱が出て寝ていました。|きのうから ねつが でて ねていました。|Saya berbaring karena demam sejak kemarin.
+食欲|しょくよく|shokuyoku|nafsu makan|Noun|体調が悪い時は食欲がなくなります。|たいちょうが わるい ときは しょくよくが なくなります。|Nafsu makan hilang saat kondisi tubuh kurang baik.
+疲れ|つかれ|tsukare|kelelahan|Noun|長時間の会議で疲れがたまりました。|ちょうじかんの かいぎで つかれが たまりました。|Kelelahan menumpuk setelah rapat yang panjang.
+睡眠|すいみん|suimin|tidur; istirahat|Noun|十分な睡眠を取ることが大切です。|じゅうぶんな すいみんを とることが たいせつです。|Penting untuk mendapatkan tidur yang cukup.
+体重|たいじゅう|taijuu|berat badan|Noun|最近体重が少し増えてしまいました。|さいきん たいじゅうが すこし ふえて しまいました。|Berat badan saya sedikit bertambah belakangan ini.
+身長|しんちょう|shinchou|tinggi badan|Noun|息子の身長が私を超えました。|むすこの しんちょうが わたしを こえました。|Tinggi badan anak laki-laki saya sudah melampaui saya.
+呼吸|こきゅう|kokyuu|pernapasan; napas|Noun|深呼吸すると気持ちが落ち着きます。|しんこきゅうすると きもちが おちつきます。|Bernapas dalam-dalam membuat pikiran menjadi tenang.
+脈拍|みゃくはく|myakuhaku|denyut nadi|Noun|医者が脈拍を測りました。|いしゃが みゃくはくを はかりました。|Dokter mengukur denyut nadi saya.
+血圧|けつあつ|ketsuatsu|tekanan darah|Noun|毎朝血圧を測る習慣があります。|まいあさ けつあつを はかる しゅうかんが あります。|Saya punya kebiasaan mengukur tekanan darah setiap pagi.
+アレルギー||arerugii|alergi|Noun|花粉アレルギーで春は辛いです。|かふん アレルギーで はるは つらいです。|Musim semi menyiksa karena alergi serbuk sari.
+手術|しゅじゅつ|shujutsu|operasi (bedah)|Noun|来週、膝の手術を受ける予定です。|らいしゅう、ひざの しゅじゅつを うける よていです。|Saya dijadwalkan menjalani operasi lutut minggu depan.
+薬|くすり|kusuri|obat|Noun|食後に薬を飲むのを忘れないでください。|しょくごに くすりを のむのを わすれないでください。|Jangan lupa minum obat setelah makan.
+予約|よやく|yoyaku|reservasi; janji|Noun|レストランの予約を三日前に入れました。|レストランの よやくを みっかまえに いれました。|Saya membuat reservasi restoran tiga hari sebelumnya.
+スケジュール||sukejuuru|jadwal|Noun|今週のスケジュールはとても忙しいです。|こんしゅうの スケジュールは とても いそがしいです。|Jadwal minggu ini sangat padat.
+期限|きげん|kigen|batas waktu; tenggat|Noun|レポートの提出期限は明日です。|レポートの ていしゅつきげんは あしたです。|Batas waktu pengumpulan laporan adalah besok.
+締め切り|しめきり|shimekiri|tenggat waktu|Noun|締め切りに間に合うように急いでいます。|しめきりに まにあうように いそいでいます。|Saya tergesa-gesa agar bisa memenuhi tenggat waktu.
+期間|きかん|kikan|periode; jangka waktu|Noun|研修の期間は一ヶ月間です。|けんしゅうの きかんは いっかげつかんです。|Periode pelatihan adalah satu bulan.
+休暇|きゅうか|kyuuka|liburan; cuti|Noun|夏休暇を利用して海外旅行をしました。|なつきゅうかを りようして かいがいりょこうを しました。|Saya memanfaatkan liburan musim panas untuk bepergian ke luar negeri.
+締め切り前|しめきりまえ|shimekiri mae|menjelang tenggat|Noun|締め切り前はいつもストレスがたまります。|しめきりまえは いつも ストレスが たまります。|Menjelang tenggat, stres selalu menumpuk.
+日程|にってい|nittei|jadwal; itinerary|Noun|旅行の日程を詳しく計画しました。|りょこうの にっていを くわしく けいかくしました。|Saya merencanakan itinerary perjalanan secara rinci.
+締め切り|しめきり|shimekiri|tenggat; batas akhir|Noun|レポートの締め切りを延ばしてもらいました。|レポートの しめきりを のばして もらいました。|Saya berhasil mendapatkan perpanjangan tenggat laporan.
+時刻|じこく|jikoku|waktu; jam tertentu|Noun|出発時刻は朝の六時です。|しゅっぱつじこくは あさの ろくじです。|Waktu keberangkatan adalah pukul enam pagi.
+時間帯|じかんたい|jikantai|rentang waktu; periode waktu|Noun|朝の時間帯は電車が混んでいます。|あさの じかんたいは でんしゃが こんでいます。|Kereta sangat padat pada periode waktu pagi.
+順番|じゅんばん|junban|giliran; urutan|Noun|順番を守って並んでください。|じゅんばんを まもって ならんでください。|Mohon antri dan tunggu giliran Anda.
+先週|せんしゅう|senshuu|minggu lalu|Noun|先週の会議で重要な決定がありました。|せんしゅうの かいぎで じゅうような けっていが ありました。|Ada keputusan penting dalam rapat minggu lalu.
+来月|らいげつ|raigetsu|bulan depan|Noun|来月から新しい仕事を始めます。|らいげつから あたらしい しごとを はじめます。|Saya akan mulai pekerjaan baru bulan depan.
+空港|くうこう|kuukou|bandara|Noun|空港に一時間前に到着するようにしています。|くうこうに いちじかんまえに とうちゃくするように しています。|Saya berusaha tiba di bandara satu jam sebelumnya.
+港|みなと|minato|pelabuhan|Noun|大きな港には外国の船もたくさん来ます。|おおきな みなとには がいこくの ふねも たくさん きます。|Di pelabuhan besar, banyak juga kapal asing yang datang.
+駅|えき|eki|stasiun (kereta)|Noun|駅の前で友達と待ち合わせをしました。|えきの まえで ともだちと まちあわせを しました。|Saya janji bertemu dengan teman di depan stasiun.
+バス停|バスてい|basutei|halte bus|Noun|バス停で三十分も待ちました。|バスていで さんじゅっぷんも まちました。|Saya menunggu di halte bus selama 30 menit.
+交差点|こうさてん|kousaten|persimpangan|Noun|その交差点で右に曲がってください。|その こうさてんで みぎに まがってください。|Belok kanan di persimpangan itu.
+道路|どうろ|douro|jalan raya|Noun|工事のため道路が渋滞しています。|こうじの ため どうろが じゅうたいしています。|Jalan raya macet karena ada konstruksi.
+高速道路|こうそくどうろ|kousoku douro|jalan tol|Noun|高速道路を使えば早く着きます。|こうそくどうろを つかえば はやく つきます。|Jika menggunakan jalan tol, Anda akan tiba lebih cepat.
+地下鉄|ちかてつ|chikatetsu|kereta bawah tanah; metro|Noun|東京の地下鉄はとても複雑です。|とうきょうの ちかてつは とても ふくざつです。|Kereta bawah tanah Tokyo sangat rumit.
+新幹線|しんかんせん|shinkansen|kereta cepat Shinkansen|Noun|新幹線で東京から大阪まで二時間半かかります。|しんかんせんで とうきょうから おおさかまで にじかんはん かかります。|Shinkansen membutuhkan dua setengah jam dari Tokyo ke Osaka.
+電車|でんしゃ|densha|kereta listrik|Noun|毎日電車で通勤しています。|まいにち でんしゃで つうきんしています。|Saya commute dengan kereta listrik setiap hari.
+バス||basu|bus|Noun|バスに乗り遅れてしまいました。|バスに のりおくれて しまいました。|Saya ketinggalan bus.
+タクシー||takushii|taksi|Noun|雨の日はタクシーがなかなか捕まりません。|あめの ひは タクシーが なかなか つかまりません。|Di hari hujan, sulit mendapatkan taksi.
+自転車|じてんしゃ|jitensha|sepeda|Noun|学校まで自転車で通っています。|がっこうまで じてんしゃで かよっています。|Saya pergi ke sekolah dengan sepeda.
+バイク||baiku|motor; sepeda motor|Noun|バイクで山道を走るのが好きです。|バイクで やまみちを はしるのが すきです。|Saya suka berkendara motor di jalanan pegunungan.
+飛行機|ひこうき|hikouki|pesawat terbang|Noun|初めて飛行機に乗ったのは十歳の時です。|はじめて ひこうきに のったのは じゅっさいの ときです。|Saya pertama kali naik pesawat saat berusia sepuluh tahun.
+船|ふね|fune|kapal|Noun|島へは船で渡ります。|しまへは ふねで わたります。|Kami menyeberang ke pulau dengan kapal.
+ヘリコプター||herikoputa|helikopter|Noun|救助隊はヘリコプターで現場に向かいました。|きゅうじょたいは ヘリコプターで げんばに むかいました。|Tim penyelamat menuju lokasi kejadian dengan helikopter.
+渋滞|じゅうたい|juutai|kemacetan lalu lintas|Noun|朝の渋滞で会議に遅刻しました。|あさの じゅうたいで かいぎに ちこくしました。|Saya terlambat ke rapat karena kemacetan pagi.
+乗り換え|のりかえ|norikae|transit; ganti kendaraan|Noun|新宿で乗り換えが必要です。|しんじゅくで のりかえが ひつようです。|Anda perlu transit di Shinjuku.
+運賃|うんちん|unchin|ongkos; tarif transportasi|Noun|このバスの運賃は二百円です。|この バスの うんちんは にひゃくえんです。|Tarif bus ini adalah 200 yen.
+切符|きっぷ|kippu|tiket|Noun|自動販売機で切符を買いました。|じどうはんばいきで きっぷを かいました。|Saya membeli tiket di mesin penjual otomatis.
+定期券|ていきけん|teikiken|kartu langganan transportasi|Noun|定期券があれば毎日の電車代が節約できます。|ていきけんが あれば まいにちの でんしゃだいが せつやくできます。|Dengan kartu langganan, biaya kereta harian bisa dihemat.
+道|みち|michi|jalan; rute|Noun|この道を真っ直ぐ行くと駅があります。|この みちを まっすぐ いくと えきが あります。|Jika Anda berjalan lurus di jalan ini, ada stasiun.
+市場|いちば|ichiba|pasar|Noun|朝早く市場に行って新鮮な野菜を買いました。|あさはやく いちばに いって しんせんな やさいを かいました。|Saya pergi ke pasar pagi-pagi untuk membeli sayuran segar.
+商店街|しょうてんがい|shoutengai|kawasan pertokoan|Noun|商店街を歩きながら買い物を楽しみました。|しょうてんがいを あるきながら かいものを たのしみました。|Saya menikmati belanja sambil berjalan di kawasan pertokoan.
+工場|こうじょう|koujou|pabrik|Noun|その工場では毎日千台の車を生産しています。|その こうじょうでは まいにち せんだいの くるまを せいさんしています。|Pabrik itu memproduksi seribu mobil setiap hari.
+農場|のうじょう|noujou|ladang; pertanian|Noun|夏休みに農場でボランティアをしました。|なつやすみに のうじょうで ボランティアを しました。|Saya menjadi sukarelawan di ladang selama liburan musim panas.
+牧場|ぼくじょう|bokujou|peternakan|Noun|北海道の牧場で新鮮な牛乳を飲みました。|ほっかいどうの ぼくじょうで しんせんな ぎゅうにゅうを のみました。|Saya minum susu segar di peternakan Hokkaido.
+公園|こうえん|kouen|taman (umum)|Noun|週末は家族と公園で過ごします。|しゅうまつは かぞくと こうえんで すごします。|Saya menghabiskan waktu bersama keluarga di taman pada akhir pekan.
+図書館|としょかん|toshokan|perpustakaan|Noun|図書館で試験の勉強をしました。|としょかんで しけんの べんきょうを しました。|Saya belajar untuk ujian di perpustakaan.
+博物館|はくぶつかん|hakubutsukan|museum|Noun|歴史博物館で古い道具を見ました。|れきしはくぶつかんで ふるい どうぐを みました。|Saya melihat peralatan kuno di museum sejarah.
+美術館|びじゅつかん|bijutsukan|museum seni; galeri|Noun|有名な画家の展覧会が美術館で開かれています。|ゆうめいな がかの てんらんかいが びじゅつかんで ひらかれています。|Pameran pelukis terkenal sedang diadakan di museum seni.
+病院|びょういん|byouin|rumah sakit|Noun|頭痛がひどくて病院に行きました。|ずつうが ひどくて びょういんに いきました。|Saya pergi ke rumah sakit karena sakit kepala yang parah.
+薬局|やっきょく|yakkyoku|apotek|Noun|風邪薬を薬局で買いました。|かぜぐすりを やっきょくで かいました。|Saya membeli obat flu di apotek.
+警察署|けいさつしょ|keisatsusho|kantor polisi|Noun|財布を拾ったので警察署に届けました。|さいふを ひろったので けいさつしょに とどけました。|Saya menemukan dompet dan menyerahkannya ke kantor polisi.
+消防署|しょうぼうしょ|shobousho|kantor pemadam kebakaran|Noun|消防署から近い場所に住んでいます。|しょうぼうしょから ちかい ばしょに すんでいます。|Saya tinggal di dekat kantor pemadam kebakaran.
+役所|やくしょ|yakusho|kantor pemerintahan|Noun|引越しの手続きのために役所に行きました。|ひっこしの てつづきの ために やくしょに いきました。|Saya pergi ke kantor pemerintahan untuk mengurus prosedur pindah rumah.
+大使館|たいしかん|taishikan|kedutaan besar|Noun|ビザの申請のために大使館に行きました。|ビザの しんせいの ために たいしかんに いきました。|Saya pergi ke kedutaan besar untuk mengajukan visa.
+ホテル||hoteru|hotel|Noun|観光地の近くにあるホテルを予約しました。|かんこうちの ちかくに ある ホテルを よやくしました。|Saya memesan hotel yang dekat dengan tempat wisata.
+旅館|りょかん|ryokan|penginapan tradisional Jepang|Noun|京都では旅館に泊まって日本文化を体験しました。|きょうとでは りょかんに とまって にほんぶんかを たいけんしました。|Di Kyoto saya menginap di ryokan dan merasakan budaya Jepang.
+民宿|みんしゅく|minshuku|penginapan keluarga; guesthouse|Noun|山の中の民宿に泊まりました。|やまの なかの みんしゅくに とまりました。|Saya menginap di penginapan keluarga di pegunungan.
+温泉|おんせん|onsen|pemandian air panas|Noun|温泉に入ると疲れが取れます。|おんせんに はいると つかれが とれます。|Kelelahan hilang setelah berendam di pemandian air panas.
+食堂|しょくどう|shokudou|kantin; warung makan|Noun|会社の食堂でランチを食べます。|かいしゃの しょくどうで ランチを たべます。|Saya makan siang di kantin perusahaan.
+居酒屋|いざかや|izakaya|kedai minum Jepang; izakaya|Noun|仕事の後、同僚と居酒屋に行きました。|しごとの あと、どうりょうと いざかやに いきました。|Setelah kerja, saya pergi ke izakaya dengan rekan kerja.
+カフェ||kafe|kafe|Noun|友達とカフェでゆっくり話しました。|ともだちと カフェで ゆっくり はなしました。|Saya berbicara santai dengan teman di kafe.
+コンビニ||konbini|convenience store|Noun|コンビニで朝ごはんを買います。|コンビニで あさごはんを かいます。|Saya membeli sarapan di convenience store.
+スーパー||suupaa|supermarket|Noun|スーパーで今日の夕食の材料を買いました。|スーパーで きょうの ゆうしょくの ざいりょうを かいました。|Saya membeli bahan makan malam hari ini di supermarket.
+デパート||depaato|department store|Noun|デパートで母へのプレゼントを選びました。|デパートで ははへの プレゼントを えらびました。|Saya memilih hadiah untuk ibu di department store.
+旅行|りょこう|ryokou|perjalanan; wisata|Noun|来年は海外旅行を計画しています。|らいねんは かいがいりょこうを けいかくしています。|Saya berencana melakukan perjalanan ke luar negeri tahun depan.
+観光|かんこう|kankou|pariwisata; wisata|Noun|京都は外国人観光客に人気があります。|きょうとは がいこくじん かんこうきゃくに にんきが あります。|Kyoto populer di kalangan wisatawan asing.
+旅|たび|tabi|perjalanan; pengembaraan|Noun|一人旅は自由でとても楽しいです。|ひとりたびは じゆうで とても たのしいです。|Perjalanan solo sangat menyenangkan karena bebas.
+観光地|かんこうち|kankochi|tempat wisata|Noun|この観光地は年間百万人以上が訪れます。|この かんこうちは ねんかん ひゃくまんにん いじょうが おとずれます。|Tempat wisata ini dikunjungi lebih dari satu juta orang per tahun.
+名所|めいしょ|meisho|tempat terkenal; objek wisata|Noun|東京の名所を一日で回りました。|とうきょうの めいしょを いちにちで まわりました。|Saya mengunjungi semua tempat terkenal di Tokyo dalam satu hari.
+土産|みやげ|miyage|oleh-oleh; suvenir|Noun|旅行先でお土産を買って帰りました。|りょこうさきで おみやげを かって かえりました。|Saya membeli oleh-oleh di tempat wisata dan pulang.
+荷物|にもつ|nimotsu|bagasi; barang bawaan|Noun|荷物が重くて運ぶのが大変でした。|にもつが おもくて はこぶのが たいへんでした。|Barang bawaannya berat sehingga sulit dibawa.
+パスポート||pasupooto|pita; paspor|Noun|パスポートの有効期限が来月切れます。|パスポートの ゆうこうきげんが らいつき きれます。|Masa berlaku paspor saya habis bulan depan.
+ビザ||biza|visa|Noun|日本への入国にビザが必要かどうか確認しました。|にほんへの にゅうこくに ビザが ひつようか どうか かくにんしました。|Saya memastikan apakah visa diperlukan untuk masuk ke Jepang.
+手荷物|てにもつ|tenimotsu|bagasi kabin; barang bawaan tangan|Noun|機内持ち込みの手荷物は一つだけです。|きないもちこみの てにもつは ひとつだけです。|Bagasi kabin yang boleh dibawa masuk hanya satu.
+チェックイン||chekkuin|check-in|Noun|チェックインは午後三時からです。|チェックインは ごごさんじからです。|Check-in dimulai dari pukul tiga sore.
+チェックアウト||chekkuauto|check-out|Noun|チェックアウトは正午までにお願いします。|チェックアウトは しょうごまでに おねがいします。|Mohon check-out sebelum tengah hari.
+両替|りょうがえ|ryougae|penukaran uang|Noun|空港で円をドルに両替しました。|くうこうで えんを ドルに りょうがえしました。|Saya menukar yen ke dolar di bandara.
+外貨|がいか|gaika|mata uang asing|Noun|旅行前に外貨を準備しました。|りょこうまえに がいかを じゅんびしました。|Saya menyiapkan mata uang asing sebelum perjalanan.
+時差|じさ|jisa|perbedaan waktu; jet lag|Noun|時差のせいでなかなか眠れませんでした。|じさの せいで なかなか ねむれませんでした。|Saya tidak bisa tidur nyenyak karena perbedaan waktu.
+ガイド||gaido|pemandu wisata|Noun|現地のガイドに案内してもらいました。|げんちの ガイドに あんないして もらいました。|Saya dipandu oleh pemandu wisata lokal.
+地図|ちず|chizu|peta|Noun|地図を見ながら観光地を歩きました。|ちずを みながら かんこうちを あるきました。|Saya berjalan di tempat wisata sambil melihat peta.
+観光バス|かんこうバス|kankou basu|bus wisata|Noun|観光バスで市内をぐるりと回りました。|かんこう バスで しないを ぐるりと まわりました。|Saya mengelilingi dalam kota dengan bus wisata.
+記念品|きねんひん|kinenhin|suvenir; barang kenangan|Noun|旅行の記念品として写真立てを買いました。|りょこうの きねんひんとして しゃしんたてを かいました。|Saya membeli bingkai foto sebagai suvenir perjalanan.
+写真|しゃしん|shashin|foto; gambar|Noun|旅行中にたくさん写真を撮りました。|りょこうちゅうに たくさん しゃしんを とりました。|Saya mengambil banyak foto selama perjalanan.
+寿司|すし|sushi|sushi|Noun|新鮮なネタの寿司を食べに築地へ行きました。|しんせんな ネタの すしを たべに つきじへ いきました。|Saya pergi ke Tsukiji untuk makan sushi dengan bahan segar.
+刺身|さしみ|sashimi|sashimi (ikan mentah)|Noun|刺身は醤油とわさびで食べます。|さしみは しょうゆと わさびで たべます。|Sashimi dimakan dengan kecap asin dan wasabi.
+天ぷら|てんぷら|tenpura|tempura|Noun|エビの天ぷらが一番好きです。|エビの てんぷらが いちばん すきです。|Tempura udang adalah favorit saya.
+ラーメン||raamen|ramen|Noun|寒い日には熱いラーメンが食べたくなります。|さむい ひには あつい ラーメンが たべたく なります。|Di hari yang dingin, saya ingin makan ramen panas.
+うどん||udon|udon|Noun|関西ではうどんがよく食べられています。|かんさいでは うどんが よく たべられています。|Udon banyak dimakan di Kansai.
+そば||soba|soba; mie soba|Noun|年越しそばを食べる習慣があります。|としこしそばを たべる しゅうかんが あります。|Ada kebiasaan makan soba akhir tahun.
+味噌汁|みそしる|misoshiru|sup miso|Noun|朝食には必ず味噌汁を飲みます。|ちょうしょくには かならず みそしるを のみます。|Saya selalu minum sup miso saat sarapan.
+丼|どんぶり|donburi|donburi (nasi dengan topping)|Noun|牛丼は手軽に食べられる料理です。|ぎゅうどんは てがるに たべられる りょうりです。|Gyudon adalah hidangan yang bisa dimakan dengan mudah.
+焼き鳥|やきとり|yakitori|yakitori (ayam bakar tusuk)|Noun|居酒屋で焼き鳥をビールと一緒に食べました。|いざかやで やきとりを ビールと いっしょに たべました。|Saya makan yakitori sambil minum bir di izakaya.
+焼肉|やきにく|yakiniku|yakiniku (daging panggang)|Noun|友達と焼肉を食べに行きました。|ともだちと やきにくを たべに いきました。|Saya pergi makan yakiniku dengan teman.
+カレー||karee|kari|Noun|日本のカレーはインドのカレーとは違います。|にほんの カレーは インドの カレーとは ちがいます。|Kari Jepang berbeda dengan kari India.
+弁当|べんとう|bentou|bekal; bento|Noun|毎朝お弁当を作って持っていきます。|まいあさ おべんとうを つくって もっていきます。|Saya membuat bekal setiap pagi dan membawanya.
+おにぎり||onigiri|onigiri; nasi kepal|Noun|コンビニのおにぎりは種類が豊富です。|コンビニの おにぎりは しゅるいが ほうふです。|Onigiri di convenience store memiliki banyak variasi.
+豆腐|とうふ|toufu|tahu|Noun|冷奴は夏に食べる冷たい豆腐料理です。|ひややっこは なつに たべる つめたい とうふりょうりです。|Hiyayakko adalah hidangan tahu dingin yang dimakan di musim panas.
+納豆|なっとう|nattou|natto (kedelai fermentasi)|Noun|納豆は独特のにおいがありますが、体に良いです。|なっとうは どくとくの においが ありますが、からだに よいです。|Natto memiliki aroma yang khas, tetapi baik untuk tubuh.
+海苔|のり|nori|rumput laut; nori|Noun|ご飯に海苔を巻いて食べます。|ごはんに のりを まいて たべます。|Saya makan nasi dengan dibungkus nori.
+わさび||wasabi|wasabi|Noun|寿司にはわさびがよく合います。|すしには わさびが よく あいます。|Wasabi sangat cocok dengan sushi.
+醤油|しょうゆ|shouyu|kecap asin; shoyu|Noun|刺身には醤油をつけて食べます。|さしみには しょうゆを つけて たべます。|Sashimi dimakan dengan mencelupkannya ke kecap asin.
+みりん||mirin|mirin (bumbu masak manis)|Noun|みりんは日本料理によく使われる調味料です。|みりんは にほんりょうりに よく つかわれる ちょうみりょうです。|Mirin adalah bumbu yang sering digunakan dalam masakan Jepang.
+だし||dashi|kaldu dashi|Noun|だしは和食の基本となるスープストックです。|だしは わしょくの きほんと なる スープ ストックです。|Dashi adalah kaldu dasar masakan Jepang.
+緑茶|りょくちゃ|ryokucha|teh hijau|Noun|日本では緑茶をよく飲みます。|にほんでは りょくちゃを よく のみます。|Di Jepang, orang sering minum teh hijau.
+抹茶|まっちゃ|matcha|matcha (teh bubuk)|Noun|抹茶味のスイーツが最近とても人気です。|まっちゃあじの スイーツが さいきん とても にんきです。|Makanan manis rasa matcha sangat populer belakangan ini.
+日本酒|にほんしゅ|nihonshu|sake; minuman keras Jepang|Noun|日本酒は米から作られます。|にほんしゅは こめから つくられます。|Sake dibuat dari beras.
+焼酎|しょうちゅう|shochu|shochu (minuman keras suling)|Noun|焼酎は九州地方でよく飲まれています。|しょうちゅうは きゅうしゅうちほうで よく のまれています。|Shochu banyak diminum di wilayah Kyushu.
+ビール||biiru|bir|Noun|夏の暑い日には冷たいビールが最高です。|なつの あつい ひには つめたい ビールが さいこうです。|Di hari musim panas yang panas, bir dingin adalah yang terbaik.
+コーヒー||koohii|kopi|Noun|毎朝コーヒーを一杯飲む習慣があります。|まいあさ コーヒーを いっぱい のむ しゅうかんが あります。|Saya punya kebiasaan minum secangkir kopi setiap pagi.
+牛乳|ぎゅうにゅう|gyuunyuu|susu sapi|Noun|子供の頃、毎日牛乳を飲んでいました。|こどもの ころ、まいにち ぎゅうにゅうを のんでいました。|Waktu kecil, saya minum susu setiap hari.
+ジュース||juusu|jus|Noun|オレンジジュースを毎朝飲んでいます。|オレンジジュースを まいあさ のんでいます。|Saya minum jus jeruk setiap pagi.
+水|みず|mizu|air|Noun|運動後は水をたくさん飲むべきです。|うんどうご は みずを たくさん のむべきです。|Anda harus banyak minum air setelah berolahraga.
+料理|りょうり|ryouri|masakan; memasak|Noun|週末には特別な料理を作ります。|しゅうまつには とくべつな りょうりを つくります。|Saya membuat masakan istimewa di akhir pekan.
+食材|しょくざい|shokuzai|bahan makanan|Noun|新鮮な食材を使うと料理が美味しくなります。|しんせんな しょくざいを つかうと りょうりが おいしくなります。|Masakan menjadi lezat jika menggunakan bahan makanan segar.
+調味料|ちょうみりょう|choumiryou|bumbu; penyedap|Noun|この料理には特別な調味料が使われています。|この りょうりには とくべつな ちょうみりょうが つかわれています。|Masakan ini menggunakan bumbu khusus.
+レシピ||reshipi|resep|Noun|インターネットでレシピを調べました。|インターネットで レシピを しらべました。|Saya mencari resep di internet.
+デザート||dezaato|dessert; makanan penutup|Noun|食後のデザートにアイスクリームを食べました。|しょくごの デザートに アイスクリームを たべました。|Saya makan es krim sebagai dessert setelah makan.
+スナック||sunakku|camilan; snack|Noun|映画を見ながらスナックを食べました。|えいがを みながら スナックを たべました。|Saya makan camilan sambil menonton film.
+野菜|やさい|yasai|sayuran|Noun|体の健康のために野菜をたくさん食べています。|からだの けんこうの ために やさいを たくさん たべています。|Saya banyak makan sayuran demi kesehatan tubuh.
+果物|くだもの|kudamono|buah-buahan|Noun|旬の果物は甘くておいしいです。|しゅんの くだものは あまくて おいしいです。|Buah-buahan musiman manis dan lezat.
+肉|にく|niku|daging|Noun|この地域では質の高い牛肉が有名です。|この ちいきでは しつの たかい ぎゅうにくが ゆうめいです。|Daging sapi berkualitas tinggi terkenal di daerah ini.
+魚|さかな|sakana|ikan|Noun|日本人は毎日魚を食べる人が多いです。|にほんじんは まいにち さかなを たべる ひとが おおいです。|Banyak orang Jepang yang makan ikan setiap hari.
+米|こめ|kome|beras|Noun|日本では米が主食として食べられています。|にほんでは こめが しゅしょくとして たべられています。|Di Jepang, beras dikonsumsi sebagai makanan pokok.
+パン||pan|roti|Noun|朝食にパンとコーヒーを食べます。|ちょうしょくに パンと コーヒーを たべます。|Saya makan roti dan kopi untuk sarapan.
+運動|うんどう|undou|olahraga; latihan fisik|Noun|毎日三十分の運動を心がけています。|まいにち さんじゅっぷんの うんどうを こころがけています。|Saya berusaha berolahraga tiga puluh menit setiap hari.
+スポーツ||supootsu|olahraga|Noun|子供の頃からスポーツが好きでした。|こどもの ころから スポーツが すきでした。|Saya menyukai olahraga sejak kecil.
+試合|しあい|shiai|pertandingan|Noun|今週末に重要な試合があります。|こんしゅうまつに じゅうような しあいが あります。|Ada pertandingan penting akhir pekan ini.
+練習|れんしゅう|renshuu|latihan|Noun|毎日三時間の練習を欠かさずしています。|まいにち さんじかんの れんしゅうを かかさず しています。|Saya tidak pernah absen latihan tiga jam setiap hari.
+競争|きょうそう|kyousou|kompetisi; persaingan|Noun|二人の競争が全員を刺激しました。|ふたりの きょうそうが ぜんいんを しげきしました。|Persaingan antara dua orang itu memotivasi semua orang.
+優勝|ゆうしょう|yuushou|juara; kemenangan|Noun|チームは三年連続で優勝しました。|チームは さんねん れんぞくで ゆうしょうしました。|Tim ini berhasil juara tiga tahun berturut-turut.
+選手|せんしゅ|senshu|atlet; pemain|Noun|オリンピックの選手は長年訓練を積んできました。|オリンピックの せんしゅは ながねん くんれんを つんで きました。|Para atlet Olimpiade telah berlatih keras selama bertahun-tahun.
+コーチ||koochi|pelatih|Noun|新しいコーチが来てからチームが強くなりました。|あたらしい コーチが きてから チームが つよくなりました。|Tim menjadi lebih kuat sejak pelatih baru datang.
+チーム||chiimu|tim|Noun|私たちのチームは今年の大会で優勝を目指しています。|わたしたちの チームは ことしの たいかいで ゆうしょうを めざしています。|Tim kami bertujuan untuk menang dalam turnamen tahun ini.
+ゴール||gooru|gol; target|Noun|試合終了直前にゴールを決めました。|しあいしゅうりょう ちょくぜんに ゴールを きめました。|Saya mencetak gol tepat sebelum pertandingan berakhir.
+記録|きろく|kiroku|rekor; catatan|Noun|新しい世界記録が樹立されました。|あたらしい せかいきろくが じゅりつされました。|Rekor dunia baru telah ditetapkan.
+体育館|たいいくかん|taiikukan|gedung olahraga; gym|Noun|雨の日は体育館で練習します。|あめの ひは たいいくかんで れんしゅうします。|Di hari hujan, kami berlatih di gedung olahraga.
+プール||puuru|kolam renang|Noun|毎朝プールで一キロ泳いでいます。|まいあさ プールで いちキロ およいでいます。|Saya berenang satu kilometer di kolam renang setiap pagi.
+グラウンド||guraundo|lapangan (olahraga)|Noun|放課後、グラウンドでサッカーをしました。|ほうかご、グラウンドで サッカーを しました。|Setelah pulang sekolah, saya bermain sepak bola di lapangan.
+テニスコート||tenisu kooto|lapangan tenis|Noun|週末にテニスコートを借りて練習しました。|しゅうまつに テニスコートを かりて れんしゅうしました。|Akhir pekan, saya menyewa lapangan tenis untuk berlatih.
+サッカー||sakkaa|sepak bola|Noun|日本のサッカーチームが世界大会に出場しました。|にほんの サッカーチームが せかいたいかいに しゅつじょうしました。|Tim sepak bola Jepang berpartisipasi dalam turnamen dunia.
+野球|やきゅう|yakyuu|bisbol|Noun|野球は日本で最も人気のあるスポーツの一つです。|やきゅうは にほんで もっとも にんきの ある スポーツの ひとつです。|Baseball adalah salah satu olahraga paling populer di Jepang.
+バスケット||basuketto|basket; bola basket|Noun|バスケットは背が高い方が有利です。|バスケットは せが たかい ほうが ゆうりです。|Dalam basket, orang yang lebih tinggi memiliki keuntungan.
+バレー||baree|voli; bola voli|Noun|学校のバレーチームに入りたいです。|がっこうの バレーチームに はいりたいです。|Saya ingin bergabung dengan tim voli sekolah.
+水泳|すいえい|suiei|renang|Noun|水泳は全身を使う運動です。|すいえいは ぜんしんを つかう うんどうです。|Renang adalah olahraga yang menggunakan seluruh tubuh.
+陸上|りくじょう|rikujou|atletik; olahraga lintasan|Noun|陸上競技では短距離走が得意です。|りくじょうきょうぎでは たんきょりそうが とくいです。|Dalam atletik, saya unggul di lari jarak pendek.
+柔道|じゅうどう|juudou|judo|Noun|柔道は礼儀を重んじる武道です。|じゅうどうは れいぎを おもんじる ぶどうです。|Judo adalah seni bela diri yang mengutamakan sopan santun.
+空手|からて|karate|karate|Noun|空手の黒帯を持っています。|からての くろおびを もっています。|Saya memiliki sabuk hitam karate.
+剣道|けんどう|kendou|kendo|Noun|剣道は竹刀を使って戦う武道です。|けんどうは しないを つかって たたかう ぶどうです。|Kendo adalah seni bela diri yang bertarung menggunakan pedang bambu.
+マラソン||marason|maraton|Noun|毎年市民マラソン大会に参加しています。|まいとし しみん マラソンたいかいに さんかしています。|Saya mengikuti lomba maraton warga kota setiap tahun.
+ジョギング||jogingu|joging|Noun|朝のジョギングが日課になっています。|あさの ジョギングが にっかに なっています。|Joging pagi telah menjadi rutinitas harian saya.
+映画|えいが|eiga|film|Noun|週末に新しい映画を見に行く予定です。|しゅうまつに あたらしい えいがを みに いく よていです。|Saya berencana pergi menonton film baru di akhir pekan.
+音楽|おんがく|ongaku|musik|Noun|音楽を聴くと気分がリラックスします。|おんがくを きくと きぶんが リラックスします。|Mendengarkan musik membuat suasana hati rileks.
+コンサート||konsaato|konser|Noun|好きなバンドのコンサートに行きました。|すきな バンドの コンサートに いきました。|Saya pergi ke konser band favorit saya.
+舞台|ぶたい|butai|panggung; pertunjukan teater|Noun|舞台俳優として活躍しています。|ぶたい はいゆうとして かつやくしています。|Saya aktif sebagai aktor panggung.
+演劇|えんげき|engeki|drama; pertunjukan teater|Noun|大学時代に演劇部に入っていました。|だいがくじだいに えんげきぶに はいっていました。|Waktu kuliah, saya bergabung dengan klub drama.
+ドラマ||dorama|drama (TV)|Noun|最近韓国のドラマにはまっています。|さいきん かんこくの ドラマに はまっています。|Belakangan ini saya sedang menggandrungi drama Korea.
+アニメ||anime|anime|Noun|日本のアニメは世界中で人気があります。|にほんの アニメは せかいじゅうで にんきが あります。|Anime Jepang populer di seluruh dunia.
+漫画|まんが|manga|manga; komik|Noun|漫画を読んで日本語を勉強しました。|まんがを よんで にほんごを べんきょうしました。|Saya belajar bahasa Jepang dengan membaca manga.
+ゲーム||geemu|permainan; game|Noun|子供の頃からテレビゲームが好きです。|こどもの ころから テレビゲームが すきです。|Saya menyukai video game sejak kecil.
+趣味|しゅみ|shumi|hobi|Noun|趣味は写真を撮ることです。|しゅみは しゃしんを とることです。|Hobi saya adalah memotret.
+娯楽|ごらく|goraku|hiburan; rekreasi|Noun|読書は私の最大の娯楽です。|どくしょは わたしの さいだいの ごらくです。|Membaca buku adalah hiburan terbesar saya.
+テレビ||terebi|televisi|Noun|夜はテレビでニュースを見る習慣があります。|よるは テレビで ニュースを みる しゅうかんが あります。|Saya punya kebiasaan menonton berita di TV malam hari.
+ラジオ||rajio|radio|Noun|車の中でよくラジオを聞きます。|くるまの なかで よく ラジオを ききます。|Saya sering mendengarkan radio di dalam mobil.
+インターネット||intaanetto|internet|Noun|インターネットで旅行の情報を集めました。|インターネットで りょこうの じょうほうを あつめました。|Saya mengumpulkan informasi perjalanan di internet.
+ソーシャルメディア||soosharumedhia|media sosial|Noun|ソーシャルメディアで旅行の写真を共有しました。|ソーシャルメディアで りょこうの しゃしんを きょうゆうしました。|Saya berbagi foto perjalanan di media sosial.
+カラオケ||karaoke|karaoke|Noun|友達とカラオケで三時間歌いました。|ともだちと カラオケで さんじかん うたいました。|Saya bernyanyi selama tiga jam di karaoke bersama teman.
+ボウリング||bouringu|bowling|Noun|ボウリングで初めてストライクを出しました。|ボウリングで はじめて ストライクを だしました。|Saya mencetak strike untuk pertama kalinya saat bowling.
+囲碁|いご|igo|go (permainan papan)|Noun|囲碁は複雑なルールを持つボードゲームです。|いごは ふくざつな ルールを もつ ボードゲームです。|Go adalah permainan papan dengan aturan yang kompleks.
+将棋|しょうぎ|shougi|shogi (catur Jepang)|Noun|将棋のルールを覚えるのに時間がかかりました。|しょうぎの ルールを おぼえるのに じかんが かかりました。|Butuh waktu untuk menghafal aturan shogi.
+釣り|つり|tsuri|memancing|Noun|休日は川に釣りに行くことが多いです。|きゅうじつは かわに つりに いくことが おおいです。|Saya sering pergi memancing di sungai saat hari libur.
+登山|とざん|tozan|pendakian gunung|Noun|毎年夏に富士山への登山に挑戦しています。|まいとし なつに ふじさんへの とざんに ちょうせんしています。|Setiap musim panas saya mencoba mendaki Gunung Fuji.
+ハイキング||haikingu|hiking|Noun|週末にハイキングを楽しみました。|しゅうまつに ハイキングを たのしみました。|Saya menikmati hiking di akhir pekan.
+キャンプ||kyanpu|berkemah; camping|Noun|家族でキャンプに行って星空を見ました。|かぞくで キャンプに いって ほしぞらを みました。|Saya pergi berkemah bersama keluarga dan melihat langit berbintang.
+スキー||sukii|ski|Noun|冬になったら北海道でスキーをしたいです。|ふゆに なったら ほっかいどうで スキーを したいです。|Saya ingin bermain ski di Hokkaido saat musim dingin tiba.
+サーフィン||saafin|surfing|Noun|夏は海でサーフィンをするのが楽しみです。|なつは うみで サーフィンを するのが たのしみです。|Surfing di laut adalah kesenangan saya di musim panas.
+ダイビング||daibingu|menyelam; diving|Noun|沖縄でダイビングをして美しい珊瑚礁を見ました。|おきなわで ダイビングを して うつくしい さんごしょうを みました。|Saya menyelam di Okinawa dan melihat terumbu karang yang indah.
+ゴルフ||gorufu|golf|Noun|父は週末によくゴルフをしています。|ちちは しゅうまつに よく ゴルフを しています。|Ayah saya sering bermain golf di akhir pekan.
+テニス||tenisu|tenis|Noun|テニスを始めて三年が経ちました。|テニスを はじめて さんねんが たちました。|Sudah tiga tahun sejak saya mulai bermain tenis.
+体操|たいそう|taisou|senam|Noun|毎朝ラジオ体操をしています。|まいあさ ラジオたいそうを しています。|Saya melakukan senam radio setiap pagi.
+ヨガ||yoga|yoga|Noun|ヨガを始めてから体が柔らかくなりました。|ヨガを はじめてから からだが やわらかく なりました。|Tubuh saya menjadi lebih fleksibel sejak mulai yoga.
+地球温暖化|ちきゅうおんだんか|chikyuu ondanka|pemanasan global|Noun|地球温暖化は世界中で深刻な問題です。|ちきゅうおんだんかは せかいじゅうで しんこくな もんだいです。|Pemanasan global adalah masalah serius di seluruh dunia.
+環境|かんきょう|kankyou|lingkungan hidup|Noun|環境を守るために日々努力しています。|かんきょうを まもるために ひびど りょくしています。|Saya berusaha setiap hari untuk melindungi lingkungan hidup.
+自然|しぜん|shizen|alam; alam semesta|Noun|美しい自然の中でリフレッシュしました。|うつくしい しぜんの なかで リフレッシュしました。|Saya menyegarkan diri di tengah alam yang indah.
+生態系|せいたいけい|seitaikei|ekosistem|Noun|森林破壊は生態系に悪影響を与えます。|しんりんはかいは せいたいけいに あくえいきょうを あたえます。|Penggundulan hutan memberikan dampak buruk pada ekosistem.
+汚染|おせん|osen|polusi; pencemaran|Noun|工場からの排水が川を汚染しています。|こうじょうからの はいすいが かわを おせんしています。|Limbah dari pabrik mencemari sungai.
+廃棄物|はいきぶつ|haikibutsu|limbah; sampah|Noun|廃棄物の分別は環境保護に役立ちます。|はいきぶつの ぶんべつは かんきょうほごに やくだちます。|Pemilahan limbah berguna untuk perlindungan lingkungan.
+リサイクル||risaikuru|daur ulang|Noun|ペットボトルのリサイクルを徹底しています。|ペットボトルの リサイクルを てっていしています。|Saya menerapkan daur ulang botol plastik secara menyeluruh.
+エネルギー||enerugii|energi|Noun|再生可能エネルギーの利用が増えています。|さいせいかのうな エネルギーの りようが ふえています。|Penggunaan energi terbarukan semakin meningkat.
+太陽光発電|たいようこうはつでん|taiyoukou hatsuden|tenaga surya|Noun|家に太陽光発電のパネルを設置しました。|いえに たいようこうはつでんの パネルを せっちしました。|Saya memasang panel tenaga surya di rumah.
+野生動物|やせいどうぶつ|yasei doubutsu|satwa liar|Noun|野生動物の保護が急務となっています。|やせいどうぶつの ほごが きゅうむと なっています。|Perlindungan satwa liar menjadi kebutuhan mendesak.
+絶滅危惧種|ぜつめつきぐしゅ|zetsumetsu kigushu|spesies yang terancam punah|Noun|絶滅危惧種を守るための活動に参加しました。|ぜつめつきぐしゅを まもるための かつどうに さんかしました。|Saya berpartisipasi dalam kegiatan untuk melindungi spesies yang terancam punah.
+記念日|きねんび|kinenbi|hari peringatan; hari jadi|Noun|結婚記念日に特別なディナーを予約しました。|けっこんきねんびに とくべつな ディナーを よやくしました。|Saya memesan makan malam istimewa untuk peringatan pernikahan.
+祝日|しゅくじつ|shukujitsu|hari libur nasional|Noun|祝日は家族と一緒に過ごします。|しゅくじつは かぞくと いっしょに すごします。|Saya menghabiskan hari libur nasional bersama keluarga.
+正月|しょうがつ|shougatsu|Tahun Baru (Jepang)|Noun|正月には家族全員で集まります。|しょうがつには かぞくぜんいんで あつまります。|Seluruh keluarga berkumpul saat Tahun Baru.
+お盆|おぼん|obon|Obon (festival leluhur)|Noun|お盆には先祖のお墓参りをします。|おぼんには せんぞの おはかまいりを します。|Pada Obon, saya mengunjungi makam leluhur.
+元旦|がんたん|gantan|Hari Tahun Baru (1 Januari)|Noun|元旦には初日の出を見に行きます。|がんたんには はつひので を みに いきます。|Pada Hari Tahun Baru, saya pergi melihat matahari terbit pertama.
+卒業式|そつぎょうしき|sotsugyoushiki|upacara kelulusan|Noun|卒業式では感謝の気持ちでいっぱいでした。|そつぎょうしきでは かんしゃの きもちで いっぱいでした。|Saya dipenuhi rasa syukur saat upacara kelulusan.
+入学式|にゅうがくしき|nyuugakushiki|upacara penerimaan siswa baru|Noun|入学式の日は桜が満開でした。|にゅうがくしきの ひは さくらが まんかいでした。|Bunga sakura sedang mekar penuh pada hari upacara masuk sekolah.
+結婚式|けっこんしき|kekkonshiki|upacara pernikahan|Noun|友達の結婚式でスピーチをしました。|ともだちの けっこんしきで スピーチを しました。|Saya menyampaikan pidato di pernikahan teman.
+葬式|そうしき|soushiki|upacara pemakaman|Noun|葬式には黒い服を着て参列します。|そうしきには くろい ふくを きて さんれつします。|Saya menghadiri pemakaman dengan mengenakan pakaian hitam.
+クリスマス||kurisumasu|Natal|Noun|クリスマスには家族でケーキを食べました。|クリスマスには かぞくで ケーキを たべました。|Kami makan kue bersama keluarga saat Natal.
+バレンタインデー||barentain dee|Hari Valentine|Noun|バレンタインデーにチョコレートをもらいました。|バレンタインデーに チョコレートを もらいました。|Saya menerima cokelat di Hari Valentine.
+ハロウィン||harowin|Halloween|Noun|ハロウィンには仮装パーティーに参加しました。|ハロウィンには かそうパーティーに さんかしました。|Saya mengikuti pesta kostum saat Halloween.
+地域|ちいき|chiiki|daerah; wilayah|Noun|この地域では昔から独特の文化が発展しました。|この ちいきでは むかしから どくとくの ぶんかが はってんしました。|Di daerah ini, budaya yang unik telah berkembang sejak lama.
+方言|ほうげん|hougen|dialek; bahasa daerah|Noun|大阪の方言は面白いと思います。|おおさかの ほうげんは おもしろいと おもいます。|Saya rasa dialek Osaka sangat menarik.
+国民性|こくみんせい|kokuminsei|karakter nasional; sifat bangsa|Noun|日本人の国民性は勤勉さで知られています。|にほんじんの こくみんせいは きんべんさで しられています。|Karakter bangsa Jepang dikenal dengan ketekunannya.
+文明|ぶんめい|bunmei|peradaban|Noun|古代文明の遺跡を訪問しました。|こだいぶんめいの いせきを ほうもんしました。|Saya mengunjungi reruntuhan peradaban kuno.
+歴史|れきし|rekishi|sejarah|Noun|日本の歴史を学ぶことに興味があります。|にほんの れきしを まなぶことに きょうみが あります。|Saya tertarik untuk mempelajari sejarah Jepang.
+遺跡|いせき|iseki|reruntuhan; situs bersejarah|Noun|古代の遺跡を訪れて感動しました。|こだいの いせきを おとずれて かんどうしました。|Saya terharu mengunjungi reruntuhan kuno.
+遺産|いさん|isan|warisan; peninggalan|Noun|京都は世界文化遺産に登録されています。|きょうとは せかいぶんかいさんに とうろくされています。|Kyoto terdaftar sebagai Warisan Budaya Dunia.
+芸術|げいじゅつ|geijutsu|seni; kesenian|Noun|芸術は人の心を豊かにします。|げいじゅつは ひとの こころを ゆたかに します。|Seni memperkaya hati manusia.
+建築|けんちく|kenchiku|arsitektur; bangunan|Noun|日本の伝統的な建築は美しいです。|にほんの でんとうてきな けんちくは うつくしいです。|Arsitektur tradisional Jepang sangat indah.
+芸能|げいのう|geinou|pertunjukan seni; hiburan|Noun|芸能界で成功するのは難しいです。|げいのうかいで せいこうするのは むずかしいです。|Sulit untuk sukses di dunia hiburan.
+観客|かんきゃく|kankyaku|penonton; audiens|Noun|コンサートの観客は五千人を超えていました。|コンサートの かんきゃくは ごせんにんを こえていました。|Penonton konser melebihi lima ribu orang.
+俳優|はいゆう|haiyuu|aktor|Noun|その俳優は多くの映画に出演しています。|その はいゆうは おおくの えいがに しゅつえんしています。|Aktor itu tampil di banyak film.
+歌手|かしゅ|kashu|penyanyi|Noun|彼女は十代の頃から歌手として活躍しています。|かのじょは じゅうだいの ころから かしゅとして かつやくしています。|Dia aktif sebagai penyanyi sejak remaja.
+作家|さっか|sakka|penulis; pengarang|Noun|その作家の小説は世界中で翻訳されています。|その さっかの しょうせつは せかいじゅうで ほんやくされています。|Novel penulis itu telah diterjemahkan ke seluruh dunia.
+画家|がか|gaka|pelukis; seniman|Noun|その画家の作品は美術館に展示されています。|その がかの さくひんは びじゅつかんに てんじされています。|Karya pelukis itu dipajang di museum seni.
+彫刻|ちょうこく|choukoku|patung; ukiran|Noun|公園に美しい彫刻が展示されています。|こうえんに うつくしい ちょうこくが てんじされています。|Patung-patung indah dipajang di taman.
+展覧会|てんらんかい|tenrankai|pameran|Noun|来週から現代美術の展覧会が始まります。|らいしゅうから げんだいびじゅつの てんらんかいが はじまります。|Pameran seni kontemporer akan dimulai minggu depan.
+公演|こうえん|kouen|pertunjukan; pementasan|Noun|有名な劇団の公演チケットを手に入れました。|ゆうめいな げきだんの こうえんチケットを てに いれました。|Saya mendapatkan tiket pertunjukan regu drama terkenal.
+楽器|がっき|gakki|instrumen musik; alat musik|Noun|子供の頃からピアノという楽器を弾いています。|こどもの ころから ピアノという がっきを ひいています。|Saya memainkan piano sejak kecil.
+演奏|えんそう|ensou|penampilan musik; memainkan musik|Noun|ピアノの演奏に聴衆が魅了されました。|ピアノの えんそうに ちょうしゅうが みりょうされました。|Penonton terpesona oleh penampilan piano.
+作曲|さっきょく|sakkyoku|komposisi musik|Noun|彼は十代から作曲を始めました。|かれは じゅうだいから さっきょくを はじめました。|Dia mulai membuat komposisi musik sejak remaja.
+歌詞|かし|kashi|lirik lagu|Noun|あの曲の歌詞がとても心に響きます。|あの きょくの かしが とても こころに ひびきます。|Lirik lagu itu sangat menyentuh hati.
+歌|うた|uta|lagu; nyanyian|Noun|懐かしい歌を聞いて昔を思い出しました。|なつかしい うたを きいて むかしを おもいだしました。|Mendengar lagu nostalgia membuat saya teringat masa lalu.
+詩|し|shi|puisi|Noun|日本語の詩の美しさに感動しました。|にほんごの しの うつくしさに かんどうしました。|Saya terharu dengan keindahan puisi bahasa Jepang.
+小説|しょうせつ|shousetsu|novel; cerita fiksi|Noun|最近面白い小説を読みました。|さいきん おもしろい しょうせつを よみました。|Saya baru-baru ini membaca novel yang menarik.
+絵本|えほん|ehon|buku bergambar; picture book|Noun|子供に毎晩絵本を読み聞かせています。|こどもに まいばん えほんを よみきかせています。|Saya membacakan buku bergambar untuk anak setiap malam.
+雑誌|ざっし|zasshi|majalah|Noun|美容雑誌を読んでメイクのアイデアを得ました。|びようざっしを よんで メイクの アイデアを えました。|Saya mendapatkan ide makeup dari membaca majalah kecantikan.
+新聞|しんぶん|shinbun|koran; surat kabar|Noun|毎朝新聞を読んでニュースを確認します。|まいあさ しんぶんを よんで ニュースを かくにんします。|Saya membaca koran setiap pagi untuk mengecek berita.
+情報|じょうほう|jouhou|informasi|Noun|旅行の前に現地の情報を集めることが大切です。|りょこうの まえに げんちの じょうほうを あつめることが たいせつです。|Penting untuk mengumpulkan informasi lokal sebelum bepergian.
+ニュース||nyuusu|berita|Noun|毎晩テレビでニュースを見ています。|まいばん テレビで ニュースを みています。|Saya menonton berita di TV setiap malam.
+天気予報|てんきよほう|tenki yohou|prakiraan cuaca|Noun|天気予報では明日は雨らしいです。|てんきよほうでは あしたは あめらしいです。|Menurut prakiraan cuaca, besok tampaknya akan hujan.
+予報|よほう|yohou|prakiraan; ramalan|Noun|週間予報を確認して旅行の計画を立てました。|しゅうかんよほうを かくにんして りょこうの けいかくを たてました。|Saya menyusun rencana perjalanan setelah mengecek prakiraan mingguan.
+速報|そくほう|sokuhou|berita kilat; kabar terbaru|Noun|地震の速報がテレビで流れました。|じしんの そくほうが テレビで ながれました。|Berita kilat gempa bumi ditayangkan di TV.
+課題|かだい|kadai|tugas; permasalahan|Noun|環境問題は今の時代の最大の課題です。|かんきょうもんだいは いまの じだいの さいだいの かだいです。|Masalah lingkungan adalah tantangan terbesar zaman ini.
+問題|もんだい|mondai|masalah; soal|Noun|この問題は簡単に解決できません。|この もんだいは かんたんに かいけつできません。|Masalah ini tidak bisa diselesaikan dengan mudah.
+解決策|かいけつさく|kaiketsusaku|solusi; jalan keluar|Noun|問題に対する具体的な解決策を提案しました。|もんだいに たいする ぐたいてきな かいけつさくを ていあんしました。|Saya mengusulkan solusi konkret terhadap masalah tersebut.
+目的|もくてき|mokuteki|tujuan; sasaran|Noun|旅行の目的は文化を体験することです。|りょこうの もくてきは ぶんかを たいけんすることです。|Tujuan perjalanan ini adalah untuk merasakan budayanya.
+計画|けいかく|keikaku|rencana; perencanaan|Noun|来年の旅行の計画を立て始めました。|らいねんの りょこうの けいかくを たてはじめました。|Saya mulai menyusun rencana perjalanan tahun depan.
+準備|じゅんび|junbi|persiapan|Noun|旅行の準備で荷物をまとめています。|りょこうの じゅんびで にもつを まとめています。|Saya sedang membereskan barang sebagai persiapan perjalanan.
+方法|ほうほう|houhou|cara; metode|Noun|もっと効率的な方法を探しています。|もっと こうりつてきな ほうほうを さがしています。|Saya sedang mencari cara yang lebih efisien.
+手順|てじゅん|tejun|prosedur; langkah-langkah|Noun|手順を間違えると失敗します。|てじゅんを まちがえると しっぱいします。|Jika salah langkah, akan gagal.
+結果|けっか|kekka|hasil; akibat|Noun|努力した結果、試験に合格しました。|どりょくした けっか、しけんに ごうかくしました。|Berkat kerja keras, saya lulus ujian.
+原因|げんいん|genin|penyebab; sebab|Noun|火事の原因を調査しています。|かじの げんいんを ちょうさしています。|Penyebab kebakaran sedang diselidiki.
+影響|えいきょう|eikyou|pengaruh; dampak|Noun|気候変動は農業に大きな影響を与えています。|きこうへんどうは のうぎょうに おおきな えいきょうを あたえています。|Perubahan iklim memberikan dampak besar pada pertanian.
+変化|へんか|henka|perubahan|Noun|社会の変化に対応することが大切です。|しゃかいの へんかに たいおうすることが たいせつです。|Penting untuk beradaptasi dengan perubahan sosial.
+発展|はってん|hatten|perkembangan; kemajuan|Noun|経済の発展とともに生活が豊かになりました。|けいざいの はってんとともに せいかつが ゆたかに なりました。|Kehidupan menjadi makmur seiring perkembangan ekonomi.
+進歩|しんぽ|shinpo|kemajuan; perkembangan|Noun|科学技術の進歩は目覚ましいです。|かがくぎじゅつの しんぽは めざましいです。|Kemajuan ilmu pengetahuan dan teknologi sangat mengagumkan.
+技術|ぎじゅつ|gijutsu|teknologi; teknik|Noun|最新の技術を使った製品を開発しました。|さいしんの ぎじゅつを つかった せいひんを かいはつしました。|Kami mengembangkan produk menggunakan teknologi terkini.
+発明|はつめい|hatsumei|penemuan; invensi|Noun|その発明は人々の生活を大きく変えました。|その はつめいは ひとびとの せいかつを おおきく かえました。|Penemuan itu sangat mengubah kehidupan masyarakat.
+研究|けんきゅう|kenkyuu|penelitian|Noun|大学院で環境に関する研究をしています。|だいがくいんで かんきょうに かんする けんきゅうを しています。|Saya melakukan penelitian tentang lingkungan di program pascasarjana.
+実験|じっけん|jikken|eksperimen; percobaan|Noun|新しい薬の実験が始まりました。|あたらしい くすりの じっけんが はじまりました。|Eksperimen obat baru telah dimulai.
+調査|ちょうさ|chousa|survei; investigasi|Noun|市場調査の結果を分析しました。|しじょうちょうさの けっかを ぶんせきしました。|Saya menganalisis hasil riset pasar.
+報告|ほうこく|houkoku|laporan|Noun|プロジェクトの進行状況を毎週報告しています。|プロジェクトの しんこうじょうきょうを まいしゅう ほうこくしています。|Saya melaporkan kemajuan proyek setiap minggu.
+発表|はっぴょう|happyou|presentasi; pengumuman|Noun|来週、研究結果を発表します。|らいしゅう、けんきゅうけっかを はっぴょうします。|Saya akan mempresentasikan hasil penelitian minggu depan.
+意見|いけん|iken|pendapat; opini|Noun|会議で積極的に意見を述べました。|かいぎで せっきょくてきに いけんを のべました。|Saya menyampaikan pendapat secara aktif dalam rapat.
+提案|ていあん|teian|usulan; proposal|Noun|新しいプロジェクトの提案を作成しました。|あたらしい プロジェクトの ていあんを さくせいしました。|Saya membuat proposal proyek baru.
+議論|ぎろん|giron|diskusi; perdebatan|Noun|テーマについて活発な議論が行われました。|テーマについて かっぱつな ぎろんが おこなわれました。|Diskusi yang aktif dilakukan mengenai tema tersebut.
+説明|せつめい|setsumei|penjelasan; keterangan|Noun|わかりやすい説明のおかげで理解できました。|わかりやすい せつめいの おかげで りかいできました。|Berkat penjelasan yang mudah dipahami, saya bisa mengerti.
+確認|かくにん|kakunin|konfirmasi; pengecekan|Noun|予約の確認メールが届きました。|よやくの かくにん メールが とどきました。|Email konfirmasi reservasi telah tiba.
+注意|ちゅうい|chuui|peringatan; perhatian|Noun|工事中のため注意が必要です。|こうじちゅうの ため ちゅういが ひつようです。|Perhatian diperlukan karena sedang ada konstruksi.
+経験|けいけん|keiken|pengalaman|Noun|海外生活の経験が私を大きく成長させました。|かいがいせいかつの けいけんが わたしを おおきく せいちょうさせました。|Pengalaman hidup di luar negeri membuat saya berkembang pesat.
+知識|ちしき|chishiki|pengetahuan|Noun|専門的な知識を身につけることが重要です。|せんもんてきな ちしきを みにつけることが じゅうようです。|Penting untuk memperoleh pengetahuan yang spesialis.
+能力|のうりょく|nouryoku|kemampuan; kecakapan|Noun|語学能力を高めるために毎日勉強しています。|ごがくのうりょくを たかめるために まいにち べんきょうしています。|Saya belajar setiap hari untuk meningkatkan kemampuan berbahasa.
+才能|さいのう|sainou|bakat; talenta|Noun|彼女は音楽に才能があります。|かのじょは おんがくに さいのうが あります。|Dia memiliki bakat dalam musik.
+努力|どりょく|doryoku|usaha; kerja keras|Noun|長年の努力が報われた瞬間でした。|ながねんの どりょくが むくわれた しゅんかんでした。|Itu adalah momen ketika kerja keras bertahun-tahun terbayar.
+成功|せいこう|seikou|kesuksesan|Noun|成功の秘訣は諦めないことです。|せいこうの ひけつは あきらめないことです。|Kunci kesuksesan adalah tidak menyerah.
+失敗|しっぱい|shippai|kegagalan|Noun|失敗から学ぶことが大切です。|しっぱいから まなぶことが たいせつです。|Penting untuk belajar dari kegagalan.
+挑戦|ちょうせん|chousen|tantangan; mencoba hal baru|Noun|新しいことへの挑戦を恐れないでください。|あたらしいことへの ちょうせんを おそれないでください。|Jangan takut untuk mencoba hal-hal baru.
+目標|もくひょう|mokuhyou|target; tujuan|Noun|今年の目標を達成するために頑張っています。|ことしの もくひょうを たっせいするために がんばっています。|Saya bekerja keras untuk mencapai target tahun ini.
+夢|ゆめ|yume|mimpi; cita-cita|Noun|子供の頃からの夢を叶えることができました。|こどもの ころからの ゆめを かなえることが できました。|Saya berhasil mewujudkan impian sejak kecil.
+願い|ねがい|negai|keinginan; harapan|Noun|世界平和は私の一番の願いです。|せかいへいわは わたしの いちばんの ねがいです。|Perdamaian dunia adalah keinginan terbesar saya.
+意志|いし|ishi|tekad; kehendak|Noun|強い意志があれば何でも実現できます。|つよい いしが あれば なんでも じつげんできます。|Dengan tekad yang kuat, apa pun bisa diwujudkan.
+決意|けつい|ketsui|resolusi; tekad bulat|Noun|新年に新しい決意を固めました。|しんねんに あたらしい けついを かためました。|Saya membuat tekad baru di tahun baru.
+協力|きょうりょく|kyouryoku|kerja sama; kolaborasi|Noun|皆の協力があったから成功しました。|みんなの きょうりょくが あったから せいこうしました。|Kami berhasil karena kerja sama semua orang.
+競技|きょうぎ|kyougi|kompetisi; pertandingan olahraga|Noun|オリンピックにはさまざまな競技があります。|オリンピックには さまざまな きょうぎが あります。|Ada berbagai kompetisi di Olimpiade.
+大会|たいかい|taikai|turnamen; kompetisi besar|Noun|全国大会に出場することが目標です。|ぜんこくたいかいに しゅつじょうすることが もくひょうです。|Target saya adalah berpartisipasi dalam kejuaraan nasional.
+選択|せんたく|sentaku|pilihan; seleksi|Noun|人生の大きな選択をする時が来ました。|じんせいの おおきな せんたくを する ときが きました。|Saatnya membuat pilihan besar dalam hidup telah tiba.
+判断|はんだん|handan|penilaian; keputusan|Noun|状況を見て適切な判断をしました。|じょうきょうを みて てきせつな はんだんを しました。|Saya membuat penilaian yang tepat setelah melihat situasinya.
+決定|けってい|kettei|keputusan|Noun|最終的な決定は来週までに行います。|さいしゅうてきな けっていは らいしゅうまでに おこないます。|Keputusan akhir akan dibuat sebelum minggu depan.
+状況|じょうきょう|joukyou|situasi; kondisi|Noun|現在の状況を正確に把握することが必要です。|げんざいの じょうきょうを せいかくに はあくすることが ひつようです。|Perlu untuk memahami situasi saat ini dengan tepat.
+立場|たちば|tachiba|posisi; sudut pandang|Noun|相手の立場から考えることが大切です。|あいての たちばから かんがえることが たいせつです。|Penting untuk berpikir dari sudut pandang lawan bicara.
+役割|やくわり|yakuwari|peran; tugas|Noun|チームの中での自分の役割を理解しています。|チームの なかでの じぶんの やくわりを りかいしています。|Saya memahami peran saya dalam tim.
+責任|せきにん|sekinin|tanggung jawab|Noun|自分の行動に責任を持つことが大人の証です。|じぶんの こうどうに せきにんを もつことが おとなの あかしです。|Bertanggung jawab atas tindakan sendiri adalah bukti kedewasaan.
+義務|ぎむ|gimu|kewajiban; tugas|Noun|国民には税金を納める義務があります。|こくみんには ぜいきんを おさめる ぎむが あります。|Warga negara berkewajiban membayar pajak.
+権利|けんり|kenri|hak|Noun|すべての人間は平等な権利を持っています。|すべての にんげんは びょうどうな けんりを もっています。|Semua manusia memiliki hak yang setara.
+理由|りゆう|riyuu|alasan; sebab|Noun|遅刻した理由を正直に話しました。|ちこくした りゆうを しょうじきに はなしました。|Saya dengan jujur menceritakan alasan keterlambatan saya.
+目安|めやす|meyasu|patokan; perkiraan|Noun|完成までの目安は三日間です。|かんせいまでの めやすは みっかかんです。|Perkiraan waktu hingga selesai adalah tiga hari.
+基準|きじゅん|kijun|standar; kriteria|Noun|品質の基準を厳しく守っています。|ひんしつの きじゅんを きびしく まもっています。|Standar kualitas dijaga dengan ketat.
+規則|きそく|kisoku|peraturan; aturan|Noun|学校の規則を守ることが大切です。|がっこうの きそくを まもることが たいせつです。|Penting untuk mematuhi peraturan sekolah.
+法律|ほうりつ|houritsu|hukum; undang-undang|Noun|法律を守ることは国民の義務です。|ほうりつを まもることは こくみんの ぎむです。|Mematuhi hukum adalah kewajiban warga negara.
+契約|けいやく|keiyaku|kontrak; perjanjian|Noun|新しいアパートの契約をしました。|あたらしい アパートの けいやくを しました。|Saya menandatangani kontrak apartemen baru.
+取引|とりひき|torihiki|transaksi; perdagangan|Noun|重要な取引が成立しました。|じゅうような とりひきが せいりつしました。|Transaksi penting telah berhasil.
+費用|ひよう|hiyou|biaya; pengeluaran|Noun|旅行の費用を事前に計算しました。|りょこうの ひようを じぜんに けいさんしました。|Saya menghitung biaya perjalanan terlebih dahulu.
+収入|しゅうにゅう|shuunyuu|pendapatan; penghasilan|Noun|副業で収入を増やしています。|ふくぎょうで しゅうにゅうを ふやしています。|Saya meningkatkan pendapatan dengan pekerjaan sampingan.
+支出|ししゅつ|shishutsu|pengeluaran|Noun|毎月の支出を記録しています。|まいつきの ししゅつを きろくしています。|Saya mencatat pengeluaran setiap bulan.
+貯金|ちょきん|chokin|tabungan|Noun|毎月の収入の二割を貯金しています。|まいつきの しゅうにゅうの にわりを ちょきんしています。|Saya menabung dua puluh persen dari pendapatan bulanan.
+財産|ざいさん|zaisan|harta; kekayaan|Noun|家族の健康が最大の財産です。|かぞくの けんこうが さいだいの ざいさんです。|Kesehatan keluarga adalah harta yang paling berharga.
+価値|かち|kachi|nilai; harga|Noun|この体験には大きな価値があります。|この たいけんには おおきな かちが あります。|Pengalaman ini memiliki nilai yang besar.
+物価|ぶっか|bukka|harga barang; biaya hidup|Noun|最近、物価が上がって家計が苦しいです。|さいきん、ぶっかが あがって かけいが くるしいです。|Belakangan ini, keuangan rumah tangga sulit karena harga barang naik.
+消費|しょうひ|shouhi|konsumsi|Noun|エネルギーの消費を減らす努力をしています。|エネルギーの しょうひを へらす どりょくを しています。|Saya berusaha mengurangi konsumsi energi.
+生産|せいさん|seisan|produksi|Noun|この工場の年間生産量はとても多いです。|この こうじょうの ねんかん せいさんりょうは とても おおいです。|Volume produksi tahunan pabrik ini sangat besar.
+輸出|ゆしゅつ|yushutsu|ekspor|Noun|日本の自動車輸出は世界的に有名です。|にほんの じどうしゃゆしゅつは せかいてきに ゆうめいです。|Ekspor mobil Jepang terkenal di seluruh dunia.
+輸入|ゆにゅう|yunyuu|impor|Noun|日本は多くの食料を輸入に頼っています。|にほんは おおくの しょくりょうを ゆにゅうに たよっています。|Jepang bergantung pada impor untuk banyak bahan pangan.
+貿易|ぼうえき|boueki|perdagangan (internasional)|Noun|二国間の貿易が活発になっています。|にこくかんの ぼうえきが かっぱつに なっています。|Perdagangan antara dua negara semakin aktif.
+景気|けいき|keiki|kondisi ekonomi; keadaan bisnis|Noun|最近の景気は少しずつ回復しています。|さいきんの けいきは すこしずつ かいふくしています。|Kondisi ekonomi belakangan ini perlahan-lahan membaik.
+不景気|ふけいき|fukeiki|resesi; kelesuan ekonomi|Noun|不景気の影響で失業率が上がりました。|ふけいきの えいきょうで しつぎょうりつが あがりました。|Tingkat pengangguran naik akibat dampak resesi.
+社会|しゃかい|shakai|masyarakat|Noun|社会のために役に立ちたいと思っています。|しゃかいの ために やくに たちたいと おもっています。|Saya ingin berguna bagi masyarakat.
+国際|こくさい|kokusai|internasional|Noun|国際交流を通じて視野が広がりました。|こくさいこうりゅうを つうじて しやが ひろがりました。|Wawasan saya meluas melalui pertukaran internasional.
+外交|がいこう|gaikou|diplomasi|Noun|両国の外交関係が改善されました。|りょうこくの がいこうかんけいが かいぜんされました。|Hubungan diplomatik kedua negara telah membaik.
+平和|へいわ|heiwa|perdamaian|Noun|世界中が平和であることを願っています。|せかいじゅうが へいわであることを ねがっています。|Saya berharap seluruh dunia hidup dalam damai.
+戦争|せんそう|sensou|perang|Noun|戦争のない平和な世界を実現したいです。|せんそうのない へいわな せかいを じつげんしたいです。|Saya ingin mewujudkan dunia yang damai tanpa perang.
+人権|じんけん|jinken|hak asasi manusia|Noun|人権を守ることは国際社会の義務です。|じんけんを まもることは こくさいしゃかいの ぎむです。|Melindungi hak asasi manusia adalah kewajiban masyarakat internasional.
+差別|さべつ|sabetsu|diskriminasi|Noun|差別のない社会を目指すべきです。|さべつの ない しゃかいを めざすべきです。|Kita seharusnya bertujuan menciptakan masyarakat tanpa diskriminasi.
+平等|びょうどう|byoudou|kesetaraan|Noun|性別に関わらず平等な機会が必要です。|せいべつに かかわらず びょうどうな きかいが ひつようです。|Kesempatan yang setara diperlukan tanpa memandang jenis kelamin.
+人口|じんこう|jinkou|jumlah penduduk|Noun|日本の人口は少子化で減少しています。|にほんの じんこうは しょうしかで げんしょうしています。|Jumlah penduduk Jepang menurun karena rendahnya angka kelahiran.
+少子化|しょうしか|shoushika|penurunan angka kelahiran|Noun|少子化問題は日本の深刻な社会問題です。|しょうしかもんだいは にほんの しんこくな しゃかいもんだいです。|Masalah penurunan angka kelahiran adalah masalah sosial yang serius di Jepang.
+高齢化|こうれいか|koureika|penuaan penduduk|Noun|高齢化社会に対応するために政策を見直しています。|こうれいかしゃかいに たいおうするために せいさくを みなおしています。|Kebijakan sedang ditinjau kembali untuk menghadapi masyarakat yang menua.
+移住|いじゅう|ijuu|migrasi; pindah tempat tinggal|Noun|海外への移住を真剣に検討しています。|かいがいへの いじゅうを しんけんに けんとうしています。|Saya serius mempertimbangkan untuk pindah ke luar negeri.
+住民|じゅうみん|juumin|penduduk; warga|Noun|地域の住民が協力して公園を整備しました。|ちいきの じゅうみんが きょうりょくして こうえんを せいびしました。|Warga daerah bekerja sama untuk merawat taman.

@@ -19,8 +19,14 @@ async function check() {
     .select('*', { count: 'exact', head: true })
     .eq('level', 'N4');
 
+  const { count: n3Count, error: n3Err } = await supabase
+    .from('vocabularies')
+    .select('*', { count: 'exact', head: true })
+    .eq('level', 'N3');
+
   console.log('N5 count:', n5Count, 'error:', n5Err);
   console.log('N4 count:', n4Count, 'error:', n4Err);
+  console.log('N3 count:', n3Count, 'error:', n3Err);
 }
 
 check();

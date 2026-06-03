@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Scanned pages
+page_*.png
+
+# Temporary scratch files
+scratch/
+
+

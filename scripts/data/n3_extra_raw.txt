@@ -1,0 +1,580 @@
+|しきりに|shikirini|sering kali / terus-menerus|Adverb|彼はしきりに電話をかけてくる。|かれは しきりに でんわを かけてくる。|Dia terus-menerus meneleponku.
+|じっと|jitto|diam / menatap lekat-lekat / dengan tenang|Adverb|彼はじっと目を閉じていた。|かれは じっと めを とじていた。|Dia memejamkan mata dengan tenang.
+|しばしば|shibashiba|sering / berkali-kali|Adverb|この道路ではしばしば事故が起こる。|この どうろでは しばしば じこが おこる。|Di jalan ini sering terjadi kecelakaan.
+|しゃべる|shaberu|berbicara / mengobrol|Verb (Godan)|授業中にしゃべらないでください。|じゅぎょうちゅうに しゃべらないで ください。|Tolong jangan mengobrol saat pelajaran.
+|すっぱい|suppai|asam|Adjective (i)|このレモンはとてもすっぱい。|この れもんは とても すっぱい。|Lemon ini sangat asam.
+|すてき|suteki|bagus / indah / menakjubkan|Adjective (na)|すてきなプレゼントをありがとう。|すてきな プレゼントを ありがとう。|Terima kasih atas hadiah yang menakjubkan ini.
+|ずれる|zureru|bergeser / meleset|Verb (Ichidan)|予定の時間が少しずれた。|よていの じかんが すこし ずれた。|Waktu jadwalnya agak bergeser.
+|あちこち|achikochi|sana-sini / di berbagai tempat|Noun / Adverb|京都のあちこちを観光した。|きょうとの あちこちを かんこうした。|Kami berwisata ke sana-sini di Kyoto.
+|あらゆる|arayuru|segala / semua|Pre-noun adjective|あらゆる方法を試してみた。|あらゆる ほうほうを ためしてみた。|Aku sudah mencoba segala cara.
+|ありがとう|arigatou|terima kasih|Expression|手伝ってくれてありがとう。|てつだってくれて ありがとう。|Terima kasih sudah membantu.
+|あんなに|annani|sejauh itu / begitu|Adverb|あんなに高いビルは初めて見た。|あんなに たかい びるは はじめて みた。|Baru pertama kali ini aku melihat gedung setinggi itu.
+|あんまり|anmari|tidak begitu / tidak terlalu|Adverb|今日はあんまり寒くない。|きょうは あんまり さむくない。|Hari ini tidak terlalu dingin.
+|いけない|ikenai|tidak boleh / buruk / salah|Adjective (i) / Expression|嘘をついてはいけません。|うそを ついては いけません。|Tidak boleh berbohong.
+|いたずら|itazura|nakal / usil / keisengan|Noun / Adjective (na)|子どもがいたずらをして怒られた。|こどもが いたずらを して おこられた。|Anak itu dimarahi karena berbuat nakal.
+|いただきます|itadakimasu|selamat makan / ungkapan terima kasih sebelum makan|Expression|ご飯を食べる前にいただきますと言う。|ごはんを たべる まえに いただきますと いう。|Sebelum makan kita mengucapkan selamat makan.
+|いつか|itsuka|suatu saat / kapan-kapan / kelak|Adverb|いつか日本へ行ってみたい。|いつか にほんへ いってみたい。|Suatu saat aku ingin mencoba pergi ke Jepang.
+|いつのまにか|itsunomanika|tanpa disadari|Adverb|外はいつのまにか雨が降っていた。|そとは いつのまにか あめが ふっていた。|Tanpa disadari di luar sudah turun hujan.
+|いつまでも|itsumademo|selamanya / sampai kapan pun|Adverb|私たちはいつまでも友達だ。|わたしたちは いつまでも ともだちだ。|Kita adalah teman selamanya.
+|いらいら|iraira|jengkel / kesal / tidak sabar|Adverb / Noun with suru|渋滞でいらいらする。|じゅうたいで いらいら する。|Aku merasa jengkel karena kemacetan.
+|いらっしゃい|irasshai|selamat datang|Expression|ようこそ、我が家へいらっしゃい。|ようこそ、 わがやへ いらっしゃい。|Selamat datang di rumah kami.
+|いわゆる|iwayuru|yang biasa disebut / yang dinamakan|Pre-noun adjective|彼は、いわゆる天才だ。|かれは、 いわゆる てんさいだ。|Dia adalah orang yang biasa disebut jenius.
+|うがい|ugai|berkumur|Noun / Verb (Irregular)|帰宅したら手洗いとうがいをしよう。|きたくしたら てあらいと うがいを しよう。|Mari mencuci tangan dan berkumur setelah pulang ke rumah.
+|うなる|unaru|mengerang / menderu / meraung|Verb (Godan)|犬が見知らぬ人に向かってうなっている。|いぬが みしらぬ ひとに むかって うなっている。|Anjing itu mengerang ke arah orang asing.
+|おめでとう|omedetou|selamat|Expression|お誕生日おめでとうございます！|おたんじょうび おめでとう ございます！|Selamat hari ulang tahun!
+|がっかり|gakkari|kecewa / patah semangat|Adverb / Noun with suru|不合格と知ってがっかりした。|ふごうかくと しって がっかり した。|Aku kecewa saat tahu tidak lulus.
+|かもしれない|kamoshirenai|mungkin / barangkali|Expression|明日は雨が降るかもしれない。|あしたは あめが ふる かもしれない。|Besok mungkin akan turun hujan.
+|かゆい|kayui|gatal|Adjective (i)|蚊に刺されて腕がかゆい。|かに さされて うでが かゆい。|Lenganku gatal karena digigit nyamuk.
+|きつい|kitsui|ketat / keras / berat|Adjective (i)|この靴は少しきついです。|この くつは すこし きついです。|Sepatu ini agak ketat.
+|ぐっすり|gussuri|nyenyak|Adverb|昨夜はぐっすり眠れました。|さくやは ぐっすり ねむれました。|Semalam aku bisa tidur nyenyak.
+|けち|kechi|pelit / kikir|Noun / Adjective (na)|彼は大金持ちなのにけちだ。|かれは おおがねもちなのに けちだ。|Dia pelit padahal orang yang sangat kaya.
+|こぼす|kobosu|menumpahkan|Verb (Godan)|テーブルの上にコーヒーをこぼした。|テーブルの うえに コーヒーを こぼした。|Aku menumpahkan kopi di atas meja.
+|こぼれる|koboreru|tumpah / meluap|Verb (Ichidan)|コップから水がこぼれた。|コップから みずが こぼれた。|Air tumpah dari gelas.
+|ごめんなさい|gomennasai|maaf|Expression|遅くなってごめんなさい。|おそくなって ごめんなさい。|Maaf karena saya terlambat.
+|これら|korera|ini semua / hal-hal ini|Pronoun|これらの本はすべて私のです。|これらの ほんは すべて わたしのです。|Buku-buku ini semuanya milikku.
+|こんなに|konnani|seperti ini / begini|Adverb|こんなに美味しい料理は初めてだ。|こんなに おいしい りょうりは はじめてだ。|Ini pertama kalinya aku makan hidangan seenak ini.
+|こんにちは|konnichiha|halo / selamat siang|Expression|皆さん、こんにちは。|みなさん、 こんにちは。|Halo semuanya, selamat siang.
+|ざっと|zatto|secara ringkas / sekilas|Adverb|資料にざっと目を通した。|しりょうに ざっと めを とおした。|Aku membaca sekilas dokumen itu.
+|さっぱり|sappari|segar / sama sekali tidak (dengan negatif)|Adverb / Noun with suru|シャワーを浴びてさっぱりした。|シャワーを あびて さっぱり した。|Aku merasa segar setelah mandi.
+|もしかすると|moshikasuruto|barangkali / mungkin saja|Adverb|もしかすると彼は来ないかもしれない。|もしかすると かれは こない かもしれない。|Barangkali dia tidak akan datang.
+|もったいない|mottainai|mubazir / sayang sekali / sia-sia|Adjective (i)|食べ物を残すのはもったいない。|たべものを のこすのは もったいない。|Menyisakan makanan itu mubazir.
+|やや|yaya|agak / sedikit|Adverb|今年の試験は昨年よりやや難しい。|ことしの しけんは さくねんより やや むずかしい。|Ujian tahun ini agak lebih sulit dibanding tahun lalu.
+|より|yori|lebih / daripada|Adverb / Noun|健康は富より大切だ。|けんこうは とみより たいせつだ。|Keseimbangan kesehatan lebih penting daripada kekayaan.
+|わがまま|wagamama|egois / manja|Noun / Adjective (na)|わがままな行動で皆に迷惑をかけた。|わがままな こうどうで みなに めいわくを かけた。|Perilaku egoisnya menyusahkan semua orang.
+|ことによると|kotonyoruto|mungkin saja / tergantung situasi|Adverb|ことによると明日出発するかもしれない。|ことによると あした しゅっぱつする かもしれない。|Mungkin saja kami akan berangkat besok.
+|そこで|sokode|oleh karena itu / maka / di situ|Conjunction|雨が降り出した。そこで傘を買った。|あめが フリダシタ。 そこで かさを かった。|Hujan mulai turun. Oleh karena itu, aku membeli payung.
+|そっくり|sokkuri|mirip sekali / persis|Adjective (na) / Adverb|彼は父親にそっくりだ。|かれは ちちおやに そっくりだ。|Dia mirip sekali dengan ayahnya.
+|そのまま|sonomama|biarkan begitu saja / apa adanya|Adverb / Noun|片付けずにそのままにしておいて。|かたづけずに そのままに しておいて。|Biarkan begitu saja tanpa dibereskan.
+|それぞれ|sorezore|masing-masing|Noun / Adverb|人にはそれぞれ個性がある。|ひとには それぞれ こせいがある。|Setiap orang memiliki kepribadian masing-masing.
+|それと|soreto|dan juga / selain itu|Conjunction|パンと牛乳、それと卵をください。|パンと ぎゅうにゅう、 それと たまごを ください。|Tolong roti, susu, dan juga telur.
+|だが|daga|tetapi / namun|Conjunction|彼は努力した。だが、失敗した。|かれは どりょくした。 だが、 しっぱいした。|Dia sudah berusaha. Namun, dia gagal.
+|だけど|dakedo|tetapi / namun|Conjunction|行きたい。だけどお金がない。|いきたい。 だけど おかねが ない。|Aku ingin pergi. Tetapi aku tidak punya uang.
+|たしか|tashika|seingat saya / pasti|Adverb / Adjective (na)|彼の住所はたしかここだったはずだ。|かれの じゅうしょは たしか ここだった はずだ。|Seingat saya, alamatnya seharusnya di sini.
+|だって|datte|habisnya / karena / tapi|Conjunction|なぜ行かないの？だって忙しいんだもん。|なぜ いかないの？ だって いそがしいんだもん。|Kenapa tidak pergi? Habisnya sibuk sih.
+|たびたび|tabitabi|sering kali / berulang kali|Adverb|彼とはたびたび駅で会う。|かれとは たびたび えきで あう。|Aku sering kali bertemu dengannya di stasiun.
+|たまらない|tamaranai|tidak tertahankan / sangat (tidak tahan)|Adjective (i)|暑くてたまらない。|あつくて たまらない。|Panasnya tidak tertahankan.
+|ちょうだい|choudai|tolong berikan / beri saya|Expression|そのリンゴを一口ちょうだい。|その りんごを ひとくち ちょうだい。|Tolong beri aku satu gigit apel itu.
+|できれば|dekireba|kalau bisa / jika memungkinkan|Adverb|できれば今日中に終わらせたい。|できれば きょうじゅうに おわらせたい。|Kalau bisa aku ingin menyelesaikannya hari ini.
+|ですから|desukara|oleh karena itu / jadi|Conjunction|バスが遅れました。ですから遅刻しました。|バスが おくれました。 ですから ちこくしました。|Busnya terlambat. Oleh karena itu saya terlambat.
+|どうぞよろしく|douzoyoroshiku|senang bertemu dengan Anda|Expression|新しいメンバーです。どうぞよろしく。|あたらしい めんばーです。 どうぞ よろしく。|Saya anggota baru. Senang bertemu dengan Anda.
+|どこか|dokoka|suatu tempat / entah di mana|Adverb / Noun|鍵をどこかに忘れてしまった。|かぎを どこかに わすれて しまった。|Aku melupakan kunci di suatu tempat.
+|とんでもない|tondemonai|tidak mungkin / sama sekali tidak / keterlaluan|Adjective (i)|謙遜して「とんでもない」と答えた。|けんそんして 「とんでもない」と こたえた。|Dia menjawab "sama sekali tidak" dengan rendah hati.
+|どんなに|donnani|bagaimanapun / seberapa pun|Adverb|どんなに難しくても諦めない。|どんなに むずかしくても あきらめない。|Bagaimanapun sulitnya, aku tidak akan menyerah.
+|なにも|nanimo|apa pun tidak (dengan kalimat negatif)|Adverb|今日はなにもしたくない。|きょうは なにも したくない。|Hari ini aku tidak ingin melakukan apa pun.
+|にっこり|nikkori|tersenyum ramah / tersenyum lebar|Adverb / Onomatopoeia|彼女はにっこり笑って挨拶した。|かのじょは にっこり わらって あいさつした。|Dia tersenyum ramah lalu menyapa.
+|のんびり|nonbiri|santai / rileks|Adverb / Noun with suru|週末はのんびり過ごしたい。|しゅうまつは のんびり すごしたい。|Aku ingin menghabiskan akhir pekan dengan santai.
+|はさみ|hasami|gunting|Noun|紙をはさみできれいに切った。|かみを はさみで きれいに きった。|Aku memotong kertas dengan rapi menggunakan gunting.
+|ばったり|battari|tidak sengaja bertemu / tiba-tiba|Adverb / Onomatopoeia|街中で古い友人にばったり会った。|まちなかで ふるい ゆうじんに ばったり あった。|Aku tidak sengaja bertemu teman lama di jalan.
+|ぴったり|pittari|pas / cocok sekali / tepat|Adverb / Noun with suru|この服はサイズがぴったりだ。|この ふくは さいずが ぴったりだ。|Ukuran baju ini pas sekali.
+|ぶつかる|butsukaru|menabrak / bertabrakan|Verb (Godan)|自転車が電柱にぶつかった。|じてんしゃが でんちゅうに ぶつかった。|Sepeda menabrak tiang listrik.
+|ぶつける|butsakeru|menabrakkan / membenturkan|Verb (Ichidan)|車を壁にぶつけてしまった。|くるまを かべに ぶつけて しまった。|Aku tidak sengaja menabrakkan mobil ke dinding.
+|まあ|maa|ya ampun / wah / yah|Expression|まあ、なんてきれいな花でしょう。|まあ、 なんて きれいな はなでしょう。|Ya ampun, alangkah indahnya bunga ini.
+|まさに|masani|tepat / benar-benar / pas|Adverb|これこそがまさに私が探していた本だ。|これこそが まさに わたしが さがしていた ほんだ。|Buku inilah yang benar-benar kucari.
+|まぶしい|mabushii|silau|Adjective (i)|朝の太陽がまぶしい。|あさの たいようが まぶしい。|Matahari pagi sangat silau.
+|と|to|dan / dengan|Conjunction|友達と図書館へ行った。|ともだちと としょかんへ いった。|Aku pergi ke perpustakaan dengan teman.
+|ほっと|hotto|merasa lega|Adverb / Noun with suru|試験が終わってほっとした。|しけんが おわって ほっと した。|Aku merasa lega setelah ujian selesai.
+ジーンズ|ジーンズ|jiinzu|celana jin|Katakana|新しい青いジーンズを買った。|あたらしい あおい ジーンズを かった。|Aku membeli celana jin biru baru.
+スイッチ|スイッチ|suicchi|sakelar|Katakana|部屋の電気のスイッチを押した。|へやの でんきの スイッチを おした。|Aku menekan sakelar lampu kamar.
+スープ|スープ|suupu|sup|Katakana|温かい野菜スープを作った。|あたたかい やさい スープを つくった。|Aku membuat sup sayur hangat.
+スケート|スケート|sukeeto|seluncur es / skate|Katakana|冬に湖でスケートをする。|ふゆに みずうみで スケートを する。|Bermain seluncur es di danau saat musim dingin.
+スター|スター|sutaa|bintang / selebriti|Katakana|彼は映画界の人気スターだ。|かれは えいがかいの にんき スターだ。|Dia adalah bintang populer di dunia perfilman.
+スタイル|スタイル|sutairu|gaya / bentuk tubuh|Katakana|彼女はスタイルがとても良い。|かのじょは スタイルが とても いい。|Dia memiliki bentuk tubuh yang sangat bagus.
+スタンド|スタンド|sutando|lampu meja / stan|Katakana|机の上に電気スタンドを置く。|つくえの うえに でんき スタンドを おく。|Meletakkan lampu meja di atas meja belajar.
+スピーチ|スピーチ|supiichi|pidato|Katakana|大勢の前でスピーチをした。|おおぜいの まえで スピーチを した。|Aku berpidato di depan banyak orang.
+セット|セット|setto|set / setelan|Katakana|ハンバーガーのセットを注文した。|ハンバーガーの セットを ちゅうもんした。|Aku memesan paket hamburger set.
+アイスクリーム|アイスクリーム|aisukuriimu|es krim|Katakana|暑い日はアイスクリームが食べたい。|あつい ひは アイスクリームが たべたい。|Aku ingin makan es krim di hari yang panas.
+アウト|アウト|auto|keluar / mati (olahraga)|Katakana|ボールがラインの外に出てアウトになった。|ボールが ラインの そとに でて アウトに なった。|Bola keluar garis dan dinyatakan keluar.
+アルバム|アルバム|arubamu|album|Katakana|家族の写真アルバムを眺める。|かぞくの しゃしん アルバムを ながめる。|Memandangi album foto keluarga.
+イメージ|イメージ|imeeji|citra / bayangan / imajinasi|Katakana|新しいデザインのイメージを描く。|あたらしい デザインの イメージを えがく。|Menggambar bayangan desain baru.
+インク|インク|inku|tinta|Katakana|プリンターのインクが切れた。|プリンターの インクが きれた。|Tinta printer habis.
+インタビュー|インタビュー|intabyuu|wawancara|Katakana|有名な作家にインタビューする。|ゆうめいな さっかに インタビュー する。|Mewawancarai penulis terkenal.
+ウイスキー|ウイスキー|uisukii|wiski|Katakana|彼はロックでウイスキーを飲む。|かれは ロックで ウイスキーを のむ。|Dia meminum wiski dengan es batu.
+エンジン|エンジン|enjin|mesin|Katakana|車のエンジンがかからない。|くるまの エンジンが かからない。|Mesin mobil tidak mau menyala.
+オフィス|オフィス|ofisu|kantor|Katakana|東京のオフィスで働いている。|とうきょうの オフィスで はたらいている。|Aku bekerja di kantor Tokyo.
+カー|カー|kaa|mobil|Katakana|パトロールカーが通り過ぎた。|パトロールカーが とおりすぎた。|Mobil patroli lewat.
+カード|カード|kaado|kartu|Katakana|クレジットカードで支払う。|クレジットカードで しはらう。|Membayar dengan kartu kredit.
+キャプテン|キャプテン|kyaputen|kapten|Katakana|彼がサッカーチームのキャプテンだ。|かれが サッカーチームの キャプテンだ。|Dialah kapten tim sepak bola.
+クラシック|クラシック|kurashikku|klasik / musik klasik|Katakana|勉強するときはクラシックを聴く。|べんきょうする ときは クラシックを きく。|Mendengarkan musik klasik saat belajar.
+グラス|グラス|gurasu|gelas|Katakana|冷たい水をグラスに注いだ。|つめたい みずを グラスに そそいだ。|Menuangkan air dingin ke dalam gelas.
+グランド|グランド|gurando|lapangan / tanah|Katakana|放課後に学校のグランドで走る。|ほうかごに がっこうの グランドで はしる。|Berlari di lapangan sekolah setelah pulang sekolah.
+クリーム|クリーム|kuriimu|krim|Katakana|ケーキの上に生クリームをのせる。|ケーキの うえに なまクリームを のせる。|Menaruh krim segar di atas kue.
+グループ|グループ|guruupu|kelompok / grup|Katakana|４人のグループで旅行をする。|よにんの グループで りょこうを する。|Melakukan perjalanan dalam kelompok yang terdiri dari 4 orang.
+ケース|ケース|keesu|kotak / wadah / kasus|Katakana|眼鏡をケースに収納した。|めがねを ケースに しゅうのうした。|Menyimpan kacamata ke dalam kotaknya.
+コード|コード|koodo|kabel / kode|Katakana|パソコンの電源コードをつなぐ。|パソコンの でんげん コードを つなぐ。|Menghubungkan kabel daya laptop.
+サイン|サイン|sain|tanda tangan / isyarat|Katakana|契約書にサインをしてください。|けいやくしょに サインを してください。|Tolong beri tanda tangan pada dokumen kontrak.
+ママ|ママ|mama|mama / ibu|Katakana|幼い子がママの元へ走っていく。|おさない こが ママの もとへ はしっていく。|Anak kecil itu berlari ke arah mamanya.
+ミス|ミス|misu|kesalahan / kegagalan|Katakana|簡単な計算でミスをしてしまった。|かんたんな けいさんで ミスを して しまった。|Aku membuat kesalahan dalam perhitungan yang mudah.
+ミルク|ミルク|miruku|susu|Katakana|コーヒーに温かいミルクを入れる。|コーヒーに あたたかい ミルクを いれる。|Memasukkan susu hangat ke dalam kopi.
+メモ|メモ|memo|catatan|Katakana|話の内容を素早くメモした。|はなしの ないようを すばやく メモした。|Aku mencatat isi pembicaraan dengan cepat.
+メンバー|メンバー|menbaa|anggota|Katakana|彼もこのチームのメンバーです。|かれも この チームの メンバーです。|Dia juga merupakan anggota tim ini.
+ユーモア|ユーモア|yuumoa|humor / jenaka|Katakana|彼の話にはいつもユーモアがある。|かれの はなしには いつも ユーモアが ある。|Ceritanya selalu memiliki rasa humor.
+ヨーロッパ|ヨーロッパ|yoroppa|Eropa|Katakana|大学を卒業したらヨーロッパに行きたい。|だいがくを そつぎょうしたら ヨーロッパに いきたい。|Aku ingin pergi ke Eropa setelah lulus kuliah.
+ヨット|ヨット|yotto|kapal pesiar / yacht|Katakana|青い海にヨットが浮かんでいる。|あおい うみに ヨットが うかんでいる。|Kapal pesiar terapung di laut biru.
+ライター|ライター|raitaa|korek gas / penulis|Katakana|ライターでタバコに火をつける。|ライターで タバコに ひを つける。|Menyalakan rokok dengan korek gas.
+ラケット|ラケット|raketto|raket|Katakana|テニスのラケットを新調した。|テニスの ラケットを しんちょうした。|Aku membeli raket tenis baru.
+レベル|レベル|reberu|tingkat / level|Katakana|日本語のレベルが上がってきた。|にほんごの レベルが あがってきた。|Level bahasa Jepang-ku sudah meningkat.
+ロケット|ロケット|roketto|roket|Katakana|ロケットが宇宙に向かって打ち上げられた。|ロケットが うちゅうに むかって うちあげられた。|Roket diluncurkan menuju luar angkasa.
+ワイン|ワイン|wain|anggur (minuman)|Katakana|美味しい赤ワインで乾杯する。|おいしい あかワインで かんぱい する。|Bersulang dengan anggur merah yang lezat.
+アップ|アップ|appu|naik / meningkat|Katakana|給料がアップして嬉しい。|きゅうりょうが アップして うれしい。|Aku senang karena gajiku naik.
+アンケート|アンケート|ankeeto|kuesioner / angket|Katakana|アンケートにご協力ください。|アンケートに ごきょうりょく ください。|Tolong bantu mengisi kuesioner ini.
+コンテスト|コンテスト|kontesto|kontes / lomba|Katakana|スピーチコンテストで優勝した。|スピーチ コンテストで ゆうしょうした。|Aku menjuarai kontes pidato.
+センター|センター|sentaa|pusat / tengah|Katakana|ショッピングセンターへ買い物に行く。|ショッピング センターへ かいものに いく。|Pergi berbelanja ke pusat perbelanjaan.
+ソファー|ソファー|sofaa|sofa|Katakana|リビングのソファーでテレビを見る。|リビングの ソファーで テレビを みる。|Menonton TV di sofa ruang tamu.
+タイプライター|タイプライター|taipuraitaa|mesin tik|Katakana|昔祖父はタイプライターを使っていた。|むかし そふは タイプライターを つかっていた。|Dulu kakek menggunakan mesin tik.
+ダイヤ|ダイヤ|daiya|jadwal kereta / berlian|Katakana|電車のダイヤが乱れている。|でんしゃの ダイヤが みだれている。|Jadwal kereta sedang kacau.
+タオル|タオル|taoru|handuk|Katakana|お風呂上がりにタオルで体を拭く。|おふろあがりに タオルで からだを ふく。|Mengeringkan tubuh dengan handuk setelah mandi.
+ダンス|ダンス|dansu|tarian / berdansa|Katakana|放課後にダンスを練習する。|ほうかごに ダンスを れんしゅう する。|Berlatih menari setelah pulang sekolah.
+チーズ|チーズ|chiizu|keju|Katakana|ピザの上にチーズをたっぷりかける。|ピザの うえに チーズを たっぷり かける。|Menaburkan banyak keju di atas pizza.
+チャンス|チャンス|chansu|kesempatan / peluang|Katakana|これが留学のいいチャンスだ。|これが りゅうがくの いい チャンスだ。|Ini adalah kesempatan bagus untuk belajar di luar negeri.
+デート|デート|deeto|kencan|Katakana|週末に彼女とデートする。|しゅうまつに かのじょと デート する。|Kencan dengan pacar di akhir pekan.
+デモ|デモ|demo|demo / demonstrasi|Katakana|駅前で抗議のデモが行われている。|えきまえで こうぎの デモが おこなわれている。|Demonstrasi protes sedang berlangsung di depan stasiun.
+テント|テント|tento|tenda|Katakana|山に登ってテントを張った。|やまに のぼって テントを はった。|Mendaki gunung lalu mendirikan tenda.
+トップ|トップ|toppu|teratas / puncak|Katakana|彼はクラスでトップの成績だ。|かれは クラスで トップの せいせきだ。|Dia memiliki nilai teratas di kelas.
+ドライブ|ドライブ|doraibu|berkendara / menyetir|Katakana|天気がいいのでドライブに行く。|てんきが いいので ドライブに いく。|Pergi berkendara karena cuacanya bagus.
+トラック|トラック|torakku|truk / lintasan|Katakana|大型のトラックが道路を通る。|おおがたの トラックが どうろを とおる。|Truk ukuran besar melewati jalanan.
+トランプ|トランプ|torampu|kartu remi|Katakana|友達とトランプで遊んだ。|ともだちと トランプで あそんだ。|Bermain kartu remi bersama teman-teman.
+トレーニング|トレーニング|toreeningu|latihan / training|Katakana|毎日ジムでトレーニングしている。|まいにち ジムで トレーニング している。|Berlatih di gym setiap hari.
+ドレス|ドレス|doresu|gaun|Katakana|パーティーのために赤いドレスを着た。|パーティーの ために あかい ドレスを きた。|Memakai gaun merah untuk pesta.
+トン|トン|ton|ton (satuan berat)|Katakana|この荷物は重さが３トンある。|この にもつは おもさが さんトン ある。|Barang ini memiliki berat 3 ton.
+トンネル|トンネル|tonneru|terowongan|Katakana|暗いトンネルを車で通り抜けた。|くらい トンネルを くるまで とおりぬけた。|Melewati terowongan gelap dengan mobil.
+ノー|ノー|noo|tidak / no|Katakana|嫌ならはっきりとノーと言いなさい。|いやなら はっきりと ノーと いいなさい。|Katakan tidak dengan jelas jika kamu tidak suka.
+ノック|ノック|nokku|ketukan pintu / mengetuk|Katakana|ドアを３回ノックした。|ドアを さんかい ノックした。|Aku mengetuk pintu tiga kali.
+パーセント|パーセント|paasento|persen|Katakana|スマートフォンの充電が残り１０パーセントだ。|スマートフォンの じゅうでんが のこり じゅっパーセントだ。|Daya baterai ponsel tersisa 10 persen.
+バイオリン|バイオリン|baiorin|biola|Katakana|彼は子供の頃からバイオリンを習っている。|かれは こどもの ころから バイオリンを ならっている。|Dia belajar biola sejak kecil.
+パイプ|パイプ|paipu|pipa|Katakana|水道のパイプから水が漏れている。|すいどうの パイプから みずが もれている。|Air bocor dari pipa saluran air.
+パイロット|パイロット|pairotto|pilot|Katakana|彼の夢は旅客機のパイロットになることだ。|かれの ゆめは りょかくきの パイロットに なることだ。|Impiannya adalah menjadi pilot pesawat penumpang.
+パス|パス|pasu|lulus / mengoper / pass|Katakana|試験に合格して次の段階にパスした。|しけんに ごうかくして つぎの だんかいに パスした。|Lulus ujian dan melaju ke tahap berikutnya.
+バッグ|バッグ|baggu|tas|Katakana|買い物袋として大きなバッグを持つ。|かいものぶくろとして おおきな バッグを もつ。|Membawa tas besar untuk kantong belanja.
+バランス|バランス|baransu|keseimbangan|Katakana|仕事とプライベートのバランスを取る。|しごとと プライベートの バランスを とる。|Menjaga keseimbangan antara pekerjaan dan kehidupan pribadi.
+ハンサム|ハンサム|hansamu|tampan|Katakana|彼はハンサムで性格もいい。|かれは ハンサムで せいかくも いい。|Dia tampan dan kepribadiannya juga baik.
+ピクニック|ピクニック|pikunikku|piknik|Katakana|週末に家族と公園へピクニックに行く。|しゅうまつに かぞくと こうえんへ ピクニックに いく。|Pergi piknik ke taman bersama keluarga di akhir pekan.
+|ビデオ|bideo|video / kaset video|Katakana|子供の運動会のビデオを撮った。|こどもの うんどうかいの ビデオを とった。|Aku merekam video festival olahraga anak-anak.
+|ピン|pin|pin / peniti|Katakana|髪をピンで留める。|かみを ピンで とめる。|Menjepit rambut dengan pin.
+|プラス|purasu|tambah / plus / keuntungan|Katakana|この経験は将来のプラスになる。|この けいけんは しょうらいの プラスに なる。|Pengalaman ini akan menjadi keuntungan bagi masa depan.
+|プラスチック|purasuchikku|plastik|Katakana|この容器はプラスチック製です。|この ようきは プラスチックせい です。|Wadah ini terbuat dari plastik.
+|プラン|puran|rencana / program|Katakana|週末の旅行プランを立てる。|しゅうまつの りょこう プランを たてる。|Membuat rencana perjalanan untuk akhir pekan.
+|ブレーキ|bureeki|rem|Katakana|危ないと思って急ブレーキをかけた。|あぶないと おもって きゅう ブレーキを かけた。|Aku merasa bahaya lalu menginjak rem mendadak.
+|プロ|puro|profesional / ahli|Katakana|彼はプロのカメラマンだ。|かれは プロの カメラマンだ。|Dia adalah fotografer profesional.
+|ベルト|beruto|sabuk / ikat pinggang|Katakana|新しい革のベルトを購入した。|あたらしい かわの ベルトを こうにゅうした。|Aku membeli ikat pinggang kulit yang baru.
+|ペンキ|penki|cat|Katakana|壁に白いペンキを塗った。|かべに しろい ペンキを ぬった。|Mengecat dinding dengan cat putih.
+|ベンチ|benchi|bangku|Katakana|公園のベンチに座って本を読む。|こうえんの ベンチに すわって ほんを よむ。|Duduk di bangku taman sambil membaca buku.
+|ボーイ|booi|pelayan pria / porter|Katakana|ホテルのボーイに荷物を預けた。|ホテルの ボーイに にもつを あずけた。|Menyerahkan barang bawaan kepada pelayan hotel.
+|ボート|booto|perahu / bot|Katakana|公園の池でボートを漕いだ。|こうえんの いけで ボートを こいだ。|Mendayung perahu di kolam taman.
+|ホーム|hoomu|peron stasiun / rumah|Katakana|電車の到着をホームで待つ。|でんしゃの とうちゃくを ホームで まつ。|Menunggu kedatangan kereta di peron.
+|ボール|booru|bola|Katakana|子供たちがボールを投げて遊んでいる。|こどもたちが ボールを なげて あそんでいる。|Anak-anak sedang bermain dengan melempar bola.
+|マーケット|maaketto|pasar|Katakana|地元のスーパーマーケットで野菜を買う。|じもとの スーパーマーケットで やさいを かう。|Membeli sayur di supermarket lokal.
+|マイク|maiku|mikrofon|Katakana|司会者がマイクを持って話し始めた。|しかいしゃが マイクを もって はなしはじめた。|Pembawa acara mulai berbicara menggunakan mikrofon.
+|マイナス|mainasu|kurang / minus|Katakana|今朝の気温はマイナス３度だった。|けさの きおんは マイナス さんど だった。|Suhu udara pagi ini adalah minus 3 derajat.
+|マスター|masutaa|menguasai / pemilik bar|Katakana|英語の技術をマスターした。|えいごの ぎじゅつを マスター した。|Menguasai keterampilan bahasa Inggris.
+|ショック|shokku|syok / terkejut|Katakana|テストの結果を聞いてショックを受けた。|テストの けっかを きいて ショックを うけた。|Aku syok setelah mendengar hasil ujian.
+|ストレス|sutoresu|stres|Katakana|運動をしてストレスを解消する。|うんどうを して ストレスを かいしょう する。|Berolahraga untuk menghilangkan stres.
+|タイトル|taitoru|judul|Katakana|この小説のタイトルは何ですか。|この しょうせつの タイトルは なん ですか。|Apa judul dari novel ini?
+|ダウン|daun|turun / jatuh / pingsan|Katakana|風邪をひいてダウンしてしまった。|かぜを ひいて ダウン して しまった。|Aku pingsan karena terserang flu.
+|チャイム|chaimu|bel pintu / lonceng|Katakana|授業開始のチャイムが鳴った。|じゅぎょう かいしの チャイムが なった。|Bel tanda dimulainya pelajaran berbunyi.
+|デザイン|dezain|desain / rancangan|Katakana|この洋服のデザインが気に入った。|この ようふくの デザインが きにいった。|Aku menyukai desain baju barat ini.
+|マスコミ|masukomi|media massa|Katakana|その事件はマスコミで大きく報道された。|その じけんは マスコミで おおきく ほうどう された。|Kasus itu diberitakan secara besar-besaran di media massa.
+|マッサージ|massaaji|pijat / pijatan|Katakana|肩のマッサージをしてもらった。|かたの マッサージを してもらった。|Pundakku dipijat oleh seseorang.
+|メッセージ|messeeji|pesan|Katakana|友達からお祝いのメッセージが届いた。|ともだちから おいわいの メッセージが とどいた。|Pesan ucapan selamat dari teman telah tiba.
+|ラベル|raberu|label / merek|Katakana|ボトルに貼ってあるラベルをはがす。|ボトルに はって ある ラベルを はがす。|Melepas label yang tertempel pada botol.
+|ルール|ruuru|aturan|Katakana|ゲームのルールを説明します。|ゲームの ルールを せつめい します。|Saya akan menjelaskan aturan permainan ini.
+作法|さほう|sahou|tata krama / etiket / tata cara|Noun|茶道の作法を学ぶ。|さどうの さほうを まなぶ。|Mempelajari tata krama upacara minum teh.
+様々|さまざま|samazama|bermacam-macam / beragam|Adjective (na) / Noun|世界には様々な文化がある。|せかいには さまざまな ぶんかがある。|Di dunia ini terdapat berbagai macam budaya.
+冷ます|さます|samasu|mendinginkan|Verb (Godan)|熱いお茶を少し冷ましてから飲む。|あつい おちゃを すこし さましてから のむ。|Meminum teh panas setelah mendinginkannya sedikit.
+冷める|さめる|sameru|menjadi dingin / mereda|Verb (Ichidan)|スープが冷める前に食べてください。|スープが さめる まえに たべて ください。|Tolong makan supnya sebelum menjadi dingin.
+左右|さゆう|sayuu|kiri dan kanan / memengaruhi|Noun / Verb (Irregular)|道路を渡る時は左右を確認してください。|どうろを わたる ときは さゆうを かくにん してください。|Tolong periksa kiri dan kanan saat menyeberang jalan.
+皿|さら|sara|piring|Noun|夕食の後で皿を洗った。|ゆうしょくの あとで さらを あらった。|Aku mencuci piring setelah makan malam.
+去る|さる|saru|pergi / meninggalkan|Verb (Godan)|台風が去って青空が広がった。|たいふうが さって あおぞらが ひろがった。|Topan telah pergi dan langit biru membentang luas.
+騒ぎ|さわぎ|sawagi|keributan / kehebohan / kekacauan|Noun|外で大きな騒ぎが聞こえる。|そとで おおきな さわぎが きこえる。|Terdengar keributan besar di luar.
+参考|さんこう|sankou|referensi / rujukan|Noun / Verb (Irregular)|先輩の意見を参考にする。|せんぱいの いけんを さんこうに する。|Menjadikan pendapat senior sebagai referensi.
+賛成|さんせい|sansei|persetujuan / setuju|Noun / Verb (Irregular)|彼の提案に全員が賛成した。|かれの ていあんに ぜんいんが さんせい した。|Semua orang setuju dengan usulannya.
+酸素|さんそ|sanso|oksigen|Noun|人間は酸素がなければ生きられない。|にんげんは さんそが なければ いきられない。|Manusia tidak bisa hidup tanpa oksigen.
+幸せ|しあわせ|shiawase|kebahagiaan|Noun / Adjective (na)|家族みんなが健康で幸せだ。|かぞく みんなが けんこうで しあわせだ。|Seluruh keluarga sehat dan bahagia.
+ジェット機|ジェットき|jettoki|pesawat jet|Noun|ジェット機が空を速く飛んでいった。|ジェットきが そらを はやく とんでいった。|Pesawat jet terbang cepat melewati langit.
+四角|しかく|shikaku|segi empat|Noun / Adjective (na)|四角い箱にプレゼントを入れる。|しかくい はこに プレゼントを いれる。|Memasukkan hadiah ke dalam kotak segi empat.
+直に|じかに|jikani|secara langsung|Adverb|本人から直に理由を聞きたい。|ほんにんから じかに りゆうを ききたい。|Aku ingin mendengar alasannya langsung dari orang yang bersangkutan.
+四季|しき|shiki|empat musim|Noun|日本には美しい四季がある。|にほんには うつくしい しきがある。|Jepang memiliki empat musim yang indah.
+直|じき|jiki|segera / langsung|Noun / Adverb|雨が止んで、直に晴れるだろう。|あめが やんで、 じきに はれるだろう。|Hujan reda, dan akan segera cerah.
+支給|しきゅう|shikyuu|pembayaran / pemberian tunjangan|Noun / Verb (Irregular)|会社から交通費が支給される。|かいしゃから こうつうひが しきゅう される。|Biaya transportasi dibayarkan oleh perusahaan.
+刺激|しげき|shigeki|rangsangan / stimulasi / dorongan|Noun / Verb (Irregular)|この映画は子供には刺激が強すぎる。|この えいがは こどもには しげきが つよすぎる。|Film ini rangsangannya terlalu kuat untuk anak-anak.
+自殺|じさつ|jisatsu|bunuh diri|Noun / Verb (Irregular)|自殺を防ぐための相談窓口がある。|じさつを ふせぐ ための そうだん まどぐちが ある。|Ada layanan konsultasi untuk mencegah bunuh diri.
+事情|じじょう|jijou|keadaan / situasi / alasan|Noun|彼には彼なりの事情がある。|かれには かれなりの じじょうが ある。|Dia memiliki keadaannya sendiri.
+詩人|しじん|shijin|penyair / pujangga|Noun|彼は有名なロマン派の詩人だ。|かれは ゆうめいな ロマンはの しじんだ。|Dia adalah penyair aliran romantis yang terkenal.
+沈む|しずむ|shizumu|tenggelam / terbenam|Verb (Godan)|太陽が地平線に沈んでいく。|たいようが ちへいせんに しずんでいく。|Matahari terbenam di garis cakrawala.
+思想|しそう|shisou|pemikiran / ideologi / gagasan|Noun|彼の思想は多くの人に影響を与えた。|かれの しそうは おおくの ひとに えいきょうを あたえた。|Pemikirannya memberikan pengaruh kepada banyak orang.
+舌|した|shita|lidah|Noun|熱いスープで舌を火傷した。|あつい スープで したを やけどした。|Lidahku terbakar karena sup yang panas.
+次第|しだい|shidai|segera setelah / tergantung pada / keadaan|Noun / Conjunction|準備ができ次第、出発します。|じゅんびが でき しだい、 しゅっぱつ します。|Segera setelah persiapan selesai, kita akan berangkat.
+質|しつ|shitsu|kualitas / mutu / sifat|Noun|量より質を重視する。|りょうより しつを じゅうし する。|Mengutamakan kualitas daripada kuantitas.
+失業|しつぎょう|shitsugyou|pengangguran|Noun / Verb (Irregular)|工場が閉鎖され、多くの人が失業した。|こうじょうが へいさ され、 おおくにの ひとが しつぎょう した。|Pabrik ditutup, dan banyak orang menjadi pengangguran.
+湿気|しっけ|shikke|kelembapan|Noun|梅雨の時期は湿気が多い。|つゆの じきは しっけが おおい。|Saat musim hujan kelembapannya tinggi.
+実行|じっこう|jikkou|pelaksanaan / praktik / realisasi|Noun / Verb (Irregular)|計画をすぐに実行に移す。|けいかくを すぐに じっこうに うつす。|Segera memindahkan rencana ke dalam tindakan nyata.
+実際|じっさい|jissai|kenyataan / sebenarnya|Noun / Adverb|実際に見てみないと信じられない。|じっさいに みて みないと しんじられない。|Aku tidak bisa mempercayainya sebelum melihatnya secara langsung.
+実力|じつりょく|jitsuryoku|kemampuan asli / kekuatan nyata|Noun|試合で自分の実力を十分に発揮した。|しあいで じぶんの じつりょくを じゅうぶんに はっき した。|Aku benar-benar mengerahkan kemampuan asliku dalam pertandingan.
+支店|してん|shiten|kantor cabang / cabang toko|Noun|大阪の支店に異動になりました。|おおさかの してんに いどうに なりました。|Saya dipindahkan ke kantor cabang Osaka.
+指導|しどう|shidou|bimbingan / arahan / pelatihan|Noun / Verb (Irregular)|先生の指導の下で研究を行う。|せんせいの しどうの もとで けんきゅうを おこなう。|Melakukan penelitian di bawah bimbingan guru.
+自動|じどう|jidou|otomatis|Noun|このドアは自動で開閉します。|この ドアは じどうで かいへい します。|Pintu ini membuka dan menutup secara otomatis.
+品|しな|shina|barang / produk / benda|Noun|デパートには多くの品が並んでいる。|デパートには おおくの しなが ならんでいる。|Banyak barang yang berjejer di dalam toserba.
+支配|しはい|shihai|pengendalian / dominasi / kekuasaan|Noun / Verb (Irregular)|感情に支配されてはいけない。|かんじょうに しはい されては いけない。|Tidak boleh dikendalikan oleh emosi.
+芝居|しばい|shibai|pertunjukan drama / sandiwara / lakon|Noun|彼の芝居はとても感動的だった。|かれの しばいは とても かんどうてき だった。|Pertunjukan sandiwaranya sangat mengharukan.
+芝生|芝生|shibafu|halaman rumput|Noun|公園の芝生の上で寝転ぶ。|こうえんの しばふの うえで ねころぶ。|Berbaring di atas halaman rumput taman.
+支払|しはらい|shiharai|pembayaran|Noun|お支払いは現金ですか、カードですか。|おしはらいは げんきんですか、 カードですか。|Apakah pembayarannya tunai atau kartu?
+支払う|しはらう|shiharau|membayar|Verb (Godan)|レジで料金を支払った。|レジで りょうきんを しはらった。|Aku membayar biayanya di kasir.
+死亡|しぼう|shibou|kematian / wafat|Noun / Verb (Irregular)|事故による死亡者数はゼロだった。|じこによる しぼうしゃすうは ゼロだった。|Jumlah korban wafat akibat kecelakaan adalah nol.
+資本|しほん|shihon|modal / kapital / dana|Noun|会社を設立するために資本を集める。|かいしゃを せつりつ する ために しほんを あつめる。|Mengumpulkan modal untuk mendirikan perusahaan.
+姉妹|しまい|shimai|saudara perempuan / bersaudari|Noun|彼女たちは顔がよく似ている姉妹だ。|かのじょたちは かおが よく にている しまいだ。|Mereka adalah bersaudari yang wajahnya sangat mirip.
+自慢|じまん|jiman|kebanggaan / membanggakan / pamer|Noun / Verb (Irregular)|彼はいつも自分の子供の自慢ばかりしている。|かれは いつも じぶんの こどもの じまんばかり している。|Dia selalu saja membanggakan anaknya sendiri.
+下|しも|shimo|bagian bawah / hilir|Noun|川の下流には美しい町がある。|かわの かりゅうには うつくしい まちがある。|Di hilir sungai terdapat kota yang indah.
+週|しゅう|shuu|minggu|Noun / Suffix|今週は仕事がとても忙しい。|こんしゅうは しごとが とても いそがしい。|Minggu ini pekerjaan sangat sibuk.
+銃|じゅう|juu|senjata api / senapan / pistol|Noun|犯人は銃を警察に向けて撃った。|はんにんは じゅうを けいさつに むけて うった。|Pelaku menembakkan senapan ke arah polisi.
+周囲|しゅうい|shuui|sekeliling / sekitar / lingkar|Noun|周囲の状況をよく確認する。|しゅういの じょうきょうを よく かくにん する。|Memeriksa situasi sekeliling dengan baik.
+収穫|しゅうかく|shuukaku|panen / memanen|Noun / Verb (Irregular)|秋は米の収穫の時期です。|あきは こめの しゅうかくの じきです。|Musim gugur adalah waktu panen padi.
+宗教|しゅうきょう|shuukyou|agama / kepercayaan|Noun|日本には様々な宗教が存在する。|にほんには さまざまな しゅうきょうが そんざい する。|Di Jepang terdapat berbagai macam agama.
+重視|じゅうし|juushi|mengutamakan / mementingkan / memandang penting|Noun / Verb (Irregular)|わが社では経験を重視して採用する。|わがしゃでは けいけんを じゅうし して さいよう する。|Perusahaan kami merekrut dengan mementingkan pengalaman.
+修正|しゅうせい|shuusei|koreksi / revisi / perbaikan|Noun / Verb (Irregular)|計画の間違いを修正した。|けいかくの まちがいを しゅうせい した。|Aku merevisi kesalahan dalam rencana.
+重大|じゅうだい|juudai|serius / penting / besar|Adjective (na) / Noun|これは会社にとって重大な問題だ。|これは かいしゃにとって じゅうだいな もんだいだ。|Ini adalah masalah yang serius bagi perusahaan.
+住宅|じゅうたく|juutaku|perumahan / tempat tinggal|Noun|駅の近くに新しい住宅が建てられた。|えきの ちかくに あたらしい じゅうたくが たてられた。|Perumahan baru dibangun di dekat stasiun.
+集団|しゅうだん|shuudan|kelompok / grup / massa|Noun|子供たちが集団で登校している。|こどもたちが しゅうだんで とうこう している。|Anak-anak pergi ke sekolah dalam kelompok.
+集中|しゅうちゅう|shuuchuu|konsentrasi / memusatkan|Noun / Verb (Irregular)|雑音が多くて勉強に集中できない。|ざつおんが おおくて べんきょうに しゅうちゅう できない。|Banyak suara bising sehingga aku tidak bisa konsentrasi belajar.
+主義|しゅぎ|shugi|prinsip / paham / doktrin|Noun|彼は民主主義の理念を支持している。|かれは みんしゅしゅぎの りねんを しじ している。|Dia mendukung ideologi demokrasi.
+宿泊|しゅくはく|shukuhaku|menginap / pondokan|Noun / Verb (Irregular)|京都のホテルに３泊宿泊する。|きょうとの ホテルに さんぱく しゅくはく する。|Menginap selama 3 malam di hotel Kyoto.
+首相|しゅしょう|shushou|perdana menteri|Noun|日本の首相が外国を訪問した。|にほんの しゅしょうが がいこくを ほうもん した。|Perdana menteri Jepang mengunjungi negara asing.
+手段|しゅだん|shudan|cara / sarana / metode|Noun|目的を達成するためにあらゆる手段を用いる。|もくてきを たっせい する ために あらゆる しゅだんを もちいる。|Menggunakan segala cara untuk mencapai tujuan.
+出場|しゅつじょう|shutsujou|tampil / berpartisipasi (dalam lomba/acara)|Noun / Verb (Irregular)|彼はオリンピックに出場することが決まった。|かれは オリンピックに しゅつじょう することが きまった。|Dia diputuskan akan berpartisipasi dalam Olimpiade.
+出身|しゅっしん|shusshin|asal (daerah/sekolah) / kelahiran|Noun|私はインドネシアのジャカルタ出身です。|わたしは インドネシアの ジャカルタ しゅっしん です。|Saya berasal dari Jakarta, Indonesia.
+出版|しゅっぱん|shuppan|penerbitan / publikasi / menerbitkan|Noun / Verb (Irregular)|来月、彼の新しい小説が出版される。|らいげつ、 かれの あたらしい しょうせつが しゅっぱん される。|Novel barunya akan diterbitkan bulan depan.
+首都|しゅと|shuto|ibu kota|Noun|日本の首都は東京です。|にほんの しゅとは とうきょう です。|Ibu kota Jepang adalah Tokyo.
+主婦|しゅふ|shufu|ibu rumah tangga|Noun|彼女は主婦として毎日忙しく働いている。|かのjoは しゅふとして まいにち いそがしく はたらいている。|Dia bekerja sibuk setiap hari sebagai ibu rumah tangga.
+主要|しゅよう|shuyou|utama / penting / pokok|Adjective (na) / Noun|これがこの都市の主要な産業です。|これが この としの しゅような さんぎょう です。|Inilah industri utama dari kota ini.
+種類|しゅるい|shurui|jenis / macam / kategori|Noun|店にはたくさんの種類の果物がある。|みせには たくさんの しゅるいの くだものがある。|Di toko ada banyak jenis buah-buahan.
+順|じゅん|jun|urutan / giliran|Noun / Suffix|背の高い順に並んでください。|せの たかい じゅんに ならんで ください。|Tolong berbaris berdasarkan urutan tinggi badan.
+瞬間|しゅんかん|shunkan|seketika / sesaat / momen|Noun / Adverb|その瞬間、電気が消えた。|その しゅんかん、 でんきが きえた。|Pada saat itu juga, lampu padam.
+順調|じゅんちょう|junchou|lancar / baik / tanpa kendala|Adjective (na) / Noun|仕事はすべて順調に進んでいます。|しごとは すべて じゅんちょうに すすんでいます。|Pekerjaan semuanya berjalan dengan lancar.
+使用|しよう|shiyou|penggunaan / pemakaian / menggunakan|Noun / Verb (Irregular)|この部屋は会議のために使用されています。|この へやは かいぎの ために しよう されています。|Ruangan ini sedang digunakan untuk rapat.
+小|しょう|shou|kecil|Prefix / Noun|小サイズの商品を注文する。|しょうサイズの しょうひんを ちゅうもん する。|Memesan produk dengan ukuran kecil.
+上|じょう|jou|volume pertama / kualitas unggul / di atas|Noun / Suffix|歴史上、これは非常に珍しい事件だ。|れきしじょう、 これは ひじょうに めずらしい じけんだ。|Secara sejarah, ini adalah kasus yang sangat langka.
+障害|しょうがい|shougai|hambatan / rintangan / gangguan / disabilitas|Noun|どんな障害も乗り越えてみせる。|どんな しょうがいも のりこえて みせる。|Aku akan menunjukkan bisa melewati rintangan apa pun.
+乗客|じょうきゃく|joukyaku|penumpang|Noun|電車の乗客が全員降りた。|でんしゃの じょうきゃくが ぜんいん おりた。|Semua penumpang kereta telah turun.
+正午|しょうご|shougo|tengah hari / jam 12 siang|Noun|正午にチャイムが鳴り響く。|しょうごに チャイムが なりひびく。|Bel berbunyi keras di tengah hari.
+常識|じょうしき|joushiki|akal sehat / pengetahuan umum / kepatutan|Noun|挨拶をすることは社会人の常識だ。|あいさつを することは しゃかいじんの じょうしきだ。|Menyapa adalah hal yang wajar bagi anggota masyarakat.
+少女|しょうじょ|shoujo|gadis muda / anak perempuan|Noun|赤い帽子をかぶった少女を見かけた。|あかい ぼうしを かぶった しょうじょを みかけた。|Aku melihat seorang anak perempuan yang memakai topi merah.
+少々|しょうしょう|shoushou|sedikit / sebentar (sopan)|Adverb / Noun|恐れ入りますが、少々お待ちください。|おそれいりますが、 しょうしょう おまち ください。|Mohon maaf, tolong tunggu sebentar.
+生じる|しょうじる|shoujiru|terjadi / muncul / timbul|Verb (Ichidan)|二人の間に誤解が生じた。|ふたりの あいだに ごかいが しょうじた。|Telah timbul kesalahpahaman di antara mereka berdua.
+状態|じょうたい|joutai|keadaan / kondisi / situasi|Noun|パソコンの動作状態を確認する。|パソコンの どうさ じょうたいを かくにん する。|Memeriksa kondisi pengoperasian laptop.
+上達|じょうたつ|joutatsu|kemajuan / peningkatan (keterampilan)|Noun / Verb (Irregular)|日本語が上達して嬉しい。|にほんごが じょうたつ して うれしい。|Aku senang karena bahasa Jepang-ku meningkat.
+冗談|じょうだん|joudan|candaan / lelucon / gurauan|Noun|彼はよく面白い冗談を言う。|かれは よく おもしろい じょうだんを いう。|Dia sering mengucapkan candaan yang menarik.
+上等|じょうとう|joutou|kelas atas / kualitas unggul / sangat baik|Adjective (na) / Noun|これは上等なワインですね。|これは じょうとうな ワイン ですね。|Ini adalah anggur kelas atas ya.
+衝突|しょうとつ|shoutotsu|tabrakan / bentrokan / perselisihan|Noun / Verb (Irregular)|車と自転車が衝突した。|くるまと じてんしゃが しょうとつ した。|Mobil dan sepeda bertabrakan.
+少年|しょうねん|shounen|anak laki-laki / pemuda|Noun|少年たちは公園でサッカーをしている。|しょうねんたちは こうえんで サッカーを している。|Anak-anak laki-laki sedang bermain bola di taman.
+商売|しょうばい|shoubai|bisnis / perdagangan / usaha dagang|Noun / Verb (Irregular)|彼は新しい商売を始めた。|かれは あたらしい しょうばいを はじめた。|Dia memulai bisnis dagang yang baru.
+商品|しょうひん|shouhin|barang dagangan / produk / komoditas|Noun|この商品は非常に人気があります。|この しょうひんは ひじょうに にんきが あります。|Produk ini memiliki kepopuleran yang sangat tinggi.
+消防|しょうぼう|shoubou|pemadam kebakaran|Noun|火災が発生し、消防車が出動した。|かさいが はっせい し、 しょうぼうしゃが しゅつどう した。|Kebakaran terjadi, dan mobil pemadam kebakaran dikerahkan.
+省略|しょうりゃく|shouryaku|penyingkatan / pemotongan / kelalaian|Noun / Verb (Irregular)|詳しい説明は省略します。|くわしい せつめいは しょうりゃく します。|Penjelasan detailnya akan disingkat.
+女王|じょおう|joou|ratu|Noun|イギリスの女王がスピーチを行った。|イギリスの じょおうが スピーチを おこなった。|Ratu Inggris menyampaikan pidato.
+職|しょく|shoku|pekerjaan / jabatan / karier|Noun|卒業後、新しい職を探す。|そつぎょうご、 あたらしい しょくを さがす。|Mencari pekerjaan baru setelah lulus kuliah.
+食卓|しょくたく|shokutaku|meja makan|Noun|家族で食卓を囲んで夕食を食べる。|かぞくで しょくたくを かこんで ゆうしょくを たべる。|Keluarga berkumpul mengelilingi meja makan untuk makan malam.
+食品|しょくひん|shokuhin|bahan makanan / produk makanan|Noun|健康食品に関心を持つ。|けんこう しょくひんに かんしんを もつ。|Memiliki minat pada produk makanan kesehatan.
+食物|しょくもつ|shokumotsu|makanan / zat makanan|Noun|鳥はいろいろな食物を食べる。|とりは いろいろな しょくもつを たべる。|Burung memakan berbagai macam makanan.
+食料|しょくりょう|shokuryou|bahan pangan / makanan|Noun|被災地に食料を支援する。|ひさいちに しょくりょうを しえん する。|Menyumbang bahan pangan ke daerah bencana.
+書斎|しょさい|shosai|ruang belajar / perpustakaan pribadi|Noun|父は書斎にこもって本を読んでいる。|ちちは しょさいに こもって ほんを よんでいる。|Ayah sedang membaca buku mengurung diri di ruang belajar.
+女子|じょし|joshi|anak perempuan / wanita|Noun|女子学生の割合が増えている。|じょしがくせいの わりあいが ふえている。|Rasio siswa perempuan sedang bertambah.
+助手|じょしゅ|joshu|asisten / pembantu|Noun|教授の助手を務めている。|きょうじゅの じょしゅを つとめている。|Menjabat sebagai asisten profesor.
+署名|しょめい|shomei|tanda tangan / membubuhi tanda tangan|Noun / Verb (Irregular)|反対運動の署名を集める。|はんたいうんどうの しょめいを あつめる。|Mengumpulkan tanda tangan untuk gerakan penolakan.
+書物|しょもつ|shomotsu|buku / kitab / literatur|Noun|古い書物から歴史を学ぶ。|ふるい しょもつから れきしを まなぶ。|Mempelajari sejarah dari buku kuno.
+女優|じょゆう|joyuu|aktris / pemeran wanita|Noun|彼女は世界的に有名な女優だ。|かのじょは せかいてきに ゆうめいな じょゆうだ。|Dia adalah aktris yang terkenal secara global.
+処理|しょり|shori|pengolahan / pemrosesan / penanganan|Noun / Verb (Irregular)|大量のゴミを処理する。|たいりょうの ゴミを しょり する。|Mengolah sampah dalam jumlah besar.
+書類|しょるい|shorui|dokumen / berkas berkas resmi|Noun|机の上に書類を整理する。|つくえの うえに しょるいを せいり する。|Merapikan berkas-berkas dokumen di atas meja.
+知らせ|しらせ|shirase|kabar / pemberitahuan / pengumuman|Noun|合格の知らせが届いて安心した。|ごうかくの しらせが とどいて あんしん した。|Aku merasa lega karena kabar kelulusan telah tiba.
+尻|しり|shiri|pantat / bagian belakang|Noun|転んで尻を強く打った。|ころんで しりを つよく うった。|Aku jatuh dan membenturkan pantat dengan keras.
+知合い|しりあい|shiriai|kenalan|Noun|彼とは仕事の知合いです。|かれとは しごとの しりあい です。|Saya kenalan dengannya dalam pekerjaan.
+印|しるし|shirushi|tanda / simbol / bukti|Noun|カレンダーに予定の印をつける。|カレンダーに よていの しるしを つける。|Memberikan tanda jadwal pada kalender.
+城|しろ|shiro|istana / kastel|Noun|姫路城は日本で有名な城だ。|ひめじじょうは にほんで ゆうめいな しろだ。|Kastel Himeji adalah kastel yang terkenal di Jepang.
+進学|しんがく|shingaku|melanjutkan sekolah (ke jenjang lebih tinggi)|Noun / Verb (Irregular)|高校を卒業して大学に進学する。|こうこうを そつぎょう して だいがくに しんがく する。|Lulus dari SMA dan melanjutkan sekolah ke universitas.
+神経|しんけい|shinkei|saraf / kepekaan / urat|Noun|彼の発言は私の神経を逆なでした。|かれの はつげんは わたしの しんけいを さかなでした。|Pernyataan dia membuat saraf kepekaanku terganggu.
+信号|しんごう|shingou|lampu lalu lintas / sinyal|Noun|信号が赤から緑に変わった。|しんごうが あかから みどりに かわった。|Lampu lalu lintas berubah dari merah menjadi hijau.
+診察|しんさつ|shinsatsu|pemeriksaan medis (oleh dokter)|Noun / Verb (Irregular)|病院で医師の診察を受ける。|びょういんで いしの しんさつを うける。|Menerima pemeriksaan dokter di rumah sakit.
+人種|じんしゅ|jinshu|ras / golongan bangsa|Noun|私たちは人種に関わらず皆平等だ。|わたしたちは じんしゅに かかわらず みな びょうどうだ。|Kita semua setara tanpa memandang ras.
+人生|じんせい|jinsei|kehidupan (manusia)|Noun|人生には多くの困難がある。|じんせいには おおくの こんなんがある。|Dalam kehidupan terdapat banyak kesulitan.
+親戚|しんせき|shinseki|kerabat / saudara sepupu|Noun|お正月に親戚が集まった。|おしょうがつに しんせきが あつまった。|Kerabat berkumpul pada tahun baru.
+心臓|しんぞう|shinzou|jantung|Noun|緊張して心臓が激しく波打った。|きんちょうして しんぞうが はげしく なみうった。|Aku gugup dan jantungku berdegup kencang.
+身体|しんたい|shintai|tubuh / fisik / badan|Noun|規則正しい生活は身体に良い。|きそくただしい せいかつは しんたいに いい。|Kehidupan yang teratur baik bagi tubuh.
+審判|しんぱん|shinpan|wasit / juri / vonis / pengadilan|Noun / Verb (Irregular)|審判の判定に従わなければならない。|しんぱんの はんていに したがわなければ ならない。|Harus mematuhi keputusan wasit.
+人物|じんぶつ|jinbutsu|tokoh / karakter / figur / pribadi|Noun|彼は歴史上の重要な人物です。|かれは れきしじょうの じゅうような じんぶつ です。|Dia adalah tokoh penting dalam sejarah.
+|しまった|shimatta|aduh / celaka / gawat|Expression|しまった、電車のドアが閉まってしまった。|しまった、 でんしゃの ドアが しまって しまった。|Aduh, pintu kereta sudah terlanjur tertutup.
+|すみません|sumimasen|maaf / permisi|Expression|すみません、この近くに駅はありますか。|すみません、 この ちかくに えきは ありますか。|Permisi, apakah di dekat sini ada stasiun?
+|よろしく|yoroshiku|mohon bantuannya / salam|Expression|はじめまして、どうぞよろしくお願いします。|はじめまして、 どうぞ よろしく おねがい します。|Perkenalkan, mohon bantuannya.
+|はあ|haa|ya / oh / hah (hela napas)|Expression|はあ、今日も一日忙しかった。|はあ、 きょうも いちにち いそがしかった。|Haa, hari ini pun sibuk sepanjang hari.
+親友|しんゆう|shinyuu|sahabat / teman dekat|Noun|彼は私の高校時代からの親友だ。|かれは わたしの こうこう じだいからの しんゆうだ。|Dia adalah sahabatku sejak masa SMA.
+心理|しんり|shinri|mentalitas / keadaan psikologis|Noun|犯罪者の心理を分析する。|はんざいしゃの しんりを ぶんせき する。|Menganalisis keadaan psikologis pelaku kejahatan.
+人類|じんるい|jinrui|umat manusia / kemanusiaan|Noun|科学の発展は人類の未来を支える。|かがくの はってんは じんるいの みらいを ささえる。|Perkembangan sains menopang masa depan umat manusia.
+巣|す|su|sarang|Noun|鳥が木の上に巣を作っている。|とりが きの うえに すを つくっている。|Burung sedang membuat sarang di atas pohon.
+図|ず|zu|gambar / diagram / bagan|Noun|データを図で表すと分かりやすい。|データを ずで あらわすと わかりやすい。|Menyajikan data dengan diagram membuatnya mudah dipahami.
+水準|すいじゅん|suijun|tingkat / standar / level|Noun|この国の生活水準は上がっている。|この くにの せいかつ すいじゅんは あがっている。|Tingkat kehidupan di negara ini sedang meningkat.
+推薦|すいせん|suisen|rekomendasi / rujukan|Noun / Verb (Irregular)|先生が推薦してくれた本を読む。|せんせいが すいせん してくれた ほんを よむ。|Membaca buku yang direkomendasikan oleh guru.
+数|すう|suu|jumlah / angka / beberapa|Noun|クラスの生徒の数を数える。|クラスの せいとの かずを かぞえる。|Menghitung jumlah murid di kelas.
+数字|すうじ|suuji|angka / digit|Noun|パスワードを数字４桁で設定する。|パスワードを すうじ よんけたで せってい する。|Mengatur kata sandi dengan 4 digit angka.
+末|すえ|sue|akhir / ujung / masa depan|Noun|今月末までにレポートを提出してください。|こんげつすえまでに レポートを ていしゅつ してください。|Tolong kumpulkan laporan sebelum akhir bulan ini.
+姿|すがた|sugata|wujud / sosok / penampilan|Noun|彼女の後ろ姿を見送った。|かのじょの うしろすがたを みおくった。|Aku melepas kepergian sosok tubuhnya dari belakang.
+救う|すくう|sukuu|menyelamatkan / menolong|Verb (Godan)|川に落ちた子供を救った。|かわに おちた こどもを すくった。|Menyelamatkan anak yang jatuh ke sungai.
+優れる|すぐれる|sugureru|unggul / menonjol / luar biasa|Verb (Ichidan)|彼は優れた言語能力を持っている。|かれは すぐれた げんご のうりょくを もっている。|Dia memiliki kemampuan bahasa yang luar biasa unggul.
+少しも|すこしも|sukoshimo|sedikit pun (tidak)|Adverb|彼の話は少しも面白くなかった。|かれの はなしは すこしも おもしろくなかった。|Ceritanya sedikit pun tidak menarik.
+過ごす|すごす|sugosu|menghabiskan waktu / melewatkan|Verb (Godan)|休日は家族とのんびり過ごす。|きゅうじつは かぞくと のんびり すごす。|Menghabiskan hari libur dengan santai bersama keluarga.
+筋|すじ|suji|otot / serat / alur cerita|Noun|この映画の筋はとても面白い。|この えいがの すじは とても おもしろい。|Alur cerita film ini sangat menarik.
+頭痛|ずつう|zutsuu|sakit kepala|Noun|朝からひどい頭痛がする。|あさから ひどい ずつうが する。|Sakit kepala parah sejak pagi.
+全て|すべて|subete|semua / seluruhnya|Noun / Adverb|宿題は全て終わりました。|しゅくだいは すべて おわりました。|Pekerjaan rumah semuanya telah selesai.
+済ませる|すませる|sumaseru|menyelesaikan / membereskan|Verb (Ichidan)|出かける前に食事を済ませる。|でかける まえに しょくじを すませる。|Menyelesaikan makan sebelum pergi keluar.
+角|すみ|sumi|sudut / pojok|Noun|部屋の角にゴミ箱を置く。|へやの すみに ごみばこを おく。|Meletakkan tempat sampah di pojok ruangan.
+すれ違う|すれちがう|surechigau|berpapasan|Verb (Godan)|道で昔の友達とすれ違った。|みちで むかしの ともだちと すれちがった。|Aku berpapasan dengan teman lama di jalan.
+正|せい|sei|kebenaran / keadilan / positif|Noun / Prefix|数学で正の数を勉強する。|すうがくで せいの かずを べんきょう する。|Mempelajari bilangan positif dalam matematika.
+税|ぜい|zei|pajak|Noun / Suffix|日本の消費税は１０％です。|にほんの しょうひぜいは じっぱーせんと です。|Pajak konsumsi di Jepang adalah 10%.
+世紀|せいき|seiki|abad|Noun|私たちは２１世紀に生きている。|わたしたちは にじゅういっせいきに いきている。|Kita hidup di abad ke-21.
+請求|せいきゅう|seikyuu|tagihan / tuntutan / klaim|Noun / Verb (Irregular)|電気代の請求書が届いた。|でんきだいの せいきゅうしょが とどいた。|Surat tagihan biaya listrik telah tiba.
+制限|せいげん|seigen|pembatasan / batas / limit|Noun / Verb (Irregular)|この道路の制限速度は時速６０キロだ。|この どうろの せいげん そくどは じそく ろくじっきろ だ。|Batas kecepatan jalan ini adalah 60 km per jam.
+正式|せいしき|seishiki|resmi / formal|Adjective (na) / Noun|二人は正式に結婚を発表した。|ふたりは せいしきに けっこんを はっぴょう した。|Keduanya mengumumkan pernikahan secara resmi.
+性質|せいしつ|seishitsu|sifat / watak / karakter|Noun|水と油は異なる性質を持っている。|みずと あぶらは ことなる せいしつを もっている。|Air dan minyak memiliki sifat yang berbeda.
+精神|せいしん|seishin|mental / jiwa / roh / semangat|Noun|健全な身体に健全な精神が宿る。|けんぜんな しんたいに けんぜんな せいしんが やどる。|Di dalam tubuh yang sehat terdapat jiwa yang sehat.
+成人|せいじん|seijin|orang dewasa|Noun / Verb (Irregular)|日本では１８歳から成人とみなされる。|にほんでは じゅうはっさいから せいじんと みなされる。|Di Jepang dianggap sebagai orang dewasa mulai usia 18 tahun.
+贅沢|ぜいたく|zeitaku|kemewahan / boros|Adjective (na) / Noun|たまには贅沢なディナーを食べる。|たまには ぜいたくな ディナーを たべる。|Sekali-sekali makan makan malam yang mewah.
+成長|せいちょう|seichou|pertumbuhan / berkembang|Noun / Verb (Irregular)|子供の成長は非常に早い。|こどもの せいちょうは ひじょうに はやい。|Pertumbuhan anak-anak sangat cepat.
+青年|せいねん|seinen|pemuda / masa muda|Noun|青年たちが地域活動に参加する。|せいねんたちが ちいき かつどうに さんか する。|Para pemuda berpartisipasi dalam kegiatan wilayah setempat.
+生年月日|せいねんがっぴ|seinengappi|tanggal lahir|Noun|履歴書に生年月日を記入してください。|りれきしょに せいねんがっぴを きにゅう してください。|Tolong tuliskan tanggal lahir Anda pada daftar riwayat hidup.
+製品|せいひん|seihin|produk / barang buatan / barang jadi|Noun|この工場ではプラスチック製品を作っている。|この こうじょうでは プラスチック せいひんを つくっている。|Pabrik ini memproduksi produk-produk plastik.
+生命|せいめい|seimei|kehidupan / nyawa|Noun|地球上には豊かな生命が存在する。|ちきゅうじょうには ゆたかな せいめいが そんざい する。|Di atas bumi terdapat kehidupan yang melimpah.
+整理|せいり|seiri|pembenahan / pengaturan / merapikan|Noun / Verb (Irregular)|机の上の書類を整理した。|つくえの うえの しょるいを せいり した。|Merapikan berkas-berkas dokumen di atas meja.
+咳|せき|seki|batuk|Noun|風邪をひいて咳が止まらない。|かぜを ひいて せきが とまらない。|Terserang flu dan batuknya tidak berhenti.
+石炭|せきたん|sekitan|batu bara|Noun|昔は石炭が主な燃料だった。|むかしは せきたんが おもな ねんりょう だった。|Dahulu batu bara merupakan bahan bakar utama.
+石油|sekiyu|sekiyu|minyak bumi / minyak tanah|Noun|石油の価格が上昇している。|せきゆの かかくが じょうしょう している。|Harga minyak bumi sedang meningkat.
+世間|せけん|seken|masyarakat / dunia luar / publik|Noun|世間の目を気にする必要はない。|せけんの めを きにする ひつようは ない。|Tidak perlu memedulikan pandangan masyarakat.
+説|せつ|setsu|teori / pandangan / pendapat|Noun / Suffix|この歴史の出来事には諸説ある。|この れきしの できごとには しょせつ ある。|Peristiwa sejarah ini memiliki berbagai teori.
+設計|せっけい|sekkei|rancangan / desain / rancang bangun|Noun / Verb (Irregular)|建築家が新しいビルを設計する。|けんちくかが あたらしい ビルを せっけい する。|Arsitek merancang gedung baru.
+絶対|ぜったい|zettai|pasti / mutlak / sama sekali (dengan negatif)|Noun / Adverb|明日の約束は絶対に忘れません。|あしたの やくそくは ぜったいに わすれません。|Janji besok pasti tidak akan aku lupakan.
+愛|あい|ai|cinta|Noun|平和と愛のために戦う。|へいわと あいの ために たたかう。|Berjuang demi perdamaian dan cinta.
+愛情|あいじょう|aijou|kasih sayang / cinta|Noun|両親は子供に多くの愛情を注ぐ。|りょうしんは こどもに おおくの あいじょうを そそぐ。|Orang tua mencurahkan banyak kasih sayang kepada anaknya.
+合図|あいず|aizu|isyarat / tanda / sinyal|Noun / Verb (Irregular)|手を振って出発の合図をした。|てを ふって しゅっぱつの あいずを した。|Melambaikan tangan untuk memberi isyarat keberangkatan.
+愛する|あいする|aisuru|mencintai|Verb (Irregular)|家族を深く愛している。|かぞくを ふかく あいしている。|Sangat mencintai keluarga.
+相手|あいて|aite|lawan / pasangan / lawan bicara|Noun|テニスの相手を探している。|テニスの あいてを さがしている。|Sedang mencari pasangan untuk bermain tenis.
+遭う|あう|au|mengalami (musibah/kecelakaan)|Verb (Godan)|旅行中に盗難に遭った。|りょこうちゅうに とうなんに あった。|Mengalami kemalingan di tengah perjalanan.
+明かり|あかり|akari|cahaya / penerangan|Noun|部屋の明かりを消して眠る。|へやの あかりを けして ねむる。|Mematikan cahaya kamar lalu tidur.
+空き|あき|aki|kekosongan / lowongan / kamar kosong|Noun|駐車場にまだ空きがありますか。|ちゅうしゃじょうに まだ あきが ありますか。|Apakah di tempat parkir masih ada kekosongan?
+飽きる|あきる|akiru|bosan / jenuh|Verb (Ichidan)|毎日同じ料理ばかりで飽きてしまった。|まいにち おなじ りょうり ばかりで あきて しまった。|Aku jenuh karena setiap hari makanannya sama saja.
+握手|あくしゅ|akushu|jabat tangan / bersalaman|Noun / Verb (Irregular)|自己紹介の後に握手をした。|じこしょうかいの あとに あくしゅを した。|Bersalaman setelah memperkenalkan diri.
+悪魔|あくま|akuma|iblis / setan / roh jahat|Noun|彼はまるで悪魔のような笑顔を浮かべた。|かれは まるで あくまの ような えがおを うかべた。|Dia menunjukkan senyuman yang persis seperti iblis.
+預かる|あずかる|azukaru|menjaga / mengurus / dititipkan|Verb (Godan)|旅行中、友達のペットを預かった。|りょこうちゅう、 ともだちの ペットを あずかった。|Menjaga hewan peliharaan teman selama perjalanan.
+預ける|あずける|azukeru|menitipkan / mempercayakan|Verb (Ichidan)|銀行にお金を預ける。|ぎんこうに おかねを あずける。|Menitipkan uang di bank.
+汗|あせ|ase|keringat|Noun|走ったのでたくさん汗をかいた。|はしったので たくさん あせを かいた。|Aku mengeluarkan banyak keringat karena berlari.
+温かい|あたたかい|atatakai|hangat (untuk benda/makanan/perasaan)|Adjective (i)|温かいスープを飲んで温まる。|あたたかい スープを のんで あたたまる。|Meminum sup hangat untuk menghangatkan diri.
+暖まる|あたたまる|atatamaru|menjadi hangat (udara/ruangan/tubuh)|Verb (Godan)|ストーブのおかげで部屋が暖まった。|ストーブの おかげで へやが あたたまった。|Berkat kompor pemanas ruangan menjadi hangat.
+暖める|あたためる|atatameru|menghangatkan (udara/ruangan/benda)|Verb (Ichidan)|エアコンをつけて部屋を暖める。|エアコンを つけて へやを あたためる。|Menyalakan AC untuk menghangatkan ruangan.
+辺り|あたり|atari|sekitar / daerah sekeliling|Noun|この辺りは夜になると静かだ。|この あたりは よるに なると しずかだ。|Sekitar sini menjadi sunyi saat malam.
+当たり前|あたりまえ|atarimae|pantas / wajar / biasa / sewajarnya|Adjective (na) / Noun|嘘をついてはいけないのは当たり前だ。|うそを ついては いけないのは あたりまえだ。|Wajar saja jika tidak boleh berbohong.
+扱う|あつかう|atsukau|menangani / memperlakukan / mengurus|Verb (Godan)|壊れやすい物なので慎重に扱う。|こわれやすい ものなので しんちょうに あつかう。|Karena ini barang yang mudah pecah, perlakukan dengan hati-hati.
+集まり|あつまり|atsumari|perkumpulan / pertemuan / arisan|Noun|明日の集まりの場所はどこですか。|あしたの あつまりの ばしょは どこ ですか。|Di manakah tempat pertemuan besok?
+跡|あと|ato|bekas / jejak / peninggalan|Noun|砂浜に足跡が残っている。|すなはまに あしあとが のこっている。|Jejak kaki tersisa di pantai berpasir.
+穴|あな|ana|lubang|Noun|靴下に穴が開いてしまった。|くつしたに あなが あいて しまった。|Kaus kakiku sudah berlubang.
+油|あぶら|abura|minyak (makanan/masak/mesin)|Noun|フライパンに油をひく。|フライパンに あぶらを ひく。|Mengoleskan minyak pada wajan.
+誤り|あやまり|ayamari|kesalahan / kekeliruan|Noun|回答の誤りを訂正する。|かいとうの あやまりを ていせい する。|Memperbaiki kesalahan pada jawaban.
+粗|あら|ara|cacat / kelemahan / duri ikan / kesalahan orang|Noun|他人の粗を探すのは良くない。|たにんの あらを さがすのは よくない。|Mencari-cari kesalahan orang lain itu tidak baik.
+新た|あらた|arata|baru / segar / secara baru|Adjective (na)|新年を迎え、新たな気持ちでスタートする。|しんねんを むかえ、 あらたな きもちで スタート する。|Menyambut tahun baru, memulai dengan perasaan yang baru.
+現れ|あらわれ|araware|perwujudan / ekspresi / tanda|Noun|この行動は彼の優しさの現れだ。|この こうどうは かれの やさしさの あらわれだ。|Tindakan ini merupakan perwujudan dari kebaikannya.
+現れる|あらわれる|arawareru|muncul / menampakkan diri|Verb (Ichidan)|霧の中から人影が現れた。|きりの なかから ひとかげが あらわれた。|Sosok bayangan orang muncul dari dalam kabut.
+有る|ある|aru|ada / memiliki (untuk benda mati/abstraksi)|Verb (Godan)|この計画には問題が有る。|この けいかくには もんだいが ある。|Pada rencana ini ada masalah.
+泡|あわ|awa|busa / gelembung|Noun|石鹸をよく泡立てて顔を洗う。|せっけんを よく あわだてて かおを あらう。|Mencuci muka dengan membusakan sabun dengan baik.
+案|あん|an|rencana / usulan / ide / rancangan|Noun / Suffix|新しいイベントの案を提出する。|あたらしい イベントの あんを ていしゅつ する。|Mengajukan usulan acara yang baru.
+暗記|あんき|anki|menghafal / hafalan|Noun / Verb (Irregular)|英単語を毎日１０個暗記する。|えいたんごを まいにち じっこ あんき する。|Menghafal 10 kosakata bahasa Inggris setiap hari.
+胃|い|i|lambung / perut|Noun|ストレスで胃が痛くなる。|ストレスで いが いたくなる。|Lambung menjadi sakit karena stres.
+委員|いいん|iin|anggota komite / anggota panitia|Noun|クラスの図書委員に選ばれた。|クラスの としょ いいんに えらばれた。|Terpilih menjadi anggota komite perpustakaan kelas.
+意外|いがい|igai|tak terduga / tak disangka / di luar dugaan|Adjective (na) / Noun|彼の答えは非常に意外だった。|かれの こたえは ひじょうに いがい だった。|Jawabannya sangat tidak terduga.
+行き|いき|iki|tujuan / pergi ke / arah|Noun / Suffix|この電車は東京行きです。|この でんしゃは とうきょう いき です。|Kereta ini bertujuan ke Tokyo.
+勢い|いきおい|ikioi|kekuatan / energi / momentum / gairah|Noun / Adverb|水が強い勢いで噴き出している。|みずが つよい いきおいで ふきだしている。|Air menyembur keluar dengan kekuatan yang kuat.
+生き物|いきもの|ikimono|makhluk hidup|Noun|川にはたくさんの生き物が住んでいる。|かわには たくさんの いきものが すんでいる。|Di sungai hidup banyak makhluk hidup.
+維持|いじ|iji|pemeliharaan / mempertahankan / menjaga|Noun / Verb (Irregular)|健康的な体重を維持する。|けんこうてきな たいじゅうを いじ する。|Mempertahankan berat badan yang sehat.
+意識|いしき|ishiki|kesadaran / sadar akan|Noun / Verb (Irregular)|事故の後、彼は意識を取り戻した。|じこの あと、 かれは いしきを とりもどした。|Setelah kecelakaan, dia mendapatkan kembali kesadarannya.
+異常|いじょう|ijou|kejanggalan / tidak normal / kelainan|Adjective (na) / Noun|機械の動作に異常は見られない。|きかいの どうさに いじょうは みられない。|Tidak terlihat adanya kejanggalan pada pengoperasian mesin.
+意地悪|いじわる|ijiwaru|jahat / usil / tega / dengki|Adjective (na) / Noun|意地悪な質問に困ってしまった。|いじわるな しつもんに こまって しまった。|Aku kesulitan karena pertanyaan yang usil.
+泉|いずみ|izumi|mata air / pancuran air|Noun|森の奥に美しい泉を見つけた。|もりの おくに うつくしい いずみを みつけた。|Menemukan mata air yang indah di kedalaman hutan.
+以前|いぜん|izen|sebelumnya / yang lalu / dahulu|Noun / Adverb|以前に一度、ここに来たことがある。|いぜんに いちど、 ここに きたことが ある。|Dahulu aku pernah datang ke sini sekali.
+板|いた|ita|papan / lempengan kayu|Noun|木の板を使って棚を作る。|きの いたを つかって たなを つくる。|Membuat rak menggunakan papan kayu.
+偉大|いだい|idai|keagungan / kebesaran / luar biasa|Adjective (na) / Noun|彼は歴史に残る偉大な発明家だ。|かれは れきしに のこる いだいな はつめいか だ。|Dia adalah penemu luar biasa yang tersisa dalam sejarah.
+痛み|いたみ|itami|rasa sakit / kepedihan|Noun|薬を飲むと痛みが和らいだ。|くすりを のむと いたみが やわらいだ。|Rasa sakitnya mereda setelah meminum obat.
+至る|いたる|itaru|mencapai / berujung pada / tiba|Verb (Godan)|交渉は合意に至った。|こうしょうは ごういに いたった。|Negosiasi berujung pada kesepakatan.
+市|いち|ichi|kota / pasar|Noun / Suffix|この市には多くの観光客が訪れる。|この いちには おおくの かんこうきゃくが おとずれる。|Banyak wisatawan mengunjungi kota ini.
+一時|いちじ|ichiji|sementara / sesaat / satu waktu|Noun / Adverb|大雨のため、電車が一時運転を見合わせた。|おおあめの ため、 でんしゃが いちじ うんてんを みあわせた。|Karena hujan lebat, kereta menunda pengoperasian untuk sementara.
+一度に|いちどに|ichidoni|sekaligus / pada saat yang sama|Adverb|たくさんの仕事を一度に引き受ける。|たくさんの しごとを いちどに ひきうける。|Menerima banyak pekerjaan sekaligus.
+一家|いっか|ikka|sekeluarga / seluruh keluarga / rumah tangga|Noun|来月、一家で北海道へ引っ越す。|らいげつ、 いっかで ほっかいどうへ ひっこす。|Bulan depan sekeluarga pindah ke Hokkaido.
+一種|いっしゅ|isshu|sejenis / semacam|Noun|これは非常に珍しい植物の一種だ。|これは ひじょうに めずらしい しょくぶつの いっしゅ だ。|Ini adalah sejenis tanaman yang sangat langka.
+一瞬|いっしゅん|isshun|sekejap / sesaat / sekejap mata|Noun / Adverb|流れ星が一瞬のうちに消え去った。|ながれぼしが いっしゅんの うちに きえさった。|Bintang jatuh menghilang dalam sekejap mata.
+一生|いっしょう|isshou|seumur hidup / sepanjang hidup|Noun / Adverb|君の恩は一生忘れません。|きみの おんは いっしょう わすれません。|Kebaikanmu tidak akan kulupakan seumur hidup.
+一層|いっそう|issou|lebih / jauh lebih / kian|Adverb|努力を重ねて、一層の向上を目指す。|どりょくを かさねて、 いっそうの こうじょうを めざす。|Menumpuk usaha dan menargetkan peningkatan yang lebih jauh.
+一体|いったい|ittai|sebenarnya (apa/siapa) / kesatuan / umumnya|Noun / Adverb|彼は一体どこへ行ってしまったのだろう。|かれは いったい どこへ いって しまったのだろう。|Dia sebenarnya sudah pergi ke mana ya?
+一致|いっち|itchi|kesesuaian / persetujuan / kecocokan|Noun / Verb (Irregular)|二人の意見が完全に一致した。|ふたりの いけんが かんぜんに いっち した。|Pendapat mereka berdua benar-benar cocok sepenuhnya.
+一般|いっぱん|ippan|umum / biasa / lazim|Noun / Adjective (na)|これは一般の常識として知られている。|これは いっぱんの じょうしきとして しられている。|Ini diketahui sebagai akal sehat yang umum.
+移動|いどう|idou|perpindahan / pergerakan / mobilitas|Noun / Verb (Irregular)|机を窓の近くに移動させる。|つくえを まどの ちかくに いどう させる。|Memindahkan meja ke dekat jendela.
+従兄弟|いとこ|itoko|saudara sepupu (laki-laki)|Noun|私の従兄弟は東京の大学に通っている。|わたしの いとこは とうきょうの だいがくに かよっている。|Saudara sepupuku kuliah di universitas Tokyo.
+稲|いね|ine|padi / tanaman padi|Noun|田んぼの稲が青々と茂っている。|たんぼの いねが あおあおと しげっている。|Padi di sawah tumbuh subur menghijau.
+居眠り|いねむり|inemuri|tidur ayam / mengantuk sampai tertidur|Noun / Verb (Irregular)|授業中に居眠りをして怒られた。|じゅぎょうちゅうに いねむりをして おこられた。|Aku dimarahi karena tidur ayam saat pelajaran berlangsung.
+命|いのち|inochi|jiwa / nyawa / kehidupan|Noun|すべての命を大切にしなければならない。|すべての いのちを たいせつに しなければ ならない。|Semua nyawa harus dijaga dengan berharga.
+違反|いはん|ihan|pelanggaran / menyalahi (aturan)|Noun / Verb (Irregular)|交通規則に違反して切符を切られた。|こうつう きそくに いはん して きっぷを きられた。|Kena tilang karena melanggar aturan lalu lintas.
+衣服|いふく|ifuku|pakaian / busana|Noun|季節に合わせて衣服を替える。|きせつに あわせて いふくを かえる。|Mengganti pakaian disesuaikan dengan musim.
+居間|いま|ima|ruang keluarga / ruang tamu|Noun|家族みんなで居間に集まってテレビを見る。|かぞく みんなで いまに あつまって テレビを みる。|Seluruh keluarga berkumpul di ruang keluarga menonton TV.
+今に|いまに|imani|suatu saat nanti / dalam waktu dekat|Adverb|彼の努力は今に実を結ぶだろう。|かれの どりょくは いまに みを むすぶだろう。|Usahanya suatu saat nanti pasti akan membuahkan hasil.
+今にも|いまにも|imanimo|seketika itu juga / hampir saja / sewaktu-waktu|Adverb|空が暗くなり、今にも雨が降り出しそうだ。|そらが くらくなり、 いまにも あめが ふりだしそうだ。|Langit menjadi gelap, hampir saja hujan turun.
+否|いや|iya|tidak / penolakan / ketidaksetujuan|Expression / Noun|否と言えない性格を直したい。|いやと いえない せいかくを なおしたい。|Aku ingin memperbaiki kepribadianku yang tidak bisa berkata tidak.
+以来|いらい|irai|sejak itu / sejak saat itu|Noun / Suffix|日本に来て以来、毎日忙しい。|にほんに きて いらい、 まいにち いそがしい。|Sejak datang ke Jepang, setiap hari sibuk.
+岩|いわ|iwa|batu besar / batu karang|Noun|海岸には大きな岩がたくさん並んでいる。|かいがんには おおきな いわが たくさん ならんでいる。|Di pantai berjejer banyak batu karang yang besar.
+祝い|いわい|iwai|perayaan / ucapan selamat / pesta|Noun|合格の祝いに家族で食事に行く。|ごうかくの いわいに かぞくで しょくじに いく。|Pergi makan bersama keluarga untuk perayaan kelulusan.
+祝う|いわう|iwau|merayakan / mengucapkan selamat|Verb (Godan)|友達の誕生日を盛大に祝った。|ともだちの たんじょうびを せいだいに いわった。|Merayakan ulang tahun teman dengan meriah.
+印刷|いんさつ|insatsu|percetakan / mencetak / print|Noun / Verb (Irregular)|レポートをプリンターで印刷する。|レポートを プリンターで いんさつ する。|Mencetak laporan dengan pencetak.
+引退|いんたい|intai|pensiun / mundur (dari panggung/kegiatan)|Noun / Verb (Irregular)|彼は今年で現役を引退することを決めた。|かれは ことしで げんえきを いんたい することを きめた。|Dia memutuskan pensiun dari dunia aktif pada tahun ini.
+引用|いんよう|inyou|kutipan / mengutip / sitasi|Noun / Verb (Irregular)|論文から一部を引用する。|ろんぶんから いちぶを いんよう する。|Mengutip sebagian dari tesis.
+兎|うさぎ|usagi|kelinci|Noun|白い兎が草の上を跳ねている。|しろい うさぎが くさの うえを はねている。|Kelinci putih sedang melompat di atas rumput.
+牛|うし|ushi|sapi|Noun|牧場でたくさんの牛が草を食べている。|ぼくじょうで たくさんの うしが くさを たべている。|Banyak sapi sedang memakan rumput di peternakan.
+宇宙|うちゅう|uchuu|luar angkasa / alam semesta / kosmos|Noun|宇宙旅行が現実になる日も近いだろう。|うちゅう りょこうが げんじつに なる ひも ちかいだろう。|Hari di mana perjalanan luar angkasa menjadi kenyataan mungkin sudah dekat.
+討つ|うつ|utsu|menyerang / membasmi / membalas dendam|Verb (Godan)|武士が主君の敵を討つ。|ぶしが しゅくんの かたきを うつ。|Busbi (ksatria) menyerang musuh junjungannya.
+馬|うま|uma|kuda|Noun|草原を速いスピードで馬が走る。|そうげんを はやい スピードで うまが はしる。|Kuda berlari dengan kecepatan tinggi di padang rumput.
+生まれ|うまれ|umare|kelahiran / asal lahir|Noun|私はジャカルタ生まれのジャカルタ育ちです。|わたしは ジャカルタ うまれの ジャカルタ そだち です。|Saya lahir dan besar di Jakarta.
+有無|うむ|umu|ada tidaknya / keberadaan|Noun|経験の有無にかかわらず、応募を歓迎します。|けいけんの うむに かかわらず、 おうぼを かんげい します。|Kami menyambut baik lamaran Anda dengan atau tanpa pengalaman.
+梅|うめ|ume|prem / plum|Noun|庭の梅の花が綺麗に咲いた。|にわの うめの はなが きれいに さいた。|Bunga prem di taman mekar dengan indah.
+裏切る|うらぎる|uragiru|mengkhianati|Verb (Godan)|信頼していた友達に裏切られた。|しんらい していた ともだちに うらぎられた。|Dikhianati oleh teman yang telah dipercayai.
+売れる|うれる|ureru|laku terjual / populer|Verb (Ichidan)|彼の新しい本は非常によく売れている。|かれの あたらしい ほんは ひじょうに よく うれている。|Buku barunya terjual dengan sangat baik.
+噂|うわさ|uwasa|rumor / desas-desus / gosip|Noun / Verb (Irregular)|彼の噂を街で耳にした。|かれの うわさを まちで みみに した。|Aku mendengar rumor tentang dia di kota.
+運|うん|un|keberuntungan / nasib|Noun|宝くじが当たるのは運次第だ。|たからくじが あたるのは うん しだいだ。|Memenangkan lotre bergantung pada keberuntungan.
+運転|うんてん|unten|menyetir / mengemudi / pengoperasian|Noun / Verb (Irregular)|安全運転を心がけてください。|あんぜん うんてんを こころがけて ください。|Tolong usahakan berkendara dengan aman.
+柄|え|e|gagang / pegangan / tangkai|Noun|包丁の柄が壊れてしまった。|ほうちょうの えが こわれて しまった。|Gagang pisau dapur sudah rusak.
+永遠|えいえん|eien|keabadian / kekal|Noun / Adjective (na)|二人の愛が永遠に続くことを祈る。|ふたりの あいが えいえんに つづく ことを いのる。|Mendoakan cinta mereka berdua bertahan selamanya.
+永久|えいきゅう|eikyuu|permanen / abadi / selamanya|Noun / Adjective (na)|この条約は永久に効力を有する。|この じょうやくは えいきゅうに こうりょくを ゆうする。|Perjanjian ini memiliki kekuatan hukum secara permanen.
+営業|えいぎょう|eigyou|bisnis / jam buka (toko) / operasi usaha|Noun / Verb (Irregular)|このデパートは午後８時まで営業している。|この デパートは ごご はちじまで えいぎょう している。|Toserba ini buka hingga pukul 8 malam.
+衛星|えいせい|eisei|satelit|Noun|月は地球の唯一の天然の衛星だ。|つきは ちきゅうの ゆいいつの てんねんの えいせいだ。|Bulan adalah satu-satunya satelit alami bumi.
+栄養|えいよう|eiyou|nutrisi / gizi|Noun|バランスの良い食事で栄養を摂る。|バランスの いい しょくじで えいようを とる。|Mendapatkan gizi dengan makan makanan yang seimbang.
+笑顔|えがお|egao|senyum / wajah tersenyum|Noun|彼女の笑顔を見ると元気が出る。|かのじょの えがおを みると げんきが でる。|Melihat wajah tersenyumnya membuatku menjadi bersemangat.
+描く|えがく|egaku|menggambar / melukis / menggambarkan|Verb (Godan)|白い紙に花の絵を描く。|しろい かみに はなの えを えがく。|Melukis gambar bunga di kertas putih.
+餌|えさ|esa|pakan / umpan|Noun|水槽の金魚に餌を与える。|すいそうの きんぎょに えさを あたえる。|Memberikan pakan kepada ikan mas koki di akuarium.
+円|えん|en|lingkaran / yen|Noun|黒板にきれいな円を描いた。|こくばんに きれいな えんを えがいた。|Menggambar lingkaran yang indah di papan tulis.
+延期|えんき|enki|penundaan / ditunda|Noun / Verb (Irregular)|雨のため試合が来週に延期された。|あめの ため しあいが らいしゅうに えんき された。|Karena hujan pertandingan ditunda hingga minggu depan.
+演技|えんぎ|engi|akting / peran / pertunjukan|Noun / Verb (Irregular)|彼の素晴らしい演技に観客が感動した。|かれの すばらしい えんぎに かんきゃくが かんどう した。|Penonton tersentuh oleh aktingnya yang luar biasa.
+援助|えんじょ|enjo|bantuan / dukungan / sokongan|Noun / Verb (Irregular)|政府は被災地に経済的な援助を行う。|せいふは ひさいちに けいざいてきな えんじょを おこなう。|Pemerintah memberikan bantuan ekonomi kepada daerah bencana.
+演説|えんぜつ|enzetsu|pidato / ceramah resmi|Noun / Verb (Irregular)|大統領が国民に向けて演説を行った。|だいとうりょうが こくみんに むけて えんぜつを おこなった。|Presiden menyampaikan pidato yang ditujukan kepada rakyat.
+老い|おい|oi|usia tua / penuaan|Noun|誰でも老いを避けることはできない。|だれでも おいを さける ことは できない。|Siapa pun tidak bisa menghindari usia tua.
+追い付く|おいつく|oitsuku|menyusul / mengejar|Verb (Godan)|走って前のランナーに追い付いた。|はしって まえの ランナーに おいついた。|Aku berlari dan menyusul pelari di depanku.
+応援|おうえん|ouen|dukungan / sorakan semangat / menyemangati|Noun / Verb (Irregular)|サポーターがスタジアムでチームを応援する。|サポーターが スタジアムで チームを おうえん する。|Pendukung menyemangati tim di stadion.
+王様|おうさま|ousama|raja|Noun|昔々、ある国に優しい王様がいました。|むかしむかし、 ある くにに やさしい おうさまが いました。|Dahulu kala, ada seorang raja yang baik hati di suatu negara.
+王子|おうじ|ouji|pangeran|Noun|童話に出てくる王子様はハンサムだ。|どうわに でてくる おうじさまは ハンサムだ。|Pangeran yang muncul di dongeng itu tampan.
+横断|おうだん|oudan|penyeberangan / menyeberang / melintasi|Noun / Verb (Irregular)|横断歩道を渡って向こう側に行く。|おうだんほどうを わたって むこうがわに いく。|Menyeberangi tempat penyeberangan jalan untuk pergi ke sisi sebelah sana.
+覆う|おおう|oou|menutupi / menyelimuti / menyembunyikan|Verb (Godan)|山頂が白い雪で覆われている。|さんちょうが しろい ゆきで おおわれている。|Puncak gunung diselimuti oleh salju putih.
+大家|おおや|ooya|pemilik kontrakan / tuan tanah / landlord|Noun|アパートの大家さんに家賃を支払う。|アパートの おおやさんに やちんを しはらう。|Membayar uang sewa kamar kepada pemilik kontrakan apartemen.
+丘|おか|oka|bukit|Noun|丘の上にぽつんと一本の木が立っている。|おかの うえに ぽつんと いっぽんの きが たっている。|Sebatang pohon berdiri tegak sendirian di atas bukit.
+沖|おき|oki|lepas pantai / laut lepas|Noun|漁船が沖に向かって進んでいく。|ぎょせんが おきに むかって すすんでいく。|Perahu nelayan melaju menuju lepas pantai.
+贈る|おくる|okuru|menghadiahkan / memberikan hadiah|Verb (Godan)|母の日に感謝の花束を贈る。|ははの ひに かんしゃの はなたばを おくる。|Menghadiahkan buket bunga ucapan terima kasih pada Hari Ibu.
+幼い|おさない|osanai|sangat muda / kekanak-kanakan / balita|Adjective (i)|幼い子供たちが公園で遊んでいる。|おさない こどもたちが こうえんで あそんでいる。|Anak-anak yang sangat muda sedang bermain di taman.
+お辞儀|おじぎ|ojigi|membungkuk (tata krama Jepang)|Noun / Verb (Irregular)|先生に会ったらきちんとお辞儀をする。|せんせいに あったら きちんと おじぎを する。|Membungkuk dengan sopan saat bertemu dengan guru.
+お洒落|おしゃれ|oshare|modis / bergaya / necis / pesolek|Adjective (na) / Noun / Verb (Irregular)|彼女はとてもお洒落な服を着ている。|かのじょは とても おしゃれな ふくを きている。|Dia memakai pakaian yang sangat modis.
+お喋り|おしゃべり|oshaberi|mengobrol / cerewet / banyak bicara|Adjective (na) / Noun / Verb (Irregular)|授業中にお喋りをしてはいけない。|じゅぎょうちゅうに おしゃべりをしては いけない。|Tidak boleh mengobrol selama pelajaran berlangsung.
+恐れる|おそれる|osoreru|takut / mengkhawatirkan|Verb (Ichidan)|失敗を恐れずに挑戦することが大切だ。|しっぱいを おそれずに ちょうせん することが たいせつだ。|Mencoba tanpa takut gagal adalah hal yang penting.
+恐ろしい|おそろしい|osoroshii|mengerikan / menakutkan / dahsyat|Adjective (i)|ゆうべ、恐ろしい夢を見て目が覚めた。|ゆうべ、 おそろしい ゆめを みて めが さめた。|Semalam aku terbangun karena mimpi buruk yang mengerikan.
+お互い|おたがい|otagai|saling / satu sama lain / timbal balik|Noun / Adverb|お互いに助け合って生きていく。|おたがいに たすけあって いきていく。|Hidup dengan saling membantu satu sama lain.
+男の人|おとこのひと|otokonohito|pria / laki-laki|Noun|あそこに立っている男の人は誰ですか。|あそこに たっている おとこのひとは だれ ですか。|Siapakah pria yang berdiri di sana?
+劣る|おとる|otoru|kalah / lebih rendah kualitasnya / inferior|Verb (Godan)|この製品は性能の点で他社より劣る。|この せいひんは せいのうの てんで たしゃより おとる。|Produk ini dalam hal performa lebih rendah dari perusahaan lain.
+鬼|おに|oni|iblis / raksasa jahat / ogre / penjaga (permainan petak umpet)|Noun|日本の昔話にはよく鬼が登場する。|にほんの むかしばなしには よく おにが とうじょう する。|Dalam dongeng kuno Jepang sering muncul iblis.
+帯|おび|obi|obi / sabuk kimono / pita ikat|Noun|浴衣を着て、きれいに帯を結んだ。|ゆかたを きて、 きれいに おびを むすんだ。|Memakai yukata dan mengikat obi dengan indah.
+お昼|おひる|ohiru|siang hari / makan siang|Noun|お昼を食べに近くの食堂へ行く。|おひるを たべに ちかくの しょくどうへ いく。|Pergi ke warung makan terdekat untuk makan siang.
+溺れる|おぼれる|oboreru|tenggelam (di air) / hanyut dalam perasaan/kecanduan|Verb (Ichidan)|海で溺れそうになったところを助けられた。|うみで おぼれそうに なった ところを たすけられた。|Diselamatkan saat hampir tenggelam di laut.
+お前|おまえ|omae|kamu (kasar/akrab, biasa digunakan laki-laki)|Pronoun / Noun|お前、明日のテストの準備はできたか。|おまえ、 あしたの テストの じゅんびは できたか。|Kamu, apakah persiapan untuk ujian besok sudah siap?
+お目に掛かる|おめにかかる|omenikakaru|bertemu (sopan/merendahkan diri)|Verb (Godan)|先生にお目に掛かれて光栄です。|せんせいに おめにかかれて こうえい です。|Suatu kehormatan bisa bertemu dengan guru.
+思い付く|おもいつく|omoitsuku|terpikirkan / terlintas di pikiran / menemukan ide|Verb (Godan)|良い解決策をふと思いついた。|よい かいけつさくを ふと おもいついた。|Tiba-tiba terlintas solusi yang baik di pikiranku.
+思い出|おもいで|omoide|kenangan / memori indah|Noun|高校時代の思い出は一生忘れない。|こうこう じだいの おもいでは いっしょう わすれない。|Kenangan masa SMA tidak akan kulupakan seumur hidup.
+泳ぎ|およぎ|oyogi|berenang / gaya renang|Noun|彼の泳ぎはとてもスピードがある。|かれの およぎは とても スピードが ある。|Gaya berenangnya sangat memiliki kecepatan.
+及ぼす|およぼす|oyobosu|memberikan pengaruh / menimbulkan / menyebabkan|Verb (Godan)|地球温暖化は環境に悪影響を及ぼす。|ちきゅう おんだんかは かんきょうに あくえいきょうを およぼす。|Pemanasan global memberikan pengaruh buruk pada lingkungan.
+下す|おろす|orosu|menurunkan / menjatuhkan keputusan / menarik uang|Verb (Godan)|荷物を棚から下ろすのを手伝って。|にもつを たなから おろすのを てつだって。|Tolong bantu aku menurunkan barang dari rak.
+音|おん|on|bunyi / suara (benda/alat musik)|Noun|隣の部屋からピアノの音が聞こえる。|となりの へやから ピアノの おとが きこえる。|Terdengar suara piano dari kamar sebelah.
+温暖|おんだん|ondan|hangat (untuk iklim/cuaca)|Adjective (na) / Noun|この地方は一年を通じて温暖な気候だ。|この ちほうは いちねんを つうじて おんだんな きこうだ。|Wilayah ini memiliki iklim yang hangat sepanjang tahun.
+温度|おんど|ondo|suhu / temperatur|Noun|部屋の温度をエアコンで調節する。|へやの おんどを エアコンで ちょうせつ する。|Mengatur suhu ruangan dengan AC.
+可|か|ka|boleh / dapat / cukup (nilai kelulusan)|Noun|この製品のテスト結果は可だった。|この せいひんの テスト けっかは か だった。|Hasil pengujian produk ini adalah cukup.
+貝|かい|kai|kerang / cangkang kerang|Noun|海辺で美しい貝を拾った。|うみべで うつくしい かいを ひろった。|Memungut kerang yang indah di tepi laut.
+害|がい|gai|bahaya / kerugian / kerusakan / dampak buruk|Noun|喫煙は健康に多くの害をもたらす。|きつえんは けんこうに おおくの がいをもたらす。|Merokok mendatangkan banyak bahaya bagi kesehatan.
+会員|かいいん|kaiin|anggota / member|Noun|スポーツクラブの会員になる。|スポーツクラブの かいいんに なる。|Menjadi anggota klub olahraga.
+絵画|かいが|kaiga|lukisan / gambar seni|Noun|美術館で有名な絵画を鑑賞する。|びじゅつかんで ゆうめいな かいがを かんしょう する。|Menikmati lukisan terkenal di museum seni.
+海外|かいがい|kaigai|luar negeri|Noun|夏休みに海外旅行に行く計画を立てる。|なつやすみに かいがい りょこうに いく けいかくを たてる。|Membuat rencana pergi berlibur ke luar negeri pada libur musim panas.
+会計|かいけい|kaikei|akuntansi / kasir / pembayaran tagihan|Noun / Verb (Irregular)|食事の後にレジで会計を済ませる。|しょくじの あとに レジで かいけいを すませる。|Menyelesaikan pembayaran di kasir setelah makan.
+会合|かいごう|kaigou|pertemuan / rapat / majelis|Noun / Verb (Irregular)|明日の午後に親睦の会合を開く。|あしたの ごごに しんぼくの かいごうを ひらく。|Mengadakan pertemuan keakraban besok siang.
+開始|かいし|kaishi|awal / memulai / start|Noun / Verb (Irregular)|まもなく会議が開始されます。|まもなく かいぎが かいし されます。|Sebentar lagi rapat akan dimulai.
+解釈|かいしゃく|kaishaku|penafsiran / interpretasi / pemahaman|Noun / Verb (Irregular)|この文章の解釈にはいくつかの方法がある。|この ぶんしょうの かいしゃくには いくつかの ほうほうがある。|Ada beberapa metode untuk penafsiran kalimat ini.
+外出|がいしゅつ|gaishutsu|pergi keluar (rumah/kantor)|Noun / Verb (Irregular)|風が強いので、今日の外出は控える。|かぜが つよいので、 きょうの がいしゅつは ひかえる。|Karena angin kencang, menahan diri untuk pergi keluar hari ini.
+回復|かいふく|kaifuku|pemulihan / memulihkan (kesehatan/kondisi)|Noun / Verb (Irregular)|彼は病気から無事に回復した。|かれは びょうきから ぶじに かいふく した。|Dia telah pulih dari penyakitnya dengan selamat.
+帰す|かえす|kaesu|memulangkan / menyuruh pulang|Verb (Godan)|遅くなったので、子供を早く家に帰す。|おそくなったので、 こどもを はやく いえに かえす。|Karena sudah larat malam, segera memulangkan anak ke rumah.
+香り|かおり|kaori|wewangian / aroma / parfum|Noun|台所から美味しそうなカレーの香りが漂ってくる。|だいどころから おいしそうな カレーの かおりが ただよってくる。|Aroma kari yang lezat tercium menyebar dari dapur.
+化学|かがく|kagaku|kimia|Noun|大学で化学を専攻している。|だいがくで かがくを せんこう している。|Mengambil jurusan kimia di universitas.
+輝く|かがやく|kagayaku|bersinar / berkilau|Verb (Godan)|夜空に満天の星が輝いている。|よぞらに まんてんの ほしが かがやいている。|Bintang-bintang di seluruh langit bersinar di langit malam.
+係|かかり|kakari|petugas penanggung jawab / urusan|Noun|イベントの受付係を任された。|イベントの うけつけがかりを まかされた。|Diserahi tugas sebagai petugas penerima tamu acara.
+罹る|かかる|kakaru|terjangkit (penyakit) / menderita sakit|Verb (Godan)|新型のインフルエンザに罹ってしまった。|しんがたの インフルエンザに かかって しまった。|Aku terjangkit virus influenza tipe baru.
+限る|かぎる|kagiru|membatasi / terbatas pada / yang terbaik adalah|Verb (Godan)|参加者は先着１０名に限ります。|さんかしゃは せんちゃく じゅうめいに かぎります。|Peserta dibatasi hanya untuk 10 pendaftar pertama.
+嗅ぐ|かぐ|kagu|mencium bau / mengendus|Verb (Godan)|花のにおいを鼻で嗅ぐ。|はなの においを はなで かぐ。|Mencium wangi bunga dengan hidung.
+学|がく|gaku|ilmu / studi / pembelajaran|Noun / Suffix|彼は学問の道をひたすら進んだ。|かれは がくもんの みちを ひたすら すすんだ。|Dia terus melaju menempuh jalan keilmuan.
+覚悟|かくご|kakugo|kesiapan mental / tekad / pasrah|Noun / Verb (Irregular)|どんな困難も乗り越える覚悟だ。|どんな こんなんも のりこえる かくごだ。|Aku bertekad untuk melewati kesulitan apa pun.
+確実|かくじつ|kakujitsu|pasti / nyata / dapat diandalkan|Adjective (na) / Noun|彼なら確実に約束を守るだろう。|かれなら かくじつに やくそくを まもるだろう。|Jika dia, dia pasti akan menepati janji.
+学者|がくしゃ|gakusha|akademisi / sarjana / ilmuwan|Noun|私の祖父は言語学者でした。|わたしの そふは げんごがくしゃ でした。|Kakek saya dahulu adalah seorang ilmuwan bahasa.
+学習|がくしゅう|gakushuu|pembelajaran / belajar / studi|Noun / Verb (Irregular)|効果的な学習方法を見つける。|こうかてきな がくしゅう ほうほうを みつける。|Menemukan metode belajar yang efektif.
+拡大|かくだい|kakudai|perluasan / pembesaran / ekspansi|Noun / Verb (Irregular)|画像を２倍に拡大して印刷する。|がぞうを にばいに かくだい して いんさつ する。|Mencetak gambar setelah memperbesarnya menjadi 2 kali lipat.
+学問|がくもん|gakumon|ilmu pengetahuan / studi / bidang akademis|Noun|学問に励む若者を支援する。|がくもんに はげむ わかものを しえん する。|Mendukung para pemuda yang giat dalam menuntut ilmu.
+影|かげ|kage|bayangan / refleksi / siluet|Noun|夕日に照らされて影が長く伸びる。|ゆうひに てらされて かげが ながく のびる。|Disinari oleh matahari terbenam bayangan memanjang.
+加減|かげん|kagen|penyesuaian / kondisi kesehatan / kadar|Noun / Verb (Irregular)|お体の加減はいかがですか。|おからだの かげんは いかが ですか。|Bagaimanakah kondisi tubuh Anda?
+過去|かこ|kako|masa lalu / masa lampau|Noun|過去の失敗を繰り返さないようにする。|かこの しっぱいを くりかえさない ように する。|Berusaha agar tidak mengulangi kesalahan masa lalu.
+籠|かご|kago|keranjang / sangkar|Noun|買い物かごに果物をたくさん入れた。|かいものかごに くだものを たくさん いれた。|Memasukkan banyak buah ke dalam keranjang belanja.
+囲む|かこむ|kakomu|mengelilingi / memutari|Verb (Godan)|テーブルを囲んでみんなで話し合う。|テーブルを かこんで みんなで はなしあう。|Semua orang berbicara bersama dengan mengelilingi meja.
+火災|かさい|kasai|kebakaran / bencana kebakaran|Noun|冬は乾燥して火災が発生しやすい。|ふゆは かんそう して かさいが はっせい しやすい。|Musim dingin cenderung terjadi kebakaran karena udaranya kering.
+重ねる|かさねる|kasaneru|menumpuk / menimbun / mengulangi|Verb (Ichidan)|本を机の上に何冊も重ねる。|ほんを つくえの うえに なんさつも かさねる。|Menumpuk beberapa buah buku di atas meja.
+飾り|かざり|kazari|hiasan / dekorasi|Noun|クリスマスツリーに飾りをつける。|クリスマスツリーに かざりを つける。|Memasang hiasan pada pohon natal.
+家事|かじ|kaji|pekerjaan rumah tangga|Noun|料理や洗濯などの家事を分担する。|りょうりや せんたく などの かじを ぶんたん する。|Membagi tugas pekerjaan rumah seperti memasak dan mencuci.
+型|かた|kata|tipe / model / pola / cetakan|Noun / Suffix|最新型のスマートフォンを購入した。|さいしんがたの スマートフォンを こうにゅう した。|Membeli ponsel pintar tipe terbaru.
+方々|かたがた|katagata|orang-orang (sopan) / di sana-sini|Noun / Pronoun|集まった方々に感謝します。|あつまった かたがたに かんしゃ します。|Berterima kasih kepada orang-orang yang telah berkumpul.
+片付く|かたづく|katadzuku|beres / rapi / selesai diatur|Verb (Godan)|部屋がようやくきれいに片付いた。|へやが ようやく きれいに かたづいた。|Kamar akhirnya beres dengan rapi.
+刀|かたな|katana|pedang / katana|Noun|侍は腰に日本刀を差していた。|さむらいは こしに にほんとうを さしていた。|Samurai menyelipkan katana Jepang di pinggangnya.
+語る|かたる|kataru|bercerita / mengisahkan / berkata|Verb (Godan)|祖父が戦時の体験を熱心に語った。|そふが せんじの たいけんを ねっしんに かたった。|Kakek menceritakan pengalaman masa perangnya dengan antusias.
+活躍|かつやく|katsuyaku|kiprah / berpartisipasi aktif / beraksi|Noun / Verb (Irregular)|彼は新チームで大いに活躍している。|かれは しんチームで おおいに かつやく している。|Dia sangat berkiprah aktif di tim yang baru.
+活用|かつよう|katsuyou|pemanfaatan / penggunaan praktis / konjugasi kata|Noun / Verb (Irregular)|限られた資源を有効に活用する。|かぎられた しげんを ゆうこうに かつよう する。|Memanfaatkan sumber daya yang terbatas secara efektif.
+仮定|かてい|katei|pengandaian / asumsi / hipotesis|Noun / Verb (Irregular)|この計画は一定の仮定に基づいている。|この けいかくは いっていの かていに もとづいている。|Rencana ini didasarkan pada pengandaian tertentu.
+悲しむ|かなしむ|kanashimu|bersedih / meratap|Verb (Godan)|ペットの死を深く悲しむ。|ペットの しを ふかく かなしむ。|Sangat bersedih atas kematian hewan peliharaan.
+金|かね|kane|uang / logam emas|Noun|旅行に行くためにお金を貯める。|りょこうに いく ために おかねを ためる。|Menabung uang untuk pergi berlibur.
+株|かぶ|kabu|saham / tunggul pohon|Noun|企業の株を購入して投資する。|きぎょうの かぶを こうにゅう して とうし する。|Membeli saham perusahaan untuk berinvestasi.
+被る|かぶる|kaburu|memakai (topi) / tersiram / menanggung beban|Verb (Godan)|日差しが強いので帽子を被る。|ひざしが つよいので ぼうしを かぶる。|Memakai topi karena sengatan matahari yang kuat.
+我慢|がまん|gaman|kesabaran / menahan diri / bersabar|Noun / Verb (Irregular)|痛みを我慢して走り続けた。|いたみを がまん して はしりつづけた。|Menahan rasa sakit dan terus berlari.
+神|かみ|kami|tuhan / dewa|Noun|病気が治るように神に祈る。|びょうきが なおる ように かみに いのる。|Berdoa kepada Tuhan agar penyakitnya sembuh.
+髪の毛|かみのけ|kaminoke|rambut kepala|Noun|風で髪の毛が乱れてしまった。|かぜで かみのけが みだれて しまった。|Rambut kepalaku menjadi acak-acakan karena angin.
+科目|かもく|kamoku|mata pelajaran / kurikulum|Noun|あなたの好きな科目は何ですか。|あなたの すきな かもくは なん ですか。|Apa mata pelajaran kesukaan Anda?
+空|から|kara|kosong / hampa|Noun / Adjective (na)|中身がない空の箱を捨てる。|なかみが ない からの はこを すてる。|Membuang kotak kosong yang tidak ada isinya.
+刈る|かる|karu|memangkas / memotong (rumput/rambut)|Verb (Godan)|庭の雑草を刈る作業をする。|にわの ざっそうを かる さぎょうを する。|Melakukan pekerjaan memotong rumput liar di halaman.
+可愛そう|かわいそう|kawaisou|kasihan / memprihatinkan|Adjective (na)|捨てられた子犬が可愛そうだ。|すてられた こいぬが かわいそうだ。|Anak anjing yang dibuang itu kasihan.
+可愛らしい|かわいらしい|kawairashii|lucu / manis / menggemaskan|Adjective (i)|彼女は可愛らしいリボンをつけている。|かのじょは かわいらしい リボンを つけている。|Dia memakai pita yang manis.
+乾かす|かわかす|kawakasu|mengeringkan|Verb (Godan)|濡れた髪をドライヤーで乾かす。|ぬれた かみを ドライヤーで かわかす。|Mengeringkan rambut yang basah dengan pengering rambut.
+渇く|かわく|kawaku|haus / kering tenggorokan|Verb (Godan)|のどが渇いたので水が飲みたい。|のどが かわいたので みずが のみたい。|Aku ingin minum air karena tenggorokan terasa haus.
+缶|かん|kan|kaleng|Noun|空き缶をリサイクルの箱に入れる。|あきかんを リサイクルの はこに いれる。|Memasukkan kaleng kosong ke kotak daur ulang.
+考え|かんがえ|kangae|pemikiran / pendapat / ide|Noun|自分の考えを相手にしっかり伝える。|じぶんの かんがえを あいてに しっかり つたえる。|Menyampaikan pemikiran sendiri dengan mantap kepada lawan bicara.
+感覚|かんかく|kankaku|indra / indriawi / perasaan sensorik|Noun|寒さで手の指の感覚がなくなった。|さむさで ての ゆびの かんかくが なくなった。|Kehilangan indra peraba jari tangan karena dingin.
+歓迎|かんげい|kangei|sambutan / menyambut baik|Noun / Verb (Irregular)|新しいメンバーを心から歓迎する。|あたらしい メンバーを こころから かんげい する。|Menyambut baik anggota baru dari lubuk hati.
+観察|かんさつ|kansatsu|pengamatan / observasi|Noun / Verb (Irregular)|植物の成長の様子を毎日観察する。|しょくぶつの せいちょうの ようすを まいにち かんさつ する。|Mengamati kondisi pertumbuhan tanaman setiap hari.
+感じ|かんじ|kanji|perasaan / kesan / sensasi|Noun|あの人には優しい感じがする。|あの ひとには やさしい かんじが する。|Orang itu memberikan kesan yang ramah.
+患者|かんじゃ|kanja|pasien / orang sakit|Noun|医師が患者の容態をチェックする。|いしが かんじゃの ようだいを チェック する。|Dokter memeriksa kondisi kesehatan pasien.
+感心|かんしん|kanshin|kagum / terkesan|Noun / Adjective (na) / Verb (Irregular)|彼の親切な行いには本当に感心した。|かれの しんせつな おこないには ほんとうに かんしん した。|Aku benar-benar kagum atas tindakan ramahnya.
+関する|かんする|kansuru|mengenai / berkaitan dengan|Verb (Irregular)|日本の文化に関する本を読む。|にほんの ぶんかに かんする ほんを よむ。|Membaca buku berkaitan dengan budaya Jepang.
+完成|かんせい|kansei|penyelesaian / rampung / selesai dibuat|Noun / Verb (Irregular)|新しいビルがようやく完成した。|あたらしい ビルが ようやく かんせい した。|Gedung baru akhirnya selesai dibangun.
+乾燥|かんそう|kansou|kekeringan / mengering / dehidrasi|Noun / Verb (Irregular)|冬は空気が乾燥しやすい。|ふゆは くうきが かんそう しやすい。|Udara mudah mengering saat musim dingin.
+感動|かんどう|kandou|terharu / tersentuh perasaan|Noun / Verb (Irregular)|彼のスピーチを聞いて深く感動した。|かれの スピーチを きいて ふかく かんどう した。|Aku merasa sangat terharu mendengarkan pidatonya.
+監督|kantoku|kantoku|pengawas / sutradara / pelatih kepala|Noun / Verb (Irregular)|彼は映画監督として有名だ。|かれは えいが かんとく として ゆうめいだ。|Dia terkenal sebagai sutradara film.
+完了|かんりょう|kanryou|selesai / rampung / tuntas|Noun / Verb (Irregular)|ファイルのダウンロードが完了した。|ファイルの ダウンロードが かんりょう した。|Pengunduhan berkas telah selesai.
+関連|かんれん|kanren|hubungan / kaitan / asosiasi|Noun / Verb (Irregular)|二つの事件の関連性を調査する。|ふたつの じけんの かんれんせいを ちょうさ する。|Menyelidiki kaitan di antara kedua peristiwa itu.
+議員|ぎいん|giin|anggota parlemen / anggota dewan / senator|Noun|国会議員が新しい法律について議論する。|こっかいぎいんが あたらしい ほうりつについて ぎろん する。|Anggota dewan parlemen berdiskusi tentang undang-undang baru.
+記憶|きおく|kioku|ingatan / memori|Noun / Verb (Irregular)|子供のころの記憶が薄れていく。|こどもの ころの きおくが うすれていく。|Ingatan masa kanak-kanak sedang memudar.
+岸|きし|kishi|pantai / tepi sungai / tepian|Noun|船が川の岸に近づいていく。|ふねが かわの きしに ちかづいていく。|Perahu mendekat ke tepi sungai.
+技師|ぎし|gishi|insinyur / teknisi|Noun|彼は機械技師として工場で働いている。|かれは きかいぎし として こうじょうで はたらいている。|Dia bekerja di pabrik sebagai teknisi mesin.
+記者|きしゃ|kisha|wartawan / jurnalis / reporter|Noun|新聞記者が事件の現場を取材する。|しんぶんきしゃが じけんの げんばを しゅざい する。|Wartawan surat kabar meliput di tempat kejadian perkara.
+期待|きたい|kitai|harapan / ekspektasi / mengharapkan|Noun / Verb (Irregular)|親の期待に応えるために勉強する。|おやの きたいに こたえる ために べんきょう する。|Belajar untuk memenuhi ekspektasi orang tua.
+帰宅|きたく|kitaku|pulang ke rumah|Noun / Verb (Irregular)|仕事が終わって、すぐに帰宅した。|しごとが おわって、 すぐに きたく した。|Pekerjaan selesai, dan langsung pulang ke rumah.
+貴重|きちょう|kichou|berharga / bernilai tinggi|Adjective (na) / Noun|貴重なご意見をいただきありがとうございます。|きちょうな ごいけんを いただき ありがとう ございます。|Terima kasih banyak atas saran Anda yang berharga.
+議長|ぎちょう|gichou|ketua sidang / pimpinan rapat / ketua dewan|Noun|会議の議長が新しい規則を説明した。|かいぎの ぎちょうが あたらしい きそくを せつめい した。|Ketua rapat menjelaskan peraturan yang baru.
+気に入る|きにいる|kiniiru|menyukai / senang akan / cocok di hati|Verb (Godan)|このデザインが気に入りました。|この デザインが きにいりました。|Saya menyukai desain ini.
+記入|きにゅう|kinyuu|pengisian / mengisi (formulir) / menuliskan|Noun / Verb (Irregular)|申請書に必要事項を記入する。|しんせいしょに ひつよう じこうを きにゅう する。|Mengisi hal-hal yang diperlukan pada surat permohonan.
+記念|きねん|kinen|peringatan / kenang-kenangan|Noun / Verb (Irregular)|創立１０周年の記念式典を行う。|そうりつ じゅっしゅうねんの きねん しきてんを おこなう。|Mengadakan upacara peringatan hari jadi pendirian yang ke-10.
+気の毒|きのどく|kinodoku|kasihan / menyedihkan / prihatin|Adjective (na) / Noun|事故に遭ったと聞いて、本当にお気の毒に思います。|じこに あったと きいて、 ほんとうに おきのどくに おもいます。|Mendengar dia mengalami kecelakaan, saya benar-benar merasa prihatin.
+基本|きほん|kihon|dasar / basis / fundamental|Noun|何事も基本を学ぶことが大切だ。|なにごとも きほんを まなぶ ことが たいせつだ。|Mempelajari dasar dari apa pun adalah hal yang penting.
+決まり|きまり|kimari|peraturan / keputusan / ketentuan|Noun|学校の決まりをしっかり守る。|がっこうの きまりを しっかり まもる。|Mematuhi peraturan sekolah dengan baik.
+気味|きみ|kimi|perasaan agak / kecenderungan (sakit/lelah)|Noun / Suffix|風邪気味なので、今日は早めに寝る。|かぜぎみ なので、 きょうは はやめに ねる。|Karena agak terserang flu, hari ini tidur lebih awal.
+奇妙|きみょう|kimyou|aneh / ganjil / ajaib|Adjective (na) / Noun|真夜中に奇妙な音が聞こえた。|まよなかに きみょうな おとが きこえた。|Terdengar suara aneh di tengah malam.
+疑問|ぎもん|gimon|pertanyaan / keraguan / kemusykilan|Noun|彼の説明には多くの疑問が残る。|かれの せつめいには おおくの ぎもんが のこる。|Pada penjelasannya menyisakan banyak keraguan.
+逆|ぎゃく|gyaku|kebalikan / sebaliknya / berlawanan|Adjective (na) / Noun|予想とは逆の結果になった。|よそうとは ぎゃくの けっかに なった。|Hasilnya menjadi kebalikan dari apa yang diperkirakan.
+旧|きゅう|kyuu|mantan / bekas / lama|Prefix / Noun|旧友と久しぶりに会って食事をした。|きゅうゆうと ひさしぶりに あって しょくじを した。|Bertemu dan makan bersama teman lama setelah sekian lama.
