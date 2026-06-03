@@ -154,6 +154,7 @@
 }
 
 @layer utilities {
+  .text-canvas { color: var(--color-canvas); }
   .text-ink { color: var(--color-ink); }
   .text-sumi { color: var(--color-sumi); }
   .text-vermillion { color: var(--color-vermillion); }
