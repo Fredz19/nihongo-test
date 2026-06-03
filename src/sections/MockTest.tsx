@@ -160,6 +160,7 @@ export default function MockTest() {
     setQuestionIndex(index);
   };
 
+  const [selectedPackage, setSelectedPackage] = useState<'1' | '2' | '3'>('1');
   const [selectedMode, setSelectedMode] = useState<'simulasi' | 'belajar'>('simulasi');
   const [showConfirmEnd, setShowConfirmEnd] = useState(false);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
@@ -167,8 +168,8 @@ export default function MockTest() {
 
   const { saveResult } = useTestHistory();
 
-  // Determine exam template slug based on level
-  const templateSlug = level === 'N5' ? 'n5-full' : level === 'N4' ? 'n4-full' : 'n5-full';
+  // Determine exam template slug based on level and selected package
+  const templateSlug = `${level.toLowerCase()}-tryout-${selectedPackage}`;
   const { questions, isLoading: isLoadingQuestions } = useQuestions(
     (level as 'N5' | 'N4' | 'N3'),
     templateSlug
@@ -177,11 +178,18 @@ export default function MockTest() {
   // Load or auto-resume test session
   useEffect(() => {
     if (!activeSession || activeSession.level !== level) {
-      startTest(level as any, selectedMode);
+      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+      startTest(level as any, selectedMode, pkgLetter, templateSlug);
     } else if (activeSession.status === 'completed') {
       navigate('/results', { replace: true });
     } else {
       setSelectedMode(activeSession.mode);
+      if (activeSession.slug && activeSession.slug.includes('tryout')) {
+        const pkgNum = activeSession.slug.split('-').pop();
+        if (pkgNum === '1' || pkgNum === '2' || pkgNum === '3') {
+          setSelectedPackage(pkgNum as any);
+        }
+      }
     }
   }, [level, startTest, navigate]);
 
@@ -247,6 +255,8 @@ export default function MockTest() {
   const showInstructions = status === 'instruction';
 
   const handleStart = () => {
+    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+    startTest(level as any, selectedMode, pkgLetter, templateSlug);
     setStatus('running');
   };
 
@@ -282,7 +292,8 @@ export default function MockTest() {
 
   const handleRestart = () => {
     resetSession();
-    startTest(level as any, selectedMode);
+    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+    startTest(level as any, selectedMode, pkgLetter, templateSlug);
     setShowConfirmReset(false);
   };
 
@@ -298,6 +309,32 @@ export default function MockTest() {
           <p className="text-sumi mb-8">Bacalah instruksi berikut sebelum memulai.</p>
 
           <div className="space-y-4 mb-8">
+            {/* Package Selector */}
+            <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
+              <label className="text-xs font-semibold text-sumi block mb-2">PILIH PAKET TRY OUT</label>
+              <div className="grid grid-cols-3 gap-2">
+                {[
+                  { id: '1', name: 'Try Out 1', code: 'Paket A' },
+                  { id: '2', name: 'Try Out 2', code: 'Paket B' },
+                  { id: '3', name: 'Try Out 3', code: 'Paket C' },
+                ].map((pkg) => (
+                  <button
+                    key={pkg.id}
+                    type="button"
+                    onClick={() => setSelectedPackage(pkg.id as any)}
+                    className={`py-2 px-1 text-xs rounded-lg font-medium transition-all ${
+                      selectedPackage === pkg.id
+                        ? 'bg-indigo text-white shadow-sm font-semibold'
+                        : 'bg-white text-sumi border hover:bg-gray-100'
+                    }`}
+                  >
+                    <div>{pkg.name}</div>
+                    <div className="text-[10px] opacity-80 font-normal">{pkg.code}</div>
+                  </button>
+                ))}
+              </div>
+            </div>
+
             {/* Mode Selector */}
             <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
               <label className="text-xs font-semibold text-sumi block mb-2">PILIH MODE BELAJAR</label>
@@ -306,7 +343,8 @@ export default function MockTest() {
                   type="button"
                   onClick={() => {
                     setSelectedMode('simulasi');
-                    startTest(level as any, 'simulasi');
+                    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                    startTest(level as any, 'simulasi', pkgLetter, templateSlug);
                   }}
                   className={`py-2 px-3 text-sm rounded-lg font-medium transition-all ${
                     selectedMode === 'simulasi'
@@ -320,7 +358,8 @@ export default function MockTest() {
                   type="button"
                   onClick={() => {
                     setSelectedMode('belajar');
-                    startTest(level as any, 'belajar');
+                    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                    startTest(level as any, 'belajar', pkgLetter, templateSlug);
                   }}
                   className={`py-2 px-3 text-sm rounded-lg font-medium transition-all ${
                     selectedMode === 'belajar'
@@ -593,45 +632,47 @@ export default function MockTest() {
         </div>
 
         {/* Question Grid Navigation */}
-        <div className="mt-10 paper-card p-6">
-          <h3 className="text-sm font-semibold mb-4">Navigasi Soal</h3>
-          <div className="grid grid-cols-5 sm:grid-cols-10 gap-2">
-            {questions.map((item, i) => {
-              const isListeningSim = selectedMode === 'simulasi' && item.section === 'Listening';
-              const isSelectable = !isListeningSim || i === currentQ;
-              
-              return (
-                <button
-                  key={i}
-                  disabled={!isSelectable}
-                  onClick={() => setCurrentQ(i)}
-                  className={`w-full aspect-square rounded-lg text-sm font-medium transition-all ${
-                    i === currentQ
-                      ? 'bg-indigo text-white'
-                      : answers[item.id] !== undefined
-                      ? 'bg-green-100 text-green-700'
-                      : flagged.includes(i)
-                      ? 'bg-amber-100 text-amber-700'
-                      : !isSelectable
-                      ? 'bg-gray-50 text-gray-300 cursor-not-allowed'
-                      : 'bg-gray-100 text-sumi hover:bg-gray-200'
-                  }`}
-                >
-                  {i + 1}
-                </button>
-              );
-            })}
+        {!activeSession?.slug?.includes('tryout') && (
+          <div className="mt-10 paper-card p-6">
+            <h3 className="text-sm font-semibold mb-4">Navigasi Soal</h3>
+            <div className="grid grid-cols-5 sm:grid-cols-10 gap-2">
+              {questions.map((item, i) => {
+                const isListeningSim = selectedMode === 'simulasi' && item.section === 'Listening';
+                const isSelectable = !isListeningSim || i === currentQ;
+                
+                return (
+                  <button
+                    key={i}
+                    disabled={!isSelectable}
+                    onClick={() => setCurrentQ(i)}
+                    className={`w-full aspect-square rounded-lg text-sm font-medium transition-all ${
+                      i === currentQ
+                        ? 'bg-indigo text-white'
+                        : answers[item.id] !== undefined
+                        ? 'bg-green-100 text-green-700'
+                        : flagged.includes(i)
+                        ? 'bg-amber-100 text-amber-700'
+                        : !isSelectable
+                        ? 'bg-gray-50 text-gray-300 cursor-not-allowed'
+                        : 'bg-gray-100 text-sumi hover:bg-gray-200'
+                    }`}
+                  >
+                    {i + 1}
+                  </button>
+                );
+              })}
+            </div>
+            <div className="flex flex-wrap gap-4 mt-4 text-xs">
+              <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-green-100" /><span>Terjawab</span></div>
+              <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-indigo" /><span>Aktif</span></div>
+              <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-amber-100" /><span>Ditandai</span></div>
+              <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-gray-100" /><span>Belum dikerjakan</span></div>
+              {selectedMode === 'simulasi' && (
+                <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-gray-50 border border-gray-100" /><span>Terkunci (Listening)</span></div>
+              )}
+            </div>
           </div>
-          <div className="flex flex-wrap gap-4 mt-4 text-xs">
-            <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-green-100" /><span>Terjawab</span></div>
-            <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-indigo" /><span>Aktif</span></div>
-            <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-amber-100" /><span>Ditandai</span></div>
-            <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-gray-100" /><span>Belum dikerjakan</span></div>
-            {selectedMode === 'simulasi' && (
-              <div className="flex items-center gap-1"><div className="w-3 h-3 rounded bg-gray-50 border border-gray-100" /><span>Terkunci (Listening)</span></div>
-            )}
-          </div>
-        </div>
+        )}
       </div>
     </div>
   );

@@ -36,6 +36,8 @@ function mapRow(row: Record<string, unknown>): Question {
     source: row.source as Question['source'],
     topic: row.topic ? String(row.topic) : undefined,
     difficulty_level: row.difficulty_level as Question['difficulty_level'],
+    package: row.package ? String(row.package) : undefined,
+    question_number: row.question_number ? Number(row.question_number) : undefined,
   };
 }
 
@@ -138,41 +140,61 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
 
         const tmpl = templateData as ExamTemplate;
 
-        // 4. Fetch questions per section (only sections with count > 0)
-        const sectionFetches: Promise<Question[]>[] = [];
+        // 4. Fetch questions
+        let allQuestions: Question[] = [];
+        const isTryout = slug.includes('tryout');
 
-        const sectionMap: [string, number][] = [
-          ['Vocabulary', tmpl.vocab_count],
-          ['Grammar', tmpl.grammar_count],
-          ['Reading', tmpl.reading_count],
-          ['Listening', tmpl.listening_count],
-        ];
+        if (isTryout) {
+          const pkgLetter = slug.endsWith('-1') ? 'A' : (slug.endsWith('-2') ? 'B' : 'C');
+          const { data, error: qErr } = await supabase
+            .from('questions')
+            .select('*')
+            .eq('level', level)
+            .eq('package', pkgLetter)
+            .eq('is_active', true)
+            .order('question_number', { ascending: true });
 
-        for (const [section, count] of sectionMap) {
-          if (count <= 0) continue;
+          if (qErr || !data) {
+            throw new Error(`Failed to fetch tryout questions: ${qErr?.message}`);
+          }
+          allQuestions = data.map(mapRow);
+        } else {
+          // Fetch questions per section (only sections with count > 0)
+          const sectionFetches: Promise<Question[]>[] = [];
 
-          // Fetch 3x the needed count to have randomization headroom
-          const fetchCount = Math.min(count * 3, 300);
+          const sectionMap: [string, number][] = [
+            ['Vocabulary', tmpl.vocab_count],
+            ['Grammar', tmpl.grammar_count],
+            ['Reading', tmpl.reading_count],
+            ['Listening', tmpl.listening_count],
+          ];
 
-          const promise = (async () => {
-            const { data, error: qErr } = await supabase
-              .from('questions')
-              .select('*')
-              .eq('level', level)
-              .eq('section', section)
-              .eq('is_active', true)
-              .limit(fetchCount);
+          for (const [section, count] of sectionMap) {
+            if (count <= 0) continue;
 
-            if (qErr || !data) return [];
-            const mapped = data.map(mapRow);
-            return shuffle(mapped).slice(0, count);
-          })();
+            // Fetch 3x the needed count to have randomization headroom
+            const fetchCount = Math.min(count * 3, 300);
 
-          sectionFetches.push(promise);
+            const promise = (async () => {
+              const { data, error: qErr } = await supabase
+                .from('questions')
+                .select('*')
+                .eq('level', level)
+                .eq('section', section)
+                .eq('is_active', true)
+                .limit(fetchCount);
+
+              if (qErr || !data) return [];
+              const mapped = data.map(mapRow);
+              return shuffle(mapped).slice(0, count);
+            })();
+
+            sectionFetches.push(promise);
+          }
+
+          const sectionResults = await Promise.all(sectionFetches);
+          allQuestions = sectionResults.flat();
         }
-
-        const sectionResults = await Promise.all(sectionFetches);
-        const allQuestions = sectionResults.flat();
 
         if (allQuestions.length === 0) {
           throw new Error('No questions returned from Supabase');

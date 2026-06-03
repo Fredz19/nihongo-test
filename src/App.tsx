@@ -12,6 +12,7 @@ import PricingPage from './sections/PricingPage';
 import Auth from './sections/Auth';
 import Kosakata from './sections/Kosakata';
 import Grammar from './sections/Grammar';
+import Settings from './sections/Settings';
 
 function App() {
   const initializeAuth = useAuthStore((state) => state.initializeAuth);
@@ -76,6 +77,14 @@ function App() {
             element={
               <ProtectedRoute>
                 <Grammar />
+              </ProtectedRoute>
+            } 
+          />
+          <Route 
+            path="/settings" 
+            element={
+              <ProtectedRoute>
+                <Settings />
               </ProtectedRoute>
             } 
           />

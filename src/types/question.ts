@@ -20,5 +20,7 @@ export interface Question {
   source?: QuestionSource;
   topic?: string;
   difficulty_level?: DifficultyLevel;
+  package?: string;
+  question_number?: number;
 }
 

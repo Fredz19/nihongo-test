@@ -10,6 +10,8 @@ export interface ActiveSession {
   flagged: number[]; // Array of questionIndexes that are flagged
   timeLeft: number;
   status: 'idle' | 'instruction' | 'running' | 'paused' | 'completed';
+  packageLetter?: 'A' | 'B' | 'C';
+  slug?: string;
 }
 
 export interface TestResult {
@@ -34,7 +36,12 @@ interface TestStore {
   sessionQuestions: Question[]; // Questions for the current session (set by MockTest)
 
   // Actions
-  startTest: (level: 'N5' | 'N4' | 'N3' | 'N2' | 'N1', mode: 'simulasi' | 'belajar') => void;
+  startTest: (
+    level: 'N5' | 'N4' | 'N3' | 'N2' | 'N1',
+    mode: 'simulasi' | 'belajar',
+    packageLetter?: 'A' | 'B' | 'C',
+    slug?: string
+  ) => void;
   setSessionQuestions: (questions: Question[]) => void;
   answerQuestion: (questionId: string, optionIndex: number) => void;
   toggleFlag: (questionIndex: number) => void;
@@ -46,7 +53,20 @@ interface TestStore {
 }
 
 
-const getInitialTime = (level: string): number => {
+const getInitialTime = (level: string, slug?: string): number => {
+  if (slug) {
+    if (slug.includes('tryout')) {
+      if (level === 'N5') return 105 * 60;
+      if (level === 'N4') return 125 * 60;
+    } else if (slug.includes('quick')) {
+      if (level === 'N5') return 40 * 60;
+      if (level === 'N4') return 50 * 60;
+    } else if (slug.includes('full')) {
+      if (level === 'N5') return 90 * 60;
+      if (level === 'N4') return 105 * 60;
+    }
+  }
+
   switch (level) {
     case 'N5': return 90 * 60;
     case 'N4': return 105 * 60;
@@ -62,7 +82,7 @@ export const useTestStore = create<TestStore>()(
       lastResult: null,
       sessionQuestions: [],
 
-      startTest: (level, mode) => {
+      startTest: (level, mode, packageLetter, slug) => {
         set({
           sessionQuestions: [], // clear previous session questions
           activeSession: {
@@ -71,8 +91,10 @@ export const useTestStore = create<TestStore>()(
             currentQuestionIndex: 0,
             answers: {},
             flagged: [],
-            timeLeft: getInitialTime(level),
-            status: 'instruction'
+            timeLeft: getInitialTime(level, slug),
+            status: 'instruction',
+            packageLetter,
+            slug
           }
         });
       },
@@ -188,7 +210,7 @@ export const useTestStore = create<TestStore>()(
 
         const totalScore = questions.length > 0 ? (correctCount / questions.length) * 180 : 0;
         const totalQuestions = questions.length;
-        const initialTime = getInitialTime(level);
+        const initialTime = getInitialTime(level, activeSession.slug);
         const timeSpent = initialTime - timeLeft;
 
         // Weakness detection — by section and by topic if available

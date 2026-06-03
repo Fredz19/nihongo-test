@@ -27,7 +27,7 @@ const sidebarItems = [
   { icon: <BookOpen className="w-5 h-5" />, label: 'Kosakata', page: 'kosakata' as const },
   { icon: <PenTool className="w-5 h-5" />, label: 'Grammar', page: 'grammar' as const },
   { icon: <BarChart3 className="w-5 h-5" />, label: 'Analisis', page: 'results' as const },
-  { icon: <Settings className="w-5 h-5" />, label: 'Pengaturan', page: 'dashboard' as const },
+  { icon: <Settings className="w-5 h-5" />, label: 'Pengaturan', page: 'settings' as const },
 ];
 
 const jlptLevels = [
@@ -289,7 +289,10 @@ export default function Dashboard() {
                 <Flame className="w-4 h-4 text-vermillion" />
                 <span className="text-sm font-semibold">12 hari</span>
               </div>
-              <div className="w-9 h-9 rounded-full bg-vermillion/10 flex items-center justify-center">
+              <div 
+                onClick={() => navigate('/settings')}
+                className="w-9 h-9 rounded-full bg-vermillion/10 flex items-center justify-center cursor-pointer hover:scale-105 transition-all"
+              >
                 <span className="text-sm font-bold text-vermillion">{displayName[0].toUpperCase()}</span>
               </div>
             </div>

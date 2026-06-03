@@ -16,7 +16,7 @@ const sidebarItems = [
   { icon: <BookOpen className="w-5 h-5" />, label: 'Kosakata', page: 'kosakata' },
   { icon: <PenTool className="w-5 h-5" />, label: 'Grammar', page: 'grammar' },
   { icon: <BarChart3 className="w-5 h-5" />, label: 'Analisis', page: 'results' },
-  { icon: <Settings className="w-5 h-5" />, label: 'Pengaturan', page: 'dashboard' }, // Fallback to dashboard for settings
+  { icon: <Settings className="w-5 h-5" />, label: 'Pengaturan', page: 'settings' },
 ];
 
 interface AppSidebarProps {
