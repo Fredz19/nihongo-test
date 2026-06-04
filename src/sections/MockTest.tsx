@@ -4,6 +4,7 @@ import { Clock, ChevronLeft, ChevronRight, Flag, AlertCircle, Pause, Play, Volum
 import { useTestStore } from '../hooks/useTestStore';
 import { useTestHistory } from '../hooks/useTestHistory';
 import { useQuestions } from '../hooks/useQuestions';
+import { playJapaneseAudio } from '../lib/audioService';
 
 // Timer formatting
 function formatTime(seconds: number) {
@@ -701,10 +702,18 @@ export default function MockTest() {
           {/* Question Text & Passage */}
           <div className="mb-8">
             {q?.passage && (
-              <div className="mb-6 p-4 rounded-lg border-l-4 bg-white" style={{ borderColor: '#1d3557' }}>
-                <p className="text-lg leading-relaxed font-serif" style={{ color: '#1a1a1a' }}>
+              <div className="mb-6 p-4 rounded-lg border-l-4 bg-white relative" style={{ borderColor: '#1d3557' }}>
+                <p className="text-lg leading-relaxed font-serif pr-10" style={{ color: '#1a1a1a' }}>
                   <span dangerouslySetInnerHTML={{ __html: q.passage }} />
                 </p>
+                <button
+                  type="button"
+                  onClick={() => playJapaneseAudio(q.id, (q.passage || '').replace(/<[^>]*>/g, ''))}
+                  className="absolute top-4 right-4 p-2 rounded-full hover:bg-gray-100 text-indigo transition-colors"
+                  title="Putar Audio Teks"
+                >
+                  <Volume2 className="w-5 h-5" />
+                </button>
               </div>
             )}
 

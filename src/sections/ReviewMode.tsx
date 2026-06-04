@@ -14,6 +14,7 @@ import {
 } from 'lucide-react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useTestStore } from '../hooks/useTestStore';
+import { playJapaneseAudio } from '../lib/audioService';
 
 export default function ReviewMode() {
   const location = useLocation();
@@ -140,10 +141,18 @@ export default function ReviewMode() {
               {/* Question */}
               <div className="mb-6">
                 {q.passage && (
-                  <div className="mb-4 p-4 rounded-lg border-l-4 bg-white" style={{ borderColor: '#1d3557' }}>
-                    <p className="text-base leading-relaxed font-serif">
+                  <div className="mb-4 p-4 rounded-lg border-l-4 bg-white relative" style={{ borderColor: '#1d3557' }}>
+                    <p className="text-base leading-relaxed font-serif pr-10">
                       <span dangerouslySetInnerHTML={{ __html: q.passage }} />
                     </p>
+                    <button
+                      type="button"
+                      onClick={() => playJapaneseAudio(q.id, (q.passage || '').replace(/<[^>]*>/g, ''))}
+                      className="absolute top-4 right-4 p-2 rounded-full hover:bg-gray-100 text-indigo transition-colors"
+                      title="Putar Audio Teks"
+                    >
+                      <Volume2 className="w-4 h-4" />
+                    </button>
                   </div>
                 )}
                 
