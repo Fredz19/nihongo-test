@@ -201,6 +201,7 @@ export default function MockTest() {
   };
 
   const [selectedPackage, setSelectedPackage] = useState<'1' | '2' | '3'>('1');
+  const [examType, setExamType] = useState<'choukai' | 'mojigoi'>('choukai');
   const [selectedMode, setSelectedMode] = useState<'simulasi' | 'belajar'>('simulasi');
   const [showConfirmEnd, setShowConfirmEnd] = useState(false);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
@@ -208,8 +209,8 @@ export default function MockTest() {
 
   const { saveResult } = useTestHistory();
 
-  // Determine exam template slug based on level and selected package
-  const templateSlug = `${level.toLowerCase()}-tryout-${selectedPackage}`;
+  // Determine exam template slug based on level, exam type and selected package
+  const templateSlug = level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${selectedPackage}` : `${level.toLowerCase()}-tryout-${selectedPackage}`;
   const { questions, isLoading: isLoadingQuestions } = useQuestions(
     (level as 'N5' | 'N4' | 'N3'),
     templateSlug
@@ -224,7 +225,12 @@ export default function MockTest() {
       navigate('/results', { replace: true });
     } else {
       setSelectedMode(activeSession.mode);
-      if (activeSession.slug && activeSession.slug.includes('tryout')) {
+      if (activeSession.slug) {
+        if (activeSession.slug.includes('mojigoi')) {
+          setExamType('mojigoi');
+        } else {
+          setExamType('choukai');
+        }
         const pkgNum = activeSession.slug.split('-').pop();
         if (pkgNum === '1' || pkgNum === '2' || pkgNum === '3') {
           setSelectedPackage(pkgNum as any);
@@ -349,6 +355,47 @@ export default function MockTest() {
           <p className="text-sumi mb-8">Bacalah instruksi berikut sebelum memulai.</p>
 
           <div className="space-y-4 mb-8">
+            {/* Exam Type Selector (N5 Only) */}
+            {level === 'N5' && (
+              <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
+                <label className="text-xs font-semibold text-sumi block mb-2">PILIH JENIS UJIAN</label>
+                <div className="grid grid-cols-2 gap-2">
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setExamType('choukai');
+                      const nextSlug = `n5-tryout-${selectedPackage}`;
+                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                      startTest(level as any, selectedMode, pkgLetter, nextSlug);
+                    }}
+                    className={`py-2 px-3 text-xs rounded-lg font-medium transition-all ${
+                      examType === 'choukai'
+                        ? 'bg-indigo text-white shadow-sm font-semibold'
+                        : 'bg-white text-sumi border hover:bg-gray-100'
+                    }`}
+                  >
+                    🎧 Choukai (Listening)
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setExamType('mojigoi');
+                      const nextSlug = `n5-mojigoi-${selectedPackage}`;
+                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                      startTest(level as any, selectedMode, pkgLetter, nextSlug);
+                    }}
+                    className={`py-2 px-3 text-xs rounded-lg font-medium transition-all ${
+                      examType === 'mojigoi'
+                        ? 'bg-indigo text-white shadow-sm font-semibold'
+                        : 'bg-white text-sumi border hover:bg-gray-100'
+                    }`}
+                  >
+                    📝 Mojigoi (Kosakata)
+                  </button>
+                </div>
+              </div>
+            )}
+
             {/* Package Selector */}
             <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
               <label className="text-xs font-semibold text-sumi block mb-2">PILIH PAKET TRY OUT</label>
@@ -361,7 +408,12 @@ export default function MockTest() {
                   <button
                     key={pkg.id}
                     type="button"
-                    onClick={() => setSelectedPackage(pkg.id as any)}
+                    onClick={() => {
+                      setSelectedPackage(pkg.id as any);
+                      const nextSlug = level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${pkg.id}` : `${level.toLowerCase()}-tryout-${pkg.id}`;
+                      const pkgLetter = pkg.id === '1' ? 'A' : (pkg.id === '2' ? 'B' : 'C');
+                      startTest(level as any, selectedMode, pkgLetter, nextSlug);
+                    }}
                     className={`py-2 px-1 text-xs rounded-lg font-medium transition-all ${
                       selectedPackage === pkg.id
                         ? 'bg-indigo text-white shadow-sm font-semibold'
@@ -419,7 +471,9 @@ export default function MockTest() {
               <div>
                 <div className="font-medium">Durasi Ujian</div>
                 <div className="text-sm text-sumi">
-                  {level === 'N5' ? '90 menit' : level === 'N4' ? '105 menit' : '130 menit'}
+                  {level === 'N5' 
+                    ? (examType === 'mojigoi' ? '20 menit' : '30 menit') 
+                    : level === 'N4' ? '105 menit' : '130 menit'}
                 </div>
               </div>
             </div>
@@ -585,6 +639,27 @@ export default function MockTest() {
             </button>
           </div>
 
+          {/* Mondai Section Headers */}
+          {q?.mondai && (currentQ === 0 || questions[currentQ - 1]?.mondai !== q.mondai) && (
+            <div className="mb-6 p-4 rounded-xl bg-indigo/5 border border-indigo/10">
+              <h3 className="text-sm font-bold text-indigo tracking-wider uppercase">
+                問題{q.mondai}
+                <span className="ml-2 text-sumi font-normal normal-case">
+                  {q.mondai === 1 && '— 漢字の読み方 (Kanji Reading)'}
+                  {q.mondai === 2 && '— 表記 (Orthography)'}
+                  {q.mondai === 3 && '— 文脈規定 (Contextual Vocabulary)'}
+                  {q.mondai === 4 && '— 言い換え類義 (Paraphrase)'}
+                </span>
+              </h3>
+              <p className="text-xs text-sumi mt-1">
+                {q.mondai === 1 && 'Pilih cara baca (hiragana) yang tepat untuk kanji yang bergaris bawah.'}
+                {q.mondai === 2 && 'Pilih penulisan yang tepat (kanji/katakana) untuk kata yang bergaris bawah.'}
+                {q.mondai === 3 && 'Pilih kata yang paling tepat untuk mengisi bagian yang kosong.'}
+                {q.mondai === 4 && 'Pilih kata/ungkapan yang paling dekat artinya dengan kata yang bergaris bawah.'}
+              </p>
+            </div>
+          )}
+
           {/* Question Text & Passage */}
           <div className="mb-8">
             {q?.passage && (
@@ -609,9 +684,24 @@ export default function MockTest() {
               />
             )}
 
-            <p className="text-lg leading-relaxed" style={{ color: '#1a1a1a' }}>
-              {q?.question}
-            </p>
+            {q?.section === 'Vocabulary' && q?.highlight ? (
+              <p className="text-lg leading-relaxed font-serif" style={{ color: '#1a1a1a' }}>
+                {q.question.split(q.highlight).map((part, idx, arr) => (
+                  <span key={idx}>
+                    {part}
+                    {idx < arr.length - 1 && (
+                      <span className="underline decoration-2 decoration-indigo underline-offset-4 font-semibold text-indigo">
+                        {q.highlight}
+                      </span>
+                    )}
+                  </span>
+                ))}
+              </p>
+            ) : (
+              <p className="text-lg leading-relaxed" style={{ color: '#1a1a1a' }}>
+                {q?.question}
+              </p>
+            )}
 
             {q?.imageUrl && (
               <div className="my-6 flex justify-center">
@@ -623,8 +713,8 @@ export default function MockTest() {
               </div>
             )}
 
-            {/* Highlight word for kanji reading questions */}
-            {q?.highlight && (
+            {/* Highlight word for kanji reading questions (non-Vocabulary only) */}
+            {q?.highlight && q?.section !== 'Vocabulary' && (
               <div className="mt-4 inline-block px-4 py-2 rounded-lg bg-indigo/5 border border-indigo/20">
                 <span className="text-2xl font-serif text-indigo">{q.highlight}</span>
               </div>

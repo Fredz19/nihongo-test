@@ -144,7 +144,25 @@ export default function ReviewMode() {
                     <p className="text-base leading-relaxed font-serif whitespace-pre-line">{q.passage}</p>
                   </div>
                 )}
-                <p className="text-lg leading-relaxed">{q.question}</p>
+                
+                {q.section === 'Vocabulary' && q.highlight ? (
+                  <p className="text-lg leading-relaxed font-serif" style={{ color: '#1a1a1a' }}>
+                    {q.question.split(q.highlight).map((part: string, idx: number, arr: string[]) => (
+                      <span key={idx}>
+                        {part}
+                        {idx < arr.length - 1 && (
+                          <span className="underline decoration-2 decoration-indigo underline-offset-4 font-semibold text-indigo">
+                            {q.highlight}
+                          </span>
+                        )}
+                      </span>
+                    ))}
+                  </p>
+                ) : (
+                  <p className="text-lg leading-relaxed" style={{ color: '#1a1a1a' }}>
+                    {q.question}
+                  </p>
+                )}
 
                 {q.imageUrl && (
                   <div className="my-6 flex justify-center">
@@ -156,8 +174,8 @@ export default function ReviewMode() {
                   </div>
                 )}
 
-                {/* Highlight word */}
-                {q.highlight && (
+                {/* Highlight word (non-Vocabulary only) */}
+                {q.highlight && q.section !== 'Vocabulary' && (
                   <div className="mt-4 inline-block px-4 py-2 rounded-lg bg-indigo/5 border border-indigo/20">
                     <span className="text-2xl font-serif text-indigo">{q.highlight}</span>
                   </div>
@@ -227,15 +245,24 @@ export default function ReviewMode() {
                     <div className="p-5 rounded-lg border" style={{ borderColor: 'rgba(26,26,26,0.1)' }}>
                       <h4 className="text-sm font-semibold mb-3 flex items-center gap-2">
                         <Type className="w-4 h-4" />
-                        Analisis Kanji
+                        Analisis Kanji / Kata
                       </h4>
                       <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
-                        <div className="text-5xl font-serif p-4 rounded-lg bg-gray-50 border w-24 h-24 flex items-center justify-center">{q.highlight}</div>
-                        <div className="space-y-1">
-                          <div className="text-sm"><strong>On'yomi:</strong> <span className="font-serif">{q.highlight === '山' ? 'サン (san)' : q.highlight === '学校' ? 'ガッ / コウ (ga/kou)' : q.highlight === '散歩' ? 'サン / ホ (san/ho)' : q.highlight === '必要' ? 'ヒツ / ヨウ (hitsu/you)' : '-'}</span></div>
-                          <div className="text-sm"><strong>Kun'yomi:</strong> <span className="font-serif">{q.highlight === '山' ? 'やま (yama)' : q.highlight === '学校' ? 'まな-bu / -be (mana-bu)' : q.highlight === '散歩' ? 'ち-る (chi-ru) / ある-く (aru-ku)' : q.highlight === '必要' ? 'いる (iru) / かなめ (kaname)' : '-'}</span></div>
-                          <div className="text-sm"><strong>Arti:</strong> {q.highlight === '山' ? 'Gunung' : q.highlight === '学校' ? 'Sekolah' : q.highlight === '散歩' ? 'Jalan-jalan' : q.highlight === '必要' ? 'Penting / Diperlukan' : '-'}</div>
-                        </div>
+                        <div className="text-4xl font-serif p-4 rounded-lg bg-gray-50 border min-w-24 h-24 flex items-center justify-center">{q.highlight}</div>
+                        {['山', '学校', '散歩', '必要'].includes(q.highlight) ? (
+                          <div className="space-y-1">
+                            <div className="text-sm"><strong>On'yomi:</strong> <span className="font-serif">{q.highlight === '山' ? 'サン (san)' : q.highlight === '学校' ? 'ガッ / コウ (ga/kou)' : q.highlight === '散歩' ? 'サン / ホ (san/ho)' : q.highlight === '必要' ? 'ヒツ / ヨウ (hitsu/you)' : '-'}</span></div>
+                            <div className="text-sm"><strong>Kun'yomi:</strong> <span className="font-serif">{q.highlight === '山' ? 'やま (yama)' : q.highlight === '学校' ? 'まな-bu / -be (mana-bu)' : q.highlight === '散歩' ? 'ち-る (chi-ru) / ある-く (aru-ku)' : q.highlight === '必要' ? 'いる (iru) / かなめ (kaname)' : '-'}</span></div>
+                            <div className="text-sm"><strong>Arti:</strong> {q.highlight === '山' ? 'Gunung' : q.highlight === '学校' ? 'Sekolah' : q.highlight === '散歩' ? 'Jalan-jalan' : q.highlight === '必要' ? 'Penting / Diperlukan' : '-'}</div>
+                          </div>
+                        ) : (
+                          <div className="space-y-1 flex-1">
+                            <div className="text-sm text-sumi leading-relaxed">
+                              Kata yang diuji dalam soal ini adalah <strong className="text-indigo">{q.highlight}</strong>. 
+                              Silakan periksa kotak penjelasan di atas untuk mempelajari cara baca hiragana dan artinya secara lengkap.
+                            </div>
+                          </div>
+                        )}
                       </div>
                     </div>
                   )}
@@ -266,9 +293,14 @@ export default function ReviewMode() {
                         Insight Kosakata
                       </h4>
                       <p className="text-sm leading-relaxed">
-                        Kosakata ini termasuk tingkat {result.level}. Dalam ujian JLPT, kosakata ini sering muncul 
-                        dalam konteks {q.type === 'context' ? 'pengisian rumpang kalimat' : q.type === 'paraphrase' ? 'persamaan kata / sinonim' : 'cara baca kanji'}.
-                        Fokuslah pada cara penggabungan kata dengan partikel yang tepat.
+                        Kosakata ini termasuk tingkat {result?.level || q.level}. Dalam ujian JLPT, soal ini menguji aspek{' '}
+                        <strong className="text-indigo">
+                          {q.type === 'kanji-read' && 'Cara Baca Kanji (漢字の読み方) — menentukan pelafalan hiragana dari kanji target.'}
+                          {q.type === 'orthography' && 'Penulisan Kata (表記) — menentukan penulisan Kanji/Katakana yang tepat dari hiragana target.'}
+                          {q.type === 'context' && 'Pemahaman Konteks (文脈規定) — menentukan kata yang paling logis untuk melengkapi kalimat.'}
+                          {q.type === 'paraphrase' && 'Parafrase/Sinonim (言い換え類義) — menentukan kata atau frasa dengan arti yang setara.'}
+                          {!['kanji-read', 'orthography', 'context', 'paraphrase'].includes(q.type) && 'Kosakata Umum.'}
+                        </strong>
                       </p>
                     </div>
                   )}

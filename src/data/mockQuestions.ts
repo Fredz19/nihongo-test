@@ -931,8 +931,1861 @@ const tipeBN5Questions: LegacyQuestion[] = [
   }
 ];
 
+
+// ─── N5 MOJIGOI QUESTIONS (AUTO-GENERATED) ───
+const mojigoiN5A: LegacyQuestion[] = [
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "お母さんはどこにいますか。",
+    "highlight": "お母さん",
+    "options": [
+      "おかあさん",
+      "おはさん",
+      "おかさん",
+      "おかあさ"
+    ],
+    "correct": 0,
+    "explanation": "「お母さん」は「おかあさん」と読みます。「母」は訓読みで「はは」ですが、「お母さん」（丁寧形）では「おかあさん」と読みます。長音（あ→かあ）に注意してください。",
+    "id": "mojigoi_a_m1_q01",
+    "mondai": 1,
+    "number": 1
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "友達と公園で遊びました。",
+    "highlight": "公園",
+    "options": [
+      "こうえん",
+      "こえん",
+      "こうおん",
+      "こおえん"
+    ],
+    "correct": 0,
+    "explanation": "「公園」は「こうえん」と読みます。公（こう）＋園（えん）で「こうえん」となります。公園は taman dalam bahasa Indonesia.",
+    "id": "mojigoi_a_m1_q02",
+    "mondai": 1,
+    "number": 2
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "あねに こどもが 生まれました。",
+    "highlight": "生まれ",
+    "options": [
+      "おまれました",
+      "うまれました",
+      "ゆまれました",
+      "いまれました"
+    ],
+    "correct": 1,
+    "explanation": "「生まれました」 dibaca 「うまれました」 yang berarti lahir.",
+    "id": "mojigoi_a_m1_q03",
+    "mondai": 1,
+    "number": 3
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "すみません、もっと 長い コートは ありませんか。",
+    "highlight": "長い",
+    "options": [
+      "ながい",
+      "たかい",
+      "ひくい",
+      "みじかい"
+    ],
+    "correct": 0,
+    "explanation": "「長い」 dibaca 「ながい」 yang berarti panjang.",
+    "id": "mojigoi_a_m1_q04",
+    "mondai": 1,
+    "number": 4
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "週末は家族と買い物に行きます。",
+    "highlight": "家族",
+    "options": [
+      "かぞく",
+      "かぞ",
+      "いえぞく",
+      "うちぞく"
+    ],
+    "correct": 0,
+    "explanation": "「家族」は「かぞく」と読みます。家（か）＋族（ぞく）で「かぞく」となります。家族は keluarga dalam bahasa Indonesia.",
+    "id": "mojigoi_a_m1_q05",
+    "mondai": 1,
+    "number": 5
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "手を洗ってから食事をします。",
+    "highlight": "手",
+    "options": [
+      "あし",
+      "て",
+      "はな",
+      "くち"
+    ],
+    "correct": 1,
+    "explanation": "「手」は「て」と読みます。足（あし）＝kaki、鼻（はな）＝hidung、口（くち）＝mulut。「手」＝tangan dalam bahasa Indonesia.",
+    "id": "mojigoi_a_m1_q06",
+    "mondai": 1,
+    "number": 6
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "子供のころ、よく川で泳ぎました。",
+    "highlight": "子供",
+    "options": [
+      "こどもの",
+      "こども",
+      "こきょう",
+      "しきょう"
+    ],
+    "correct": 1,
+    "explanation": "「子供」は「こども」と読みます。子（こ）＋供（ども）で「こども」となります。子供は anak-anak dalam bahasa Indonesia。「供」は「とも」とも読みますが、「子供」では「ども」と読みます。",
+    "id": "mojigoi_a_m1_q07",
+    "mondai": 1,
+    "number": 7
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "父は会社に勤めています。",
+    "highlight": "会社",
+    "options": [
+      "かいしゃ",
+      "かいさ",
+      "がいしゃ",
+      "えかい"
+    ],
+    "correct": 0,
+    "explanation": "「会社」は「かいしゃ」と読みます。会（かい）＋社（しゃ）で「かいしゃ」となります。連濁（れんだく）はなく、清音のままです。",
+    "id": "mojigoi_a_m1_q08",
+    "mondai": 1,
+    "number": 8
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "この くるまは 四年前に かいました。",
+    "highlight": "四年前に",
+    "options": [
+      "よねんまえ",
+      "よんねんまえ",
+      "よねんまい",
+      "よんねんまい"
+    ],
+    "correct": 0,
+    "explanation": "「四年前に」 dibaca 「よねんまえに」 yang berarti 4 tahun yang lalu.",
+    "id": "mojigoi_a_m1_q09",
+    "mondai": 1,
+    "number": 9
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "木曜日はアルバイトがあります。",
+    "highlight": "木曜日",
+    "options": [
+      "きようび",
+      "もくようび",
+      "もくようにち",
+      "きようにち"
+    ],
+    "correct": 1,
+    "explanation": "「木曜日」は「もくようび」と読みます。木（もく）＋曜（よう）＋日（び）で「もくようび」となります。木は単独では「き」ですが、曜日では音読み「もく」を使います。",
+    "id": "mojigoi_a_m1_q10",
+    "mondai": 1,
+    "number": 10
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "わたしの いぬは 耳が ちゃいろです。",
+    "highlight": "耳",
+    "options": [
+      "あし",
+      "め",
+      "みみ",
+      "からだ"
+    ],
+    "correct": 2,
+    "explanation": "「耳」 dibaca 「みみ」 yang berarti telinga.",
+    "id": "mojigoi_a_m1_q11",
+    "mondai": 1,
+    "number": 11
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "北海道は冬になると雪がたくさん降ります。",
+    "highlight": "冬",
+    "options": [
+      "なつ",
+      "はる",
+      "あき",
+      "ふゆ"
+    ],
+    "correct": 3,
+    "explanation": "「冬」は「ふゆ」と読みます。夏（なつ）＝musim panas、春（はる）＝musim semi、秋（あき）＝musim gugur、冬（ふゆ）＝musim dingin。雪（ゆき）と冬（ふゆ）のセットは典型的な日本語の知識です。",
+    "id": "mojigoi_a_m1_q12",
+    "mondai": 1,
+    "number": 12
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "へやに しゃわーは ありますか。",
+    "highlight": "しゃわー",
+    "options": [
+      "ツェワー",
+      "シャウー",
+      "ツャワー",
+      "シャワー"
+    ],
+    "correct": 3,
+    "explanation": "「しゃわー」 ditulis dalam katakana sebagai 「シャワー」 (shower).",
+    "id": "mojigoi_a_m2_q01",
+    "mondai": 2,
+    "number": 13
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "スーパーで ケーキを かってきたよ。",
+    "highlight": "かってきた",
+    "options": [
+      "員ってきた",
+      "貴ってきた",
+      "貢ってきた",
+      "買ってきた"
+    ],
+    "correct": 3,
+    "explanation": "「かってきた」 ditulis sebagai 「買ってきた」 (membeli).",
+    "id": "mojigoi_a_m2_q02",
+    "mondai": 2,
+    "number": 14
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「みぎ」の正しい漢字はどれですか。",
+    "options": [
+      "左",
+      "右",
+      "前",
+      "後"
+    ],
+    "correct": 1,
+    "explanation": "「みぎ」の正しい漢字は「右」です。左（ひだり）＝kiri、右（みぎ）＝kanan、前（まえ）＝depan、後（うしろ/あと）＝belakang/setelah。方向の漢字は形で覚えましょう。",
+    "id": "mojigoi_a_m2_q03",
+    "mondai": 2,
+    "number": 15
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「じかん」の正しい漢字はどれですか。",
+    "options": [
+      "時問",
+      "時間",
+      "自間",
+      "字間"
+    ],
+    "correct": 1,
+    "explanation": "「じかん（waktu）」の正しい漢字は「時間」です。時（じ）＋間（かん）で「時間」となります。時問・自間・字間は存在しない漢字の組み合わせです。",
+    "id": "mojigoi_a_m2_q04",
+    "mondai": 2,
+    "number": 16
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "がっこうの まえに かわが あります。",
+    "highlight": "かわ",
+    "options": [
+      "山",
+      "川",
+      "田",
+      "海"
+    ],
+    "correct": 1,
+    "explanation": "「かわ」 ditulis sebagai 「川」 (sungai).",
+    "id": "mojigoi_a_m2_q05",
+    "mondai": 2,
+    "number": 17
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "あには くるまを もっています。",
+    "highlight": "くるま",
+    "options": [
+      "東",
+      "車",
+      "乗",
+      "電"
+    ],
+    "correct": 1,
+    "explanation": "「くるま」 ditulis sebagai 「車」 (mobil).",
+    "id": "mojigoi_a_m2_q06",
+    "mondai": 2,
+    "number": 18
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "きのうは ともだちと えいがを みました。",
+    "highlight": "ともだち",
+    "options": [
+      "友だち",
+      "反だち",
+      "有だち",
+      "支だち"
+    ],
+    "correct": 0,
+    "explanation": "「ともだち」 ditulis sebagai 「友だち」 (teman).",
+    "id": "mojigoi_a_m2_q07",
+    "mondai": 2,
+    "number": 19
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "さとうさんは いろいろな みちを しっています。",
+    "highlight": "みち",
+    "options": [
+      "道",
+      "運",
+      "通",
+      "進"
+    ],
+    "correct": 0,
+    "explanation": "「みち」 ditulis sebagai 「道」 (jalan).",
+    "id": "mojigoi_a_m2_q08",
+    "mondai": 2,
+    "number": 20
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "A「ひるごはんを いっしょに たべませんか。」 B「はい。でも、（ ）から たべたいです。」",
+    "options": [
+      "でんわして",
+      "コピーして",
+      "そうじして",
+      "かいものして"
+    ],
+    "correct": 3,
+    "explanation": "Menyatakan ingin makan siang setelah berbelanja (買い物してから).",
+    "id": "mojigoi_a_m3_q01",
+    "mondai": 3,
+    "number": 21
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "その___は乗り場はここですか。",
+    "options": [
+      "バス",
+      "でんわ",
+      "えいが",
+      "ほん"
+    ],
+    "correct": 0,
+    "explanation": "「乗り場（のりば）＝tempat naik kendaraan」という言葉と組み合わせると「バス（bus）の乗り場」が最も自然です。電話（でんわ）・映画（えいが）・本（ほん）には「乗り場」は使いません。",
+    "id": "mojigoi_a_m3_q02",
+    "mondai": 3,
+    "number": 22
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "寒いから、___を着てください。",
+    "options": [
+      "くつ",
+      "ぼうし",
+      "コート",
+      "めがね"
+    ],
+    "correct": 2,
+    "explanation": "「寒い（さむい）＝dingin」から身を守るために「コート＝mantel」を着るのが自然です。靴（くつ）は履くもの（はく）、帽子（ぼうし）はかぶるもの、眼鏡（めがね）はかけるもので、「着る（きる）」とは使いません。",
+    "id": "mojigoi_a_m3_q03",
+    "mondai": 3,
+    "number": 23
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "先生の話を___ながら、ノートに書きます。",
+    "options": [
+      "みおくり",
+      "きき",
+      "はなし",
+      "おもい"
+    ],
+    "correct": 1,
+    "explanation": "「先生の話（penjelasan guru）」に対して「ノートに書く（menulis di buku catatan）」という動作を同時にするのは「聞きながら（sambil mendengarkan）」です。「聞く（きく）→聞き（きき）ながら」が正しい活用です。",
+    "id": "mojigoi_a_m3_q04",
+    "mondai": 3,
+    "number": 24
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "父は背が___くて、かっこいいです。",
+    "options": [
+      "ひく",
+      "たか",
+      "おも",
+      "かる"
+    ],
+    "correct": 1,
+    "explanation": "「かっこいい（tampan）」という褒め言葉と合わせると、「背が高い（tinggi badannya）」が適切です。背が低い＝pendek、重い＝berat、軽い＝ringan。「背が高い」で tinggi berbadan dalam bahasa Indonesia.",
+    "id": "mojigoi_a_m3_q05",
+    "mondai": 3,
+    "number": 25
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "めが わるいですから、（ ）を かけます。",
+    "options": [
+      "ペン",
+      "コート",
+      "ぼうし",
+      "めがね"
+    ],
+    "correct": 3,
+    "explanation": "「眼鏡をかける (めがねをかけます)」 berarti memakai kacamata.",
+    "id": "mojigoi_a_m3_q06",
+    "mondai": 3,
+    "number": 26
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "あの男の人は___が高くて、かっこいいですね。",
+    "options": [
+      "かお",
+      "て",
+      "せ",
+      "こえ"
+    ],
+    "correct": 2,
+    "explanation": "「___が高い」で「背が高い（tinggi badan）」という表現になります。顔（かお）が高い・手（て）が高い・声（こえ）が高い は不自然です。「背（せ）」は身長を表します。",
+    "id": "mojigoi_a_m3_q07",
+    "mondai": 3,
+    "number": 27
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "風が___くて、傘が飛んでしまいました。",
+    "options": [
+      "さむ",
+      "あつ",
+      "つよ",
+      "つめた"
+    ],
+    "correct": 2,
+    "explanation": "「傘が飛んだ（payung terbang）」という結果から「風が強い（anginnya kencang）」が正しいです。「強くて（つよくて）」が自然です。寒い・暑い・冷たいは風の強さを表しません。",
+    "id": "mojigoi_a_m3_q08",
+    "mondai": 3,
+    "number": 28
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "日本語が___になりたいです。",
+    "options": [
+      "じょうず",
+      "へた",
+      "むずかしい",
+      "やさしい"
+    ],
+    "correct": 0,
+    "explanation": "「〜になりたい（ingin menjadi）」という文脈で、言語学習の目標として「上手（じょうず）＝mahir/pandai」が最も自然です。「日本語が上手になりたい＝ingin menjadi mahir berbahasa Jepang」。下手（へた）は反対の意味です。",
+    "id": "mojigoi_a_m3_q09",
+    "mondai": 3,
+    "number": 29
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "のどが渇いたので、水を___たいです。",
+    "options": [
+      "食べ",
+      "飲み",
+      "読み",
+      "書き"
+    ],
+    "correct": 1,
+    "explanation": "「のどが渇いた（nhaus/tenggorokan kering）」の場合は「飲む（minum）」が正しいです。「水を飲みたい」で「ingin minum air」という意味になります。食べる＝makan、読む＝membaca、書く＝menulis。",
+    "id": "mojigoi_a_m3_q10",
+    "mondai": 3,
+    "number": 30
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「いつも」と同じ意味の言葉はどれですか。",
+    "options": [
+      "ときどき",
+      "たまに",
+      "まいにち",
+      "つねに"
+    ],
+    "correct": 3,
+    "explanation": "「いつも（selalu）」と同じ意味は「常に（つねに）＝selalu/senantiasa」です。時々（ときどき）＝kadang-kadang、たまに＝sesekali、毎日（まいにち）＝setiap hari（頻度は高いが「いつも」より限定的）。",
+    "id": "mojigoi_a_m4_q01",
+    "mondai": 4,
+    "number": 31
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「にぎやか」の反対の意味はどれですか。",
+    "options": [
+      "しずか",
+      "たのしい",
+      "きれい",
+      "あかるい"
+    ],
+    "correct": 0,
+    "explanation": "「賑やか（にぎやか）＝ramai/meriah」の反対は「静か（しずか）＝tenang/sepi」です。楽しい（たのしい）＝menyenangkan、きれい＝cantik/bersih、明るい（あかるい）＝terang/ceria。賑やか⇔静か は場所の騒がしさの対義語です。",
+    "id": "mojigoi_a_m4_q02",
+    "mondai": 4,
+    "number": 32
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "わたしは くだものを かいました。",
+    "highlight": "くだもの",
+    "options": [
+      "わたしは ノートや えんぴつを かいました。",
+      "わたしは さかなや にくを かいました。",
+      "わたしは りんごや みかんを かいました。",
+      "わたしam わたしは さらや コップを かいました。"
+    ],
+    "correct": 2,
+    "explanation": "「りんごや みかん」 (apel dan jeruk) tergolong sebagai 「くだもの」 (buah-buahan).",
+    "id": "mojigoi_a_m4_q03",
+    "mondai": 4,
+    "number": 33
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「むかし」と同じ意味の言葉はどれですか。",
+    "options": [
+      "これから",
+      "いま",
+      "いぜん",
+      "のちほど"
+    ],
+    "correct": 2,
+    "explanation": "「むかし（dahulu kala）」と同じ意味は「以前（いぜん）＝sebelumnya/dahulu」です。これから＝mulai sekarang（masa depan）、今＝sekarang、後ほど＝nanti。「むかし」と「以前」はどちらも過去を表します。",
+    "id": "mojigoi_a_m4_q04",
+    "mondai": 4,
+    "number": 34
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「おおきい」の反対の意味はどれですか。",
+    "options": [
+      "ひろい",
+      "ちいさい",
+      "たかい",
+      "おもい"
+    ],
+    "correct": 1,
+    "explanation": "「大きい（おおきい）＝besar」の反対は「小さい（ちいさい）＝kecil」です。広い（ひろい）＝luas、高い（たかい）＝tinggi/mahal、重い（おもい）＝berat。大きい⇔小さい はサイズの対義語です。",
+    "id": "mojigoi_a_m4_q05",
+    "mondai": 4,
+    "number": 35
+  }
+];
+
+const mojigoiN5B: LegacyQuestion[] = [
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "毎朝、六時に起きます。",
+    "highlight": "六時",
+    "options": [
+      "ろくじ",
+      "むじ",
+      "ろくとき",
+      "むとき"
+    ],
+    "correct": 0,
+    "explanation": "「六時」は「ろくじ」と読みます。六（ろく）は数字の6、時（じ）は時刻を表します。「むじ」「ろくとき」「むとき」はすべて間違った読み方です。",
+    "id": "mojigoi_b_m1_q01",
+    "mondai": 1,
+    "number": 1
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "南の国はとても暑いです。",
+    "highlight": "南",
+    "options": [
+      "きた",
+      "みなみ",
+      "ひがし",
+      "にし"
+    ],
+    "correct": 1,
+    "explanation": "「南」は「みなみ」と読みます。北（きた）＝utara、南（みなみ）＝selatan、東（ひがし）＝timur、西（にし）＝barat。方角の漢字を覚えましょう。",
+    "id": "mojigoi_b_m1_q02",
+    "mondai": 1,
+    "number": 2
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "あの 先生は わかいです。",
+    "highlight": "先生",
+    "options": [
+      "せんせえ",
+      "せんせい",
+      "せんせん",
+      "せんせ"
+    ],
+    "correct": 1,
+    "explanation": "「先生」 dibaca 「せんせい」 yang berarti guru.",
+    "id": "mojigoi_b_m1_q03",
+    "mondai": 1,
+    "number": 3
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "友達に誕生日のプレゼントをあげました。",
+    "highlight": "誕生日",
+    "options": [
+      "たんじょうび",
+      "たんじょうにち",
+      "たんじょうひ",
+      "うまれたび"
+    ],
+    "correct": 0,
+    "explanation": "「誕生日」は「たんじょうび」と読みます。誕生（たんじょう）＋日（び）で「たんじょうび」となります。誕生日は hari ulang tahun dalam bahasa Indonesia.",
+    "id": "mojigoi_b_m1_q04",
+    "mondai": 1,
+    "number": 4
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "今日は天気がいいですね。",
+    "highlight": "天気",
+    "options": [
+      "てんき",
+      "てき",
+      "あめき",
+      "そらき"
+    ],
+    "correct": 0,
+    "explanation": "「天気」は「てんき」と読みます。天（てん）＋気（き）で「てんき」となります。天気は 'cuaca' dalam bahasa Indonesia.",
+    "id": "mojigoi_b_m1_q05",
+    "mondai": 1,
+    "number": 5
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "今朝、新聞を読みました。",
+    "highlight": "新聞",
+    "options": [
+      "しんぶん",
+      "しんもん",
+      "あたらぶん",
+      "しんぶ"
+    ],
+    "correct": 0,
+    "explanation": "「新聞」は「しんぶん」と読みます。新（しん）＋聞（ぶん）で「しんぶん」となります。「聞」は「きく」とも読みますが、ここでは「ぶん」と読みます。",
+    "id": "mojigoi_b_m1_q06",
+    "mondai": 1,
+    "number": 6
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "夏は暑いので、よく水を飲みます。",
+    "highlight": "夏",
+    "options": [
+      "ふゆ",
+      "なつ",
+      "はる",
+      "あき"
+    ],
+    "correct": 1,
+    "explanation": "「夏」は「なつ」と読みます。冬（ふゆ）＝musim dingin、春（はる）＝musim semi、秋（あき）＝musim gugur、夏（なつ）＝musim panas。",
+    "id": "mojigoi_b_m1_q07",
+    "mondai": 1,
+    "number": 7
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "この問題の答えがわかりません。",
+    "highlight": "答え",
+    "options": [
+      "こたえ",
+      "へんじ",
+      "ひかえ",
+      "うたえ"
+    ],
+    "correct": 0,
+    "explanation": "「答え」は「こたえ」と読みます。答える（こたえる）の名詞形です。返事（へんじ）は返答の意味ですが、「答え」とは別の言葉です。控え（ひかえ）は控え書き、歌え（うたえ）は歌うの命令形です。",
+    "id": "mojigoi_b_m1_q08",
+    "mondai": 1,
+    "number": 8
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "妹は犬が大好きです。",
+    "highlight": "大好き",
+    "options": [
+      "おおすき",
+      "だいすき",
+      "たいすき",
+      "おおず"
+    ],
+    "correct": 1,
+    "explanation": "「大好き」は「だいすき」と読みます。大（だい）＋好き（すき）で「だいすき」となります。「大」は「おお」とも読みますが、「大好き」では音読み「だい」を使います。大好き＝sangat suka.",
+    "id": "mojigoi_b_m1_q09",
+    "mondai": 1,
+    "number": 9
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "母は毎日料理をします。",
+    "highlight": "毎日",
+    "options": [
+      "まいにち",
+      "まいび",
+      "ごとにち",
+      "まいひ"
+    ],
+    "correct": 0,
+    "explanation": "「毎日」は「まいにち」と読みます。毎（まい）＋日（にち）で「まいにち」となります。日は「にち」と読むことに注意してください。",
+    "id": "mojigoi_b_m1_q10",
+    "mondai": 1,
+    "number": 10
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "午後、図書館で本を読みます。",
+    "highlight": "図書館",
+    "options": [
+      "としょかん",
+      "としょかん",
+      "ずしょかん",
+      "としょかぬ"
+    ],
+    "correct": 0,
+    "explanation": "「図書館」は「としょかん」と読みます。図（と）＋書（しょ）＋館（かん）で「としょかん」となります。図書館は perpustakaan dalam bahasa Indonesia.",
+    "id": "mojigoi_b_m1_q11",
+    "mondai": 1,
+    "number": 11
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "兄は料理が得意です。",
+    "highlight": "料理",
+    "options": [
+      "りょうり",
+      "りょうにち",
+      "たべもの",
+      "りょり"
+    ],
+    "correct": 0,
+    "explanation": "「料理」は「りょうり」と読みます。料（りょう）＋理（り）で「りょうり」となります。料理は masakan/memasak dalam bahasa Indonesia.",
+    "id": "mojigoi_b_m1_q12",
+    "mondai": 1,
+    "number": 12
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「こうえん」の正しい漢字はどれですか。",
+    "options": [
+      "公演",
+      "公園",
+      "工園",
+      "校園"
+    ],
+    "correct": 1,
+    "explanation": "「こうえん（taman）」の正しい漢字は「公園」です。公（こう）＋園（えん）です。公演（こうえん）も同音ですが「舞台公演（pertunjukan panggung）」の意味です。文脈から「taman」の意味の「公園」が正しいです。",
+    "id": "mojigoi_b_m2_q01",
+    "mondai": 2,
+    "number": 13
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "ほっかいどうは にほんの きたに あります。",
+    "highlight": "きた",
+    "options": [
+      "南",
+      "西",
+      "北",
+      "東"
+    ],
+    "correct": 2,
+    "explanation": "「きた」 ditulis sebagai 「北」 (utara).",
+    "id": "mojigoi_b_m2_q02",
+    "mondai": 2,
+    "number": 14
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "ことしの なつは やまへ いきます。",
+    "highlight": "やま",
+    "options": [
+      "ヨ",
+      "出",
+      "川",
+      "山"
+    ],
+    "correct": 3,
+    "explanation": "「やま」 ditulis sebagai 「山」 (gunung).",
+    "id": "mojigoi_b_m2_q03",
+    "mondai": 2,
+    "number": 15
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "わたしの すんでいる まちは みせが すくないです。",
+    "highlight": "みせ",
+    "options": [
+      "居",
+      "庁",
+      "店",
+      "痁"
+    ],
+    "correct": 2,
+    "explanation": "「みせ」 ditulis sebagai 「店」 (toko).",
+    "id": "mojigoi_b_m2_q04",
+    "mondai": 2,
+    "number": 16
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「ともだち」の正しい漢字はどれですか。",
+    "options": [
+      "共達",
+      "友達",
+      "共立",
+      "友立"
+    ],
+    "correct": 1,
+    "explanation": "「ともだち」の正しい漢字は「友達」です。友（とも）＋達（だち）です。共（とも）は「一緒に」の意味があり音は同じですが、友達の「友」は友情の意味です。",
+    "id": "mojigoi_b_m2_q05",
+    "mondai": 2,
+    "number": 17
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「がっこう」の正しい漢字はどれですか。",
+    "options": [
+      "学効",
+      "学校",
+      "楽校",
+      "学孝"
+    ],
+    "correct": 1,
+    "explanation": "「がっこう」の正しい漢字は「学校」です。学（がく→がっ）＋校（こう）です。学効・楽校・学孝はすべて存在しない漢字の組み合わせです。",
+    "id": "mojigoi_b_m2_q06",
+    "mondai": 2,
+    "number": 18
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「そら」の正しい漢字はどれですか。",
+    "options": [
+      "雨",
+      "雪",
+      "空",
+      "雲"
+    ],
+    "correct": 2,
+    "explanation": "「そら」の正しい漢字は「空」です。雨（あめ）＝hujan、雪（ゆき）＝salju、空（そら）＝langit、雲（くも）＝awan。天気の漢字は似ているものが多いので注意が必要です。",
+    "id": "mojigoi_b_m2_q07",
+    "mondai": 2,
+    "number": 19
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "こんど、いっしょに れすとらんに 行きましょう。",
+    "highlight": "れすとらん",
+    "options": [
+      "ルストラソ",
+      "ルストラン",
+      "レストラソ",
+      "レストラン"
+    ],
+    "correct": 3,
+    "explanation": "「れすとらん」 ditulis dalam katakana sebagai 「レストラン」 (restoran).",
+    "id": "mojigoi_b_m2_q08",
+    "mondai": 2,
+    "number": 20
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "兄は毎朝___で会社まで行きます。",
+    "options": [
+      "じてんしゃ",
+      "でんしゃ",
+      "バス",
+      "あし"
+    ],
+    "correct": 0,
+    "explanation": "「毎朝（まいあさ）＝setiap pagi」「会社（かいしゃ）＝kantor」への通勤に「自転車（じてんしゃ）＝sepeda」を使うのは自然です。他の選択肢も可能ですが、「で」の前に交通手段が来るため、全て文法的には正しいです。ただし、この文脈では自転車が最もよく使われる表現です。",
+    "id": "mojigoi_b_m3_q01",
+    "mondai": 3,
+    "number": 21
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "この料理は___すぎて、食べられません。",
+    "options": [
+      "あつ",
+      "つめた",
+      "から",
+      "あま"
+    ],
+    "correct": 2,
+    "explanation": "「食べられない（tidak bisa makan）」という状況と合わせると「辛すぎる（terlalu pedas）」が最も自然です。熱すぎる（terlalu panas）も可能ですが、辛い（からい）は日本語で典型的な「食べられない理由」です。",
+    "id": "mojigoi_b_m3_q02",
+    "mondai": 3,
+    "number": 22
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "電車が___なかったので、バスで来ました。",
+    "options": [
+      "来",
+      "行き",
+      "乗り",
+      "走り"
+    ],
+    "correct": 0,
+    "explanation": "「電車が来なかった（kereta tidak datang）」が自然な表現です。「来る（くる）→来（こ）なかった」という否定形です。電車が来ないとき、代わりにバスを使うというコンテキストが合います。",
+    "id": "mojigoi_b_m3_q03",
+    "mondai": 3,
+    "number": 23
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "この荷物は___すぎて、一人では持てません。",
+    "options": [
+      "かる",
+      "おも",
+      "たか",
+      "おお"
+    ],
+    "correct": 1,
+    "explanation": "「一人では持てない（tidak bisa dibawa sendiri）」という文脈から「重すぎる（terlalu berat）」が正しいです。「重くて（おもくて）→重すぎて（おもすぎて）」という表現になります。軽い（かるい）は反対の意味です。",
+    "id": "mojigoi_b_m3_q04",
+    "mondai": 3,
+    "number": 24
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "スーパーで野菜と___を買いました。",
+    "options": [
+      "くるま",
+      "くつ",
+      "くだもの",
+      "かばん"
+    ],
+    "correct": 2,
+    "explanation": "スーパー（supermarket）で野菜（やさい）と一緒に買うものとして「果物（くだもの）＝buah-buahan」が最も自然です。車（くるま）・靴（くつ）・鞄（かばん）はスーパーで売っていないものです。",
+    "id": "mojigoi_b_m3_q05",
+    "mondai": 3,
+    "number": 25
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "げんかんで くつを（ ）ください。",
+    "options": [
+      "ならべて",
+      "とって",
+      "ぬいで",
+      "はいって"
+    ],
+    "correct": 2,
+    "explanation": "Di pintu masuk (げんかん), kebiasaan di Jepang adalah melepas sepatu (ぬいでください).",
+    "id": "mojigoi_b_m3_q06",
+    "mondai": 3,
+    "number": 26
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "まいにち（ ）にほんごの べんきょうを しますか。合わ",
+    "options": [
+      "どれくらい",
+      "いくつ",
+      "いかが",
+      "どちらか"
+    ],
+    "correct": 0,
+    "explanation": "「どれくらい」 menanyakan jangka waktu/berapa lama belajar bahasa Jepang setiap hari.",
+    "id": "mojigoi_b_m3_q07",
+    "mondai": 3,
+    "number": 27
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "明日は___なので、傘を持っていきます。",
+    "options": [
+      "はれ",
+      "くもり",
+      "あめ",
+      "ゆき"
+    ],
+    "correct": 2,
+    "explanation": "「傘を持っていく（membawa payung）」という文脈から、「雨（あめ）＝hujan」が正しいです。晴れ＝cerah、曇り＝berawan、雪＝salju。傘は雨のときに使うものです。",
+    "id": "mojigoi_b_m3_q08",
+    "mondai": 3,
+    "number": 28
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "「さようなら。（ ）あした。」",
+    "options": [
+      "もう",
+      "どうも",
+      "また",
+      "もっと"
+    ],
+    "correct": 2,
+    "explanation": "「また あした」 berarti sampai jumpa besok.",
+    "id": "mojigoi_b_m3_q09",
+    "mondai": 3,
+    "number": 29
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "駅まで___でどのくらいかかりますか。",
+    "options": [
+      "あるいて",
+      "みて",
+      "よんで",
+      "かいて"
+    ],
+    "correct": 0,
+    "explanation": "「駅まで___でどのくらいかかる（berapa lama untuk sampai ke stasiun）」という文脈から「歩いて（あるいて）＝dengan berjalan kaki」が最も自然です。徒歩でどのくらいかかるかを聞く表現です。",
+    "id": "mojigoi_b_m3_q10",
+    "mondai": 3,
+    "number": 30
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "あのひとは たなかさんの おじさんです。",
+    "highlight": "おじさん",
+    "options": [
+      "たなかさんの おかあさんの おとうさんは あのひとです。",
+      "たなかさんの おかあさんの おにいさんは あのひとです。",
+      "たなかさんの おかあさんの いもうとさんは あのひとです。",
+      "たなかさんの おかあさんの おかあさんは あのひとです。"
+    ],
+    "correct": 1,
+    "explanation": "「おじさん」 (paman) adalah saudara laki-laki dari orang tua (おにいさん / kakak laki-laki ibu).",
+    "id": "mojigoi_b_m4_q01",
+    "mondai": 4,
+    "number": 31
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「たかい」（値段）の反対の意味はどれですか。",
+    "options": [
+      "おもい",
+      "ひくい",
+      "やすい",
+      "ちいさい"
+    ],
+    "correct": 2,
+    "explanation": "値段（ねだん）の「高い（たかい）＝mahal」の反対は「安い（やすい）＝murah」です。重い（おもい）＝berat、低い（ひくい）＝rendah（高さの反対）、小さい（ちいさい）＝kecil。値段文脈では高い⇔安い が対義語です。",
+    "id": "mojigoi_b_m4_q02",
+    "mondai": 4,
+    "number": 32
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「ちかい」の反対の意味はどれですか。",
+    "options": [
+      "とおい",
+      "はやい",
+      "おそい",
+      "おおい"
+    ],
+    "correct": 0,
+    "explanation": "「近い（ちかい）＝dekat」の反対は「遠い（とおい）＝jauh」です。速い（はやい）＝cepat、遅い（おそい）＝lambat、多い（おおい）＝banyak。近い⇔遠い は距離の対義語です。",
+    "id": "mojigoi_b_m4_q03",
+    "mondai": 4,
+    "number": 33
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「むずかしい」の反対の意味はどれですか。",
+    "options": [
+      "おもしろい",
+      "やさしい",
+      "つまらない",
+      "こわい"
+    ],
+    "correct": 1,
+    "explanation": "「難しい（むずかしい）＝sulit」の反対は「易しい（やさしい）＝mudah」です。面白い（おもしろい）＝menarik、つまらない＝membosankan、怖い（こわい）＝menakutkan。難しい⇔易しい は難易度の対義語です。",
+    "id": "mojigoi_b_m4_q04",
+    "mondai": 4,
+    "number": 34
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「さむい」の反対の意味はどれですか。",
+    "options": [
+      "つめたい",
+      "あつい",
+      "すずしい",
+      "あたたかい"
+    ],
+    "correct": 1,
+    "explanation": "「寒い（さむい）＝dingin（udara）」の反対は「暑い（あつい）＝panas（udara）」です。冷たい（つめたい）＝dingin（benda/air）、涼しい（すずしい）＝sejuk、暖かい（あたたかい）＝hangat。寒い⇔暑い は気温の対義語です。",
+    "id": "mojigoi_b_m4_q05",
+    "mondai": 4,
+    "number": 35
+  }
+];
+
+const mojigoiN5C: LegacyQuestion[] = [
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "去年、日本語を勉強しました。",
+    "highlight": "去年",
+    "options": [
+      "きょねん",
+      "こねん",
+      "さくねん",
+      "きょうねん"
+    ],
+    "correct": 0,
+    "explanation": "「去年」は「きょねん」と読みます。去（きょ）＋年（ねん）で「きょねん」となります。去年は tahun lalu dalam bahasa Indonesia。「さくねん」も正しい読みですが、この選択肢では「きょねん」が最も一般的です。",
+    "id": "mojigoi_c_m1_q01",
+    "mondai": 1,
+    "number": 1
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "学校は駅の近くにあります。",
+    "highlight": "学校",
+    "options": [
+      "がこう",
+      "がっこう",
+      "がっこ",
+      "がくこ"
+    ],
+    "correct": 1,
+    "explanation": "「学校」は「がっこう」と読みます。学（がく）の「く」が促音（っ）になり、校（こう）と合わさって「がっこう」になります。",
+    "id": "mojigoi_c_m1_q02",
+    "mondai": 1,
+    "number": 2
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "この クラスは 女の子が おおいです。",
+    "highlight": "女の子",
+    "options": [
+      "おなのこ",
+      "おんなのこ",
+      "おんなのこう",
+      "おなのこう"
+    ],
+    "correct": 1,
+    "explanation": "「女の子」 dibaca 「おんなのこ」 yang berarti anak perempuan.",
+    "id": "mojigoi_c_m1_q03",
+    "mondai": 1,
+    "number": 3
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "夕方、空がきれいな赤色になりました。",
+    "highlight": "夕方",
+    "options": [
+      "ゆうがた",
+      "ゆうほう",
+      "よるがた",
+      "ゆがた"
+    ],
+    "correct": 0,
+    "explanation": "「夕方」は「ゆうがた」と読みます。夕（ゆう）＋方（がた）で「ゆうがた」となります。夕方は sore hari dalam bahasa Indonesia.",
+    "id": "mojigoi_c_m1_q04",
+    "mondai": 1,
+    "number": 4
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "あの山はとても高いです。",
+    "highlight": "山",
+    "options": [
+      "かわ",
+      "やま",
+      "もり",
+      "さん"
+    ],
+    "correct": 1,
+    "explanation": "「山」は訓読みで「やま」と読みます。音読みは「さん」ですが、単独で使う場合は「やま」が正しいです。「かわ」は川、「もり」は森の読み方です。",
+    "id": "mojigoi_c_m1_q05",
+    "mondai": 1,
+    "number": 5
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "入口はどこですか。",
+    "highlight": "入口",
+    "options": [
+      "でぐち",
+      "いりくち",
+      "いりぐち",
+      "でくち"
+    ],
+    "correct": 2,
+    "explanation": "「入口」は「いりぐち」と読みます。入（いり）＋口（くち→ぐち）で、連濁により「ぐち」となります。出口（でぐち）＝pintu keluar、入口（いりぐち）＝pintu masuk。",
+    "id": "mojigoi_c_m1_q06",
+    "mondai": 1,
+    "number": 6
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "すみません、お金を わすれました。",
+    "highlight": "お金",
+    "options": [
+      "おかね",
+      "おかぬ",
+      "おがね",
+      "おがぬ"
+    ],
+    "correct": 0,
+    "explanation": "「お金」 dibaca 「おかね」 yang berarti uang.",
+    "id": "mojigoi_c_m1_q07",
+    "mondai": 1,
+    "number": 7
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "この青いシャツはいくらですか。",
+    "highlight": "青い",
+    "options": [
+      "きいろい",
+      "あかい",
+      "あおい",
+      "くろい"
+    ],
+    "correct": 2,
+    "explanation": "「青い」は「あおい」と読みます。黄色い（きいろい）＝kuning、赤い（あかい）＝merah、黒い（くろい）＝hitam、青い（あおい）＝biru.",
+    "id": "mojigoi_c_m1_q08",
+    "mondai": 1,
+    "number": 8
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "はしの うえで 電車が とまりました。",
+    "highlight": "電車",
+    "options": [
+      "でんしゃ",
+      "てんしゃ",
+      "てんじゃ",
+      "でんじゃ"
+    ],
+    "correct": 0,
+    "explanation": "「電車」 dibaca 「でんしゃ」 yang berarti kereta api listrik.",
+    "id": "mojigoi_c_m1_q09",
+    "mondai": 1,
+    "number": 9
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "駅の前に食堂があります。",
+    "highlight": "食堂",
+    "options": [
+      "しょくどう",
+      "しょくとう",
+      "たべどう",
+      "しょくどお"
+    ],
+    "correct": 0,
+    "explanation": "「食堂」は「しょくどう」と読みます。食（しょく）＋堂（どう）で「しょくどう」となります。食堂は kantin/ruang makan dalam bahasa Indonesia.",
+    "id": "mojigoi_c_m1_q10",
+    "mondai": 1,
+    "number": 10
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "地下鉄で銀座まで行きます。",
+    "highlight": "地下鉄",
+    "options": [
+      "ちかてつ",
+      "じかてつ",
+      "ちしたてつ",
+      "ちかでつ"
+    ],
+    "correct": 0,
+    "explanation": "「地下鉄」は「ちかてつ」と読みます。地（ち）＋下（か）＋鉄（てつ）で「ちかてつ」となります。地下鉄は kereta bawah tanah/subway dalam bahasa Indonesia.",
+    "id": "mojigoi_c_m1_q11",
+    "mondai": 1,
+    "number": 11
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "kanji-read",
+    "question": "仕事が終わったら、飲みに行きましょう。",
+    "highlight": "仕事",
+    "options": [
+      "しごと",
+      "しぎょう",
+      "しこと",
+      "じごと"
+    ],
+    "correct": 0,
+    "explanation": "「仕事」は「しごと」と読みます。仕（し）＋事（ごと）で「しごと」となります。連濁により「こと」→「ごと」に変化します。仕事は pekerjaan dalam bahasa Indonesia.",
+    "id": "mojigoi_c_m1_q12",
+    "mondai": 1,
+    "number": 12
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "この さかなは おいしいです。",
+    "highlight": "さかな",
+    "options": [
+      "魚",
+      "鳥",
+      "肉",
+      "米"
+    ],
+    "correct": 0,
+    "explanation": "「さかな」 ditulis sebagai 「魚」 (ikan).",
+    "id": "mojigoi_c_m2_q01",
+    "mondai": 2,
+    "number": 13
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「びょういん」の正しい漢字はどれですか。",
+    "options": [
+      "美容院",
+      "病院",
+      "美院",
+      "病飲"
+    ],
+    "correct": 1,
+    "explanation": "「びょういん」の正しい漢字は「病院」です。病（びょう）＋院（いん）です。美容院（びよういん）は美容室で発音が似ていますが異なります。病院は rumah sakit、美容院は salon kecantikan です。",
+    "id": "mojigoi_c_m2_q02",
+    "mondai": 2,
+    "number": 14
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "きょうしつは 9 かいですから、えれべーたーに のりましょう。",
+    "highlight": "えれべーたー",
+    "options": [
+      "エレベークー",
+      "エレベーター",
+      "エレベーター",
+      "エルベークー"
+    ],
+    "correct": 1,
+    "explanation": "「えれべーたー」 ditulis dalam katakana sebagai 「エレベーター」 (elevator).",
+    "id": "mojigoi_c_m2_q03",
+    "mondai": 2,
+    "number": 15
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「かいもの」の正しい漢字はどれですか。",
+    "options": [
+      "貝物",
+      "買物",
+      "買い物",
+      "海物"
+    ],
+    "correct": 2,
+    "explanation": "「かいもの（belanja）」の正しい漢字は「買い物」です。買（かい）＋物（もの）で「買い物」となります。貝（かい）は貝殻のこと、海（うみ）は laut。送り仮名（おくりがな）の「い」が必要です。",
+    "id": "mojigoi_c_m2_q04",
+    "mondai": 2,
+    "number": 16
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "でんしゃの なかで ほんを よみました。",
+    "highlight": "よみました",
+    "options": [
+      "書きました",
+      "読みました",
+      "聞きました",
+      "見ました"
+    ],
+    "correct": 1,
+    "explanation": "「よみました」 ditulis sebagai 「読みました」 (membaca).",
+    "id": "mojigoi_c_m2_q05",
+    "mondai": 2,
+    "number": 17
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "この テーブルは ごまんえんでした。",
+    "highlight": "ごまんえん",
+    "options": [
+      "五方円",
+      "五万円",
+      "五万内",
+      "五方内"
+    ],
+    "correct": 1,
+    "explanation": "「ごまんえん」 ditulis sebagai 「五万円」 (50.000 yen).",
+    "id": "mojigoi_c_m2_q06",
+    "mondai": 2,
+    "number": 18
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "「やすみ」の正しい漢字はどれですか。",
+    "options": [
+      "安み",
+      "休み",
+      "易み",
+      "泰み"
+    ],
+    "correct": 1,
+    "explanation": "「やすみ（istirahat/hari libur）」の正しい漢字は「休み」です。休む（やすむ）の名詞形が「休み（やすみ）」です。安（やす）は「安い（やすい）」の安、易も「やすい」と読みますが「休み」の漢字は「休」です。",
+    "id": "mojigoi_c_m2_q07",
+    "mondai": 2,
+    "number": 19
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "orthography",
+    "question": "となりの いえの ねこは あしが くろいです。",
+    "highlight": "あし",
+    "options": [
+      "足",
+      "目",
+      "手",
+      "耳"
+    ],
+    "correct": 0,
+    "explanation": "「あし」 ditulis sebagai 「足」 (kaki).",
+    "id": "mojigoi_c_m2_q08",
+    "mondai": 2,
+    "number": 20
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "いもうとは あかい ぼうしを（ ）。",
+    "options": [
+      "とっています",
+      "きています",
+      "かかっています",
+      "かぶっています"
+    ],
+    "correct": 3,
+    "explanation": "「帽子をかぶる (かぶっています)」 berarti memakai topi.",
+    "id": "mojigoi_c_m3_q01",
+    "mondai": 3,
+    "number": 21
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "弟は___が好きで、毎日練習しています。",
+    "options": [
+      "りょうり",
+      "サッカー",
+      "えいご",
+      "すいえい"
+    ],
+    "correct": 1,
+    "explanation": "「毎日練習（berlatih setiap hari）」という文脈から、練習が必要な「サッカー（sepak bola）」が最も自然です。料理（りょうり）も練習できますが、サッカーの方が「練習」という言葉と結びつきが強いです。",
+    "id": "mojigoi_c_m3_q02",
+    "mondai": 3,
+    "number": 22
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "この問題は___すぎて、わかりません。",
+    "options": [
+      "むずかし",
+      "やさし",
+      "おおき",
+      "ちいさ"
+    ],
+    "correct": 0,
+    "explanation": "「わかりません（tidak mengerti）」という結果から「難しすぎる（terlalu sulit）」が正しいです。易しい＝mudah（jika mudah, pasti mengerti）、大きい・小さい は問題の特性として合いません。",
+    "id": "mojigoi_c_m3_q03",
+    "mondai": 3,
+    "number": 23
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "毎晩、寝る前に___を読みます。",
+    "options": [
+      "えいが",
+      "おんがく",
+      "ほん",
+      "スポーツ"
+    ],
+    "correct": 2,
+    "explanation": "「寝る前に（sebelum tidur）」に「読む（membaca）」という動詞が来るので、読むことができるものは「本（ほん）＝buku」が正しいです。映画・音楽・スポーツは「読む」とは言いません。",
+    "id": "mojigoi_c_m3_q04",
+    "mondai": 3,
+    "number": 24
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "こうえんで（ ）の しゃしんを とりました。",
+    "options": [
+      "とり",
+      "はな",
+      "ともだち",
+      "いけ"
+    ],
+    "correct": 1,
+    "explanation": "Mengambil foto bunga (はなのしゃしんをとりました) di taman.",
+    "id": "mojigoi_c_m3_q05",
+    "mondai": 3,
+    "number": 25
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "今日は休みなので、一日中___いました。",
+    "options": [
+      "はたらいて",
+      "ねて",
+      "はしって",
+      "かいて"
+    ],
+    "correct": 1,
+    "explanation": "「休み（hari libur）」「一日中（seharian）」という文脈から「寝ていた（tidur-tiduran）」が最も自然です。働いて（bekerja）は休みと矛盾します。",
+    "id": "mojigoi_c_m3_q06",
+    "mondai": 3,
+    "number": 26
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "わたしは あさ シャワーを（ ）。",
+    "options": [
+      "はいります",
+      "あびます",
+      "いれます",
+      "たべます"
+    ],
+    "correct": 1,
+    "explanation": "「シャワーを浴びる (あびます)」 berarti mandi menggunakan pancuran.",
+    "id": "mojigoi_c_m3_q07",
+    "mondai": 3,
+    "number": 27
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "タクシーを（ ）ください。",
+    "options": [
+      "のって",
+      "よんで",
+      "とって",
+      "あって"
+    ],
+    "correct": 1,
+    "explanation": "「タクシーを呼ぶ (よぶ -> よんで)」 berarti memanggil taksi.",
+    "id": "mojigoi_c_m3_q08",
+    "mondai": 3,
+    "number": 28
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "さいふを（ ）かもしれません。",
+    "options": [
+      "だした",
+      "わたした",
+      "かった",
+      "なくした"
+    ],
+    "correct": 3,
+    "explanation": "「財布をなくす (なくした)」 berarti menghilangkan dompet.",
+    "id": "mojigoi_c_m3_q09",
+    "mondai": 3,
+    "number": 29
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "context",
+    "question": "お腹が___から、ご飯を食べましょう。",
+    "options": [
+      "かわいた",
+      "すいた",
+      "いたい",
+      "おもい"
+    ],
+    "correct": 1,
+    "explanation": "「ご飯を食べましょう（ayo makan）」という文脈から「お腹が空いた（lapar）」が正しいです。「空く（すく）」でお腹が空くという意味です。「乾いた」はのどに使う、「痛い」は食べる理由にならない、「重い」も違います。",
+    "id": "mojigoi_c_m3_q10",
+    "mondai": 3,
+    "number": 30
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「でかける」と同じ意味の言葉はどれですか。",
+    "options": [
+      "そとへいく",
+      "うちにいる",
+      "ねる",
+      "たべる"
+    ],
+    "correct": 0,
+    "explanation": "「出かける（でかける）＝pergi keluar」と同じ意味は「外へ行く（そとへいく）」です。外（そと）＝luar、家にいる（うちにいる）＝di rumah（反対の意味）。出かけるは家から外に出ることを意味します。",
+    "id": "mojigoi_c_m4_q01",
+    "mondai": 4,
+    "number": 31
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「うごく」の反対の意味はどれですか。",
+    "options": [
+      "はしる",
+      "とまる",
+      "あるく",
+      "とぶ"
+    ],
+    "correct": 1,
+    "explanation": "「動く（うごく）＝bergerak」の反対は「止まる（とまる）＝berhenti」です。走る（はしる）＝berlari（動くの一種）、歩く（あるく）＝berjalan（動くの一種）、飛ぶ（とぶ）＝terbang（動くの一種）。",
+    "id": "mojigoi_c_m4_q02",
+    "mondai": 4,
+    "number": 32
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「かなり」と同じ意味の言葉はどれですか。",
+    "options": [
+      "すこし",
+      "ぜんぜん",
+      "けっこう",
+      "もしかして"
+    ],
+    "correct": 2,
+    "explanation": "「かなり（cukup/lumayan）」と同じ意味は「結構（けっこう）＝cukup/lumayan」です。少し（すこし）＝sedikit（程度が低い）、全然（ぜんぜん）＝sama sekali tidak、もしかして＝mungkin。",
+    "id": "mojigoi_c_m4_q03",
+    "mondai": 4,
+    "number": 33
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "「からだ」と同じ意味の言葉はどれですか。",
+    "options": [
+      "こころ",
+      "ほね",
+      "たいそう",
+      "にんたい"
+    ],
+    "correct": 1,
+    "explanation": "「体（からだ）＝tubuh/badan」に関係する言葉は「骨（ほね）＝tulang」で体の一部です。「からだ」と「骨」は直接の同義語ではありませんが、体の構成要素です。実は最も近いのは「身体（しんたい）」ですが、選択肢にないため骨が体の一部として最も近い言葉です。",
+    "id": "mojigoi_c_m4_q04",
+    "mondai": 4,
+    "number": 34
+  },
+  {
+    "level": "N5",
+    "section": "Vocabulary",
+    "type": "paraphrase",
+    "question": "あしたは いい てんきでしょう。",
+    "highlight": "いい てんき",
+    "options": [
+      "あしたは あめが ふるでしょう。",
+      "あしたは くもりでしょう。",
+      "あしたは ゆきでしょう。",
+      "あしたは はれでしょう。"
+    ],
+    "correct": 3,
+    "explanation": "「いい てんき」 (cuaca baik) sama maknanya dengan 「はれ」 (cerah).",
+    "id": "mojigoi_c_m4_q05",
+    "mondai": 4,
+    "number": 35
+  }
+];
+
 export const questionBanks: Record<string, LegacyQuestion[]> = {
   N5_A: superMoshiN5Questions,
+  N5_MOJIGOI_A: mojigoiN5A,
+  N5_MOJIGOI_B: mojigoiN5B,
+  N5_MOJIGOI_C: mojigoiN5C,
   N5_B: tipeBN5Questions,
   N5: superMoshiN5Questions, // Default N5 refers to Paket A
     N4: [

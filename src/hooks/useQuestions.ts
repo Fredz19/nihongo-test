@@ -118,12 +118,24 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
       if (level === 'N5' || level === 'N3' || level === 'N2' || level === 'N1') {
         let bankKey = String(level);
         if (level === 'N5') {
-          if (slug.endsWith('-1')) {
-            bankKey = 'N5_A';
-          } else if (slug.endsWith('-2')) {
-            bankKey = 'N5_B';
+          if (slug.includes('mojigoi')) {
+            if (slug.endsWith('-1')) {
+              bankKey = 'N5_MOJIGOI_A';
+            } else if (slug.endsWith('-2')) {
+              bankKey = 'N5_MOJIGOI_B';
+            } else if (slug.endsWith('-3')) {
+              bankKey = 'N5_MOJIGOI_C';
+            } else {
+              bankKey = 'N5_MOJIGOI_A';
+            }
           } else {
-            bankKey = 'N5_B'; // default fallback for package C/other packages
+            if (slug.endsWith('-1')) {
+              bankKey = 'N5_A';
+            } else if (slug.endsWith('-2')) {
+              bankKey = 'N5_B';
+            } else {
+              bankKey = 'N5_B'; // default fallback for package C/other packages
+            }
           }
         }
         const fallback = (questionBanks[bankKey] || questionBanks[level] || questionBanks['N5']).map(mapLegacy);
