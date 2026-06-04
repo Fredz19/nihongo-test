@@ -15,6 +15,7 @@ import {
 import { useLocation, useNavigate } from 'react-router-dom';
 import { useTestStore } from '../hooks/useTestStore';
 import { playJapaneseAudio } from '../lib/audioService';
+import ExamAudioPlayer from '../components/ExamAudioPlayer';
 
 export default function ReviewMode() {
   const location = useLocation();
@@ -154,6 +155,24 @@ export default function ReviewMode() {
                       <Volume2 className="w-4 h-4" />
                     </button>
                   </div>
+                )}
+
+                {/* Render Audio Player in Review Mode if audioUrl exists */}
+                {q.section === 'Listening' && q.audioUrl && (
+                  <ExamAudioPlayer
+                    src={q.audioUrl}
+                    mode="belajar"
+                    title="Audio Choukai (Mendengar)"
+                    autoPlay={false}
+                  />
+                )}
+                {(q.section === 'Reading' || q.section === 'Grammar') && q.audioUrl && (
+                  <ExamAudioPlayer
+                    src={q.audioUrl}
+                    mode="belajar"
+                    title="Audio Bacaan (Dokkai)"
+                    autoPlay={false}
+                  />
                 )}
                 
                 {q.section === 'Vocabulary' && q.highlight ? (
