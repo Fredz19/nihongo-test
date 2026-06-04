@@ -632,63 +632,28 @@ export default function MockTest() {
           </div>
 
           {/* Options */}
-          {q?.isImageOption ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-              {q.options.map((option: any, i: number) => {
-                const isSelected = answers[q.id] === i;
-                return (
-                  <button
-                    key={i}
-                    onClick={() => handleAnswer(i)}
-                    className={`relative text-left overflow-hidden rounded-xl border-2 p-2 bg-white transition-all duration-300 hover:scale-[1.02] hover:shadow-md ${
-                      isSelected
-                        ? 'border-indigo bg-indigo/5 shadow-md scale-[1.01]'
-                        : 'border-gray-200/60 hover:border-indigo/50'
-                    }`}
-                  >
-                    <div className="aspect-[4/3] w-full rounded-lg overflow-hidden mb-2 bg-gray-50 flex items-center justify-center">
-                      <img
-                        src={option.img}
-                        alt={option.text}
-                        className="w-full h-full object-cover transition-all duration-300"
-                      />
-                    </div>
-                    <div className="flex items-center gap-3 px-2 py-1.5">
-                      <div className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 ${
-                        isSelected ? 'bg-indigo text-white' : 'bg-gray-100 border text-sumi'
-                      }`}>
-                        {String.fromCharCode(65 + i)}
-                      </div>
-                      <span className="text-sm font-medium text-sumi line-clamp-1">{option.text}</span>
-                    </div>
-                  </button>
-                );
-              })}
-            </div>
-          ) : (
-            <div className="space-y-3">
-              {q?.options.map((option: any, i: number) => (
-                <button
-                  key={i}
-                  onClick={() => handleAnswer(i)}
-                  className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 ${
-                    answers[q.id] === i
-                      ? 'border-indigo bg-indigo/5 shadow-sm'
-                      : 'border-transparent bg-gray-50 hover:bg-white hover:border-gray-200'
-                  }`}
-                >
-                  <div className="flex items-center gap-4">
-                    <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
-                      answers[q.id] === i ? 'bg-indigo text-white' : 'bg-white border text-sumi'
-                    }`}>
-                      {String.fromCharCode(65 + i)}
-                    </div>
-                    <span className="text-base">{option}</span>
+          <div className="space-y-3">
+            {q?.options.map((option: any, i: number) => (
+              <button
+                key={i}
+                onClick={() => handleAnswer(i)}
+                className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 ${
+                  answers[q.id] === i
+                    ? 'border-indigo bg-indigo/5 shadow-sm'
+                    : 'border-transparent bg-gray-50 hover:bg-white hover:border-gray-200'
+                }`}
+              >
+                <div className="flex items-center gap-4">
+                  <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
+                    answers[q.id] === i ? 'bg-indigo text-white' : 'bg-white border text-sumi'
+                  }`}>
+                    {String.fromCharCode(65 + i)}
                   </div>
-                </button>
-              ))}
-            </div>
-          )}
+                  <span className="text-base">{option}</span>
+                </div>
+              </button>
+            ))}
+          </div>
         </div>
 
         {/* Navigation */}
