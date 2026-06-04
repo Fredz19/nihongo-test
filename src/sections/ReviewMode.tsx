@@ -141,7 +141,9 @@ export default function ReviewMode() {
               <div className="mb-6">
                 {q.passage && (
                   <div className="mb-4 p-4 rounded-lg border-l-4 bg-white" style={{ borderColor: '#1d3557' }}>
-                    <p className="text-base leading-relaxed font-serif whitespace-pre-line">{q.passage}</p>
+                    <p className="text-base leading-relaxed font-serif">
+                      <span dangerouslySetInnerHTML={{ __html: q.passage }} />
+                    </p>
                   </div>
                 )}
                 
@@ -159,9 +161,7 @@ export default function ReviewMode() {
                     ))}
                   </p>
                 ) : (
-                  <p className="text-lg leading-relaxed" style={{ color: '#1a1a1a' }}>
-                    {q.question}
-                  </p>
+                  <p className="text-lg leading-relaxed font-serif" style={{ color: '#1a1a1a' }} dangerouslySetInnerHTML={{ __html: q.question || '' }} />
                 )}
 
                 {q.imageUrl && (
@@ -187,6 +187,7 @@ export default function ReviewMode() {
                 {q.options.map((option: any, i: number) => {
                   const isSelected = userAnswer === i;
                   const isAnswer = q.correct === i;
+                  const isNumberedOption = result?.level === 'N5' && (q.section === 'Grammar' || q.section === 'Reading');
                   let bgClass = 'bg-gray-50 border-transparent';
                   let borderClass = '';
 
@@ -207,7 +208,7 @@ export default function ReviewMode() {
                         <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
                           isAnswer ? 'bg-green-500 text-white' : isSelected ? 'bg-vermillion text-white' : 'bg-white border text-sumi'
                         }`}>
-                          {String.fromCharCode(65 + i)}
+                          {isNumberedOption ? (i + 1) : String.fromCharCode(65 + i)}
                         </div>
                         <span className="text-base">{option}</span>
                         {isAnswer && <CheckCircle2 className="w-5 h-5 text-green-500 ml-auto" />}

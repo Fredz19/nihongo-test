@@ -106,19 +106,25 @@ export default function Results() {
 
   // Prepare data for Radar Chart
   const radarData = useMemo(() => {
-    return Object.keys(sectionBreakdown).map(key => {
-      const secKey = key.toLowerCase();
-      const sq = finalSectionQuestions?.[secKey] || finalSectionQuestions?.[key] || [];
-      const sectionCorrect = sq.filter((q: any) => q.isCorrect).length;
-      const sectionTotal = sq.length;
-      const accuracy = sectionTotal > 0 ? Math.round((sectionCorrect / sectionTotal) * 100) : 0;
-      
-      return {
-        subject: sectionLabels[secKey] || key,
-        A: accuracy,
-        fullMark: 100,
-      };
-    });
+    return Object.keys(sectionBreakdown)
+      .filter(key => {
+        const secKey = key.toLowerCase();
+        const sq = finalSectionQuestions?.[secKey] || finalSectionQuestions?.[key] || [];
+        return sq.length > 0;
+      })
+      .map(key => {
+        const secKey = key.toLowerCase();
+        const sq = finalSectionQuestions?.[secKey] || finalSectionQuestions?.[key] || [];
+        const sectionCorrect = sq.filter((q: any) => q.isCorrect).length;
+        const sectionTotal = sq.length;
+        const accuracy = sectionTotal > 0 ? Math.round((sectionCorrect / sectionTotal) * 100) : 0;
+        
+        return {
+          subject: sectionLabels[secKey] || key,
+          A: accuracy,
+          fullMark: 100,
+        };
+      });
   }, [sectionBreakdown, finalSectionQuestions]);
 
   // Prepare data for Line Chart
@@ -196,17 +202,23 @@ export default function Results() {
           <div className="paper-card p-6 md:p-8">
             <h2 className="text-xl font-serif mb-6">Analisis per Section</h2>
             <div className="space-y-6">
-              {Object.entries(sectionBreakdown).map(([section]) => {
-                const secKey = section.toLowerCase();
-                const sq = finalSectionQuestions?.[secKey] || finalSectionQuestions?.[section] || [];
-                const sectionCorrect = sq.filter((q: any) => q.isCorrect).length;
-                const sectionTotal = sq.length;
-                const sectionAccuracy = sectionTotal > 0 ? Math.round((sectionCorrect / sectionTotal) * 100) : 0;
-                const isWeak = sectionAccuracy < 60;
+              {Object.entries(sectionBreakdown)
+                .filter(([section]) => {
+                  const secKey = section.toLowerCase();
+                  const sq = finalSectionQuestions?.[secKey] || finalSectionQuestions?.[section] || [];
+                  return sq.length > 0;
+                })
+                .map(([section]) => {
+                  const secKey = section.toLowerCase();
+                  const sq = finalSectionQuestions?.[secKey] || finalSectionQuestions?.[section] || [];
+                  const sectionCorrect = sq.filter((q: any) => q.isCorrect).length;
+                  const sectionTotal = sq.length;
+                  const sectionAccuracy = sectionTotal > 0 ? Math.round((sectionCorrect / sectionTotal) * 100) : 0;
+                  const isWeak = sectionAccuracy < 60;
 
-                return (
-                  <div key={section}>
-                    <div className="flex items-center justify-between mb-2">
+                  return (
+                    <div key={section}>
+                      <div className="flex items-center justify-between mb-2">
                       <div className="flex items-center gap-3">
                         <div className="p-2 rounded-lg" style={{ background: `${sectionColors[secKey]}15` }}>
                           <span style={{ color: sectionColors[secKey] }}>{sectionIcons[secKey]}</span>

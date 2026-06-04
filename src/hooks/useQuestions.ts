@@ -128,6 +128,16 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
             } else {
               bankKey = 'N5_MOJIGOI_A';
             }
+          } else if (slug.includes('bunpou')) {
+            if (slug.endsWith('-1')) {
+              bankKey = 'N5_BUNPOU_A';
+            } else if (slug.endsWith('-2')) {
+              bankKey = 'N5_BUNPOU_B';
+            } else if (slug.endsWith('-3')) {
+              bankKey = 'N5_BUNPOU_C';
+            } else {
+              bankKey = 'N5_BUNPOU_A';
+            }
           } else {
             if (slug.endsWith('-1')) {
               bankKey = 'N5_A';

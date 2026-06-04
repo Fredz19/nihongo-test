@@ -201,7 +201,7 @@ export default function MockTest() {
   };
 
   const [selectedPackage, setSelectedPackage] = useState<'1' | '2' | '3'>('1');
-  const [examType, setExamType] = useState<'choukai' | 'mojigoi'>('choukai');
+  const [examType, setExamType] = useState<'choukai' | 'mojigoi' | 'bunpou'>('choukai');
   const [selectedMode, setSelectedMode] = useState<'simulasi' | 'belajar'>('simulasi');
   const [showConfirmEnd, setShowConfirmEnd] = useState(false);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
@@ -210,7 +210,10 @@ export default function MockTest() {
   const { saveResult } = useTestHistory();
 
   // Determine exam template slug based on level, exam type and selected package
-  const templateSlug = level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${selectedPackage}` : `${level.toLowerCase()}-tryout-${selectedPackage}`;
+  const templateSlug =
+    level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${selectedPackage}`
+    : level === 'N5' && examType === 'bunpou' ? `n5-bunpou-${selectedPackage}`
+    : `${level.toLowerCase()}-tryout-${selectedPackage}`;
   const { questions, isLoading: isLoadingQuestions } = useQuestions(
     (level as 'N5' | 'N4' | 'N3'),
     templateSlug
@@ -228,6 +231,8 @@ export default function MockTest() {
       if (activeSession.slug) {
         if (activeSession.slug.includes('mojigoi')) {
           setExamType('mojigoi');
+        } else if (activeSession.slug.includes('bunpou')) {
+          setExamType('bunpou');
         } else {
           setExamType('choukai');
         }
@@ -359,7 +364,7 @@ export default function MockTest() {
             {level === 'N5' && (
               <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
                 <label className="text-xs font-semibold text-sumi block mb-2">PILIH JENIS UJIAN</label>
-                <div className="grid grid-cols-2 gap-2">
+                <div className="grid grid-cols-3 gap-2">
                   <button
                     type="button"
                     onClick={() => {
@@ -368,13 +373,13 @@ export default function MockTest() {
                       const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
-                    className={`py-2 px-3 text-xs rounded-lg font-medium transition-all ${
+                    className={`py-2 px-1 text-[11px] rounded-lg font-medium transition-all ${
                       examType === 'choukai'
                         ? 'bg-indigo text-white shadow-sm font-semibold'
                         : 'bg-white text-sumi border hover:bg-gray-100'
                     }`}
                   >
-                    🎧 Choukai (Listening)
+                    🎧 Choukai
                   </button>
                   <button
                     type="button"
@@ -384,13 +389,29 @@ export default function MockTest() {
                       const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
-                    className={`py-2 px-3 text-xs rounded-lg font-medium transition-all ${
+                    className={`py-2 px-1 text-[11px] rounded-lg font-medium transition-all ${
                       examType === 'mojigoi'
                         ? 'bg-indigo text-white shadow-sm font-semibold'
                         : 'bg-white text-sumi border hover:bg-gray-100'
                     }`}
                   >
-                    📝 Mojigoi (Kosakata)
+                    📝 Mojigoi
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setExamType('bunpou');
+                      const nextSlug = `n5-bunpou-${selectedPackage}`;
+                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                      startTest(level as any, selectedMode, pkgLetter, nextSlug);
+                    }}
+                    className={`py-2 px-1 text-[11px] rounded-lg font-medium transition-all ${
+                      examType === 'bunpou'
+                        ? 'bg-indigo text-white shadow-sm font-semibold'
+                        : 'bg-white text-sumi border hover:bg-gray-100'
+                    }`}
+                  >
+                    📝 Bunpou & Dokkai
                   </button>
                 </div>
               </div>
@@ -410,7 +431,10 @@ export default function MockTest() {
                     type="button"
                     onClick={() => {
                       setSelectedPackage(pkg.id as any);
-                      const nextSlug = level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${pkg.id}` : `${level.toLowerCase()}-tryout-${pkg.id}`;
+                      const nextSlug =
+                        level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${pkg.id}`
+                        : level === 'N5' && examType === 'bunpou' ? `n5-bunpou-${pkg.id}`
+                        : `${level.toLowerCase()}-tryout-${pkg.id}`;
                       const pkgLetter = pkg.id === '1' ? 'A' : (pkg.id === '2' ? 'B' : 'C');
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
@@ -472,7 +496,7 @@ export default function MockTest() {
                 <div className="font-medium">Durasi Ujian</div>
                 <div className="text-sm text-sumi">
                   {level === 'N5' 
-                    ? (examType === 'mojigoi' ? '20 menit' : '30 menit') 
+                    ? (examType === 'mojigoi' ? '20 menit' : examType === 'bunpou' ? '40 menit' : '30 menit') 
                     : level === 'N4' ? '105 menit' : '130 menit'}
                 </div>
               </div>
@@ -645,17 +669,31 @@ export default function MockTest() {
               <h3 className="text-sm font-bold text-indigo tracking-wider uppercase">
                 問題{q.mondai}
                 <span className="ml-2 text-sumi font-normal normal-case">
-                  {q.mondai === 1 && '— 漢字の読み方 (Kanji Reading)'}
-                  {q.mondai === 2 && '— 表記 (Orthography)'}
-                  {q.mondai === 3 && '— 文脈規定 (Contextual Vocabulary)'}
-                  {q.mondai === 4 && '— 言い換え類義 (Paraphrase)'}
+                  {examType === 'mojigoi' && q.mondai === 1 && '— 漢字の読み方 (Kanji Reading)'}
+                  {examType === 'mojigoi' && q.mondai === 2 && '— 表記 (Orthography)'}
+                  {examType === 'mojigoi' && q.mondai === 3 && '— 文脈規定 (Contextual Vocabulary)'}
+                  {examType === 'mojigoi' && q.mondai === 4 && '— 言い換え類義 (Paraphrase)'}
+
+                  {examType === 'bunpou' && q.mondai === 1 && '— 文の文法1 (Grammar Fill-in)'}
+                  {examType === 'bunpou' && q.mondai === 2 && '— 文の組み立て (Sentence Building)'}
+                  {examType === 'bunpou' && q.mondai === 3 && '— 文章の文法 (Passage Grammar)'}
+                  {examType === 'bunpou' && q.mondai === 4 && '— 内容理解・短文 (Short Passage Reading)'}
+                  {examType === 'bunpou' && q.mondai === 5 && '— 内容理解・中文 (Medium Passage Reading)'}
+                  {examType === 'bunpou' && q.mondai === 6 && '— 情報検索 (Information Retrieval)'}
                 </span>
               </h3>
               <p className="text-xs text-sumi mt-1">
-                {q.mondai === 1 && 'Pilih cara baca (hiragana) yang tepat untuk kanji yang bergaris bawah.'}
-                {q.mondai === 2 && 'Pilih penulisan yang tepat (kanji/katakana) untuk kata yang bergaris bawah.'}
-                {q.mondai === 3 && 'Pilih kata yang paling tepat untuk mengisi bagian yang kosong.'}
-                {q.mondai === 4 && 'Pilih kata/ungkapan yang paling dekat artinya dengan kata yang bergaris bawah.'}
+                {examType === 'mojigoi' && q.mondai === 1 && 'Pilih cara baca (hiragana) yang tepat untuk kanji yang bergaris bawah.'}
+                {examType === 'mojigoi' && q.mondai === 2 && 'Pilih penulisan yang tepat (kanji/katakana) untuk kata yang bergaris bawah.'}
+                {examType === 'mojigoi' && q.mondai === 3 && 'Pilih kata yang paling tepat untuk mengisi bagian yang kosong.'}
+                {examType === 'mojigoi' && q.mondai === 4 && 'Pilih kata/ungkapan yang paling dekat artinya dengan kata yang bergaris bawah.'}
+
+                {examType === 'bunpou' && q.mondai === 1 && 'Pilih kata yang paling tepat untuk mengisi (　　).'}
+                {examType === 'bunpou' && q.mondai === 2 && 'Pilih susunan yang benar untuk melengkapi kalimat. Tentukan kata pada posisi ★.'}
+                {examType === 'bunpou' && q.mondai === 3 && 'Baca paragraf berikut dan isi bagian yang kosong dengan grammar yang tepat.'}
+                {examType === 'bunpou' && q.mondai === 4 && 'Baca teks berikut dan jawab pertanyaannya.'}
+                {examType === 'bunpou' && q.mondai === 5 && 'Baca teks berikut dan jawab pertanyaannya.'}
+                {examType === 'bunpou' && q.mondai === 6 && 'Baca informasi berikut dan temukan jawaban yang spesifik.'}
               </p>
             </div>
           )}
@@ -664,7 +702,9 @@ export default function MockTest() {
           <div className="mb-8">
             {q?.passage && (
               <div className="mb-6 p-4 rounded-lg border-l-4 bg-white" style={{ borderColor: '#1d3557' }}>
-                <p className="text-lg leading-relaxed font-serif whitespace-pre-line" style={{ color: '#1a1a1a' }}>{q.passage}</p>
+                <p className="text-lg leading-relaxed font-serif" style={{ color: '#1a1a1a' }}>
+                  <span dangerouslySetInnerHTML={{ __html: q.passage }} />
+                </p>
               </div>
             )}
 
@@ -698,9 +738,7 @@ export default function MockTest() {
                 ))}
               </p>
             ) : (
-              <p className="text-lg leading-relaxed" style={{ color: '#1a1a1a' }}>
-                {q?.question}
-              </p>
+              <p className="text-lg leading-relaxed font-serif" style={{ color: '#1a1a1a' }} dangerouslySetInnerHTML={{ __html: q?.question || '' }} />
             )}
 
             {q?.imageUrl && (
@@ -723,26 +761,29 @@ export default function MockTest() {
 
           {/* Options */}
           <div className="space-y-3">
-            {q?.options.map((option: any, i: number) => (
-              <button
-                key={i}
-                onClick={() => handleAnswer(i)}
-                className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 ${
-                  answers[q.id] === i
-                    ? 'border-indigo bg-indigo/5 shadow-sm'
-                    : 'border-transparent bg-gray-50 hover:bg-white hover:border-gray-200'
-                }`}
-              >
-                <div className="flex items-center gap-4">
-                  <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
-                    answers[q.id] === i ? 'bg-indigo text-white' : 'bg-white border text-sumi'
-                  }`}>
-                    {String.fromCharCode(65 + i)}
+            {q?.options.map((option: any, i: number) => {
+              const isNumberedOption = level === 'N5' && (q?.section === 'Grammar' || q?.section === 'Reading');
+              return (
+                <button
+                  key={i}
+                  onClick={() => handleAnswer(i)}
+                  className={`w-full text-left p-4 rounded-lg border-2 transition-all duration-200 ${
+                    answers[q.id] === i
+                      ? 'border-indigo bg-indigo/5 shadow-sm'
+                      : 'border-transparent bg-gray-50 hover:bg-white hover:border-gray-200'
+                  }`}
+                >
+                  <div className="flex items-center gap-4">
+                    <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
+                      answers[q.id] === i ? 'bg-indigo text-white' : 'bg-white border text-sumi'
+                    }`}>
+                      {isNumberedOption ? (i + 1) : String.fromCharCode(65 + i)}
+                    </div>
+                    <span className="text-base">{option}</span>
                   </div>
-                  <span className="text-base">{option}</span>
-                </div>
-              </button>
-            ))}
+                </button>
+              );
+            })}
           </div>
         </div>
 

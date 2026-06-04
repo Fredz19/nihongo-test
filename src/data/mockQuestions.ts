@@ -1,5 +1,9 @@
 // Legacy question format with numeric id — used as fallback for N3/dev/outage.
 // useQuestions.ts converts these to the canonical Question type (id: string).
+import { bunpouDokkaiN5A } from './bunpouDokkai/bunpouDokkaiN5_A';
+import { bunpouDokkaiN5B } from './bunpouDokkai/bunpouDokkaiN5_B';
+import { bunpouDokkaiN5C } from './bunpouDokkai/bunpouDokkaiN5_C';
+
 interface LegacyQuestion {
   id: number | string;
   level: string;
@@ -2786,6 +2790,9 @@ export const questionBanks: Record<string, LegacyQuestion[]> = {
   N5_MOJIGOI_A: mojigoiN5A,
   N5_MOJIGOI_B: mojigoiN5B,
   N5_MOJIGOI_C: mojigoiN5C,
+  N5_BUNPOU_A: bunpouDokkaiN5A,
+  N5_BUNPOU_B: bunpouDokkaiN5B,
+  N5_BUNPOU_C: bunpouDokkaiN5C,
   N5_B: tipeBN5Questions,
   N5: superMoshiN5Questions, // Default N5 refers to Paket A
     N4: [
