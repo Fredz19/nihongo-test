@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: '.env.local' });
 
 const ELEVENLABS_API_KEY = process.env.VITE_ELEVENLABS_API_KEY || process.env.ELEVENLABS_API_KEY;
-const VOICE_ID = 'IIUvcn96WSMnC5WxNypI'; // Hanako (thoughtful)
+const VOICE_ID = 'RBnMinrYKeccY3vaUxlZ'; // Sakura (Happy)
 const MODEL_ID = 'eleven_v3';
 
 const supabaseUrl = process.env.VITE_SUPABASE_URL;
@@ -56,8 +56,10 @@ async function generateTTS(text, outputFilename) {
       text: text,
       model_id: MODEL_ID,
       voice_settings: {
-        stability: 0.5,
-        similarity_boost: 0.75,
+        stability: 0.45,
+        similarity_boost: 0.85,
+        style: 0.35,
+        use_speaker_boost: true
       }
     })
   });
