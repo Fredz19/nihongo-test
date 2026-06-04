@@ -12,18 +12,27 @@ function formatTime(seconds: number) {
   return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
 }
 
-// Custom Premium Audio Player for Listening section
+// Custom Premium Audio Player for Listening & Reading sections
 interface ExamAudioPlayerProps {
   src: string;
   mode: 'simulasi' | 'belajar';
+  title?: string;
+  autoPlay?: boolean;
   onEnded?: () => void;
 }
 
-function ExamAudioPlayer({ src, mode, onEnded }: ExamAudioPlayerProps) {
+function ExamAudioPlayer({ 
+  src, 
+  mode, 
+  title = "JLPT Choukai Audio", 
+  autoPlay = true, 
+  onEnded 
+}: ExamAudioPlayerProps) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [duration, setDuration] = useState(0);
   const [currentTime, setCurrentTime] = useState(0);
+  const [playbackRate, setPlaybackRate] = useState(1.0);
 
   useEffect(() => {
     if (audioRef.current) {
@@ -32,15 +41,26 @@ function ExamAudioPlayer({ src, mode, onEnded }: ExamAudioPlayerProps) {
       setIsPlaying(false);
       setCurrentTime(0);
 
-      // Autoplay on source change (for both simulasi and belajar modes)
-      const playPromise = audioRef.current.play();
-      if (playPromise !== undefined) {
-        playPromise
-          .then(() => setIsPlaying(true))
-          .catch((err) => console.log("Autoplay blocked or interrupted:", err));
+      // Apply current playback rate on load
+      audioRef.current.playbackRate = playbackRate;
+
+      // Autoplay on source change (for both simulasi and belajar modes) if enabled
+      if (autoPlay) {
+        const playPromise = audioRef.current.play();
+        if (playPromise !== undefined) {
+          playPromise
+            .then(() => setIsPlaying(true))
+            .catch((err) => console.log("Autoplay blocked or interrupted:", err));
+        }
       }
     }
-  }, [src]);
+  }, [src, autoPlay]);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.playbackRate = playbackRate;
+    }
+  }, [playbackRate]);
 
   const togglePlay = () => {
     if (!audioRef.current || mode === 'simulasi') return;
@@ -96,7 +116,7 @@ function ExamAudioPlayer({ src, mode, onEnded }: ExamAudioPlayerProps) {
       <div className="flex items-center justify-between mb-3">
         <span className="text-xs font-semibold text-indigo tracking-wider uppercase flex items-center gap-1.5">
           <Volume2 className="w-3.5 h-3.5" />
-          JLPT Choukai Audio
+          {title}
         </span>
         <span className="text-xs text-sumi font-mono">{formatAudioTime(currentTime)} / {formatAudioTime(duration || 0)}</span>
       </div>
@@ -116,6 +136,26 @@ function ExamAudioPlayer({ src, mode, onEnded }: ExamAudioPlayerProps) {
             <Play className="w-5 h-5 fill-current ml-0.5" />
           )}
         </button>
+
+        {/* Playback Speed Control */}
+        <button
+          type="button"
+          onClick={() => {
+            if (playbackRate === 0.8) setPlaybackRate(1.0);
+            else if (playbackRate === 1.0) setPlaybackRate(1.2);
+            else setPlaybackRate(0.8);
+          }}
+          disabled={mode === 'simulasi'}
+          className={`text-xs font-semibold px-2.5 py-1.5 rounded-lg border transition-all ${
+            mode === 'simulasi'
+              ? 'text-indigo/40 bg-indigo/5 border-indigo-100/30 cursor-not-allowed'
+              : 'text-indigo bg-indigo/10 border-indigo-200/50 hover:bg-indigo/20 hover:border-indigo-300'
+          }`}
+          title="Kecepatan Putar (Playback Speed)"
+        >
+          {playbackRate.toFixed(1)}x
+        </button>
+
         <div className="flex-1">
           <input
             type="range"
@@ -553,11 +593,19 @@ export default function MockTest() {
               </div>
             )}
 
-            {/* Render Audio Player if in Listening section */}
+            {/* Render Audio Player if in Listening or Reading section */}
             {q?.section === 'Listening' && q?.audioUrl && (
               <ExamAudioPlayer
                 src={q.audioUrl}
                 mode={selectedMode}
+              />
+            )}
+            {q?.section === 'Reading' && q?.audioUrl && (
+              <ExamAudioPlayer
+                src={q.audioUrl}
+                mode="belajar"
+                title="Audio Bacaan (Dokkai)"
+                autoPlay={false}
               />
             )}
 

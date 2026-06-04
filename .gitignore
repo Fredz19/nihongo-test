@@ -29,4 +29,5 @@ page_*.png
 # Temporary scratch files
 scratch/
 
-
+# Local audio cache files
+audio_cache_files/
