@@ -204,6 +204,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   // MONDAI 3 (Shared Passage)
   {
     id: "n5_bunpou_a_m3_q01",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m3.mp3",
     level: "N5",
     section: "Grammar",
     type: "grammar-3",
@@ -217,6 +218,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m3_q02",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m3.mp3",
     level: "N5",
     section: "Grammar",
     type: "grammar-3",
@@ -230,6 +232,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m3_q03",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m3.mp3",
     level: "N5",
     section: "Grammar",
     type: "grammar-3",
@@ -243,6 +246,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m3_q04",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m3.mp3",
     level: "N5",
     section: "Grammar",
     type: "grammar-3",
@@ -256,6 +260,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m3_q05",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m3.mp3",
     level: "N5",
     section: "Grammar",
     type: "grammar-3",
@@ -271,6 +276,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   // MONDAI 4 (Reading Short)
   {
     id: "n5_bunpou_a_m4_q01",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m4_q21.mp3",
     level: "N5",
     section: "Reading",
     type: "reading-short",
@@ -289,6 +295,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m4_q02",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m4_q22.mp3",
     level: "N5",
     section: "Reading",
     type: "reading-short",
@@ -307,6 +314,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m4_q03",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m4_q23.mp3",
     level: "N5",
     section: "Reading",
     type: "reading-short",
@@ -327,6 +335,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   // MONDAI 5 (Reading Mid)
   {
     id: "n5_bunpou_a_m5_q01",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m5.mp3",
     level: "N5",
     section: "Reading",
     type: "reading-mid",
@@ -345,6 +354,7 @@ export const bunpouDokkaiN5A: LegacyQuestion[] = [
   },
   {
     id: "n5_bunpou_a_m5_q02",
+    audioUrl: "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N5-Bunpou-Dokkai/a_m5.mp3",
     level: "N5",
     section: "Reading",
     type: "reading-mid",
