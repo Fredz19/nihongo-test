@@ -13,9 +13,12 @@ export interface Question {
   highlight?: string;                // Highlighted word for kanji-read type
   audioUrl?: string;                 // Phase 2: URL to Supabase Storage MP3
   imageUrl?: string;                 // Phase 4: URL to Supabase Storage PNG for visual choices
-  options: string[];
+  options: (string | { text: string; img: string })[];
   correct: number;                   // 0-indexed
   explanation: string;
+  isImageOption?: boolean;
+  mondai?: number;
+  number?: number;
   // DB-only fields (optional for backward compat with mockQuestions.ts)
   source?: QuestionSource;
   topic?: string;

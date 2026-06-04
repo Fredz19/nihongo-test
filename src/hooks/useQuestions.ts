@@ -41,8 +41,8 @@ function mapRow(row: Record<string, unknown>): Question {
   };
 }
 
-// Map legacy mockQuestions to our Question interface (id: number → string)
-function mapLegacy(q: { id: number; level: string; section: string; type: string; question: string; passage?: string; highlight?: string; audioUrl?: string; options: string[]; correct: number; explanation: string }): Question {
+// Map legacy mockQuestions to our Question interface (id: number | string → string)
+function mapLegacy(q: any): Question {
   return {
     ...q,
     id: String(q.id),
@@ -114,8 +114,8 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
         return;
       }
 
-      // 2. For N3 and below (no DB data yet) — use fallback immediately
-      if (level === 'N3' || level === 'N2' || level === 'N1') {
+      // 2. For N5 (Choukai N5 Tipe B) and N3 and below (no DB data yet) — use fallback immediately
+      if (level === 'N5' || level === 'N3' || level === 'N2' || level === 'N1') {
         const fallback = (questionBanks[level] || questionBanks['N5']).map(mapLegacy);
         if (!cancelled) {
           setQuestions(fallback);

@@ -165,40 +165,87 @@ export default function ReviewMode() {
               </div>
 
               {/* Options */}
-              <div className="space-y-3 mb-8">
-                {q.options.map((option: string, i: number) => {
-                  const isSelected = userAnswer === i;
-                  const isAnswer = q.correct === i;
-                  let bgClass = 'bg-gray-50 border-transparent';
-                  let borderClass = '';
+              {q.isImageOption ? (
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-8">
+                  {q.options.map((option: any, i: number) => {
+                    const isSelected = userAnswer === i;
+                    const isAnswer = q.correct === i;
+                    
+                    let borderClass = 'border-gray-200 bg-white';
+                    if (isAnswer) {
+                      borderClass = 'border-green-500 bg-green-50/20 ring-2 ring-green-500/20';
+                    } else if (isSelected && !isCorrect) {
+                      borderClass = 'border-vermillion bg-red-50/20 ring-2 ring-vermillion/20';
+                    }
 
-                  if (isAnswer) {
-                    bgClass = 'bg-green-50';
-                    borderClass = 'border-2 border-green-500';
-                  } else if (isSelected && !isCorrect) {
-                    bgClass = 'bg-red-50';
-                    borderClass = 'border-2 border-vermillion';
-                  }
-
-                  return (
-                    <div
-                      key={i}
-                      className={`p-4 rounded-lg ${bgClass} ${borderClass}`}
-                    >
-                      <div className="flex items-center gap-4">
-                        <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
-                          isAnswer ? 'bg-green-500 text-white' : isSelected ? 'bg-vermillion text-white' : 'bg-white border text-sumi'
-                        }`}>
-                          {String.fromCharCode(65 + i)}
+                    return (
+                      <div
+                        key={i}
+                        className={`relative overflow-hidden rounded-xl border-2 p-3 transition-all duration-300 ${borderClass}`}
+                      >
+                        <div className="aspect-[4/3] w-full rounded-lg overflow-hidden mb-3 bg-gray-50 flex items-center justify-center border border-gray-100">
+                          <img
+                            src={option.img}
+                            alt={option.text}
+                            className="w-full h-full object-cover"
+                          />
                         </div>
-                        <span className="text-base">{option}</span>
-                        {isAnswer && <CheckCircle2 className="w-5 h-5 text-green-500 ml-auto" />}
-                        {isSelected && !isCorrect && <XCircle className="w-5 h-5 text-vermillion ml-auto" />}
+                        <div className="flex items-start gap-3 px-1">
+                          <div className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0 ${
+                            isAnswer
+                              ? 'bg-green-500 text-white'
+                              : isSelected && !isCorrect
+                              ? 'bg-vermillion text-white'
+                              : 'bg-white border text-sumi'
+                          }`}>
+                            {String.fromCharCode(65 + i)}
+                          </div>
+                          <div className="flex-1 min-w-0">
+                            <span className="text-sm font-medium text-ink block leading-tight">{option.text}</span>
+                          </div>
+                          {isAnswer && <CheckCircle2 className="w-4 h-4 text-green-500 flex-shrink-0 ml-1" />}
+                          {isSelected && !isCorrect && <XCircle className="w-4 h-4 text-vermillion flex-shrink-0 ml-1" />}
+                        </div>
                       </div>
-                    </div>
-                  );
-                })}
-              </div>
+                    );
+                  })}
+                </div>
+              ) : (
+                <div className="space-y-3 mb-8">
+                  {q.options.map((option: any, i: number) => {
+                    const isSelected = userAnswer === i;
+                    const isAnswer = q.correct === i;
+                    let bgClass = 'bg-gray-50 border-transparent';
+                    let borderClass = '';
+
+                    if (isAnswer) {
+                      bgClass = 'bg-green-50';
+                      borderClass = 'border-2 border-green-500';
+                    } else if (isSelected && !isCorrect) {
+                      bgClass = 'bg-red-50';
+                      borderClass = 'border-2 border-vermillion';
+                    }
+
+                    return (
+                      <div
+                        key={i}
+                        className={`p-4 rounded-lg ${bgClass} ${borderClass}`}
+                      >
+                        <div className="flex items-center gap-4">
+                          <div className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold flex-shrink-0 ${
+                            isAnswer ? 'bg-green-500 text-white' : isSelected ? 'bg-vermillion text-white' : 'bg-white border text-sumi'
+                          }`}>
+                            {String.fromCharCode(65 + i)}
+                          </div>
+                          <span className="text-base">{option}</span>
+                          {isAnswer && <CheckCircle2 className="w-5 h-5 text-green-500 ml-auto" />}
+                          {isSelected && !isCorrect && <XCircle className="w-5 h-5 text-vermillion ml-auto" />}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
 
               {/* Explanation Toggle */}
               <button
