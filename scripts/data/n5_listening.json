@@ -8,11 +8,11 @@
       "3",
       "4"
     ],
-    "correct": 0,
+    "correct": 2,
     "track": 2,
     "imageKey": "n5_m1_q01",
     "topic": "Mondai 1 - Task Comprehension",
-    "explanation": "### Transkrip Jepang\n女：すみません、来週会って話をしませんか。\n男：いいですね。１７日はどうですか。\n女：すみません、その日は忙しいんです。来週の火曜日はどうですか。\n男：火曜日ですか……。１０日ですね。その日はテストがあるんです。その前の日はどうですか。\n女：月曜日ですね。わかりました。じゃあ、その日にしましょう。\n\n### Terjemahan Indonesia\nPerempuan: Permisi, maukah kita bertemu minggu depan untuk mengobrol?\nLaki-laki: Boleh juga. Bagaimana kalau tanggal 17?\nPerempuan: Maaf, hari itu saya sibuk. Bagaimana kalau hari Selasa depan?\nLaki-laki: Hari Selasa ya... Tanggal 10 ya. Hari itu saya ada ujian. Bagaimana kalau hari sebelumnya?\nPerempuan: Hari Senin (tanggal 9) ya. Baik. Kalau begitu, mari kita bertemu di hari itu.\n\n### Analisis Kosakata\n* 来週 (らいしゅう - raishuu) = Minggu depan\n* 忙しい (いそがしい - isogashii) = Sibuk\n* 火曜日 (かようび - kayoubi) = Hari Selasa\n* 前の日 (まえのひ - mae no hi) = Hari sebelumnya\n\n### Penjelasan Jawaban\nLaki-laki tidak bisa bertemu tanggal 17 karena sibuk, dan tidak bisa hari Selasa tanggal 10 karena ada ujian. Dia mengusulkan \"hari sebelumnya\" (前の日), yaitu hari Senin tanggal 9 (月曜日). Perempuan menyetujuinya. Berdasarkan kalender, tanggal 9 ditunjukkan oleh nomor **1**."
+    "explanation": "### Transkrip Jepang\n女：すみません、来週会って話をしませんか。\n男：いいですね。１７日はどうですか。\n女：すみません、その日は忙しいんです。来週の火曜日はどうですか。\n男：火曜日ですか……。１２日ですね。その日はテストがあるんです。その前の日はどうですか。\n女：月曜日ですね。わかりました。じゃあ、その日にしましょう。\n\n### Terjemahan Indonesia\nPerempuan: Permisi, maukah kita bertemu minggu depan untuk mengobrol?\nLaki-laki: Boleh juga. Bagaimana kalau tanggal 17?\nPerempuan: Maaf, hari itu saya sibuk. Bagaimana kalau hari Selasa depan?\nLaki-laki: Hari Selasa ya... Tanggal 12 ya. Hari itu saya ada ujian. Bagaimana kalau hari sebelumnya?\nPerempuan: Hari Senin (tanggal 11) ya. Baik. Kalau begitu, mari kita bertemu di hari itu.\n\n### Analisis Kosakata\n* 来週 (らいしゅう - raishuu) = Minggu depan\n* 忙しい (いそがしい - isogashii) = Sibuk\n* 火曜日 (かようび - kayoubi) = Hari Selasa\n* 前の日 (まえのひ - mae no hi) = Hari sebelumnya\n\n### Penjelasan Jawaban\nLaki-laki tidak bisa bertemu tanggal 17 (hari Minggu) karena sibuk, dan tidak bisa hari Selasa tanggal 12 karena ada ujian. Dia mengusulkan \"hari sebelumnya\" (前の日), yaitu hari Senin tanggal 11. Perempuan menyetujuinya. Berdasarkan kalender, hari Senin tanggal 11 ditunjukkan oleh nomor **3**."
   },
   {
     "type": "audio-listening",

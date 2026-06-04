@@ -26,7 +26,7 @@ const TEMP_DIR = path.resolve('scripts', 'temp_crops_n5');
 
 const CROP_COORDINATES = {
   // Mondai 1
-  "n5_m1_q01": { page: "page_45.png", x: 100, y: 470, w: 1200, h: 500 },
+  "n5_m1_q01": { page: "page_45.png", x: 100, y: 700, w: 1350, h: 900 },
   "n5_m1_q04": { page: "page_45.png", x: 1500, y: 400, w: 1250, h: 1250 },
   "n5_m1_q05": { page: "page_46.png", x: 100, y: 150, w: 1200, h: 800 },
   "n5_m1_q06": { page: "page_46.png", x: 100, y: 1050, w: 1200, h: 850 },
