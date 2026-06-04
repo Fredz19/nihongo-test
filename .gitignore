@@ -31,3 +31,5 @@ scratch/
 
 # Local audio cache files
 audio_cache_files/
+
+.vercel

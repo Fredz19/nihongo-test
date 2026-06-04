@@ -114,9 +114,19 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
         return;
       }
 
-      // 2. For N5 (Choukai N5 Tipe B) and N3 and below (no DB data yet) — use fallback immediately
+      // 2. For N5 (Super Moshi/Tipe B) and N3 and below (no DB data yet) — use fallback immediately
       if (level === 'N5' || level === 'N3' || level === 'N2' || level === 'N1') {
-        const fallback = (questionBanks[level] || questionBanks['N5']).map(mapLegacy);
+        let bankKey = String(level);
+        if (level === 'N5') {
+          if (slug.endsWith('-1')) {
+            bankKey = 'N5_A';
+          } else if (slug.endsWith('-2')) {
+            bankKey = 'N5_B';
+          } else {
+            bankKey = 'N5_B'; // default fallback for package C/other packages
+          }
+        }
+        const fallback = (questionBanks[bankKey] || questionBanks[level] || questionBanks['N5']).map(mapLegacy);
         if (!cancelled) {
           setQuestions(fallback);
           setTemplate(null);
