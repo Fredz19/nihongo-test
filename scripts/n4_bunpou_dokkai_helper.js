@@ -351,8 +351,355 @@ export const superMoshiN4BunpouQuestions = [
   }
 ];
 
+// Official N4 Grammar & Reading tryout questions from "JLPT Super Moshi N4 N5.pdf" pages 23-29 (Try Out 2)
+export const superMoshiN4BunpouQuestions_B = [
+  // Mondai 1: Grammar-1 (15 questions)
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "外で、変な音（　　）しますよ。ちょっと見てきてください。",
+    options: ["が", "を", "に", "で"],
+    correct: 0,
+    explanation: "Pola kata kerja 「〜がする」 digunakan untuk menyatakan adanya suara, bau, atau rasa (変な音がする)."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "A「あしたアルバイトは何時に終わりますか。」\nB「たぶん、7時（　　）終わると思います。」",
+    options: ["まで", "までに", "から", "を"],
+    correct: 1,
+    explanation: "Pola 〜までに (paling lambat sebelum...) digunakan untuk tindakan titik akhir (selesai) yang harus terlaksana sebelum batas waktu tertentu."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "A「山下さんは来月、引っ越しする（　　）ですよ。」\nB「あ、その話、わたしも聞きました。本当なんですか。」",
+    options: ["つもりだ", "ようと", "ばかり", "らしい"],
+    correct: 3,
+    explanation: "Pola 〜らしい (katanya/sepertinya...) digunakan untuk menyampaikan kabar atau perkiraan berdasarkan informasi yang didengar dari orang lain."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "A「さっき冷蔵庫に入れて（　　）ビールはもう冷えていますか。」\nB「いいえ、まだです。」",
+    options: ["おいた", "いる", "きた", "しまった"],
+    correct: 0,
+    explanation: "Pola 〜ておく (melakukan persiapan...) diubah ke bentuk lampau menjadi 〜ておいた (telah dipersiapkan)."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "となりの部屋からテレビの音が聞こえる。だれかいる（　　）。",
+    options: ["ようだ", "はずだ", "わけだ", "ものだ"],
+    correct: 0,
+    explanation: "Pola 〜ようだ (sepertinya/kelihatannya...) digunakan untuk menduga situasi berdasarkan indra pendengaran atau penglihatan (mendengar suara TV, menduga ada orang)."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "わたしが病気のとき、友だちに薬を買ってきて（　　）。",
+    options: ["あげた", "くれた", "やった", "もらった"],
+    correct: 3,
+    explanation: "Pola 〜てもらう (menerima kebaikan dari orang lain) digunakan karena pembicara (saya) menerima tindakan membelikan obat dari teman."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "息子は学校から帰ってくると、宿題も（　　）ずに、遊びに行ってしまった。",
+    options: ["し", "しない", "せ", "する"],
+    correct: 2,
+    explanation: "Pola 〜ずに (tanpa...) berpasangan dengan bentuk Nai tanpa nai. Khusus kata kerja する berubah menjadi 「せず」 (せずに)."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "事故があったので、いま、その道は（　　）よ。",
+    options: ["通りません", "通れません", "通るはずがありません", "通られません"],
+    correct: 1,
+    explanation: "Kata kerja potential bentuk negatif 「通れない（通れません）」 (tidak bisa lewat/dilalui) karena ada kecelakaan."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "おなかがいっぱいなら、全部（　　）もかまいませんよ。",
+    options: ["食べても", "食べずに", "食べなくても", "食べないde"],
+    options: ["食べても", "食べずに", "食べなくても", "食べないで"],
+    correct: 2,
+    explanation: "Pola 〜なくてもかまわない (tidak ... pun tidak apa-apa/boleh tidak ...) untuk kata kerja 食べる adalah 食べなくてもかまいません."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "母が新しいパソコンを（　　）たがっているので、いっしょに電気屋に行くつもりです。",
+    options: ["買いたい", "買った", "買わ", "買い"],
+    correct: 3,
+    explanation: "Pola 〜たがる (ingin - untuk pihak ketiga) dilekatkan pada bentuk Masu-stem (tanpa masu). Kata kerja 買います diubah menjadi 買い + たがる."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "A「このペンは（　　）ですよ。どうぞ使ってみてください。」\nB「あ、いいペンですね。」",
+    options: ["書きやすい", "書きにくい", "書くらしい", "書くみたい"],
+    correct: 0,
+    explanation: "Pola 〜やすい (mudah untuk...) dilekatkan pada bentuk Masu-stem. 書きやすい berarti mudah ditulis/enak dipakai menulis."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "あしたは（　　）ので、ハイキングに行きましょう。",
+    options: ["休みだ", "休みな", "休み", "休んで"],
+    correct: 1,
+    explanation: "Pola 〜ので (karena...) yang dilekatkan pada kata benda (休む -> kata benda: 休み) memerlukan penyambung 「な」 (休みなので)."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "A「どうしたんですか。具合が悪そうですね。」\nB「ええ、窓を（　　）寝てしまって、かぜをひいてしまったんです。」",
+    options: ["開けっぱなし", "開けたきり", "開けたまま", "開けるだけ"],
+    correct: 2,
+    explanation: "Pola 〜たまま (dalam kondisi ... tetap/dibiarkan) digunakan untuk menyatakan tidur dalam keadaan jendela tetap terbuka."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "A「今日中にこれをとどけてもらえますか。」\n係員「はい、お好きな時間にお（　　）します。」",
+    options: ["とどけ", "とどける", "とどけて", "とどけられ"],
+    correct: 0,
+    explanation: "Bentuk sopan merendahkan diri (kenjougo) adalah お + Masu-stem + する. Untuk とどけます menjadi おとどけします."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-1",
+    question: "頭が痛くて熱もあるので、わたしは今日の会議には（　　）。",
+    options: ["出られそうもない", "出ないらしい", "出かけなければならない", "出たがらない"],
+    correct: 0,
+    explanation: "Pola 〜そうもない / 〜そうにない (sepertinya tidak mungkin...) dikombinasikan dengan bentuk potensial 出られる -> 出られそうもない (sepertinya saya tidak bisa hadir)."
+  },
+
+  // Mondai 2: Grammar-2 (Star questions - 5 questions)
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-2",
+    question: "きょうは、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 。",
+    options: ["おなかが", "痛くて", "何も", "食べられない"],
+    correct: 2,
+    explanation: "Urutan yang benar: きょうは、[おなかが (0)] [痛くて (1)] [★何も (2)] [食べられない (3)]。Arti: 'Hari ini, karena perut saya sakit, saya tidak bisa makan apa-apa'."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-2",
+    question: "よく聞こえません。もういちど、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ いただけませんか。",
+    options: ["大きな", "言って", "もっと", "声で"],
+    correct: 3,
+    explanation: "Urutan yang benar: [もっと (2)] [大きな (0)] [★声で (3)] [言って (1)] いただけませんか。Arti: 'Bisa minta tolong diucapkan sekali lagi dengan suara yang lebih keras?'"
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-2",
+    question: "わたしが ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ ときでした。",
+    options: ["のは", "ギターを", "習い", "はじめた"],
+    correct: 3,
+    explanation: "Urutan yang benar: [ギターを (1)] [習い (2)] [★はじめた (3)] [のは (0)] 10歳のときでした。Arti: 'Saat saya mulai belajar bermain gitar adalah ketika saya berumur 10 tahun'."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-2",
+    question: "だれか ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ この映画を見に行きたいと思っています。",
+    options: ["人が", "いっしょに", "いれば", "行く"],
+    correct: 0,
+    explanation: "Urutan yang benar: [いっしょに (1)] [行く (3)] [★人が (0)] [いれば (2)]。Arti: 'Jika ada orang yang pergi bersama, saya berniat pergi menonton film ini'."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-2",
+    question: "ヤンさんが来たら、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 伝えてください。",
+    options: ["事務所に", "くる", "ように", "ここではなく"],
+    correct: 1,
+    explanation: "Urutan yang benar: ヤンさんが来たら、[ここではなく (3)] [事務所に (0)] [★くる (1)] [ように (2)] 伝えてください。Arti: 'Jika Yan-san datang, tolong sampaikan agar dia pergi ke kantor, bukan ke sini'."
+  },
+
+  // Mondai 3: Grammar-3 (Cloze Test - 5 questions)
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-3",
+    passage: "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    question: "（　21　）に入る最もよいものを選んでください。",
+    options: ["が", "に", "を", "は"],
+    correct: 0,
+    explanation: "Subjek utama dari kalimat pasif 'dipilih' (えらばれた) adalah Fujiwara-san, sehingga ditandai dengan partikel 「が」."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-3",
+    passage: "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    question: "（　22　）に入る最もよいものを選んでください。",
+    options: ["陸上", "水泳", "テニス", "サッカー"],
+    correct: 0,
+    explanation: "Karena Fujiwara-san adalah pelari maraton (マラソン選手), tim tempat dia berlatih sebelumnya adalah tim atletik/lari (陸上)."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-3",
+    passage: "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    question: "（　23　）に入る最もよいものを選んでください。",
+    options: ["出たがっていた", "出られたかもしれない", "出させたかった", "出なければならなかった"],
+    correct: 3,
+    explanation: "Fujiwara-san merasa terikat karena ia 'harus berpartisipasi' (出なければならなかった) dalam pertandingan yang ditentukan oleh perusahaan."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-3",
+    passage: "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    question: "（　24　）に入る最もよいものを選んでください。",
+    options: ["会社をやめてから", "会社をやめる前に", "会社をやめたとき", "会社をやめようとするとき"],
+    correct: 0,
+    explanation: "Kalimat menunjukkan perubahan kebiasaan setelah ia mengundurkan diri (会社をやめてから), barulah ia mulai berpikir sendiri tentang menu latihan dan makanannya."
+  },
+  {
+    level: "N4",
+    section: "Grammar",
+    type: "grammar-3",
+    passage: "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    question: "（　25　）に入る最もよいものを選んでください。",
+    options: ["なれる", "にするようには", "なる", "できるように"],
+    correct: 2,
+    explanation: "Pola 〜ために (untuk/demi...) dipasangkan dengan kata kerja bentuk kamus. Maka bentuk yang tepat adalah 「なる」 (なるために = demi menjadi)."
+  },
+
+  // Mondai 4: Reading Short (4 questions)
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-short",
+    passage: "富士山に登ったことがありますか。富士山は3776メートルですが、一番上の場所まで登ったことがありますか。富士山に登った人は、まず神社へ行って神様にあいさつをします。神社の隣には、小さな建物があって、富士山に登った人はそこに泊まることができます。お風呂はありません。また食堂ではカレーやそばを食べることができます。小さな店もあって、お土産を買うことができます。それから、郵便局もあって、手紙を出すことができます。",
+    question: "富士山の一番上で、できないことは何ですか。",
+    options: [
+      "買い物をすること",
+      "はがきを送ること",
+      "食事をすること",
+      "体を洗うこと"
+    ],
+    correct: 3,
+    explanation: "Berdasarkan teks, di puncak Gunung Fuji tidak disediakan pemandian (お風呂はありません), sehingga pengunjung tidak bisa mandi/mencuci badan (体を洗うこと)."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-short",
+    passage: "日本人はよく弁当を食べます。お母さんの作った弁当も食べるし、コンビニの弁当も食べます。もう一つの人気のあるのは「駅弁」です。駅弁というのは、ある町の駅やその町を通る電車の中で売っている弁当のことです。駅弁がコンビニの弁当と違うのは、その町の有名な料理が入っていることと、弁当 of 箱がとても面白い形をしていることです。もちろん値段はそれほど安くありませんが、その町でしか買えません。",
+    passage: "日本人はよく弁当を食べます。お母さんの作った弁当も食べるし、コンビニの弁当も食べます。もう一つの人気のあるのは「駅弁」です。駅弁というのは、ある町の駅やその町を通る電車の中で売っている弁当のことです。駅弁がコンビニの弁当と違うのは、その町の有名な料理が入っていることと、弁当の箱がとても面白い形をしていることです。もちろん値段はそれほど安くありませんが、その町でしか買えません。",
+    question: "どうして「駅弁」は、人気があるのですか。",
+    options: [
+      "弁当の箱がコンビニの弁当の箱と同じだから",
+      "お母さんの作った弁当のようだから",
+      "その町の有名な料理が入っていて、箱の形が面白いから",
+      "値段が安くて、どこでも買えるから"
+    ],
+    correct: 2,
+    explanation: "Teks menjelaskan keunikan Ekiben yang membuatnya populer adalah adanya hidangan khas daerah tersebut (有名な料理) dan bentuk kotaknya yang menarik (面白い形)."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-short",
+    passage: "来週は、お菓子工場を見学します。9時10分に遅れないように来てください。見学のときは、写真を撮ったり、大きな声で話したりする人がいるので、注意してください。質問をしたりメモをとったりすることはできますが、案内する人の話を静かに聞くようにしましょう。見学の後、お菓子をもらえますが、そこで食べてはいけません。自分で持って帰って食べましょう。自分で持ってきたお菓子やゴミは、必ず持って帰ってください。",
+    question: "工場見学で、してはいけないことは何ですか。",
+    options: [
+      "質問をすること",
+      "メモをとること",
+      "案内する人の話を聞くこと",
+      "もらったお菓子をそこで食べること"
+    ],
+    correct: 3,
+    explanation: "Teks menyatakan bahwa setelah tur selesai pengunjung akan mendapatkan kue, tetapi dilarang memakannya di sana (そこで食べてはいけません). Kue tersebut harus dibawa pulang."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-short",
+    passage: "山本さんへ\n先週のお花見では大変ありがとうございました。はじめて日本の桜を見ましたが、上野公園の桜はとてもきれいで、忘れることができません。写真もたくさんとったので、できたらお送りします。また、山本さんが作って持ってきてくれたお弁当もとてもおいしかったです。特に卵焼きがおいしかったです。今度、作り方を教えてくださいませんか。来月の山登りも楽しみですね。あした、図書館で山のガイドブックを借りるつもりです。おすすめの本があったら教えてくださいね。\n王",
+    question: "王さんはあした、何をしますか。",
+    options: [
+      "山本さんに卵焼きの作り方を教える",
+      "山登りのガイドブックを借りる",
+      "上野公園で桜を見る",
+      "山登りに行く"
+    ],
+    correct: 1,
+    explanation: "Wang-san menulis dalam suratnya bahwa besok dia berencana meminjam buku panduan mendaki gunung di perpustakaan (あした、図書館で山のガイドブックを借りるつもりです)."
+  },
+
+  // Mondai 5: Reading Medium (2 questions)
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-medium",
+    passage: "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人にはわからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動してもそんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
+    question: "（　①　）にはどんなことばが入りますか。",
+    options: ["同じだ", "同じではない", "どちらもひつようではない", "どちらか一つだけひつようだ"],
+    correct: 1,
+    explanation: "Paragraf berikutnya menjelaskan perbedaan antara kacamata dan lensa kontak, sehingga kata yang tepat untuk mengisi bagian rumpang adalah 「同じではない」 (tidak sama)."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-medium",
+    passage: "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人にはわからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動してもそんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
+    question: "この人は、コンタクトレンズはどうだと言っていますか。",
+    options: [
+      "勉強したり、本を読んだりするのにいい。",
+      "本を読むときはいいが、運動しにくい。",
+      "運動はしやすいが、あぶないときもある。",
+      "運動にもいいし、ぜんぜんあぶなくない。"
+    ],
+    correct: 2,
+    explanation: "Penulis menyatakan bahwa lensa kontak memudahkan berolahraga karena tidak mudah jatuh (運動はしやすい), namun juga bisa berbahaya jika terhantam bola (あぶないときもある)."
+  },
+
+  // Mondai 6: Reading Complex (1 question)
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-complex",
+    passage: "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n・第1木曜日：卓球（一般・※） / バレーボール（グループ）\n・第1土曜日：卓球（グループ） / バレーボール（一般・※）\n・第2月曜日：卓球（一般） / バレーボール（一般）\n・第3水曜日：卓球（一般・※） / バレーボール（グループ）\n・第4月曜日：卓球（一般） / バレーボール（一般）\n\n※10人以上での利用は「グループ」、それ以下での利用は「個人」となります。\n※「グループ」は必ず1週間前までに予約してください（「一般」は予約不要です）。\n※「※」印は先生に教えてもらえます。\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日（月曜日）です。いちばん早くできるのはどれですか。",
+    question: "いちばん早くできるのはどれですか。",
+    options: [
+      "第2月曜日に",
+      "第3水曜日に",
+      "第3土曜日に",
+      "第4月曜日に"
+    ],
+    correct: 1,
+    explanation: "Mereka terdiri dari 4 orang (kurang dari 10 orang -> kategori '一般'), ingin bermain tenis meja (卓球) dengan bimbingan guru (tanda '※'). Hari ini tanggal 15 (Senin). Sesi berikutnya yang memenuhi kriteria adalah hari Rabu tanggal 17 (Rabu ke-3), yaitu '第3水曜日'."
+  }
+];
+
 export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
-  // If Package A (index 0), return official questions from Super Moshi
+  // If Package A (index 0), return official questions from Super Moshi TO 1
   if (pkgIdx === 0) {
     return superMoshiN4BunpouQuestions.map((q, i) => {
       const isGrammar = q.section === 'Grammar';
@@ -365,9 +712,28 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
     });
   }
 
-  // Compile Packages B and C avoiding overlap with Paket A questions
-  const moshiGrammarSet = new Set(superMoshiN4BunpouQuestions.filter(q => q.section === 'Grammar').map(q => q.question));
-  const moshiReadingSet = new Set(superMoshiN4BunpouQuestions.filter(q => q.section === 'Reading').map(q => q.question));
+  // If Package B (index 1), return official questions from Super Moshi TO 2
+  if (pkgIdx === 1) {
+    return superMoshiN4BunpouQuestions_B.map((q, i) => {
+      const isGrammar = q.section === 'Grammar';
+      return {
+        ...q,
+        id: `bunpou_n4_b_q${String(i + 1).padStart(2, '0')}`,
+        mondai: isGrammar ? (q.type === 'grammar-1' ? 1 : (q.type === 'grammar-2' ? 2 : 3)) : (q.type === 'reading-short' ? 4 : (q.type === 'reading-medium' ? 5 : 6)),
+        number: i + 1
+      };
+    });
+  }
+
+  // Compile Package C avoiding overlap with Paket A and Paket B questions
+  const moshiGrammarSet = new Set([
+    ...superMoshiN4BunpouQuestions.filter(q => q.section === 'Grammar').map(q => q.question),
+    ...superMoshiN4BunpouQuestions_B.filter(q => q.section === 'Grammar').map(q => q.question)
+  ]);
+  const moshiReadingSet = new Set([
+    ...superMoshiN4BunpouQuestions.filter(q => q.section === 'Reading').map(q => q.question),
+    ...superMoshiN4BunpouQuestions_B.filter(q => q.section === 'Reading').map(q => q.question)
+  ]);
 
   const filteredGrammar = grammarList.filter(q => !moshiGrammarSet.has(q.question));
   const filteredReading = readingList.filter(q => !moshiReadingSet.has(q.question));
@@ -385,8 +751,8 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
   };
 
   const result = [];
-  const letter = pkgIdx === 1 ? 'B' : 'C';
-  const offsetIdx = pkgIdx - 1; // 0 for B, 1 for C
+  const letter = 'c';
+  const offsetIdx = 0; // Since it's only Package C, offset 0 from the filtered list is fine
 
   let absoluteNumber = 1;
 
@@ -396,7 +762,7 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
     const item = g1Pool[(offsetIdx * 15 + i) % g1Pool.length];
     result.push({
       ...item,
-      id: `bunpou_n4_${letter.toLowerCase()}_q${String(absoluteNumber).padStart(2, '0')}`,
+      id: `bunpou_n4_${letter}_q${String(absoluteNumber).padStart(2, '0')}`,
       mondai: 1,
       number: absoluteNumber++
     });
@@ -408,7 +774,7 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
     const item = g2Pool[(offsetIdx * 5 + i) % g2Pool.length];
     result.push({
       ...item,
-      id: `bunpou_n4_${letter.toLowerCase()}_q${String(absoluteNumber).padStart(2, '0')}`,
+      id: `bunpou_n4_${letter}_q${String(absoluteNumber).padStart(2, '0')}`,
       mondai: 2,
       number: absoluteNumber++
     });
@@ -420,7 +786,7 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
     const item = g3Pool[(offsetIdx * 5 + i) % g3Pool.length];
     result.push({
       ...item,
-      id: `bunpou_n4_${letter.toLowerCase()}_q${String(absoluteNumber).padStart(2, '0')}`,
+      id: `bunpou_n4_${letter}_q${String(absoluteNumber).padStart(2, '0')}`,
       mondai: 3,
       number: absoluteNumber++
     });
@@ -432,7 +798,7 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
     const item = rShortPool[(offsetIdx * 4 + i) % rShortPool.length];
     result.push({
       ...item,
-      id: `bunpou_n4_${letter.toLowerCase()}_q${String(absoluteNumber).padStart(2, '0')}`,
+      id: `bunpou_n4_${letter}_q${String(absoluteNumber).padStart(2, '0')}`,
       mondai: 4,
       number: absoluteNumber++
     });
@@ -444,7 +810,7 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
     const item = rMedPool[(offsetIdx * 2 + i) % rMedPool.length];
     result.push({
       ...item,
-      id: `bunpou_n4_${letter.toLowerCase()}_q${String(absoluteNumber).padStart(2, '0')}`,
+      id: `bunpou_n4_${letter}_q${String(absoluteNumber).padStart(2, '0')}`,
       mondai: 5,
       number: absoluteNumber++
     });
@@ -455,7 +821,7 @@ export function getBalancedN4Bunpou(grammarList, readingList, pkgIdx) {
   const item = rCompPool[(offsetIdx * 1) % rCompPool.length];
   result.push({
     ...item,
-    id: `bunpou_n4_${letter.toLowerCase()}_q${String(absoluteNumber).padStart(2, '0')}`,
+    id: `bunpou_n4_${letter}_q${String(absoluteNumber).padStart(2, '0')}`,
     mondai: 6,
     number: absoluteNumber++
   });

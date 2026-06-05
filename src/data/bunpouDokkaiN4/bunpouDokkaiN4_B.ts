@@ -22,15 +22,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "彼女はピアノ___弾くことができます。",
+    "question": "外で、変な音（　　）しますよ。ちょっと見てきてください。",
     "options": [
-      "を",
       "が",
+      "を",
       "に",
       "で"
     ],
     "correct": 0,
-    "explanation": "正解は「を」です。「ピアノを弾く」はN4の基本的な表現で、楽器を弾く場合には助詞「を」を使います。「が」は能力を表す「弾くことができる」と組み合わせる場合もありますが、「ピアノを弾くことができる」の形が標準的です。",
+    "explanation": "Pola kata kerja 「〜がする」 digunakan untuk menyatakan adanya suara, bau, atau rasa (変な音がする).",
     "mondai": 1,
     "number": 1
   },
@@ -39,15 +39,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "日本語___話せるようになりたいです。",
+    "question": "A「あしたアルバイトは何時に終わりますか。」\nB「たぶん、7時（　　）終わると思います。」",
     "options": [
-      "が",
-      "を",
-      "に",
-      "で"
+      "まで",
+      "までに",
+      "から",
+      "を"
     ],
-    "correct": 0,
-    "explanation": "正解は「が」です。「〜ができる」の可能形では、直接目的語に「が」を使います。「日本語が話せる」(bisa berbicara bahasa Jepang) は可能形の標準的な用法で、「〜ようになりたい」は徐々に変化を望む表現です。",
+    "correct": 1,
+    "explanation": "Pola 〜までに (paling lambat sebelum...) digunakan untuk tindakan titik akhir (selesai) yang harus terlaksana sebelum batas waktu tertentu.",
     "mondai": 1,
     "number": 2
   },
@@ -56,15 +56,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "子供のとき、木に___ことができました。",
+    "question": "A「山下さんは来月、引っ越しする（　　）ですよ。」\nB「あ、その話、わたしも聞きました。本当なんですか。」",
     "options": [
-      "登る",
-      "登れる",
-      "登った",
-      "登り"
+      "つもりだ",
+      "ようと",
+      "ばかり",
+      "らしい"
     ],
-    "correct": 1,
-    "explanation": "正解は「登れる」です。「〜ことができました」は過去の能力を表します。「木に登れること」(bisa memanjat pohon) という可能形を使うのが自然です。「登る」は辞書形で〜ことができるに接続できますが、ここでは可能形「登れる」がより自然です。",
+    "correct": 3,
+    "explanation": "Pola 〜らしい (katanya/sepertinya...) digunakan untuk menyampaikan kabar atau perkiraan berdasarkan informasi yang didengar dari orang lain.",
     "mondai": 1,
     "number": 3
   },
@@ -73,15 +73,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "この問題は難し___、解けませんでした。",
+    "question": "A「さっき冷蔵庫に入れて（　　）ビールはもう冷えていますか。」\nB「いいえ、まだです。」",
     "options": [
-      "すぎて",
-      "すぎながら",
-      "すぎでも",
-      "すぎたり"
+      "おいた",
+      "いる",
+      "きた",
+      "しまった"
     ],
     "correct": 0,
-    "explanation": "正解は「すぎて」です。「難しすぎて」は「あまりにも難しくて」という意味で、その結果として「解けなかった」という因果関係を表します。「〜すぎて〜できない」はN4でよく使われるパターンです。",
+    "explanation": "Pola 〜ておく (melakukan persiapan...) diubah ke bentuk lampau menjadi 〜ておいた (telah dipersiapkan).",
     "mondai": 1,
     "number": 4
   },
@@ -90,15 +90,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "来年、海外に留学___と思っています。",
+    "question": "となりの部屋からテレビの音が聞こえる。だれかいる（　　）。",
     "options": [
-      "しよう",
-      "する",
-      "した",
-      "して"
+      "ようだ",
+      "はずだ",
+      "わけだ",
+      "ものだ"
     ],
     "correct": 0,
-    "explanation": "正解は「しよう」です。「〜しようと思っている」は自分の意図・計画を表す表現です。「しようと思う」(berniat untuk melakukan) はN4の重要な文型です。「する」は辞書形で不自然、「した」は過去形で意味が変わります。",
+    "explanation": "Pola 〜ようだ (sepertinya/kelihatannya...) digunakan untuk menduga situasi berdasarkan indra pendengaran atau penglihatan (mendengar suara TV, menduga ada orang).",
     "mondai": 1,
     "number": 5
   },
@@ -107,15 +107,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "もっと早く起きられる___、電車に乗れたのに。",
+    "question": "わたしが病気のとき、友だちに薬を買ってきて（　　）。",
     "options": [
-      "なら",
-      "たら",
-      "ば",
-      "と"
+      "あげた",
+      "くれた",
+      "やった",
+      "もらった"
     ],
-    "correct": 1,
-    "explanation": "正解は「たら」です。「もっと早く起きられたら、電車に乗れたのに」は反事実条件（実際には起きられなかった）を表す「〜たら〜のに」の構造です。この文脈では「たら」が最も自然です。",
+    "correct": 3,
+    "explanation": "Pola 〜てもらう (menerima kebaikan dari orang lain) digunakan karena pembicara (saya) menerima tindakan membelikan obat dari teman.",
     "mondai": 1,
     "number": 6
   },
@@ -124,15 +124,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "春になる___、桜が咲きます。",
+    "question": "息子は学校から帰ってくると、宿題も（　　）ずに、遊びに行ってしまった。",
     "options": [
-      "と",
-      "たら",
-      "なら",
-      "ば"
+      "し",
+      "しない",
+      "せ",
+      "する"
     ],
-    "correct": 0,
-    "explanation": "正解は「と」です。「春になると桜が咲く」は自然現象・習慣的事実を表す「と」条件です。「と」は前件が成立すれば必ず後件が起こる場合に使います。他の条件形もあり得ますが、自然現象には「と」が最も適切です。",
+    "correct": 2,
+    "explanation": "Pola 〜ずに (tanpa...) berpasangan dengan bentuk Nai tanpa nai. Khusus kata kerja する berubah menjadi 「せず」 (せずに).",
     "mondai": 1,
     "number": 7
   },
@@ -141,15 +141,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "彼に宿題を手伝って___ました。",
+    "question": "事故があったので、いま、その道は（　　）よ。",
     "options": [
-      "もらい",
-      "あげ",
-      "くれ",
-      "やり"
+      "通りません",
+      "通れません",
+      "通るはずがありません",
+      "通られません"
     ],
-    "correct": 0,
-    "explanation": "正解は「もらい」です。「彼に手伝ってもらった」は「私が彼から助けをもらった」という意味です。主語（私）が恩恵を受けるとき「もらう」を使います。「あげる」は与える側、「くれる」は第三者から話者へ。",
+    "correct": 1,
+    "explanation": "Kata kerja potential bentuk negatif 「通れない（通れません）」 (tidak bisa lewat/dilalui) karena ada kecelakaan.",
     "mondai": 1,
     "number": 8
   },
@@ -158,15 +158,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "先生が私に漢字の書き方を教えて___ました。",
+    "question": "おなかがいっぱいなら、全部（　　）もかまいませんよ。",
     "options": [
-      "くれ",
-      "もらい",
-      "あげ",
-      "やり"
+      "食べても",
+      "食べずに",
+      "食べなくても",
+      "食べないで"
     ],
-    "correct": 0,
-    "explanation": "正解は「くれ」です。「先生が私に教えてくれた」は「先生（第三者）が話者（私）に恩恵を与えた」という意味で「くれる」を使います。「もらう」は主語が受け取る側、「あげる」は主語が与える側です。",
+    "correct": 2,
+    "explanation": "Pola 〜なくてもかまわない (tidak ... pun tidak apa-apa/boleh tidak ...) untuk kata kerja 食べる adalah 食べなくてもかまいません.",
     "mondai": 1,
     "number": 9
   },
@@ -175,15 +175,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "部長は社員に残業___ました。",
+    "question": "母が新しいパソコンを（　　）たがっているので、いっしょに電気屋に行くつもりです。",
     "options": [
-      "させ",
-      "した",
-      "され",
-      "して"
+      "買いたい",
+      "買った",
+      "買わ",
+      "買い"
     ],
-    "correct": 0,
-    "explanation": "正解は「させ」です。「部長は社員に残業させた」は使役形で、「上位の人が下位の人にさせる」という使役の意味です。「〜させる」はN4の使役形の基本パターンです。",
+    "correct": 3,
+    "explanation": "Pola 〜たがる (ingin - untuk pihak ketiga) dilekatkan pada bentuk Masu-stem (tanpa masu). Kata kerja 買います diubah menjadi 買い + たがる.",
     "mondai": 1,
     "number": 10
   },
@@ -192,15 +192,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "私は母に野菜を食べ___ました。",
+    "question": "A「このペンは（　　）ですよ。どうぞ使ってみてください。」\nB「あ、いいペンですね。」",
     "options": [
-      "させられ",
-      "させ",
-      "される",
-      "させて"
+      "書きやすい",
+      "書きにくい",
+      "書くらしい",
+      "書くみたい"
     ],
     "correct": 0,
-    "explanation": "正解は「させられ」です。「母に野菜を食べさせられた」は使役受動形で、「自分が望まない行為を誰かにさせられる（強いられる）」ことを表します。話者は嫌々野菜を食べさせられた、というニュアンスです。",
+    "explanation": "Pola 〜やすい (mudah untuk...) dilekatkan pada bentuk Masu-stem. 書きやすい berarti mudah ditulis/enak dipakai menulis.",
     "mondai": 1,
     "number": 11
   },
@@ -209,15 +209,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "私の財布が___しまいました。",
+    "question": "あしたは（　　）ので、ハイキングに行きましょう。",
     "options": [
-      "盗まれて",
-      "盗んで",
-      "盗ませて",
-      "盗もうとして"
+      "休みだ",
+      "休みな",
+      "休み",
+      "休んで"
     ],
-    "correct": 0,
-    "explanation": "正解は「盗まれて」です。「財布が盗まれた」は受身形で、話者が被害を受けたことを表します。受身の「〜れる/られる」はN4の重要文法です。「盗んで」は能動形、「盗ませて」は使役、「盗もうとして」は意図の表現です。",
+    "correct": 1,
+    "explanation": "Pola 〜ので (karena...) yang dilekatkan pada kata benda (休む -> kata benda: 休み) memerlukan penyambung 「な」 (休みなので).",
     "mondai": 1,
     "number": 12
   },
@@ -226,15 +226,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "この橋は100年前に___ました。",
+    "question": "A「どうしたんですか。具合が悪そうですね。」\nB「ええ、窓を（　　）寝てしまって、かぜをひいてしまったんです。」",
     "options": [
-      "建てられ",
-      "建て",
-      "建てさせ",
-      "建てよう"
+      "開けっぱなし",
+      "開けたきり",
+      "開けたまま",
+      "開けるだけ"
     ],
-    "correct": 0,
-    "explanation": "正解は「建てられ」です。「橋は建てられた」は受身形で、客観的な事実（誰かによって建てられた）を表します。この受身形はN4で重要なパターンです。「建て」は不完全、「建てさせ」は使役、「建てよう」は意志形です。",
+    "correct": 2,
+    "explanation": "Pola 〜たまま (dalam kondisi ... tetap/dibiarkan) digunakan untuk menyatakan tidur dalam keadaan jendela tetap terbuka.",
     "mondai": 1,
     "number": 13
   },
@@ -243,15 +243,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "お客様、こちらの商品はいかが___でしょうか。",
+    "question": "A「今日中にこれをとどけてもらえますか。」\n係員「はい、お好きな時間にお（　　）します。」",
     "options": [
-      "ございます",
-      "あります",
-      "います",
-      "です"
+      "とどけ",
+      "とどける",
+      "とどけて",
+      "とどけられ"
     ],
     "correct": 0,
-    "explanation": "正解は「ございます」です。「ございます」は「あります」の謙譲・丁寧語で、接客の場面で使います。「いかがでございましょうか」(bagaimana menurut Anda?) は丁寧なサービス表現です。「あります」「います」「です」はより普通の丁寧語です。",
+    "explanation": "Bentuk sopan merendahkan diri (kenjougo) adalah お + Masu-stem + する. Untuk とどけます menjadi おとどけします.",
     "mondai": 1,
     "number": 14
   },
@@ -260,15 +260,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "本日はお忙しいところ、お越し___ありがとうございます。",
+    "question": "頭が痛くて熱もあるので、わたしは今日の会議には（　　）。",
     "options": [
-      "いただき",
-      "くださり",
-      "もらい",
-      "あげ"
+      "出られそうもない",
+      "出ないらしい",
+      "出かけなければならない",
+      "出たがらない"
     ],
-    "correct": 1,
-    "explanation": "正解は「くださり」です。「お越しくださりありがとうございます」は「来てくださってありがとう」という丁寧な表現で、「くださる」は「くれる」の尊敬語です。「いただき」は「もらう」の謙譲語です。このような接客・ビジネスシーンの表現はN4で重要です。",
+    "correct": 0,
+    "explanation": "Pola 〜そうもない / 〜そうにない (sepertinya tidak mungkin...) dikombinasikan dengan bentuk potensial 出られる -> 出られそうもない (sepertinya saya tidak bisa hadir).",
     "mondai": 1,
     "number": 15
   },
@@ -277,15 +277,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "彼女は ＿＿ ＿★＿ ＿＿ ＿＿ らしいです。 [★の位置に入る語を選んでください]\n選択肢: ① 日本語 ② 話せる ③ だけでなく ④ 英語も",
+    "question": "きょうは、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 。",
     "options": [
-      "話せる",
-      "日本語",
-      "だけでなく",
-      "英語も"
+      "おなかが",
+      "痛くて",
+      "何も",
+      "食べられない"
     ],
-    "correct": 0,
-    "explanation": "正しい語順は「日本語だけでなく英語も話せるらしいです」です。★の位置は「話せる」が入ります。「〜だけでなく〜も」は「不仅〜，还〜」という意味で、N4の重要表現です。正しい語順: ①日本語 ③だけでなく ④英語も ②話せる。",
+    "correct": 2,
+    "explanation": "Urutan yang benar: きょうは、[おなかが (0)] [痛くて (1)] [★何も (2)] [食べられない (3)]。Arti: 'Hari ini, karena perut saya sakit, saya tidak bisa makan apa-apa'.",
     "mondai": 2,
     "number": 16
   },
@@ -294,15 +294,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "田中さんは ＿＿ ＿★＿ ＿＿ ＿＿ 帰りました。 [★の位置に入る語を選んでください]\n選択肢: ① 会議 ② 終わって ③ が ④ から",
+    "question": "よく聞こえません。もういちど、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ いただけませんか。",
     "options": [
-      "終わって",
-      "が",
-      "会議",
-      "から"
+      "大きな",
+      "言って",
+      "もっと",
+      "声で"
     ],
-    "correct": 0,
-    "explanation": "正しい語順は「会議が終わってから帰りました」です。★の位置は「終わって」が入ります。「〜てから〜する」は「setelah〜, melakukan〜」という順序を表す重要表現です。正しい語順: ①会議 ③が ②終わって ④から。",
+    "correct": 3,
+    "explanation": "Urutan yang benar: [もっと (2)] [大きな (0)] [★声で (3)] [言って (1)] いただけませんか。Arti: 'Bisa minta tolong diucapkan sekali lagi dengan suara yang lebih keras?'",
     "mondai": 2,
     "number": 17
   },
@@ -311,15 +311,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "先生に ＿＿ ＿★＿ ＿＿ ＿＿ ありがとうございます。 [★の位置に入る語を選んでください]\n選択肢: ① 教えて ② いただき ③ ご丁寧に ④ まして",
+    "question": "わたしが ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ ときでした。",
     "options": [
-      "いただき",
-      "ご丁寧に",
-      "教えて",
-      "まして"
+      "のは",
+      "ギターを",
+      "習い",
+      "はじめた"
     ],
-    "correct": 0,
-    "explanation": "正しい語順は「先生にご丁寧に教えていただきましてありがとうございます」です。★の位置は「いただき」が入ります。「〜ていただく」は「もらう」の謙譲語で、目上の人から恩恵を受けたときに使います。正しい語順: ③ご丁寧に ①教えて ②いただき ④まして。",
+    "correct": 3,
+    "explanation": "Urutan yang benar: [ギターを (1)] [習い (2)] [★はじめた (3)] [のは (0)] 10歳のときでした。Arti: 'Saat saya mulai belajar bermain gitar adalah ketika saya berumur 10 tahun'.",
     "mondai": 2,
     "number": 18
   },
@@ -328,15 +328,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "彼は ＿＿ ＿★＿ ＿＿ ＿＿ はずです。 [★の位置に入る語を選んでください]\n選択肢: ① もう ② 帰って ③ に ④ 家",
+    "question": "だれか ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ この映画を見に行きたいと思っています。",
     "options": [
-      "帰って",
-      "家",
-      "に",
-      "もう"
+      "人が",
+      "いっしょに",
+      "いれば",
+      "行く"
     ],
     "correct": 0,
-    "explanation": "正しい語順は「彼はもう家に帰っているはずです」です。★の位置は「帰って」が入ります。「〜はず」は根拠に基づく推測を表します。正しい語順: ①もう ④家 ③に ②帰って。",
+    "explanation": "Urutan yang benar: [いっしょに (1)] [行く (3)] [★人が (0)] [いれば (2)]。Arti: 'Jika ada orang yang pergi bersama, saya berniat pergi menonton film ini'.",
     "mondai": 2,
     "number": 19
   },
@@ -345,15 +345,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "彼女に ＿＿ ＿★＿ ＿＿ ＿＿ ました。 [★の位置に入る語を選んでください]\n選択肢: ① 手伝って ② もらい ③ 宿題を ④ に",
+    "question": "ヤンさんが来たら、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 伝えてください。",
     "options": [
-      "もらい",
-      "手伝って",
-      "宿題を",
-      "に"
+      "事務所に",
+      "くる",
+      "ように",
+      "ここではなく"
     ],
-    "correct": 0,
-    "explanation": "正しい語順は「彼女に宿題を手伝ってもらいました」です。★の位置は「もらい」が入ります。「〜てもらう」は「恩恵を受ける」表現です。正しい語順: ③宿題を ①手伝って ②もらい。",
+    "correct": 1,
+    "explanation": "Urutan yang benar: ヤンさんが来たら、[ここではなく (3)] [事務所に (0)] [★くる (1)] [ように (2)] 伝えてください。Arti: 'Jika Yan-san datang, tolong sampaikan agar dia pergi ke kantor, bukan ke sini'.",
     "mondai": 2,
     "number": 20
   },
@@ -362,16 +362,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-3",
-    "question": "田中さんは毎朝6時に起きる___にしています。健康のために___ようになりたいと思って、三ヶ月前から始めました。今では、朝起きることが苦になら___なりました。空欄に入る最も適切なものを選んでください。（最初の空欄）",
-    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3_g1.mp3",
+    "question": "（　21　）に入る最もよいものを選んでください。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "よう",
-      "こと",
-      "もの",
-      "ため"
+      "が",
+      "に",
+      "を",
+      "は"
     ],
     "correct": 0,
-    "explanation": "正解は「よう」です。「〜ようにする」は「意識的に〜する習慣をつける」という意味で、N4の重要文型です。「毎朝6時に起きるようにしている」は健康習慣として意識的に行っていることを表します。",
+    "explanation": "Subjek utama dari kalimat pasif 'dipilih' (えらばれた) adalah Fujiwara-san, sehingga ditandai dengan partikel 「が」.",
     "mondai": 3,
     "number": 21
   },
@@ -380,16 +381,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-3",
-    "question": "田中さんは毎朝6時に起きるようにしています。健康のために早起きできる___と思って、三ヶ月前から始めました。今では、朝起きることが苦になら___なりました。空欄に入る最も適切なものを選んでください。（二番目の空欄）",
-    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3_g2.mp3",
+    "question": "（　22　）に入る最もよいものを選んでください。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "ようになりたい",
-      "ようにした",
-      "ようになった",
-      "ようにしない"
+      "陸上",
+      "水泳",
+      "テニス",
+      "サッカー"
     ],
     "correct": 0,
-    "explanation": "正解は「ようになりたい」です。「〜ようになりたい」は「〜できるようになることを望む」という意志・目標を表します。「早起きできるようになりたい」(ingin bisa bangun pagi) という文脈が自然です。",
+    "explanation": "Karena Fujiwara-san adalah pelari maraton (マラソン選手), tim tempat dia berlatih sebelumnya adalah tim atletik/lari (陸上).",
     "mondai": 3,
     "number": 22
   },
@@ -398,16 +400,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-3",
-    "question": "田中さんは毎朝6時に起きるようにしています。健康のために早起きできるようになりたいと思って、三ヶ月前から始めました。今では、朝起きることが苦に___なりました。空欄に入る最も適切なものを選んでください。（三番目の空欄）",
-    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3_g2.mp3",
+    "question": "（　23　）に入る最もよいものを選んでください。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "ならなく",
-      "なら",
-      "なれなく",
-      "ならなかっ"
+      "出たがっていた",
+      "出られたかもしれない",
+      "出させたかった",
+      "出なければならなかった"
     ],
-    "correct": 0,
-    "explanation": "正解は「ならなく」です。「苦にならなくなりました」は「苦ではなくなった」=「もう苦ではない」という変化を表します。「〜なくなる」は否定の変化で、「ならなく」+「なりました」の構造です。",
+    "correct": 3,
+    "explanation": "Fujiwara-san merasa terikat karena ia 'harus berpartisipasi' (出なければならなかった) dalam pertandingan yang ditentukan oleh perusahaan.",
     "mondai": 3,
     "number": 23
   },
@@ -416,16 +419,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-3",
-    "question": "鈴木さんは先週、上司に急に残業___ました。彼女は疲れて___まいましたが、仕事だから仕方がないと思いました。次回は事前に___ように話し合いたいと思っています。（最初の空欄）",
-    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3_g3.mp3",
+    "question": "（　24　）に入る最もよいものを選んでください。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "させられ",
-      "させ",
-      "され",
-      "させて"
+      "会社をやめてから",
+      "会社をやめる前に",
+      "会社をやめたとき",
+      "会社をやめようとするとき"
     ],
     "correct": 0,
-    "explanation": "正解は「させられ」です。「残業させられた」は使役受動形で、「上司に望まない残業を強いられた」という意味です。「させられる」=「forced to do (against one's will)」はN4の重要文型です。",
+    "explanation": "Kalimat menunjukkan perubahan kebiasaan setelah ia mengundurkan diri (会社をやめてから), barulah ia mulai berpikir sendiri tentang menu latihan dan makanannya.",
     "mondai": 3,
     "number": 24
   },
@@ -434,16 +438,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-3",
-    "question": "鈴木さんは先週、上司に急に残業させられました。彼女は疲れて___まいましたが、仕事だから仕方がないと思いました。次回は事前に___ように話し合いたいと思っています。（二番目の空欄）",
-    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3_g4.mp3",
+    "question": "（　25　）に入る最もよいものを選んでください。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "し",
-      "い",
-      "お",
-      "き"
+      "なれる",
+      "にするようには",
+      "なる",
+      "できるように"
     ],
-    "correct": 0,
-    "explanation": "正解は「し」です。「疲れてしまいました」は「〜てしまう」の過去形で、意図せず疲れてしまったというニュアンスです。「しまう」はN4の重要文型です。",
+    "correct": 2,
+    "explanation": "Pola 〜ために (untuk/demi...) dipasangkan dengan kata kerja bentuk kamus. Maka bentuk yang tepat adalah 「なる」 (なるために = demi menjadi).",
     "mondai": 3,
     "number": 25
   },
@@ -452,17 +457,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-short",
-    "question": "この文章を読んで、正しいものを選んでください。",
-    "passage": "山田さんは先月から新しい仕事を始めました。最初は慣れなくて大変でしたが、今はだいぶ慣れてきました。仕事の後は疲れているので、早く寝るようにしています。",
+    "question": "富士山の一番上で、できないことは何ですか。",
+    "passage": "富士山に登ったことがありますか。富士山は3776メートルですが、一番上の場所まで登ったことがありますか。富士山に登った人は、まず神社へ行って神様にあいさつをします。神社の隣には、小さな建物があって、富士山に登った人はそこに泊まることができます。お風呂はありません。また食堂ではカレーやそばを食べることができます。小さな店もあって、お土産を買うことができます。それから、郵便局もあって、手紙を出すことができます。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m4_q1.mp3",
     "options": [
-      "山田さんは新しい仕事に最初から慣れていました。",
-      "山田さんは仕事後に早く寝るようにしています。",
-      "山田さんは今でも仕事に慣れていません。",
-      "山田さんは先月仕事をやめました。"
+      "買い物をすること",
+      "はがきを送ること",
+      "食事をすること",
+      "体を洗うこと"
     ],
-    "correct": 1,
-    "explanation": "文章に「仕事の後は疲れているので、早く寝るようにしています」と書いてあります。選択肢1は「最初から慣れていた」と書いてありますが、文章では「最初は慣れなくて大変」とあります。選択肢3は誤りで、今は慣れてきています。選択肢4も誤りで、仕事を始めたのであって辞めていません。",
+    "correct": 3,
+    "explanation": "Berdasarkan teks, di puncak Gunung Fuji tidak disediakan pemandian (お風呂はありません), sehingga pengunjung tidak bisa mandi/mencuci badan (体を洗うこと).",
     "mondai": 4,
     "number": 26
   },
@@ -471,17 +476,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-short",
-    "question": "この文章を読んで、田中さんはなぜ電車に乗れなかったのですか。",
-    "passage": "田中さんは今朝、いつもより少し遅く家を出ました。駅に急いで行きましたが、電車のドアが閉まる直前でした。次の電車を待った結果、会社に10分遅刻してしまいました。",
+    "question": "どうして「駅弁」は、人気があるのですか。",
+    "passage": "日本人はよく弁当を食べます。お母さんの作った弁当も食べるし、コンビニの弁当も食べます。もう一つの人気のあるのは「駅弁」です。駅弁というのは、ある町の駅やその町を通る電車の中で売っている弁当のことです。駅弁がコンビニの弁当と違うのは、その町の有名な料理が入っていることと、弁当の箱がとても面白い形をしていることです。もちろん値段はそれほど安くありませんが、その町でしか買えません。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m4_q2.mp3",
     "options": [
-      "電車が故障していたから",
-      "駅に着いたとき、電車のドアがちょうど閉まったから",
-      "電車の時刻が変わったから",
-      "駅の場所が分からなかったから"
+      "弁当の箱がコンビニの弁当の箱と同じだから",
+      "お母さんの作った弁当のようだから",
+      "その町の有名な料理が入っていて、箱の形が面白いから",
+      "値段が安くて、どこでも買えるから"
     ],
-    "correct": 1,
-    "explanation": "文章に「駅に急いで行きましたが、電車のドアが閉まる直前でした」とあります。田中さんは電車に乗れなかった理由は、駅に着いたときにちょうどドアが閉まる寸前だったからです。電車の故障や時刻変更、道に迷ったとは書いてありません。",
+    "correct": 2,
+    "explanation": "Teks menjelaskan keunikan Ekiben yang membuatnya populer adalah adanya hidangan khas daerah tersebut (有名な料理) dan bentuk kotaknya yang menarik (面白い形).",
     "mondai": 4,
     "number": 27
   },
@@ -490,17 +495,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-short",
-    "question": "この文章を読んで、このお知らせの内容として正しいものを選んでください。",
-    "passage": "図書館からのお知らせ：来週月曜日（6月3日）は館内清掃のため、図書館は終日休館します。ご不便をおかけしますが、ご理解をよろしくお願いします。",
+    "question": "工場見学で、してはいけないことは何ですか。",
+    "passage": "来週は、お菓子工場を見学します。9時10分に遅れないように来てください。見学のときは、写真を撮ったり、大きな声で話したりする人がいるので、注意してください。質問をしたりメモをとったりすることはできますが、案内する人の話を静かに聞くようにしましょう。見学の後、お菓子をもらえますが、そこで食べてはいけません。自分で持って帰って食べましょう。自分で持ってきたお菓子やゴミは、必ず持って帰ってください。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m4_q3.mp3",
     "options": [
-      "図書館は6月3日の午前中だけ休みです。",
-      "図書館は6月3日、一日中休みです。",
-      "図書館は来週の全ての日が休みです。",
-      "図書館の清掃は6月4日に行われます。"
+      "質問をすること",
+      "メモをとること",
+      "案内する人の話を聞くこと",
+      "もらったお菓子をそこで食べること"
     ],
-    "correct": 1,
-    "explanation": "お知らせに「6月3日は館内清掃のため、図書館は終日休館します」とあります。「終日」は一日中という意味です。選択肢1の「午前中だけ」は誤りです。「来週の全ての日」でもなく、清掃が6月4日というわけでもありません。",
+    "correct": 3,
+    "explanation": "Teks menyatakan bahwa setelah tur selesai pengunjung akan mendapatkan kue, tetapi dilarang memakannya di sana (そこで食べてはいけません). Kue tersebut harus dibawa pulang.",
     "mondai": 4,
     "number": 28
   },
@@ -509,17 +514,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-short",
-    "question": "この文章を読んで、鈴木さんは今どういう状態ですか。",
-    "passage": "鈴木さんは先週から風邪をひいていましたが、昨日やっと熱が下がりました。でも、まだ咳が少し残っているので、今日も念のため会社を休みました。明日からは仕事に戻る予定です。",
+    "question": "王さんはあした、何をしますか。",
+    "passage": "山本さんへ\n先週のお花見では大変ありがとうございました。はじめて日本の桜を見ましたが、上野公園の桜はとてもきれいで、忘れることができません。写真もたくさんとったので、できたらお送りします。また、山本さんが作って持ってきてくれたお弁当もとてもおいしかったです。特に卵焼きがおいしかったです。今度、作り方を教えてくださいませんか。来月の山登りも楽しみですね。あした、図書館で山のガイドブックを借りるつもりです。おすすめの本があったら教えてくださいね。\n王",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m4_q4.mp3",
     "options": [
-      "熱が高くてとても苦しい状態です。",
-      "熱は下がったが、まだ咳があります。",
-      "完全に回復していて、今日も仕事をしています。",
-      "明日も仕事を休む予定です。"
+      "山本さんに卵焼きの作り方を教える",
+      "山登りのガイドブックを借りる",
+      "上野公園で桜を見る",
+      "山登りに行く"
     ],
     "correct": 1,
-    "explanation": "文章に「昨日やっと熱が下がりました。でも、まだ咳が少し残っている」とあります。熱は下がりましたが、咳がまだあります。今日は会社を休んでいますが（選択肢3は誤り）、明日からは仕事に戻る予定です（選択肢4は誤り）。",
+    "explanation": "Wang-san menulis dalam suratnya bahwa besok dia berencana meminjam buku panduan mendaki gunung di perpustakaan (あした、図書館で山のガイドブックを借りるつもりです).",
     "mondai": 4,
     "number": 29
   },
@@ -528,17 +533,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-medium",
-    "question": "この文章を読んで、田中さんが日本語を勉強し続けている最大の理由は何ですか。",
-    "passage": "田中さんはインドネシア出身で、日本語を勉強して5年になります。最初は文法が難しくて何度も諦めそうになりました。しかし、日本のアニメや映画が大好きで、字幕なしで楽しみたいという夢がありました。その夢のために諦めずに勉強を続けた結果、今では日本人との会話もある程度できるようになりました。田中さんは「言語の勉強に近道はない。毎日少しずつ続けることが一番大切」と言っています。",
+    "question": "（　①　）にはどんなことばが入りますか。",
+    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人にはわからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動してもそんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m5.mp3",
     "options": [
-      "日本に留学するため",
-      "字幕なしで日本のアニメや映画を楽しみたいため",
-      "日本語の先生になるため",
-      "日本人の友人を作るため"
+      "同じだ",
+      "同じではない",
+      "どちらもひつようではない",
+      "どちらか一つだけひつようだ"
     ],
     "correct": 1,
-    "explanation": "文章に「日本のアニメや映画が大好きで、字幕なしで楽しみたいという夢がありました。その夢のために諦めずに勉強を続けた」とあります。これが田中さんが日本語を続けた最大の理由です。留学、先生になること、友人を作ることについては書いてありません。",
+    "explanation": "Paragraf berikutnya menjelaskan perbedaan antara kacamata dan lensa kontak, sehingga kata yang tepat untuk mengisi bagian rumpang adalah 「同じではない」 (tidak sama).",
     "mondai": 5,
     "number": 30
   },
@@ -547,17 +552,17 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-medium",
-    "question": "このメールを読んで、佐藤さんは山田さんに何を伝えていますか。",
-    "passage": "山田様\n\nお疲れ様です。佐藤です。来週月曜日の会議についてご連絡します。当初の予定では午後2時からでしたが、部長の都合により午前10時に変更となりました。場所は第2会議室のままです。\n\nお手数ですが、スケジュールのご確認をお願いいたします。ご不明な点があれば、ご連絡ください。\n\n佐藤",
+    "question": "この人は、コンタクトレンズはどうだと言っていますか。",
+    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人にはわからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動してもそんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m5.mp3",
     "options": [
-      "会議が来週からキャンセルになったこと",
-      "会議の時刻が午後2時から午前10時に変わったこと",
-      "会議の場所が第1会議室に変わったこと",
-      "部長が会議に参加できないこと"
+      "勉強したり、本を読んだりするのにいい。",
+      "本を読むときはいいが、運動しにくい。",
+      "運動はしやすいが、あぶないときもある。",
+      "運動にもいいし、ぜんぜんあぶなくない。"
     ],
-    "correct": 1,
-    "explanation": "メールに「当初の予定では午後2時からでしたが、部長の都合により午前10時に変更となりました」とあります。会議の時刻変更が主な内容です。会議はキャンセルではなく（選択肢1は誤り）、場所は第2会議室のまま（選択肢3は誤り）、部長が参加できないとは書いていません（選択肢4は誤り）。",
+    "correct": 2,
+    "explanation": "Penulis menyatakan bahwa lensa kontak memudahkan berolahraga karena tidak mudah jatuh (運動はしやすい), namun juga bisa berbahaya jika terhantam bola (あぶないときもある).",
     "mondai": 5,
     "number": 31
   },
@@ -566,16 +571,16 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-complex",
-    "question": "この資料を読んで、アルバイトをすぐに始められる人はどれですか。",
-    "passage": "【求人情報】\n職種：レストランスタッフ（ホール・キッチン）\n勤務地：渋谷区〇〇\n時給：ホール 1,050円 / キッチン 1,100円\n\n【応募資格】\n・18歳以上（高校生不可）\n・週3日以上勤務できる方\n・日本語での基本的なコミュニケーションができる方\n・経験不問（研修あり）\n\n【勤務時間】\nランチ：11:00〜15:00\nディナー：17:00〜22:00\n（シフト制・週3日〜）\n\n【待遇】\n・交通費全額支給\n・賄い食あり\n・昇給あり（3ヶ月ごとに査定）\n\n※応募はお電話またはメールにて承ります。",
+    "question": "いちばん早くできるのはどれですか。",
+    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n・第1木曜日：卓球（一般・※） / バレーボール（グループ）\n・第1土曜日：卓球（グループ） / バレーボール（一般・※）\n・第2月曜日：卓球（一般） / バレーボール（一般）\n・第3水曜日：卓球（一般・※） / バレーボール（グループ）\n・第4月曜日：卓球（一般） / バレーボール（一般）\n\n※10人以上での利用は「グループ」、それ以下での利用は「個人」となります。\n※「グループ」は必ず1週間前までに予約してください（「一般」は予約不要です）。\n※「※」印は先生に教えてもらえます。\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日（月曜日）です。いちばん早くできるのはどれですか。",
     "options": [
-      "17歳の高校生で週4日働ける人",
-      "20歳の大学生で週3日働けて日本語での会話ができる人",
-      "22歳で週1日しか働けない人",
-      "18歳の高校生で週5日働ける人"
+      "第2月曜日に",
+      "第3水曜日に",
+      "第3土曜日に",
+      "第4月曜日に"
     ],
     "correct": 1,
-    "explanation": "応募資格は①18歳以上（高校生不可）、②週3日以上、③日本語コミュニケーション可です。選択肢2の「20歳の大学生で週3日、日本語会話可」はすべての条件を満たします。選択肢1は17歳で高校生なので不可。選択肢3は週1日のみで条件未満。選択肢4は18歳でも高校生は不可。",
+    "explanation": "Mereka terdiri dari 4 orang (kurang dari 10 orang -> kategori '一般'), ingin bermain tenis meja (卓球) dengan bimbingan guru (tanda '※'). Hari ini tanggal 15 (Senin). Sesi berikutnya yang memenuhi kriteria adalah hari Rabu tanggal 17 (Rabu ke-3), yaitu '第3水曜日'.",
     "mondai": 6,
     "number": 32
   }

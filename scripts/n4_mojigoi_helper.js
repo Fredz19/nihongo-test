@@ -396,6 +396,404 @@ export const superMoshiN4VocabQuestions = [
   }
 ];
 
+// Official N4 Vocabulary tryout questions from "JLPT Super Moshi N4 N5.pdf" pages 19-22 (Try Out 2)
+export const superMoshiN4VocabQuestions_B = [
+  // Mondai 1: Kanji Reading (9 questions)
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "きのう近くでかじがありました。",
+    highlight: "近く",
+    options: ["ちかく", "とおく", "ふとく", "おそく"],
+    correct: 0,
+    explanation: "「近く」は「ちかく」と読みます。意味は 'dekat'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "やましたさんは英語がはなせます。",
+    highlight: "英語",
+    options: ["えいご", "よいご", "いんご", "いいご"],
+    correct: 0,
+    explanation: "「英語」は「えいご」と読みます。意味は 'bahasa Inggris'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "このこたえを考えてください。",
+    highlight: "考えて",
+    options: ["おしえて", "おぼえて", "かんがえて", "かえて"],
+    correct: 2,
+    explanation: "「考えて」は「かんがえて」と読みます。意味は 'berpikir'. 原形は「考える」です。"
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "世界をりょこうしたいです。",
+    highlight: "世界",
+    options: ["せいかい", "せっかい", "せいかん", "せかい"],
+    correct: 3,
+    explanation: "「世界」は「せかい」と読みます。意味は 'dunia'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "じかんがありませんから、急いでください。",
+    highlight: "急いで",
+    options: ["あるいて", "いそいで", "おそいで", "せいで"],
+    correct: 1,
+    explanation: "「急いで」は「いそいで」と読みます。意味は 'cepat-cepat/bergegas'. 原形は「急ぐ」です。"
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "しけんの教室をまちがえました。",
+    highlight: "教室",
+    options: ["きょうしつ", "きょうし", "きょしつ", "きょしつう"],
+    correct: 0,
+    explanation: "「教室」は「きょうしつ」と読みます。意味は 'ruang kelas'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "やまもとさんはコンビニの店員です。",
+    highlight: "店員",
+    options: ["てんいん", "えきいん", "しゃいん", "てんちょう"],
+    correct: 0,
+    explanation: "「店員」は「てんいん」と読みます。意味は 'pegawai toko/kasir'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "ゆうべ弟といっしょにテレビを見ました。",
+    highlight: "弟",
+    options: ["いもうと", "あに", "あね", "おとうと"],
+    correct: 3,
+    explanation: "「弟」は「おとうと」と読みます。意味は 'adik laki-laki'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "kanji-read",
+    question: "ともだちがかばんを作ってくれました。",
+    highlight: "作って",
+    options: ["つかって", "もって", "とって", "つくって"],
+    correct: 3,
+    explanation: "「作って」は「つくって」と読みます。意味は 'membuat'. 原形は「作る」です。"
+  },
+
+  // Mondai 2: Orthography (6 questions)
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "あの人はわるい人ではありません。",
+    highlight: "わるい",
+    options: ["悪い", "野い", "重い", "別い"],
+    correct: 0,
+    explanation: "「わるい」は漢字で「悪い」と書きます。意味は 'buruk/jahat'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "あした7じにおきるつもりです。",
+    highlight: "おきる",
+    options: ["起きる", "置きる", "屋きる", "着きる"],
+    correct: 0,
+    explanation: "「おきる」は漢字で「起きる」と書きます。意味は 'bangun'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "ペンをかしてください。",
+    highlight: "かして",
+    options: ["持して", "得して", "貸して", "借して"],
+    correct: 2,
+    explanation: "「かして」は漢字で「貸して」と書きます。意味は 'meminjamkan'. 原形は「貸す」です。"
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "きってを買ってきてください。",
+    highlight: "きって",
+    options: ["切手", "切符", "手紙", "封筒"],
+    correct: 0,
+    explanation: "「きって」は漢字で「切手」と書きます。意味は 'perangko'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "なにかしつもんはありますか。",
+    highlight: "しつもん",
+    options: ["質問", "質門", "問質", "設問"],
+    correct: 0,
+    explanation: "「しつもん」は漢字で「質問」と書きます。意味は 'pertanyaan'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "きのうはよる8じにねました。",
+    highlight: "よる",
+    options: ["昼", "夜", "晩", "朝"],
+    correct: 1,
+    explanation: "「よる」は漢字で「夜」と書きます。意味は 'malam'."
+  },
+
+  // Mondai 3: Contextual Vocabulary (10 questions)
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "テストがおわるときに( )がなります。",
+    options: ["ゼル", "ジャム", "ベル", "テキスト"],
+    correct: 2,
+    explanation: "Kalimat berarti 'Bel berbunyi saat tes selesai'. Maka kata yang tepat adalah 「ベル」 (bel)."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "まどのガラスが( )しまいました。",
+    options: ["よって", "われて", "おれて", "ひらいて"],
+    correct: 1,
+    explanation: "Kalimat berarti 'Kaca jendela pecah'. Kata kerja 「割れる（われる）」 digunakan untuk benda rapuh seperti kaca yang pecah."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "日が( )から、いえへかえりましょう。",
+    options: ["くれた", "なくした", "おくれた", "にげた"],
+    correct: 0,
+    explanation: "Ekspresi 「日が暮れる（ひがくれる）」 berarti 'hari sudah gelap/senja'. Jadi pilihan yang benar adalah 「くれた」."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "あしたはちょっと( )がわるいんです。",
+    options: ["つごう", "はんたい", "じじょう", "りゆう"],
+    correct: 0,
+    explanation: "Ekspresi 「都合が悪い（つごうがわるい）」 berarti 'berhalangan/kondisinya kurang nyaman (terkait waktu/jadwal)'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "( )がかわいたから、ジュースをのもう。",
+    options: ["こえ", "かみ", "てんき", "のど"],
+    correct: 3,
+    explanation: "Ekspresi 「のどが渇いた（のどがかわいた）」 berarti 'tenggorokan kering/haus'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "よるひとりでくらいみちをあるくのは( )だ。",
+    options: ["しんせつ", "るす", "べんり", "きけん"],
+    correct: 3,
+    explanation: "Kalimat berarti 'Berjalan sendirian di jalan yang gelap pada malam hari itu berbahaya'. Maka yang tepat adalah 「危険（きけん）」."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "びょうきになったので、( )かいしゃをやすみます。",
+    options: ["さいしょに", "ほど", "しばらく", "さきに"],
+    correct: 2,
+    explanation: "Kalimat berarti 'Karena jatuh sakit, saya akan meliburkan diri dari perusahaan untuk sementara waktu'. Kata 「しばらく」 berarti 'sementara waktu'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "かわむらさんからでんわがあったことをたなかさんに( )。",
+    options: ["つたえた", "おこした", "おくった", "くらべた"],
+    correct: 0,
+    explanation: "Kalimat berarti 'Menyampaikan pesan bahwa ada telepon dari Kawamura-san kepada Tanaka-san'. Kata 「伝える（つたえる）」 berarti 'menyampaikan/mengabarkan'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "ともだちにとうきょうを( )しました。",
+    options: ["けんきゅう", "あんない", "ようじ", "ようき"],
+    correct: 1,
+    explanation: "Kalimat berarti 'Memandu/menunjukkan jalan di Tokyo kepada teman'. Kata 「案内（あんない）する」 berarti 'memandu/mengantar'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "context",
+    question: "おゆを( )、コーヒーをいれましょう。",
+    options: ["わかして", "やいて", "ふんで", "なげて"],
+    correct: 0,
+    explanation: "Ekspresi 「お湯を沸かす（おゆをわかす）」 berarti 'merebus air'. Jadi pilihan yang tepat adalah 「わかして」."
+  },
+
+  // Mondai 4: Paraphrase (5 questions)
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "paraphrase",
+    question: "あの人のなまえをわすれてしまいました。",
+    highlight: "わすれてしまいました",
+    options: [
+      "あの人のなまえをおもいだしました。",
+      "あの人のなまえをおぼえています。",
+      "あの人のなまえをおぼえていません。",
+      "あの人のなまえをきいたことがありません。"
+    ],
+    correct: 2,
+    explanation: "Kalimat 'Lupa nama orang itu' memiliki arti yang sama dengan 'Tidak mengingat nama orang itu' (おぼえていません)."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "paraphrase",
+    question: "さとうさんのへやはよごれています。",
+    highlight: "よごれています",
+    options: [
+      "さとうさんのへやはしまっています。",
+      "さとうさんのへやはこわれています。",
+      "さとうさんのへやはさびしいです。",
+      "さとうさんのへやはきたないです。"
+    ],
+    correct: 3,
+    explanation: "Kalimat 'Kamar Sato-san kotor (よごれています)' memiliki arti yang sama dengan 'Kamar Sato-san jorok/kotor (きたないです)'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "paraphrase",
+    question: "たなかさんが学校をやすむのはめずらしいです。",
+    highlight: "めずらしいです",
+    options: [
+      "たなかさんはほとんど学校をやすみません。",
+      "たなかさんはよく学校をやすみます。",
+      "たなかさんはあまり学校にきません。",
+      "たなかさんはときどき学校にきます。"
+    ],
+    correct: 0,
+    explanation: "Kalimat 'Tanaka-san meliburkan diri dari sekolah adalah hal yang langka (めずらしい)' berarti 'Tanaka-san hampir tidak pernah meliburkan diri (ほとんど休みません)'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "paraphrase",
+    question: "しゃちょうがこうじょうにおいでになりました。",
+    highlight: "おいでになりました",
+    options: [
+      "しゃちょうがこうじょうにうかがいました。",
+      "しゃちょうがこうじょうにいらっしゃいました。",
+      "しゃちょうがこうじょうになさいました。",
+      "しゃちょうがこうじょうにまいりました。"
+    ],
+    correct: 1,
+    explanation: "Kata honorifik 「おいでになる」 memiliki arti yang sama dengan kata kerja honorifik 「いらっしゃる」 (datang/pergi/ada) untuk orang yang dihormati."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "paraphrase",
+    question: "わたしの代わりにおとうとがパーティーにいきました。",
+    highlight: "代わりに",
+    options: [
+      "わたしはおとうとといっしょにパーティーにいきました。",
+      "わたしがパーティーにいけなかったから、おとうとがいきました。",
+      "おとうとがパーティーにいったから、わたしはかえりました。",
+      "おとうとがパーティーにいけなかったから、わたしがいきました。"
+    ],
+    correct: 1,
+    explanation: "Kalimat 'Adik laki-laki saya pergi ke pesta sebagai ganti saya' berarti 'Karena saya tidak bisa pergi ke pesta, adik laki-laki saya yang pergi'."
+  },
+
+  // Mondai 5: Usage (5 questions)
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「てつだう」を正しく使っている文はどれですか。",
+    options: [
+      "子どもが川におちたので、てつだってあげた。",
+      "つかれたとき、おんがくをきくときもちがてつだう。",
+      "わからないことばをじしょでてつだう。",
+      "ともだちがてつだってくれたので、しごとがはやくおわった。"
+    ],
+    correct: 3,
+    explanation: "「てつだう」 berarti membantu pekerjaan orang lain. Penggunaan yang tepat adalah 'Karena teman membantu saya, pekerjaan cepat selesai'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「きぶん」を正しく使っている文はどれですか。",
+    options: [
+      "せんせいにしかられて、きぶんがかなしい。",
+      "きぶんがさむいからかぜをひいた。",
+      "あたまもいたいし、きぶんもわるい。",
+      "あの人はきぶんのみじかい人だ。"
+    ],
+    correct: 2,
+    explanation: "「きぶん」 merujuk pada perasaan fisik atau emosi sesaat. Penggunaan yang tepat adalah 'Kepala saya sakit, dan badan/perasaan saya juga kurang enak (きぶんもわるい)'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「ふくざつ」を正しく使っている文はどれですか。",
+    options: [
+      "へやがふくざつできたないから、そうじをした。",
+      "このやさいをふくざつにきってから、やいてください。",
+      "この駅は出口がたくさんあってふくざつです。",
+      "あたまをふくざつにしてください。"
+    ],
+    correct: 2,
+    explanation: "「ふくざつ」 berarti rumit/kompleks. Penggunaan yang tepat adalah 'Stasiun ini rumit karena memiliki banyak pintu keluar'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「そろそろ」を正しく使っている文はどれですか。",
+    options: [
+      "このまちでは子どもがそろそろへっている。",
+      "そろそろしょくじのじかんですね。",
+      "そろそろ来てくれて、ありがとう。",
+      "ゆきがそろそろふっている。"
+    ],
+    correct: 1,
+    explanation: "「そろそろ」 digunakan untuk menyatakan waktu suatu kejadian hampir tiba. Penggunaan yang tepat: 'Sudah saatnya/sebentar lagi waktunya makan ya'."
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「習慣」を正しく使っている文はどれですか。",
+    options: [
+      "日本の生活の習慣になれるのには時間がかかる。",
+      "たばこをすってはいけないしゅうかんがある。",
+      "わたしのしゅうかんは外国の切手を集めることだ。",
+      "新しい文法のしゅうかんをならったからふくしゅうしなければならない。"
+    ],
+    correct: 0,
+    explanation: "「習慣（しゅうかん）」 berarti kebiasaan/adat istiadat masyarakat or kebiasaan pribadi. Kalimat 1 yang tepat: 'Butuh waktu untuk terbiasa dengan kebiasaan hidup di Jepang'."
+  }
+];
+
 // Extra N4 Orthography & Usage questions to balance pools for Paket B and C
 const extraOrthographyN4 = [
   {
@@ -590,8 +988,21 @@ export function getBalancedN4Vocab(vocabList, pkgIdx) {
     }));
   }
 
-  // Otherwise, compile Package B and C using other questions from the vocabList, avoiding overlap
-  const moshiQuestionsSet = new Set(superMoshiN4VocabQuestions.map(q => q.question));
+  // If Package B (index 1), return the official questions from Super Moshi B
+  if (pkgIdx === 1) {
+    return superMoshiN4VocabQuestions_B.map((q, i) => ({
+      ...q,
+      id: `mojigoi_n4_b_m${getMondaiForType(q.type)}_q${String(i + 1).padStart(2, '0')}`,
+      mondai: getMondaiForType(q.type),
+      number: i + 1
+    }));
+  }
+
+  // Otherwise, compile Package C using other questions from the vocabList, avoiding overlap
+  const moshiQuestionsSet = new Set([
+    ...superMoshiN4VocabQuestions.map(q => q.question),
+    ...superMoshiN4VocabQuestions_B.map(q => q.question)
+  ]);
   const filteredVocab = vocabList.filter(q => !moshiQuestionsSet.has(q.question));
 
   const pools = {
@@ -611,9 +1022,8 @@ export function getBalancedN4Vocab(vocabList, pkgIdx) {
   ];
 
   const result = [];
-  const letter = pkgIdx === 1 ? 'b' : 'c';
-  // Adjust starting offset for Package C (pkgIdx === 2)
-  const offsetIdx = pkgIdx - 1; // 0 for B, 1 for C
+  const letter = 'c';
+  const offsetIdx = 0; // First package pulling from the dynamic pool
 
   let absoluteNumber = 1;
   distribution.forEach(dist => {
