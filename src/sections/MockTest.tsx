@@ -614,7 +614,7 @@ export default function MockTest() {
           {/* Options */}
           <div className="space-y-3">
             {q?.options.map((option: any, i: number) => {
-              const isNumberedOption = (level === 'N5' || level === 'N4') && (q?.section === 'Grammar' || q?.section === 'Reading');
+              const isNumberedOption = level === 'N5' || level === 'N4';
               return (
                 <button
                   key={i}

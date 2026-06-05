@@ -215,7 +215,7 @@ export default function ReviewMode() {
                 {q.options.map((option: any, i: number) => {
                   const isSelected = userAnswer === i;
                   const isAnswer = q.correct === i;
-                  const isNumberedOption = (result?.level === 'N5' || result?.level === 'N4') && (q.section === 'Grammar' || q.section === 'Reading');
+                  const isNumberedOption = result?.level === 'N5' || result?.level === 'N4';
                   let bgClass = 'bg-gray-50 border-transparent';
                   let borderClass = '';
 
