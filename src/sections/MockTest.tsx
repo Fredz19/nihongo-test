@@ -45,8 +45,8 @@ export default function MockTest() {
 
   // Determine exam template slug based on level, exam type and selected package
   const templateSlug =
-    level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${selectedPackage}`
-    : level === 'N5' && examType === 'bunpou' ? `n5-bunpou-${selectedPackage}`
+    (level === 'N5' || level === 'N4') && examType === 'mojigoi' ? `${level.toLowerCase()}-mojigoi-${selectedPackage}`
+    : (level === 'N5' || level === 'N4') && examType === 'bunpou' ? `${level.toLowerCase()}-bunpou-${selectedPackage}`
     : `${level.toLowerCase()}-tryout-${selectedPackage}`;
   const { questions, isLoading: isLoadingQuestions } = useQuestions(
     (level as 'N5' | 'N4' | 'N3'),
@@ -194,8 +194,8 @@ export default function MockTest() {
           <p className="text-sumi mb-8">Bacalah instruksi berikut sebelum memulai.</p>
 
           <div className="space-y-4 mb-8">
-            {/* Exam Type Selector (N5 Only) */}
-            {level === 'N5' && (
+            {/* Exam Type Selector (N5 & N4) */}
+            {(level === 'N5' || level === 'N4') && (
               <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
                 <label className="text-xs font-semibold text-sumi block mb-2">PILIH JENIS UJIAN</label>
                 <div className="grid grid-cols-3 gap-2">
@@ -203,7 +203,7 @@ export default function MockTest() {
                     type="button"
                     onClick={() => {
                       setExamType('choukai');
-                      const nextSlug = `n5-tryout-${selectedPackage}`;
+                      const nextSlug = `${level.toLowerCase()}-tryout-${selectedPackage}`;
                       const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
@@ -219,7 +219,7 @@ export default function MockTest() {
                     type="button"
                     onClick={() => {
                       setExamType('mojigoi');
-                      const nextSlug = `n5-mojigoi-${selectedPackage}`;
+                      const nextSlug = `${level.toLowerCase()}-mojigoi-${selectedPackage}`;
                       const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
@@ -235,7 +235,7 @@ export default function MockTest() {
                     type="button"
                     onClick={() => {
                       setExamType('bunpou');
-                      const nextSlug = `n5-bunpou-${selectedPackage}`;
+                      const nextSlug = `${level.toLowerCase()}-bunpou-${selectedPackage}`;
                       const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
@@ -259,29 +259,37 @@ export default function MockTest() {
                   { id: '1', name: 'Try Out 1', code: 'Paket A' },
                   { id: '2', name: 'Try Out 2', code: 'Paket B' },
                   { id: '3', name: 'Try Out 3', code: 'Paket C' },
-                ].map((pkg) => (
-                  <button
-                    key={pkg.id}
-                    type="button"
-                    onClick={() => {
-                      setSelectedPackage(pkg.id as any);
-                      const nextSlug =
-                        level === 'N5' && examType === 'mojigoi' ? `n5-mojigoi-${pkg.id}`
-                        : level === 'N5' && examType === 'bunpou' ? `n5-bunpou-${pkg.id}`
-                        : `${level.toLowerCase()}-tryout-${pkg.id}`;
-                      const pkgLetter = pkg.id === '1' ? 'A' : (pkg.id === '2' ? 'B' : 'C');
-                      startTest(level as any, selectedMode, pkgLetter, nextSlug);
-                    }}
-                    className={`py-2 px-1 text-xs rounded-lg font-medium transition-all ${
-                      selectedPackage === pkg.id
-                        ? 'bg-indigo text-white shadow-sm font-semibold'
-                        : 'bg-white text-sumi border hover:bg-gray-100'
-                    }`}
-                  >
-                    <div>{pkg.name}</div>
-                    <div className="text-[10px] opacity-80 font-normal">{pkg.code}</div>
-                  </button>
-                ))}
+                ].map((pkg) => {
+                  const isDisabled = level === 'N4' && pkg.id !== '1';
+                  return (
+                    <button
+                      key={pkg.id}
+                      type="button"
+                      disabled={isDisabled}
+                      onClick={() => {
+                        setSelectedPackage(pkg.id as any);
+                        const nextSlug =
+                          (level === 'N5' || level === 'N4') && examType === 'mojigoi' ? `${level.toLowerCase()}-mojigoi-${pkg.id}`
+                          : (level === 'N5' || level === 'N4') && examType === 'bunpou' ? `${level.toLowerCase()}-bunpou-${pkg.id}`
+                          : `${level.toLowerCase()}-tryout-${pkg.id}`;
+                        const pkgLetter = pkg.id === '1' ? 'A' : (pkg.id === '2' ? 'B' : 'C');
+                        startTest(level as any, selectedMode, pkgLetter, nextSlug);
+                      }}
+                      className={`py-2 px-1 text-xs rounded-lg font-medium transition-all ${
+                        isDisabled
+                          ? 'bg-gray-100 text-gray-400 border-dashed border opacity-50 cursor-not-allowed'
+                          : selectedPackage === pkg.id
+                            ? 'bg-indigo text-white shadow-sm font-semibold'
+                            : 'bg-white text-sumi border hover:bg-gray-100'
+                      }`}
+                    >
+                      <div>{pkg.name}</div>
+                      <div className="text-[10px] opacity-80 font-normal">
+                        {isDisabled ? 'Segera Hadir' : pkg.code}
+                      </div>
+                    </button>
+                  );
+                })}
               </div>
             </div>
 
@@ -331,7 +339,9 @@ export default function MockTest() {
                 <div className="text-sm text-sumi">
                   {level === 'N5' 
                     ? (examType === 'mojigoi' ? '20 menit' : examType === 'bunpou' ? '40 menit' : '30 menit') 
-                    : level === 'N4' ? '105 menit' : '130 menit'}
+                    : level === 'N4'
+                      ? (examType === 'mojigoi' ? '25 menit' : examType === 'bunpou' ? '55 menit' : '35 menit')
+                      : '130 menit'}
                 </div>
               </div>
             </div>
@@ -604,7 +614,7 @@ export default function MockTest() {
           {/* Options */}
           <div className="space-y-3">
             {q?.options.map((option: any, i: number) => {
-              const isNumberedOption = level === 'N5' && (q?.section === 'Grammar' || q?.section === 'Reading');
+              const isNumberedOption = (level === 'N5' || level === 'N4') && (q?.section === 'Grammar' || q?.section === 'Reading');
               return (
                 <button
                   key={i}

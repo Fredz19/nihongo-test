@@ -56,14 +56,14 @@ interface TestStore {
 const getInitialTime = (level: string, slug?: string): number => {
   if (slug) {
     if (slug.includes('mojigoi')) {
-      return 20 * 60; // 20 minutes
+      return level === 'N4' ? 25 * 60 : 20 * 60;
     }
     if (slug.includes('bunpou')) {
-      return 40 * 60; // 40 minutes
+      return level === 'N4' ? 55 * 60 : 40 * 60;
     }
     if (slug.includes('tryout')) {
-      if (level === 'N5') return 105 * 60;
-      if (level === 'N4') return 125 * 60;
+      if (level === 'N5') return 30 * 60;
+      if (level === 'N4') return 35 * 60;
     } else if (slug.includes('quick')) {
       if (level === 'N5') return 40 * 60;
       if (level === 'N4') return 50 * 60;

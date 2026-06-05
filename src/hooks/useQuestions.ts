@@ -114,9 +114,42 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
         return;
       }
 
-      // 2. For N5 (Super Moshi/Tipe B) and N3 and below (no DB data yet) — use fallback immediately
-      if (level === 'N5' || level === 'N3' || level === 'N2' || level === 'N1') {
+      // 2. For N5 (Super Moshi/Tipe B) and N4 and N3 and below — use fallback immediately
+      if (level === 'N5' || level === 'N4' || level === 'N3' || level === 'N2' || level === 'N1') {
         let bankKey = String(level);
+        if (level === 'N4') {
+          if (slug.includes('mojigoi')) {
+            if (slug.endsWith('-1')) {
+              bankKey = 'N4_MOJIGOI_A';
+            } else if (slug.endsWith('-2')) {
+              bankKey = 'N4_MOJIGOI_B';
+            } else if (slug.endsWith('-3') || slug.endsWith('-C')) {
+              bankKey = 'N4_MOJIGOI_C';
+            } else {
+              bankKey = 'N4_MOJIGOI_A';
+            }
+          } else if (slug.includes('bunpou')) {
+            if (slug.endsWith('-1')) {
+              bankKey = 'N4_BUNPOU_A';
+            } else if (slug.endsWith('-2')) {
+              bankKey = 'N4_BUNPOU_B';
+            } else if (slug.endsWith('-3') || slug.endsWith('-C')) {
+              bankKey = 'N4_BUNPOU_C';
+            } else {
+              bankKey = 'N4_BUNPOU_A';
+            }
+          } else {
+            if (slug.endsWith('-1')) {
+              bankKey = 'N4_CHOUKAI_A';
+            } else if (slug.endsWith('-2')) {
+              bankKey = 'N4_CHOUKAI_B';
+            } else if (slug.endsWith('-3') || slug.endsWith('-C')) {
+              bankKey = 'N4_CHOUKAI_C';
+            } else {
+              bankKey = 'N4_CHOUKAI_A';
+            }
+          }
+        }
         if (level === 'N5') {
           if (slug.includes('mojigoi')) {
             if (slug.endsWith('-1')) {

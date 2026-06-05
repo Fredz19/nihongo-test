@@ -1,6 +1,15 @@
 // Legacy question format with numeric id — used as fallback for N3/dev/outage.
 // useQuestions.ts converts these to the canonical Question type (id: string).
 import { bunpouDokkaiN5A } from './bunpouDokkai/bunpouDokkaiN5_A';
+import { mojigoiN4A } from './mojigoiN4/mojigoiN4_A';
+import { mojigoiN4B } from './mojigoiN4/mojigoiN4_B';
+import { mojigoiN4C } from './mojigoiN4/mojigoiN4_C';
+import { bunpouDokkaiN4A } from './bunpouDokkaiN4/bunpouDokkaiN4_A';
+import { bunpouDokkaiN4B } from './bunpouDokkaiN4/bunpouDokkaiN4_B';
+import { bunpouDokkaiN4C } from './bunpouDokkaiN4/bunpouDokkaiN4_C';
+import { choukaiN4A } from './choukaiN4/choukaiN4_A';
+import { choukaiN4B } from './choukaiN4/choukaiN4_B';
+import { choukaiN4C } from './choukaiN4/choukaiN4_C';
 import { bunpouDokkaiN5B } from './bunpouDokkai/bunpouDokkaiN5_B';
 import { bunpouDokkaiN5C } from './bunpouDokkai/bunpouDokkaiN5_C';
 
@@ -2795,107 +2804,16 @@ export const questionBanks: Record<string, LegacyQuestion[]> = {
   N5_BUNPOU_C: bunpouDokkaiN5C,
   N5_B: tipeBN5Questions,
   N5: superMoshiN5Questions, // Default N5 refers to Paket A
-    N4: [
-    {
-      id: 12,
-      level: 'N4',
-      section: 'Vocabulary',
-      type: 'kanji-read',
-      question: '父はまいあささんぽします。',
-      highlight: '散歩',
-      options: ['さんぽ', 'さんぼ', 'ざんぽ', 'ざんぼ'],
-      correct: 0,
-      explanation: '「散歩」 dibaca 「さんぽ」 (sanpo) yang berarti "jalan-jalan".'
-    },
-    {
-      id: 13,
-      level: 'N4',
-      section: 'Vocabulary',
-      type: 'usage',
-      question: 'Pilihlah penggunaan kata 「つづける」 yang paling tepat:',
-      options: [
-        'あめがつづきます。',
-        '日本語のべんきょうをつづけます。',
-        'ともだちをつづけます。',
-        'おんがくをつづけます。'
-      ],
-      correct: 1,
-      explanation: '「つづける」 (tsuzukeru) merupakan kata kerja transitif (transitive verb) yang berarti "melanjutkan sesuatu", contohnya melanjutkan belajar (べんきょうをつづける).'
-    },
-    {
-      id: 14,
-      level: 'N4',
-      section: 'Grammar',
-      type: 'grammar-1',
-      question: 'あしたはあめが＿＿＿とおomimasu.',
-      options: ['ふる', 'ふって', 'ふった', 'ふり'],
-      correct: 0,
-      explanation: 'Pola kalimat 「～と思います」 (saya pikir...) didahului oleh bentuk biasa (plain form). Kata kerja 「ふる」 adalah bentuk kamus/biasa.'
-    },
-    {
-      id: 15,
-      level: 'N4',
-      section: 'Grammar',
-      type: 'grammar-1',
-      question: 'このほんはおもしろくて、＿＿＿。',
-      options: ['やすいです', 'やすくないです', 'たかくないです', 'ながいです'],
-      correct: 0,
-      explanation: 'Bentuk sambung kata sifat-i menggunakan 「て」 (おもしろくて...) untuk menyatakan dua kondisi yang setara/positif. Maka dilanjutkan dengan 「やすいです」 (dan murah).'
-    },
-    {
-      id: 16,
-      level: 'N4',
-      section: 'Grammar',
-      type: 'grammar-1',
-      question: 'にほんへきたら、＿＿＿。',
-      options: ['ぜひあいましょう', 'ぜひあいました', 'ぜひあいています', 'ぜひあいます'],
-      correct: 0,
-      explanation: 'Pola 「～たら」 (jika/setelah...) sering diikuti oleh kalimat ajakan atau keinginan seperti 「ぜひ会いましょう」 (mari kita bertemu).'
-    },
-    {
-      id: 17,
-      level: 'N4',
-      section: 'Reading',
-      type: 'reading-medium',
-      passage: 'わたしはきょねんの4がつににhoんにきました。にほんごがすきだったからです。いまはとうきょうのがっこうでべんきょうしています。まいにちはべんきょうとアルバイトでいそがしいです。でも、たのしいです。',
-      question: 'このひとはいまどこにいますか。',
-      options: ['にほん', 'アメリカ', 'ちゅうごく', 'かんこく'],
-      correct: 0,
-      explanation: 'Teks menyatakan 「とうきょうのがっこうでべんきょうしています」 (belajar di sekolah Tokyo), yang berarti ia sekarang berada di Jepang (にほん).'
-    },
-    {
-      id: 18,
-      level: 'N4',
-      section: 'Reading',
-      type: 'reading-medium',
-      passage: 'きのうともだちとレストランでしょくじをしました。にくとやさいのりょうりをたのみました。とてもおいしかったです。かいけいはわたしがはらいました。',
-      question: 'だれがかいけいをはらいましたか。',
-      options: ['ともだち', 'かれ', 'わたし', 'てんいん'],
-      correct: 2,
-      explanation: 'Pada bagian akhir tertulis 「かいけいはわたしがはらいました」 yang menyatakan bahwa "saya" (わたし) yang membayar tagihan.'
-    },
-    {
-      id: 19,
-      level: 'N4',
-      section: 'Grammar',
-      type: 'grammar-2',
-      question: 'Susunlah kalimat berikut: 日本語が ＿＿ ＿＿ ＿★＿ ＿＿。 Tentukan kata pada posisi ★:',
-      options: ['はなせる', 'ように', 'なりたい', 'から'],
-      correct: 1,
-      explanation: 'Susunan kalimat yang benar adalah 「日本語が はなせる ように なりたい」. Kata ketiga (posisi ★) adalah 「ように」.'
-    },
-    {
-      id: 20,
-      level: 'N4',
-      section: 'Listening',
-      type: 'audio-listening',
-      question: 'Dengarkan rekaman audio dan tentukan apa yang akan dilakukan pria itu selanjutnya.',
-      audioUrl: 'https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4/BPT_N4_1_01.mp3',
-      options: ['でんわを かけます', 'しゅくだいを します', 'かいものに いきます', 'ともだちに あいます'],
-      correct: 2,
-      explanation: 'Berdasarkan petunjuk audio dummy ini, pria tersebut akan pergi berbelanja (かいものにいきます).'
-    }
-  ],
+  N4_MOJIGOI_A: mojigoiN4A,
+  N4_MOJIGOI_B: mojigoiN4B,
+  N4_MOJIGOI_C: mojigoiN4C,
+  N4_BUNPOU_A: bunpouDokkaiN4A,
+  N4_BUNPOU_B: bunpouDokkaiN4B,
+  N4_BUNPOU_C: bunpouDokkaiN4C,
+  N4_CHOUKAI_A: choukaiN4A,
+  N4_CHOUKAI_B: choukaiN4B,
+  N4_CHOUKAI_C: choukaiN4C,
+  N4: choukaiN4A, // default fallback
   N3: [
     {
       id: 21,
