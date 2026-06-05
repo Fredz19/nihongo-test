@@ -260,7 +260,7 @@ export default function MockTest() {
                   { id: '2', name: 'Try Out 2', code: 'Paket B' },
                   { id: '3', name: 'Try Out 3', code: 'Paket C' },
                 ].map((pkg) => {
-                  const isDisabled = level === 'N4' && pkg.id !== '1';
+                  const isDisabled = (level !== 'N5' && level !== 'N4') && pkg.id !== '1';
                   return (
                     <button
                       key={pkg.id}
