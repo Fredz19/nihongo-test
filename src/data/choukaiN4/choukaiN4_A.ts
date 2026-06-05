@@ -32,6 +32,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_02.mp3",
+    "imageUrl": "/images/choukaiN4_A_m1_q1.png",
     "mondai": 1,
     "number": 1
   },
