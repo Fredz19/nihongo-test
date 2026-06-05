@@ -6,177 +6,177 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "外国語を勉強するのは楽しいです。",
-    "highlight": "外国語",
+    "question": "彼は病院で働いている医者です。",
     "options": [
-      "がいこくご",
-      "そとくにご",
-      "がいくにご",
-      "がいこくぎょ"
+      "いしゃ",
+      "いさ",
+      "いじゃ",
+      "いすら"
     ],
     "correct": 0,
-    "explanation": "「外国語」は「がいこくご」と読みます。外 (がい) は'外', 国 (こく) は'国', 語 (ご) は'言語'. 合わせて「がいこくご」berarti 'bahasa asing'.",
+    "explanation": "「医者」は「いしゃ」と読みます。医 (い) は「医療」、者 (しゃ) は「人」を意味します。つまり「いしゃ」は 'dokter'. Pilihan lain bukan kata yang benar dalam bahasa Jepang.",
     "mondai": 1,
-    "number": 1
+    "number": 1,
+    "highlight": "医者"
   },
   {
     "id": "mojigoi_n4_b_m1_q02",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "試験の結果は来週発表されます。",
-    "highlight": "結果",
+    "question": "薬を飲んだら、すぐに気分がよくなりました。",
     "options": [
-      "けっか",
-      "けいか",
-      "けっが",
-      "けっかい"
+      "くすり",
+      "やく",
+      "くすい",
+      "やくり"
     ],
     "correct": 0,
-    "explanation": "「結果」は「けっか」と読みます。結 (けっ) は'結ぶ', 果 (か) は'結果'. 「けっか」berarti 'hasil'. Perhatikan sokuon (っ) pada けっ.",
+    "explanation": "「薬」は「くすり」と読みます。薬 (くすり) berarti 'obat'. Bacaan on-yomi-nya adalah「やく」, tetapi dalam kalimat ini dibaca kun-yomi「くすり」karena berdiri sendiri.",
     "mondai": 1,
-    "number": 2
+    "number": 2,
+    "highlight": "薬"
   },
   {
     "id": "mojigoi_n4_b_m1_q03",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "社会の問題について話し合いました。",
-    "highlight": "社会",
+    "question": "先生は病気の原因を説明してくれました。",
     "options": [
-      "しゃかい",
-      "しゃがい",
-      "しゃくい",
-      "しゃかえ"
+      "びょうき",
+      "びょうけ",
+      "びょき",
+      "びゅうき"
     ],
     "correct": 0,
-    "explanation": "「社会」は「しゃかい」と読みます。社 (しゃ) は'会社', 会 (かい) は'会'. 「しゃかい」berarti 'masyarakat/sosial'. Kata ini sering digunakan dalam topik sosial dan kemasyarakatan.",
+    "explanation": "「病気」は「びょうき」と読みます。病 (びょう) は'sakit/penyakit', 気 (き) は'kondisi'. Jadi「びょうき」berarti 'penyakit/sakit'. Pilihan lain adalah bacaan yang salah.",
     "mondai": 1,
-    "number": 3
+    "number": 3,
+    "highlight": "病気"
   },
   {
     "id": "mojigoi_n4_b_m1_q04",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "環境問題は重要な課題です。",
-    "highlight": "環境",
+    "question": "この薬は一日三回飲んでください。",
     "options": [
-      "かんきょう",
-      "かんけい",
-      "えんきょう",
-      "かんぎょう"
+      "さんかい",
+      "みっかい",
+      "さんまい",
+      "みかい"
     ],
     "correct": 0,
-    "explanation": "「環境」は「かんきょう」と読みます。環 (かん) は'輪/環', 境 (きょう) は'境界'. 「かんきょう」berarti 'lingkungan (hidup)'. Sangat umum dalam diskusi isu lingkungan.",
+    "explanation": "「三回」は「さんかい」と読みます。三 (さん) は'tiga', 回 (かい) は'kali/putaran'. Jadi「さんかい」berarti 'tiga kali'. Jangan sampai tertukar dengan「三日」(みっか) yang berarti 'tiga hari'.",
     "mondai": 1,
-    "number": 4
+    "number": 4,
+    "highlight": "三回"
   },
   {
     "id": "mojigoi_n4_b_m1_q05",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "彼女の気持ちが理解できません。",
-    "highlight": "気持ち",
+    "question": "会議の準備が終わりました。",
     "options": [
-      "きもち",
-      "きもつ",
-      "きぶち",
-      "きぶつ"
+      "じゅんび",
+      "じゅんびい",
+      "しゅんび",
+      "じゅんぴ"
     ],
     "correct": 0,
-    "explanation": "「気持ち」は「きもち」と読みます。気 (き) は'気', 持ち (もち) は'持つ'. 「きもち」berarti 'perasaan/suasana hati'. Ini adalah kata dasar untuk mengekspresikan emosi.",
+    "explanation": "「準備」は「じゅんび」と読みます。準 (じゅん) は'準ずる', 備 (び) は'備える'. 合わせて「じゅんび」berarti 'persiapan'. Ini adalah kata N4 yang sering muncul di konteks bisnis.",
     "mondai": 1,
-    "number": 5
+    "number": 5,
+    "highlight": "準備"
   },
   {
     "id": "mojigoi_n4_b_m1_q06",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "彼は試合に負けて、悔しそうでした。",
-    "highlight": "悔しそう",
+    "question": "その計画について、上司に相談しました。",
     "options": [
-      "くやしそう",
-      "かなしそう",
-      "くるしそう",
-      "くやしろう"
+      "けいかく",
+      "けいが",
+      "けいかが",
+      "かいかく"
     ],
     "correct": 0,
-    "explanation": "「悔しそう」は「くやしそう」と読みます。悔しい (くやしい) berarti 'menyesal/kecewa (karena kalah)'. 〜そう menunjukkan kesan/tampak. Jadi「くやしそう」berarti 'tampak menyesal'.",
+    "explanation": "「計画」は「けいかく」と読みます。計 (けい) は'計算', 画 (かく) は'計画'. 合わせて「けいかく」berarti 'rencana/perencanaan'. Dalam konteks bisnis kata ini sangat umum digunakan.",
     "mondai": 1,
-    "number": 6
+    "number": 6,
+    "highlight": "計画"
   },
   {
     "id": "mojigoi_n4_b_m1_q07",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "彼女は丁寧な言葉で話しました。",
-    "highlight": "丁寧",
+    "question": "この問題の説明をもう一度お願いします。",
     "options": [
-      "ていねい",
-      "ていれい",
-      "ちょうねい",
-      "てねい"
+      "せつめい",
+      "せつびょう",
+      "せいめい",
+      "せつみょう"
     ],
     "correct": 0,
-    "explanation": "「丁寧」は「ていねい」と読みます。berarti 'sopan/teliti/cermat'. Kata ini penting karena menggambarkan cara berbicara atau tindakan yang hati-hati dan sopan.",
+    "explanation": "「説明」は「せつめい」と読みます。説 (せつ) は'説く', 明 (めい) は'明らか'. 「せつめい」berarti 'penjelasan/keterangan'. Sering digunakan dalam konteks bisnis maupun akademik.",
     "mondai": 1,
-    "number": 7
+    "number": 7,
+    "highlight": "説明"
   },
   {
     "id": "mojigoi_n4_b_m1_q08",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "その映画は複雑なストーリーでした。",
-    "highlight": "複雑",
+    "question": "空港まで電車で行けますか。",
     "options": [
-      "ふくざつ",
-      "ふくさつ",
-      "ふつざつ",
-      "ふくじゃつ"
+      "くうこう",
+      "そらみなと",
+      "くこう",
+      "くうこ"
     ],
     "correct": 0,
-    "explanation": "「複雑」は「ふくざつ」と読みます。複 (ふく) は'複数', 雑 (ざつ) は'雑然'. 「ふくざつ」berarti 'rumit/kompleks'. Kata ini sering digunakan untuk mendeskripsikan sesuatu yang tidak sederhana.",
+    "explanation": "「空港」は「くうこう」と読みます。空 (くう) は'空気/空', 港 (こう) は'港'. 「くうこう」berarti 'bandara'. Perhatikan bunyi panjang: くう bukan く.",
     "mondai": 1,
-    "number": 8
+    "number": 8,
+    "highlight": "空港"
   },
   {
     "id": "mojigoi_n4_b_m1_q09",
     "level": "N4",
     "section": "Vocabulary",
     "type": "kanji-read",
-    "question": "電車が遅延したため、会議に遅刻しました。",
-    "highlight": "遅刻",
+    "question": "旅行の予約はもうしましたか。",
     "options": [
-      "ちこく",
-      "ちえん",
-      "おそこく",
-      "ちこっく"
+      "よやく",
+      "よやく",
+      "よあく",
+      "よやっく"
     ],
     "correct": 0,
-    "explanation": "「遅刻」は「ちこく」と読みます。遅 (ち) は'遅い', 刻 (こく) は'時刻'. 「ちこく」berarti 'terlambat/keterlambatan'. Jangan sampai tertukar dengan「遅延」(ちえん) yang berarti 'penundaan'.",
+    "explanation": "「予約」は「よやく」と読みます。予 (よ) は'あらかじめ', 約 (やく) は'約束'. 「よやく」berarti 'reservasi/pemesanan'. Kata ini sangat penting untuk perjalanan.",
     "mondai": 1,
-    "number": 9
+    "number": 9,
+    "highlight": "予約"
   },
   {
     "id": "mojigoi_n4_b_m2_q01",
     "level": "N4",
     "section": "Vocabulary",
     "type": "orthography",
-    "question": "「うんてんする」の正しい漢字はどれですか。",
+    "question": "「けんきゅう」の正しい漢字はどれですか。",
     "options": [
-      "運転する",
-      "運点する",
-      "運殿する",
-      "雲転する"
+      "研究",
+      "健康",
+      "教育",
+      "経験"
     ],
     "correct": 0,
-    "explanation": "「うんてんする」の正しい漢字は「運転する」です。運 (うん) は'運ぶ', 転 (てん) は'転がる'. 「運転する」berarti 'mengemudi'. 他の選択肢には存在しない漢字または誤った漢字が含まれています。",
+    "explanation": "「けんきゅう」の正しい漢字は「研究」です。研 (けん) は'研く/研磨', 究 (きゅう) は'究める'. 「研究」berarti 'penelitian'. 「健康」はけんこう、「教育」はきょういく、「経験」はけいけん — semuanya memiliki bacaan yang berbeda.",
     "mondai": 2,
     "number": 10
   },
@@ -185,15 +185,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "orthography",
-    "question": "「しゃかい」の正しい漢字はどれですか。",
+    "question": "「しんぱい」の正しい漢字はどれですか。",
     "options": [
-      "社会",
-      "写会",
-      "社界",
-      "社外"
+      "心配",
+      "親切",
+      "信頼",
+      "注意"
     ],
     "correct": 0,
-    "explanation": "「しゃかい」の正しい漢字は「社会」です。社 (しゃ) は'会社', 会 (かい) は'会合'. 「社会」berarti 'masyarakat/sosial'. 「写会」「社界」は存在しない言葉、「社外」はしゃがい（社外の人） と読みます。",
+    "explanation": "「しんぱい」の正しい漢字は「心配」です。心 (しん) は'心', 配 (ぱい) は'配る'. 「心配」berarti 'khawatir'. 「親切」はしんせつ、「信頼」はしんらい、「注意」はちゅうい。",
     "mondai": 2,
     "number": 11
   },
@@ -202,15 +202,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "orthography",
-    "question": "「かいぎ」の正しい漢字はどれですか。",
+    "question": "「れんしゅう」の正しい漢字はどれですか。",
     "options": [
-      "会議",
-      "開議",
-      "会疑",
-      "快議"
+      "練習",
+      "連絡",
+      "料理",
+      "旅行"
     ],
     "correct": 0,
-    "explanation": "「かいぎ」の正しい漢字は「会議」です。会 (かい) は'会う', 議 (ぎ) は'議論'. 「会議」berarti 'rapat/pertemuan'. 「開議」は一般的ではない、「会疑」「快議」は存在しない言葉です。",
+    "explanation": "「れんしゅう」の正しい漢字は「練習」です。練 (れん) は'練る', 習 (しゅう) は'習う'. 「練習」berarti 'latihan/berlatih'. 「連絡」はれんらく、「料理」はりょうり、「旅行」はりょこう。",
     "mondai": 2,
     "number": 12
   },
@@ -219,15 +219,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "orthography",
-    "question": "「ふくざつ」の正しい漢字はどれですか。",
+    "question": "「かんきょう」の正しい漢字はどれですか。",
     "options": [
-      "複雑",
-      "複索",
-      "複拶",
-      "服雑"
+      "環境",
+      "感情",
+      "関係",
+      "完成"
     ],
     "correct": 0,
-    "explanation": "「ふくざつ」の正しい漢字は「複雑」です。複 (ふく) は'複数', 雑 (ざつ) は'雑多'. 「複雑」berarti 'rumit/kompleks'. 「複索」「複拶」は存在しない言葉、「服雑」は'服'の字が間違いです。",
+    "explanation": "「かんきょう」の正しい漢字は「環境」です。環 (かん) は'輪', 境 (きょう) は'境界'. 「環境」berarti 'lingkungan'. 「感情」はかんじょう、「関係」はかんけい、「完成」はかんせい。",
     "mondai": 2,
     "number": 13
   },
@@ -236,15 +236,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "orthography",
-    "question": "「こうつう」の正しい漢字はどれですか。",
+    "question": "「じゅんびする」の正しい漢字はどれですか。",
     "options": [
-      "交通",
-      "広通",
-      "高通",
-      "交道"
+      "準備する",
+      "準保する",
+      "順備する",
+      "準部する"
     ],
     "correct": 0,
-    "explanation": "「こうつう」の正しい漢字は「交通」です。交 (こう) は'交わる', 通 (つう) は'通る'. 「交通」berarti 'lalu lintas/transportasi'. 「広通」「高通」「交道」は存在しない言葉または意味が異なります。",
+    "explanation": "「じゅんびする」の正しい漢字は「準備する」です。準 (じゅん) は'準ずる', 備 (び) は'備える'. 他の選択肢は存在しない漢字の組み合わせです。「準備する」berarti 'mempersiapkan'.",
     "mondai": 2,
     "number": 14
   },
@@ -253,15 +253,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "orthography",
-    "question": "「せつめい」の正しい漢字はどれですか。",
+    "question": "「にゅういんする」の正しい漢字はどれですか。",
     "options": [
-      "説明",
-      "設明",
-      "説鳴",
-      "切明"
+      "入院する",
+      "入員する",
+      "人院する",
+      "入員する"
     ],
     "correct": 0,
-    "explanation": "「せつめい」の正しい漢字は「説明」です。説 (せつ) は'説く', 明 (めい) は'明らか'. 「説明」berarti 'penjelasan'. 「設明」「説鳴」「切明」は存在しない言葉または意味が異なります。",
+    "explanation": "「にゅういんする」の正しい漢字は「入院する」です。入 (にゅう) は'入る', 院 (いん) は'病院'. 「入院する」berarti 'dirawat di rumah sakit/masuk rumah sakit'. 他の選択肢は正しい漢字の組み合わせではありません。",
     "mondai": 2,
     "number": 15
   },
@@ -270,15 +270,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "インターネットの___があれば、どこでも仕事ができます。",
+    "question": "風邪をひいたので、病院で___をもらいました。",
     "options": [
-      "接続",
-      "食料",
-      "許可",
-      "練習"
+      "薬",
+      "食事",
+      "運動",
+      "休憩"
     ],
     "correct": 0,
-    "explanation": "正解は「接続」です。インターネットの「接続」(koneksi) があればどこでも仕事ができるという文脈が自然です。「食料」「練習」はインターネットと関係なく、「許可」では文脈が変わります。",
+    "explanation": "正解は「薬」です。風邪をひいたとき、病院へ行って「薬」(くすり/obat) をもらうのが自然な流れです。「食事」(shokuji/makanan), 「運動」(undou/olahraga), 「休憩」(kyuukei/istirahat) は病院でもらうものではありません。",
     "mondai": 3,
     "number": 16
   },
@@ -287,15 +287,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "森の中を歩いていると、野生の___を見かけました。",
+    "question": "明日の会議のために、資料を___しておきました。",
     "options": [
-      "動物",
-      "建物",
-      "車",
-      "機械"
+      "準備",
+      "運動",
+      "旅行",
+      "勉強"
     ],
     "correct": 0,
-    "explanation": "正解は「動物」です。森の中で「野生の動物」(hewan liar) を見かけるという表現は非常に自然です。「建物」「車」「機械」は森の中で見かけるものとして不自然です。",
+    "explanation": "正解は「準備」です。会議のために事前に「資料を準備する」(mempersiapkan dokumen) という表現は自然です。他の選択肢は「資料を___する」という文脈に合いません。",
     "mondai": 3,
     "number": 17
   },
@@ -304,15 +304,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "父は定年___して、今は趣味を楽しんでいます。",
+    "question": "海外___の前に、パスポートを確認してください。",
     "options": [
-      "退職",
-      "就職",
-      "昇進",
-      "転勤"
+      "旅行",
+      "病気",
+      "勉強",
+      "食事"
     ],
     "correct": 0,
-    "explanation": "正解は「退職」です。「定年退職」(pensiun) して趣味を楽しむという流れが自然です。「就職」(mulai bekerja)、「昇進」(promosi)、「転勤」(pindah tempat kerja) は「定年」と組み合わせて不自然です。",
+    "explanation": "正解は「旅行」です。「海外旅行の前にパスポートを確認する」は非常に自然な表現です。パスポートは「旅行」(perjalanan) に必要なものです。他の選択肢はパスポートと直接関係がありません。",
     "mondai": 3,
     "number": 18
   },
@@ -321,15 +321,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "レストランを___するために、電話で席を予約しました。",
+    "question": "この大学には優秀な___がたくさんいます。",
     "options": [
-      "利用",
-      "建設",
-      "修理",
-      "販売"
+      "学生",
+      "商品",
+      "機械",
+      "建物"
     ],
     "correct": 0,
-    "explanation": "正解は「利用」です。「レストランを利用する」(memanfaatkan/menggunakan restoran) ために予約するという表現は自然です。「建設」(membangun)、「修理」(memperbaiki)、「販売」(menjual) はレストランの利用者の行動ではありません。",
+    "explanation": "正解は「学生」です。大学に「優秀な学生がたくさんいる」という表現は自然です。「商品」(barang), 「機械」(mesin), 「建物」(gedung) は大学の文脈で優秀と言う対象ではありません。",
     "mondai": 3,
     "number": 19
   },
@@ -338,15 +338,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "新しいパソコンの___がなかなか終わりません。",
+    "question": "彼女はいつも___な笑顔で人々を癒します。",
     "options": [
-      "設定",
-      "発売",
-      "故障",
-      "修理"
+      "明るい",
+      "危険な",
+      "重い",
+      "静かな"
     ],
     "correct": 0,
-    "explanation": "正解は「設定」です。新しいパソコンの「設定」(pengaturan/konfigurasi) が終わらないという表現は自然です。「発売」は販売側のこと、「故障」や「修理」は新品のパソコンには不自然です。",
+    "explanation": "正解は「明るい」です。「明るい笑顔」(senyuman cerah) は人を癒すという文脈に最も自然に合います。「危険な笑顔」や「重い笑顔」は不自然です。「静かな笑顔」は可能ですが、「癒す」との組み合わせでは「明るい」がより自然です。",
     "mondai": 3,
     "number": 20
   },
@@ -355,15 +355,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "この映画のチケットは___しているので、今すぐ予約してください。",
+    "question": "この問題は___なので、専門家に相談した方がいいです。",
     "options": [
-      "完売",
-      "販売",
-      "開始",
-      "延長"
+      "複雑",
+      "簡単",
+      "小さい",
+      "楽しい"
     ],
     "correct": 0,
-    "explanation": "正解は「完売」です。チケットが「完売」(sold out/habis terjual) しているから今すぐ予約するよう促す文脈が自然です。「販売」「開始」「延長」は「今すぐ予約して」という緊急感に合いません。",
+    "explanation": "正解は「複雑」です。問題が「複雑」(rumit) だから専門家に相談するという流れは論理的です。「簡単」(mudah) なら専門家は不要、「小さい」「楽しい」は問題の難しさを表しません。",
     "mondai": 3,
     "number": 21
   },
@@ -372,15 +372,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "日本に___して、もう三年が経ちました。",
+    "question": "バスが___したため、授業に間に合いませんでした。",
     "options": [
-      "留学",
-      "旅行",
-      "出張",
-      "観光"
+      "遅延",
+      "発車",
+      "到着",
+      "出発"
     ],
     "correct": 0,
-    "explanation": "正解は「留学」です。「留学して三年が経った」(sudah tiga tahun sejak mulai belajar di Jepang) という文脈が最も自然です。「旅行」や「観光」は短期間、「出張」はビジネス目的です。",
+    "explanation": "正解は「遅延」です。バスが「遅延」(penundaan/keterlambatan) したため授業に間に合わなかったという文脈が自然です。「発車」「到着」「出発」は交通の動きを表しますが、授業に遅れる原因としては「遅延」が最適です。",
     "mondai": 3,
     "number": 22
   },
@@ -389,15 +389,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "新しい仕事に___するのに時間がかかりました。",
+    "question": "日本では___を分けて捨てることが義務付けられています。",
     "options": [
-      "慣れ",
-      "始め",
-      "会い",
-      "帰り"
+      "ごみ",
+      "食事",
+      "荷物",
+      "書類"
     ],
     "correct": 0,
-    "explanation": "正解は「慣れ」です。「新しい仕事に慣れるのに時間がかかる」(butuh waktu untuk terbiasa dengan pekerjaan baru) という表現は自然です。「始め」「会い」「帰り」は文脈に合いません。",
+    "explanation": "正解は「ごみ」です。日本では「ごみを分けて捨てる」(memilah sampah) ことが社会的なルールです。この文脈に「食事」「荷物」「書類」は合いません。",
     "mondai": 3,
     "number": 23
   },
@@ -406,15 +406,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "急な___変化に体がついていけませんでした。",
+    "question": "彼女は料理が___で、何を作っても美味しいです。",
     "options": [
-      "気温",
-      "気分",
-      "気持ち",
-      "気力"
+      "上手",
+      "下手",
+      "嫌い",
+      "難しい"
     ],
     "correct": 0,
-    "explanation": "正解は「気温」です。「急な気温変化に体がついていけない」(tubuh tidak bisa mengikuti perubahan suhu yang tiba-tiba) という表現は自然です。「気分」「気持ち」「気力」は「変化」と組み合わせてこの文脈では不自然です。",
+    "explanation": "正解は「上手」です。料理が「上手」(pandai/mahir) だから何を作っても美味しいという流れが自然です。「下手」(不得意) なら美味しくなりません。「嫌い」「難しい」は料理の技術を表しません。",
     "mondai": 3,
     "number": 24
   },
@@ -423,15 +423,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "context",
-    "question": "医者から毎日___を心がけるよう言われました。",
+    "question": "毎日___をとることで、健康を維持できます。",
     "options": [
-      "バランスのいい食事",
-      "睡眠不足",
-      "喫煙",
-      "飲みすぎ"
+      "運動",
+      "休憩だけ",
+      "薬",
+      "残業"
     ],
     "correct": 0,
-    "explanation": "正解は「バランスのいい食事」です。医者が「バランスのいい食事を心がけるよう」言うのは健康的なアドバイスとして自然です。「睡眠不足」「喫煙」「飲みすぎ」は医者が勧めるものではありません。",
+    "explanation": "正解は「運動」です。毎日「運動」(olahraga) することで健康を維持できるという文脈が最も自然です。「休憩だけ」では健康維持に不十分、「薬」は毎日必須ではない、「残業」は健康に逆効果です。",
     "mondai": 3,
     "number": 25
   },
@@ -440,15 +440,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "paraphrase",
-    "question": "「節約する」と同じ意味に最も近い表現はどれですか。",
+    "question": "彼女の発表は「簡潔」でわかりやすかった。「簡潔」に近い意味の言葉はどれですか。",
     "options": [
-      "お金を大切に使う",
-      "お金をたくさん使う",
-      "お金を稼ぐ",
-      "お金を借りる"
+      "短くてはっきりしている",
+      "長くて詳しい",
+      "複雑で難しい",
+      "静かで落ち着いている"
     ],
     "correct": 0,
-    "explanation": "「節約する」(setsuyaku suru) berarti 'berhemat'. Ekspresi dengan makna paling dekat adalah「お金を大切に使う」(menggunakan uang dengan hemat/berhati-hati). Pilihan lain bertentangan atau berbeda makna: 'menggunakan banyak uang', 'mencari uang', 'meminjam uang'.",
+    "explanation": "「簡潔」(kanketu) berarti 'singkat dan jelas/padat'. Sinonimnya adalah「短くてはっきりしている」(singkat dan jelas). 「長くて詳しい」(panjang dan rinci) adalah antonimnya. 「複雑で難しい」dan「静かで落ち着いている」tidak berkaitan dengan makna簡潔.",
     "mondai": 4,
     "number": 26
   },
@@ -457,15 +457,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "paraphrase",
-    "question": "「安全」の反対の意味に最も近い言葉はどれですか。",
+    "question": "「急いで」と同じ意味の表現はどれですか。",
     "options": [
-      "危険",
-      "便利",
-      "静か",
-      "正確"
+      "大急ぎで",
+      "ゆっくり",
+      "のんびり",
+      "静かに"
     ],
     "correct": 0,
-    "explanation": "「安全」(anzen/aman) の反対は「危険」(kiken/bahaya). 「便利」(benri/mudah)、「静か」(shizuka/tenang)、「正確」(seikaku/tepat) は「安全」とは反対の概念ではありません。",
+    "explanation": "「急いで」(isoidе) berarti 'dengan tergesa-gesa/cepat'. Ekspresi dengan makna yang sama adalah「大急ぎで」(dengan sangat tergesa-gesa). 「ゆっくり」(pelan-pelan)、「のんびり」(santai)、「静かに」(dengan tenang) semuanya berlawanan maknanya.",
     "mondai": 4,
     "number": 27
   },
@@ -474,15 +474,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "paraphrase",
-    "question": "「増加する」と反対の意味の言葉はどれですか。",
+    "question": "「出発する」と同じ意味に近い表現はどれですか。",
     "options": [
-      "減少する",
-      "変化する",
-      "移動する",
-      "停止する"
+      "旅立つ",
+      "到着する",
+      "戻る",
+      "停まる"
     ],
     "correct": 0,
-    "explanation": "「増加する」(zouka suru) berarti 'meningkat/bertambah'. Antonimnya adalah「減少する」(genshou suru/berkurang/menurun). 「変化する」(berubah)、「移動する」(berpindah)、「停止する」(berhenti) bukan antonim dari 'meningkat'.",
+    "explanation": "「出発する」(shuppatsu suru) berarti 'berangkat'. Ekspresi dengan makna paling dekat adalah「旅立つ」(tabidatsu/berangkat dalam perjalanan). 「到着する」(tiba)、「戻る」(kembali)、「停まる」(berhenti) semuanya memiliki makna yang berbeda atau berlawanan.",
     "mondai": 4,
     "number": 28
   },
@@ -491,15 +491,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "paraphrase",
-    "question": "「混雑している」と同じ意味に最も近い表現はどれですか。",
+    "question": "「心配する」と反対の意味に最も近い言葉はどれですか。",
     "options": [
-      "人がたくさんいて込んでいる",
-      "人が少なくて静かだ",
-      "きれいに整理されている",
-      "道が広くて歩きやすい"
+      "安心する",
+      "驚く",
+      "怒る",
+      "悲しむ"
     ],
     "correct": 0,
-    "explanation": "「混雑している」(konzatsu shiteiru) berarti 'ramai/padat/penuh sesak'. Ekspresi yang paling dekat maknanya adalah「人がたくさんいて込んでいる」(banyak orang dan penuh sesak). Pilihan lain berlawanan atau berbeda konteksnya.",
+    "explanation": "「心配する」(shinpai suru) berarti 'khawatir'. Antonimnya adalah「安心する」(anshin suru/merasa tenang/lega). 「驚く」(terkejut)、「怒る」(marah)、「悲しむ」(sedih) adalah emosi lain yang bukan antonim dari khawatir.",
     "mondai": 4,
     "number": 29
   },
@@ -508,15 +508,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "paraphrase",
-    "question": "「退院する」と同じ意味の表現はどれですか。",
+    "question": "「丈夫な」と同じ意味に最も近い言葉はどれですか。",
     "options": [
-      "病院を出る",
-      "病院に入る",
-      "病院で働く",
-      "病院に行く"
+      "強い",
+      "軽い",
+      "きれいな",
+      "新しい"
     ],
     "correct": 0,
-    "explanation": "「退院する」(taiin suru) berarti 'keluar dari rumah sakit (setelah sembuh)'. Ekspresi yang paling tepat adalah「病院を出る」(keluar dari rumah sakit). 「病院に入る」adalah「入院する」(masuk/dirawat di RS), sedangkan pilihan lain berbeda konteks.",
+    "explanation": "「丈夫な」(joubu na) berarti 'kuat/tahan lama'. Sinonimnya adalah「強い」(tsuyoi/kuat). 「軽い」(ringan)、「きれいな」(cantik/bersih)、「新しい」(baru) tidak memiliki makna yang sama dengan 'kuat/tahan lama'.",
     "mondai": 4,
     "number": 30
   },
@@ -525,15 +525,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "usage",
-    "question": "「我慢する」を正しく使っている文はどれですか。",
+    "question": "「注意する」を正しく使っている文はどれですか。",
     "options": [
-      "痛くても我慢して治療を受けました。",
-      "彼女は毎日我慢を食べています。",
-      "私は公園を我慢しました。",
-      "この映画は我慢でとても面白いです。"
+      "先生は学生に廊下を走らないよう注意しました。",
+      "彼は友達に注意してプレゼントをあげました。",
+      "私は毎日注意を食べています。",
+      "電車は注意して到着しました。"
     ],
     "correct": 0,
-    "explanation": "「我慢する」(gaman suru) berarti 'menahan diri/bersabar'. Kalimat yang benar: 'Meskipun sakit, saya bersabar dan menerima perawatan.' Pilihan lain menggunakan「我慢する」secara tidak tepat: tidak bisa 'dimakan', digunakan di taman, atau mendeskripsikan film.",
+    "explanation": "「注意する」(chuu i suru) berarti 'memperingatkan/berhati-hati'. Kalimat yang benar adalah pilihan pertama: 'Sensei memperingatkan murid untuk tidak berlari di koridor.' Pilihan lain menggunakan「注意する」dalam konteks yang tidak tepat secara gramatikal maupun semantik.",
     "mondai": 5,
     "number": 31
   },
@@ -542,15 +542,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "usage",
-    "question": "「確認する」を正しく使っている文はどれですか。",
+    "question": "「連絡する」を正しく使っている文はどれですか。",
     "options": [
-      "書類を提出する前に、内容を確認してください。",
-      "私は昨日確認を買いました。",
-      "彼は公園で確認しました。",
-      "電車は確認して出発しました。"
+      "遅れる場合は、事前に連絡してください。",
+      "私は昨日、連絡を食べました。",
+      "この電車は駅に連絡します。",
+      "彼女は毎朝連絡を運転します。"
     ],
     "correct": 0,
-    "explanation": "「確認する」(kakunin suru) berarti 'memastikan/mengecek'. Kalimat yang benar: 'Sebelum menyerahkan dokumen, tolong cek isinya.' Pilihan lain menggunakan「確認する」secara tidak tepat — tidak bisa 'dibeli', digunakan di taman, atau mendeskripsikan keberangkatan kereta.",
+    "explanation": "「連絡する」(renraku suru) berarti 'menghubungi/memberitahu'. Kalimat yang benar: 'Jika terlambat, tolong hubungi lebih dulu.' Pilihan lain menggunakan「連絡する」secara salah: tidak bisa 'dimakan', tidak bisa menjadi subjek kereta, dan tidak bisa 'dikendarai'.",
     "mondai": 5,
     "number": 32
   },
@@ -559,15 +559,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "usage",
-    "question": "「記録する」を正しく使っている文はどれですか。",
+    "question": "「丁寧」を正しく使っている文はどれですか。",
     "options": [
-      "会議の内容をノートに記録しておきました。",
-      "彼女は毎朝記録を飲んでいます。",
-      "私は図書館を記録しました。",
-      "バスは記録して駅に着きました。"
+      "彼女は丁寧な言葉でお客様に対応しました。",
+      "このケーキは丁寧でとても甘いです。",
+      "電車は丁寧に走っています。",
+      "今日の天気は丁寧で暑いです。"
     ],
     "correct": 0,
-    "explanation": "「記録する」(kiroku suru) berarti 'mencatat/merekam'. Kalimat yang benar: 'Saya mencatat isi rapat di buku catatan.' Pilihan lain menggunakan「記録する」secara salah: tidak bisa 'diminum', tidak tepat untuk perpustakaan, dan tidak bisa mendeskripsikan bus.",
+    "explanation": "「丁寧」(teinei) berarti 'sopan/teliti' dan digunakan untuk mendeskripsikan cara seseorang melakukan sesuatu. Kalimat yang benar: 'Dia melayani pelanggan dengan bahasa yang sopan.' Pilihan lain menggunakan「丁寧」untuk mendeskripsikan kue, kereta, atau cuaca — yang semuanya tidak tepat.",
     "mondai": 5,
     "number": 33
   },
@@ -576,15 +576,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "usage",
-    "question": "「節約する」を正しく使っている文はどれですか。",
+    "question": "「参加する」を正しく使っている文はどれですか。",
     "options": [
-      "電気代を節約するため、使わない電気は消してください。",
-      "彼は毎日節約を食べています。",
-      "この電車は節約で走ります。",
-      "彼女は節約な顔をしています。"
+      "来月のイベントに参加したいと思います。",
+      "彼は毎日参加を食べています。",
+      "私は公園を参加しました。",
+      "バスは参加して駅に着きました。"
     ],
     "correct": 0,
-    "explanation": "「節約する」(setsuyaku suru) berarti 'berhemat/menghemat'. Kalimat yang benar: 'Untuk menghemat biaya listrik, matikan listrik yang tidak digunakan.' Pilihan lain menggunakan「節約する」secara tidak tepat secara tata bahasa maupun makna.",
+    "explanation": "「参加する」(sanka suru) berarti 'berpartisipasi/ikut serta'. Kalimat yang benar: 'Saya ingin berpartisipasi dalam acara bulan depan.' Pilihan lain menggunakan「参加する」secara salah — tidak bisa 'dimakan', tidak bisa digunakan untuk berjalan di taman, dan tidak bisa mendeskripsikan bus.",
     "mondai": 5,
     "number": 34
   },
@@ -593,15 +593,15 @@ export const mojigoiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Vocabulary",
     "type": "usage",
-    "question": "「経験する」を正しく使っている文はどれですか。",
+    "question": "「相談する」を正しく使っている文はどれですか。",
     "options": [
-      "留学中にさまざまな文化を経験しました。",
-      "彼は毎日経験を買っています。",
-      "私は図書館を経験しました。",
-      "その映画は経験でとても長いです。"
+      "困ったことがあれば、先生に相談してください。",
+      "彼は昨日、相談を運転しました。",
+      "私はお腹が痛いので相談します。",
+      "電車は相談して終点に着きます。"
     ],
     "correct": 0,
-    "explanation": "「経験する」(keiken suru) berarti 'mengalami/merasakan'. Kalimat yang benar: 'Selama studi di luar negeri, saya mengalami berbagai budaya.' Pilihan lain menggunakan「経験する」secara tidak tepat secara tata bahasa maupun makna.",
+    "explanation": "「相談する」(soudan suru) berarti 'berkonsultasi/meminta saran'. Kalimat yang benar: 'Jika ada yang kesulitan, konsultasikan ke sensei.' Pilihan lain menggunakan「相談する」secara salah: tidak bisa 'dikendarai', tidak tepat untuk mendeskripsikan sakit perut, dan tidak bisa mendeskripsikan kereta.",
     "mondai": 5,
     "number": 35
   }
