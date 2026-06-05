@@ -4,6 +4,7 @@ import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
 import { getBalancedN4Vocab } from './n4_mojigoi_helper.js';
+import { getBalancedN4Bunpou } from './n4_bunpou_dokkai_helper.js';
 
 dotenv.config({ path: '.env.local' });
 
@@ -133,14 +134,41 @@ async function run() {
       { letter: 'C', index: 2 }
     ];
 
+    // Load N4 Bunpou/Dokkai audio mapping if level is N4
+    let n4AudioMapping = {};
+    if (level === 'N4') {
+      try {
+        const mappingPath = resolve(__dirname, 'data', 'n4_bunpou_dokkai_audio.json');
+        n4AudioMapping = JSON.parse(readFileSync(mappingPath, 'utf-8'));
+        console.log(`   Loaded N4 Bunpou/Dokkai audio mappings.`);
+      } catch (err) {
+        console.warn('   ⚠️ Could not load N4 Bunpou/Dokkai audio mapping:', err.message);
+      }
+    }
+
     for (const pkg of packages) {
       console.log(`   Preparing Package ${pkg.letter} (Try Out ${pkg.index + 1})...`);
       
       const vocabQs = level === 'N4'
         ? getBalancedN4Vocab(vocabList, pkg.index)
         : getQuestionsForSection(vocabList, cfg.vocab.limit, pkg.index);
-      const grammarQs = getQuestionsForSection(grammarList, cfg.grammar.limit, pkg.index);
-      const readingQs = getQuestionsForSection(readingList, cfg.reading.limit, pkg.index);
+      
+      let grammarQs, readingQs;
+      if (level === 'N4') {
+        const allBunpouDokkai = getBalancedN4Bunpou(grammarList, readingList, pkg.index);
+        grammarQs = allBunpouDokkai.filter(q => q.section === 'Grammar').map(q => ({
+          ...q,
+          audio_url: n4AudioMapping[q.id] || q.audio_url || null
+        }));
+        readingQs = allBunpouDokkai.filter(q => q.section === 'Reading').map(q => ({
+          ...q,
+          audio_url: n4AudioMapping[q.id] || q.audio_url || null
+        }));
+      } else {
+        grammarQs = getQuestionsForSection(grammarList, cfg.grammar.limit, pkg.index);
+        readingQs = getQuestionsForSection(readingList, cfg.reading.limit, pkg.index);
+      }
+      
       const listeningQs = getQuestionsForSection(listeningList, cfg.listening.limit, pkg.index);
 
       let questionNumber = 1;
