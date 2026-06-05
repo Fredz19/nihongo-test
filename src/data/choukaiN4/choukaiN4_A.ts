@@ -32,7 +32,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_02.mp3",
-    "imageUrl": "/images/choukaiN4_A_m1_q1.png",
+    "imageUrl": "/images/choukaiN4/m1_q1.png",
     "mondai": 1,
     "number": 1
   },
@@ -51,6 +51,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_03.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q2.png",
     "mondai": 1,
     "number": 2
   },
@@ -69,6 +70,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_04.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q3.png",
     "mondai": 1,
     "number": 3
   },
@@ -87,6 +89,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_05.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q4.png",
     "mondai": 1,
     "number": 4
   },
@@ -105,6 +108,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_06.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q5.png",
     "mondai": 1,
     "number": 5
   },
@@ -123,6 +127,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_07.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q6.png",
     "mondai": 1,
     "number": 6
   },
@@ -141,6 +146,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_08.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q7.png",
     "mondai": 1,
     "number": 7
   },
@@ -159,6 +165,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_09.mp3",
+    "imageUrl": "/images/choukaiN4/m1_q8.png",
     "mondai": 1,
     "number": 8
   },
@@ -177,6 +184,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_11.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q1.png",
     "mondai": 2,
     "number": 9
   },
@@ -195,6 +203,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_12.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q2.png",
     "mondai": 2,
     "number": 10
   },
@@ -213,6 +222,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_13.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q3.png",
     "mondai": 2,
     "number": 11
   },
@@ -231,6 +241,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_14.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q4.png",
     "mondai": 2,
     "number": 12
   },
@@ -249,6 +260,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_15.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q5.png",
     "mondai": 2,
     "number": 13
   },
@@ -267,6 +279,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_16.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q6.png",
     "mondai": 2,
     "number": 14
   },
@@ -285,6 +298,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_17.mp3",
+    "imageUrl": "/images/choukaiN4/m2_q7.png",
     "mondai": 2,
     "number": 15
   },
@@ -302,6 +316,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_19.mp3",
+    "imageUrl": "/images/choukaiN4/m3_q1.png",
     "mondai": 3,
     "number": 16
   },
@@ -319,6 +334,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_20.mp3",
+    "imageUrl": "/images/choukaiN4/m3_q2.png",
     "mondai": 3,
     "number": 17
   },
@@ -336,6 +352,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_21.mp3",
+    "imageUrl": "/images/choukaiN4/m3_q3.png",
     "mondai": 3,
     "number": 18
   },
@@ -353,6 +370,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_22.mp3",
+    "imageUrl": "/images/choukaiN4/m3_q4.png",
     "mondai": 3,
     "number": 19
   },
@@ -370,6 +388,7 @@ export const choukaiN4A: LegacyQuestion[] = [
     "correct": 0,
     "explanation": "Dengarkan audio untuk mengetahui penjelasan yang benar.",
     "audioUrl": "/audio/super_moshi_n4_track_23.mp3",
+    "imageUrl": "/images/choukaiN4/m3_q5.png",
     "mondai": 3,
     "number": 20
   },
