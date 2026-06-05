@@ -115,7 +115,8 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
       }
 
       // 2. For N5 (Super Moshi/Tipe B) and N4 and N3 and below — use fallback immediately
-      if (level === 'N5' || level === 'N4' || level === 'N3' || level === 'N2' || level === 'N1') {
+      const bypassFallback = level === 'N4' && slug.includes('tryout');
+      if (!bypassFallback && (level === 'N5' || level === 'N4' || level === 'N3' || level === 'N2' || level === 'N1')) {
         let bankKey = String(level);
         if (level === 'N4') {
           if (slug.includes('mojigoi')) {
@@ -211,13 +212,18 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
 
         if (isTryout) {
           const pkgLetter = slug.endsWith('-1') ? 'A' : (slug.endsWith('-2') ? 'B' : 'C');
-          const { data, error: qErr } = await supabase
+          let query = supabase
             .from('questions')
             .select('*')
             .eq('level', level)
             .eq('package', pkgLetter)
-            .eq('is_active', true)
-            .order('question_number', { ascending: true });
+            .eq('is_active', true);
+            
+          if (level === 'N4') {
+            query = query.eq('section', 'Listening');
+          }
+          
+          const { data, error: qErr } = await query.order('question_number', { ascending: true });
 
           if (qErr || !data) {
             throw new Error(`Failed to fetch tryout questions: ${qErr?.message}`);

@@ -29,901 +29,409 @@ const TEMP_DIR = path.resolve('scripts', 'temp_crops');
 // Bounding box cropping coordinates (berdasarkan gambar spread 2866 x 2023)
 const CROP_COORDINATES = {
   // Mondai 1
-  "n4_m1_q01": { page: "page_13.png", x: 90, y: 790, w: 1250, h: 810 },
-  "n4_m1_q03": { page: "page_13.png", x: 1580, y: 140, w: 1200, h: 860 },
-  "n4_m1_q04": { page: "page_13.png", x: 1580, y: 1100, w: 1200, h: 860 },
-  "n4_m1_q06": { page: "page_14.png", x: 120, y: 900, w: 1220, h: 830 },
-  "n4_m1_q08": { page: "page_14.png", x: 1580, y: 900, w: 1200, h: 830 },
+  "n4_m1_q01": { page: "page_13.png", x: 240, y: 900, w: 1324, h: 749 },
+  "n4_m1_q03": { page: "page_13.png", x: 1711, y: 242, w: 1353, h: 880 },
+  "n4_m1_q04": { page: "page_13.png", x: 1695, y: 1125, w: 1186, h: 849 },
+  "n4_m1_q06": { page: "page_14.png", x: 241, y: 900, w: 1323, h: 929 },
+  "n4_m1_q08": { page: "page_14.png", x: 1795, y: 900, w: 1154, h: 819 },
   // Mondai 3
-  "n4_m1_q16": { page: "page_16.png", x: 1580, y: 780, w: 1200, h: 800 },
-  "n4_m1_q17": { page: "page_17.png", x: 120, y: 140, w: 1200, h: 790 },
-  "n4_m1_q18": { page: "page_17.png", x: 120, y: 1040, w: 1200, h: 790 },
-  "n4_m1_q19": { page: "page_17.png", x: 1580, y: 130, w: 1200, h: 800 },
-  "n4_m1_q20": { page: "page_17.png", x: 1580, y: 1040, w: 1200, h: 800 }
+  "n4_m1_q16": { page: "page_16.png", x: 1675, y: 812, w: 1385, h: 645 },
+  "n4_m1_q17": { page: "page_17.png", x: 254, y: 175, w: 1310, h: 949 },
+  "n4_m1_q18": { page: "page_17.png", x: 241, y: 1025, w: 1323, h: 849 },
+  "n4_m1_q19": { page: "page_17.png", x: 1712, y: 221, w: 1352, h: 903 },
+  "n4_m1_q20": { page: "page_17.png", x: 1710, y: 1055, w: 1184, h: 652 }
 };
 
 // Data Pertanyaan Ujian 28 Soal
 const QUESTIONS = [
-  // ==========================================
-  // MONDAI 1 (8 Soal) - Task Comprehension
-  // ==========================================
   {
-    type: "audio-listening",
-    question: "1番：男の人と女の人が話しています。男の人はこれからどこへ行きますか。",
-    options: ["1", "2", "3", "4"],
-    correct: 1, // Opsi 2
-    track: 2,
-    imageKey: "n4_m1_q01",
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-女：すみませんが、この近くに郵便局はありますか。
-男：ええ、この道を真っ直ぐ行って、信号を右に曲がってください。左側に本屋があります。その隣が郵便局ですよ。
-女：信号を右ですね。本屋の隣。
-男：そうです。
-女：わかりました。ありがとうございます。あ、すみません。銀行はどこですか。
-男：銀行は、郵便局の向かい側ですよ。
-女：そうですか。じゃあ、先に行きますね。
-男：はい、いってらっしゃい。
-
-### Terjemahan Indonesia
-Perempuan: Permisi, apakah ada kantor pos di dekat sini?
-Laki-laki: Ya, silakan lurus di jalan ini, lalu belok kanan di lampu merah. Di sebelah kiri ada toko buku. Di sebelahnya adalah kantor pos.
-Perempuan: Belok kanan di lampu merah ya. Di sebelah toko buku.
-Laki-laki: Betul.
-Perempuan: Paham. Terima kasih banyak. Oh, permisi. Kalau bank di mana ya?
-Laki-laki: Bank ada di seberang jalan dari kantor pos.
-Perempuan: Begitu ya. Kalau begitu, saya pergi dulu ya.
-Laki-laki: Ya, selamat jalan.
-
-### Analisis Kosakata
-* 郵便局 (ゆうびんきょく - yuubinkyoku) = Kantor pos
-* 真っ直ぐ (まっすぐ - massugu) = Lurus
-* 信号 (しんごう - shingou) = Lampu lalu lintas
-* 右に曲がる (みぎにまがる - migi ni magaru) = Belok kanan
-* 隣 (となり - tonari) = Sebelah / samping
-* 向かい側 (むかいがわ - mukaigawa) = Seberang jalan
-
-### Penjelasan Jawaban
-Laki-laki menjelaskan rute ke kantor pos (郵便局) yaitu belok kanan di lampu merah, lokasinya di samping toko buku (Opsi 2). Lokasi nomor 2 adalah kantor pos, sedangkan di seberang jalan (nomor 4) adalah bank. Pertanyaan menanyakan ke mana laki-laki (atau dalam konteks percakapan arah tujuan ke kantor pos), maka jawabannya adalah **2**.`
+    "type": "audio-listening",
+    "question": "1番：男の人と女の人が話しています。男の人はこれからどこへ行きますか。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "track": 2,
+    "imageKey": "n4_m1_q01_v3",
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n女：すみませんが、この近くに郵便局はありますか。\n男：ええ、この道を真っ直ぐ行って、信号を右に曲gってください。左側に本屋があります。その隣が郵便局ですよ。\n女：信号を右ですね。本屋の隣。\n男：そうです。\n女：わかりました。ありがとうございます。あ、すみません。銀行はどこですか。\n男：銀行は、郵便局の向かい側ですよ。\n女：そうですか。じゃあ、先に行きますね。\n男：はい、いってらっしゃい。\n\n### Terjemahan Indonesia\nPerempuan: Permisi, apakah ada kantor pos di dekat sini?\nLaki-laki: Ya, silakan lurus di jalan ini, lalu belok kanan di lampu merah. Di sebelah kiri ada toko buku. Di sebelahnya adalah kantor pos.\nPerempuan: Belok kanan di lampu merah ya. Di sebelah toko buku.\nLaki-laki: Betul.\nPerempuan: Paham. Terima kasih banyak. Oh, permisi. Kalau bank di mana ya?\nLaki-laki: Bank ada di seberang jalan dari kantor pos.\nPerempuan: Begitu ya. Kalau begitu, saya pergi dulu ya.\nLaki-laki: Ya, selamat jalan.\n\n### Analisis Kosakata\n* 郵便局 (ゆうびんきょく - yuubinkyoku) = Kantor pos\n* 真っ直ぐ (まっすぐ - massugu) = Lurus\n* 信号 (しんごう - shingou) = Lampu lalu lintas\n* 右に曲がる (みぎにまがる - migi ni magaru) = Belok kanan\n* 隣 (となり - tonari) = Sebelah / samping\n* 向かい側 (むかいがわ - mukaigawa) = Seberang jalan\n\n### Penjelasan Jawaban\nLaki-laki menjelaskan rute ke kantor pos (郵便局) yaitu belok kanan di lampu merah, lokasinya di samping toko buku (Opsi 2). Lokasi nomor 2 adalah kantor pos, sedangkan di seberang jalan (nomor 4) adalah bank. Pertanyaan menanyakan ke mana laki-laki (atau dalam konteks percakapan arah tujuan ke kantor pos), maka jawabannya adalah **2**."
   },
   {
-    type: "audio-listening",
-    question: "2番：男の人と女の人が話しています。男ic人は女の人の部屋のどこへ行きますか。",
-    options: ["パンや", "しょくどう", "そと", "きょうしつ"],
-    correct: 3, // Opsi 4 (きょうしつ)
-    track: 3,
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-男：あの、すみません。山田先生はどこにいらっしゃいますか。
-女：山田先生ですか。今は教室で授業をしていらっしゃいますよ。
-男：そうですか。食堂かパン屋にいらっしゃると思いました。
-女：いいえ、今は３時間目の授業中ですから、教室にいます。
-男：わかりました。教室に行ってみます。ありがとうございます。
-
-### Terjemahan Indonesia
-Laki-laki: Anoo, permisi. Bapak Guru Yamada ada di mana ya?
-Perempuan: Guru Yamada? Sekarang beliau sedang mengajar di kelas.
-Laki-laki: Oh begitu ya. Saya pikir beliau ada di kantin atau toko roti.
-Perempuan: Tidak, karena sekarang jam pelajaran ketiga, beliau ada di kelas.
-Laki-laki: Baik, saya akan coba pergi ke kelas. Terima kasih banyak.
-
-### Analisis Kosakata
-* 教室 (きょうしつ - kyoushitsu) = Ruang kelas
-* 授業 (じゅぎょう - jugyou) = Pelajaran / perkuliahan
-* 食堂 (しょくどう - shokudou) = Kantin
-* ３時間目 (さんじかんめ - sanjikanme) = Jam pelajaran ketiga
-
-### Penjelasan Jawaban
-Meskipun laki-laki mengira guru berada di kantin (食堂) atau toko roti (パンや), perempuan menjelaskan bahwa guru sedang mengajar di kelas (教室) karena ini jam pelajaran ketiga. Maka laki-laki harus pergi ke **教室 (Opsi 4)**.`
+    "type": "audio-listening",
+    "question": "2番：男の人と女の人が話しています。男ic人は女の人の部屋 of どこへ行きますか。",
+    "options": [
+      "パンや",
+      "しょくどう",
+      "そと",
+      "きょうしつ"
+    ],
+    "correct": 3,
+    "track": 3,
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n男：あの、すみません。山田先生はどこにいらっしゃいますか。\n女：山田先生ですか。今は教室で授業をしていらっしゃいますよ。\n男：そうですか。食堂かパン屋にいらっしゃると思いました。\n女：いいえ、今は３時間目の授業中ですから、教室にいます。\n男：わかりました。教室に行ってみます。ありがとうございます。\n\n### Terjemahan Indonesia\nLaki-laki: Anoo, permisi. Bapak Guru Yamada ada di mana ya?\nPerempuan: Guru Yamada? Sekarang beliau sedang mengajar di kelas.\nLaki-laki: Oh begitu ya. Saya pikir beliau ada di kantin atau toko roti.\nPerempuan: Tidak, karena sekarang jam pelajaran ketiga, beliau ada di kelas.\nLaki-laki: Baik, saya akan coba pergi ke kelas. Terima kasih banyak.\n\n### Analisis Kosakata\n* 教室 (きょうしつ - kyoushitsu) = Ruang kelas\n* 授業 (じゅぎょう - jugyou) = Pelajaran / perkuliahan\n* 食堂 (しょくどう - shokudou) = Kantin\n* ３時間目 (さんじかんめ - sanjikanme) = Jam pelajaran ketiga\n\n### Penjelasan Jawaban\nMeskipun laki-laki mengira guru berada di kantin (食堂) atau toko roti (パンや), perempuan menjelaskan bahwa guru sedang mengajar di kelas (教室) karena ini jam pelajaran ketiga. Maka laki-laki harus pergi ke **教室 (Opsi 4)**."
   },
   {
-    type: "audio-listening",
-    question: "3番：男の人と女の人が話しています。男の人はこれからどのセーターを買いますか。",
-    options: ["1", "2", "3", "4"],
-    correct: 2, // Opsi 3
-    track: 4,
-    imageKey: "n4_m1_q03",
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-女：いらっしゃいませ。どのようなセーターをお探しですか。
-男：白いセーターを探しているんですが、Vネックのものがいいです。
-女：Vネックの白いセーターですね。こちらはいかがでしょうか。胸のところにポケットが付いているタイプと、何も付いていないシンプルなタイプがございます。
-男：ポケットがある方がいいですね。あ、でもこのポケットの形はちょっと丸くて可愛いすぎるかな。四角いポケットのものはありますか。
-女：四角いポケットですね。少々お待ちください……はい、こちらにございます。
-男：あ、これがいいですね。これにします。
-
-### Terjemahan Indonesia
-Pelayan: Selamat datang. Sedang mencari sweater yang seperti apa?
-Laki-laki: Saya mencari sweater putih, yang kerahnya berbentuk V-neck.
-Pelayan: Sweater putih V-neck ya. Bagaimana dengan yang ini? Kami memiliki tipe yang dilengkapi kantong di bagian dada dan tipe polos tanpa hiasan apa pun.
-Laki-laki: Saya lebih suka yang ada kantongnya. Ah, tapi bentuk kantong ini agak bulat dan terlalu imut ya. Apakah ada yang kantongnya berbentuk kotak?
-Pelayan: Kantong berbentuk kotak ya. Mohon tunggu sebentar... Ya, ini ada.
-Laki-laki: Ah, ini bagus ya. Saya beli yang ini.
-
-### Analisis Kosakata
-* 探す (さがす - sagasu) = Mencari
-* 胸 (むね - mune) = Dada
-* 四角い (しかくい - shikakui) = Kotak / persegi
-* 丸い (まるい - marui) = Bulat / bundar
-
-### Penjelasan Jawaban
-Laki-laki menginginkan sweater putih dengan kerah V-neck, yang memiliki kantong berbentuk kotak (四角いポケット). 
-* Gambar 1 & 3 adalah V-neck (kerah lancip).
-* Gambar 2 & 4 adalah crew neck (kerah bulat).
-* Gambar 1 memiliki kantong bulat (丸いポケット).
-* Gambar 3 memiliki kantong kotak (四角いポケット).
-Oleh karena itu, pilihan yang tepat adalah **3**.`
+    "type": "audio-listening",
+    "question": "3番：男の人と女の人が話しています。男の人はこれからどのセーターを買いますか。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "track": 4,
+    "imageKey": "n4_m1_q03_v3",
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n女：いらっしゃいませ。どのようなセーターをお探しですか。\n男：白いセーターを探しているんですが、Vネックのものがいいです。\n女：Vネックの白いセーターですね。こちらはいかがでしょうか。胸のところにポケットが付いているタイプと、何も付いていないシンプルなタイプがございます。\n男：ポケットがある方がいいですね。あ、でもこのポケットの形はちょっと丸くて可愛いすぎるかな。四角いポケットのものはありますか。\n女：四角いポケットですね。少々お待ちください……はい、こちらにございます。\n男：あ、これがいいですね。これにします。\n\n### Terjemahan Indonesia\nPelayan: Selamat datang. Sedang mencari sweater yang seperti apa?\nLaki-laki: Saya mencari sweater putih, yang kerahnya berbentuk V-neck.\nPelayan: Sweater putih V-neck ya. Bagaimana dengan yang ini? Kami memiliki tipe yang dilengkapi kantong di bagian dada dan tipe polos tanpa hiasan apa pun.\nLaki-laki: Saya lebih suka yang ada kantongnya. Ah, tapi bentuk kantong ini agak bulat dan terlalu imut ya. Apakah ada yang kantongnya berbentuk kotak?\nPelayan: Kantong berbentuk kotak ya. Mohon tunggu sebentar... Ya, ini ada.\nLaki-laki: Ah, ini bagus ya. Saya beli yang ini.\n\n### Analisis Kosakata\n* 探す (さがす - sagasu) = Mencari\n* 胸 (むね - mune) = Dada\n* 四角い (しかくい - shikakui) = Kotak / persegi\n* 丸い (まるい - marui) = Bulat / bundar\n\n### Penjelasan Jawaban\nLaki-laki menginginkan sweater putih dengan kerah V-neck, yang memiliki kantong berbentuk kotak (四角いポケット)。\n* Gambar 1 & 3 adalah V-neck (kerah lancip).\n* Gambar 2 & 4 adalah crew neck (kerah bulat).\n* Gambar 1 memiliki kantong bulat (丸いポケット).\n* Gambar 3 memiliki kantong kotak (四角いポケット).\nOleh karena itu, pilihan yang tepat adalah **3**."
   },
   {
-    type: "audio-listening",
-    question: "4番：男の人と女の人が話しています。男の人の家族はみんなで何人ですか。",
-    options: ["1", "2", "3", "4"],
-    correct: 1, // Opsi 2 (3人)
-    track: 5,
-    imageKey: "n4_m1_q04",
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-女：アランさんのご家族はみんなで何人ですか。
-男：うちは、父と母、それから私の３人家族です。きょうだいは調査したところいません。
-女：そうですか。一人っ子なんですね。
-男：はい、そうです。少し寂しいですが、両親がとても大切にしてくれます。
-女：素敵ですね。
-
-### Terjemahan Indonesia
-Perempuan: Keluarga Alan semuanya ada berapa orang?
-Laki-laki: Keluarga saya terdiri dari ayah, ibu, dan saya sendiri, jadi totalnya 3 orang. Saya tidak punya saudara kandung setelah dicek.
-Perempuan: Begitu ya. Anak tunggal ya.
-Laki-laki: Ya, betul. Agak sepi sih, tapi kedua orang tua saya sangat menyayangi saya.
-Perempuan: Indah sekali ya.
-
-### Analisis Kosakata
-* きょうだい (kyoudai) = Saudara kandung
-* 一人っ子 (ひとりっこ - hitorikko) = Anak tunggal
-* 両親 (りょうしん - ryoushin) = Kedua orang tua
-* 大切にする (たいせつにする - taisetsu ni suru) = Menghargai / menyayangi
-
-### Penjelasan Jawaban
-Keluarga laki-laki (Alan) terdiri dari Ayah (父), Ibu (母), dan Alan sendiri (私). Dia anak tunggal (一人っ子) dan tidak punya saudara. Maka jumlah anggota keluarganya adalah 3 orang. Di gambar visual, pilihan yang menunjukkan keluarga berisi 3 orang (ayah, ibu, anak laki-laki) adalah **2**.`
+    "type": "audio-listening",
+    "question": "4番：男の人と女の人が話しています。男の人の家族はみんなで何人ですか。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "track": 5,
+    "imageKey": "n4_m1_q04_v3",
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n女：アランさんのご家族はみんなで何人ですか。\n男：うちは、父と母、それから私の３人家族です。きょうだいは調査したところいません。\n女：そうですか。一人っ子なんですね。\n男：はい、そうです。少し寂しいですが、両親がとても大切にしてくれます。\n女：素敵ですね。\n\n### Terjemahan Indonesia\nPerempuan: Keluarga Alan semuanya ada berapa orang?\nLaki-laki: Keluarga saya terdiri dari ayah, ibu, dan saya sendiri, jadi totalnya 3 orang. Saya tidak punya saudara kandung setelah dicek.\nPerempuan: Begitu ya. Anak tunggal ya.\nLaki-laki: Ya, betul. Agak sepi sih, tapi kedua orang tua saya sangat menyayangi saya.\nPerempuan: Indah sekali ya.\n\n### Analisis Kosakata\n* きょうだい (kyoudai) = Saudara kandung\n* 一人っ子 (ひとりっこ - hitorikko) = Anak tunggal\n* 両親 (りょうしん - ryoushin) = Kedua orang tua\n* 大切にする (たいせつにする - taisetsu ni suru) = Menghargai / menyayangi\n\n### Penjelasan Jawaban\nKeluarga laki-laki (Alan) terdiri dari Ayah (父), Ibu (母), dan Alan sendiri (私). Dia anak tunggal (一人っ子) dan tidak punya saudara. Maka jumlah anggota keluarganya adalah 3 orang. Di gambar visual, pilihan yang menunjukkan keluarga berisi 3 orang (ayah, ibu, anak laki-laki) adalah **2**."
   },
   {
-    type: "audio-listening",
-    question: "5番：男の人と女の人が話しています。男の人はこれから何をしなければなりませんか。",
-    options: ["かいぎに 行く", "みんなに れんらく する", "おんなの 人に でんわを する", "おんなの 人に メールを する"],
-    correct: 1, // Opsi 2
-    track: 6,
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-女：鈴木さん、明日の会議の時間なんですが、午後２時から３時に変更になりました。
-男：えっ、そうなんですか。じゃあ、準備を急がないといけませんね。
-女：はい。それで、鈴木さんからメンバー全員にこの変更を連絡していただけますか。
-男：わかりました。メールで送ればいいですか。
-女：メールだと気づかない人がいるかもしれないので、グループチャットか電話でお願いします。急ぎですので。
-男：わかりました。では、グループチャットでみんなにメッセージを送って連絡します。
-
-### Terjemahan Indonesia
-Perempuan: Suzuki-san, mengenai waktu rapat besok, diubah dari jam 2 siang menjadi jam 3 sore.
-Laki-laki: Eh, benarkah? Kalau begitu kita harus mempercepat persiapannya ya.
-Perempuan: Iya. Jadi, bisakah Suzuki-san menghubungi seluruh anggota mengenai perubahan ini?
-Laki-laki: Baik. Apakah cukup dikirim lewat email saja?
-Perempuan: Karena mungkin ada yang tidak menyadari jika lewat email, tolong hubungi lewat grup chat atau telepon saja. Soalnya ini mendesak.
-Laki-laki: Baik. Kalau begitu, saya akan mengirim pesan ke semua orang lewat grup chat untuk menghubungi mereka.
-
-### Analisis Kosakata
-* 会議 (かいぎ - kaigi) = Rapat / konferensi
-* 変更 (へんこう - henkou) = Perubahan
-* 全員 (ぜんいん - zen'in) = Semua orang / seluruh anggota
-* 連絡する (れんらくする - renraku suru) = Menghubungi / memberikan info
-
-### Penjelasan Jawaban
-Perempuan meminta Suzuki-san menghubungi semua anggota (みんなにれんらくする). Suzuki memutuskan untuk mengirim pesan grup chat ke semua orang untuk memberikan info tersebut. Maka hal yang harus dilakukan adalah **みんなに れんらく する (Opsi 2)**.`
+    "type": "audio-listening",
+    "question": "5番：男の人と女の人が話しています。男の人はこれから何をしなければなりませんか。",
+    "options": [
+      "かいぎに 行く",
+      "みんなに れんらく する",
+      "おんなの 人に でんわを する",
+      "おんなの 人に メールを する"
+    ],
+    "correct": 1,
+    "track": 6,
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n女：鈴木さん、明日の会議の時間なんですが、午後２時から３時に変更になりました。\n男：えっ、そうなんですか。じゃあ、準備を急がないといけませんね。\n女：はい。それで、鈴木さんからメンバー全員にこの変更を連絡していただけますか。\n男：わかりました。メールで送ればいいですか。\n女：メールだと気づかない人がいるかもしれないので、グループチャットか電話でお願いします。急ぎですので。\n男：わかりました。では、グループチャットでみんなにメッセージを送って連絡します。\n\n### Terjemahan Indonesia\nPerempuan: Suzuki-san, mengenai waktu rapat besok, diubah dari jam 2 siang menjadi jam 3 sore.\nLaki-laki: Eh, benarkah? Kalau begitu kita harus mempercepat persiapannya ya.\nPerempuan: Iya. Jadi, bisakah Suzuki-san menghubungi seluruh anggota mengenai perubahan ini?\nLaki-laki: Baik. Apakah cukup dikirim lewat email saja?\nPerempuan: Karena mungkin ada yang tidak menyadari jika lewat email, tolong hubungi lewat grup chat atau telepon saja. Soalnya ini mendesak.\nLaki-laki: Baik. Kalau begitu, saya akan mengirim pesan ke semua orang lewat grup chat untuk menghubungi mereka.\n\n### Analisis Kosakata\n* 会議 (かいぎ - kaigi) = Rapat / konferensi\n* 変更 (へんこう - henkou) = Perubahan\n* 全員 (ぜんいん - zen'in) = Semua orang / seluruh anggota\n* 連絡する (れんらくする - renraku suru) = Menghubungi / memberikan info\n\n### Penjelasan Jawaban\nPerempuan meminta Suzuki-san menghubungi semua anggota (みんなにれんらくする). Suzuki memutuskan untuk mengirim pesan grup chat ke semua orang untuk memberikan info tersebut. Maka hal yang harus dilakukan adalah **みんなに れんらく する (Opsi 2)**."
   },
   {
-    type: "audio-listening",
-    question: "6番：男の人と女の人が話しています。机と椅子はどのように並べますか。",
-    options: ["1", "2", "3", "4"],
-    correct: 0, // Opsi 1
-    track: 7,
-    imageKey: "n4_m1_q06",
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-男：明日のセミナーの準備ですが、机と椅子はどのように並べましょうか。
-女：そうですね。今回は話し合いをするので、机を２つずつ向かい合わせにしてください。
-男：２つずつ向かい合わせですね。椅子の数はどうしますか。
-女：机１つに対して椅子は３つ並べてください。つまり、向かい合わせた２つの机で合計６つの椅子になりますね。
-男：わかりました。合計６席ですね。そのように並べます。
-
-### Terjemahan Indonesia
-Laki-laki: Untuk persiapan seminar besok, bagaimana kita harus menata meja dan kursi?
-Perempuan: Hm, karena kali ini kita akan berdiskusi, tolong sejajarkan meja berpasangan secara berhadapan (dua-dua saling berhadapan).
-Laki-laki: Dua-dua berhadapan ya. Untuk jumlah kursinya bagaimana?
-Perempuan: Untuk satu meja, tolong tata 3 kursi. Berarti, untuk dua meja yang berhadapan totalnya ada 6 kursi ya.
-Laki-laki: Baik. Totalnya 6 kursi ya. Saya akan menatanya seperti itu.
-
-### Analisis Kosakata
-* 並べる (ならべる - naraberu) = Menata / menjejerkan
-* 向かい合わせ (むかいあわせ - mukaiawase) = Saling berhadapan
-* 合計 (ごうけい - goukei) = Total / jumlah keseluruhan
-
-### Penjelasan Jawaban
-Instruksi penataan adalah:
-1. Meja dibuat berpasangan berhadapan (2 meja berhadapan).
-2. Di setiap meja ditaruh 3 kursi, sehingga total ada 6 kursi per kelompok meja (3 berhadapan dengan 3).
-Berdasarkan opsi visual:
-* Opsi 1: Menunjukkan 2 meja berhadapan dengan 3 kursi di atas dan 3 kursi di bawah (total 6 kursi).
-* Opsi 2: Hanya menunjukkan 1 meja dengan 1 lingkaran besar.
-* Opsi 3: Menunjukkan 2 meja bulat.
-* Opsi 4: Kursi ditata 3 di samping.
-Pilihan yang benar adalah **1**.`
+    "type": "audio-listening",
+    "question": "6番：男の人と女の人が話しています。机と椅子はどのように並べますか。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "track": 7,
+    "imageKey": "n4_m1_q06_v3",
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n男：明日のセミナーの準備ですが、机と椅子はどのように並べましょうか。\n女：そうですね。今回は話し合いをするので、机を２つずつ向かい合わせにしてください。\n男：２つずつ向かい合わせですね。椅子の数はどうしますか。\n女：机１つに対して椅子は３つ並べてください。つまり、向かい合わせた２つの机で合計６つの椅子になりますね。\n男：わかりました。合計６席ですね。そのように並べます。\n\n### Terjemahan Indonesia\nLaki-laki: Untuk persiapan seminar besok, bagaimana kita harus menata meja dan kursi?\nPerempuan: Hm, karena kali ini kita akan berdiskusi, tolong sejajarkan meja berpasangan secara berhadapan (dua-dua saling berhadapan).\nLaki-laki: Dua-dua berhadapan ya. Untuk jumlah kursinya bagaimana?\nPerempuan: Untuk satu meja, tolong tata 3 kursi. Berarti, untuk dua meja yang berhadapan totalnya ada 6 kursi ya.\nLaki-laki: Baik. Totalnya 6 kursi ya. Saya akan menatanya seperti itu.\n\n### Analisis Kosakata\n* 並べる (ならべる - naraberu) = Menata / menjejerkan\n* 向かい合わせ (むかいあわせ - mukaiawase) = Saling berhadapan\n* 合計 (ごうけい - goukei) = Total / jumlah keseluruhan\n\n### Penjelasan Jawaban\nInstruksi penataan adalah:\n1. Meja dibuat berpasangan berhadapan (2 meja berhadapan).\n2. Di setiap meja ditaruh 3 kursi, sehingga total ada 6 kursi per kelompok meja (3 berhadapan dengan 3).\nBerdasarkan opsi visual:\n* Opsi 1: Menunjukkan 2 meja berhadapan dengan 3 kursi di atas dan 3 kursi di bawah (total 6 kursi).\n* Opsi 2: Hanya menunjukkan 1 meja dengan 1 lingkaran besar.\n* Opsi 3: Menunjukkan 2 meja bulat.\n* Opsi 4: Kursi ditata 3 di samping.\nPilihan yang benar adalah **1**."
   },
   {
-    type: "audio-listening",
-    question: "7番：男の人と女の人が話しています。女の人はこれから本をどうしますか。",
-    options: ["たむらさんに わたす", "たむらさんに かりる", "本を 読む", "おんなの 人に かえす"],
-    correct: 0, // Opsi 1
-    track: 8,
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-男：その本、面白いですか。
-女：ええ、とても面白いですよ。田村さんに借りたんです。
-男：あ、田村さんの本ですか。私も読みたいと思っていたんです。
-女：そうですか。私は今日読み終わるので、明日田村さんに返しますね。あ、それとも私から鈴木さんにお渡ししましょうか。田村さんにはメールで伝えておきますから。
-男：えっ、いいんですか。助かります。ありがとうございます。
-
-### Terjemahan Indonesia
-Laki-laki: Apakah buku itu menarik?
-Perempuan: Iya, sangat menarik lho. Saya meminjamnya dari Tamura-san.
-Laki-laki: Oh, bukunya Tamura-san ya? Saya juga sebenarnya ingin membacanya.
-Perempuan: Begitu ya. Karena saya selesai membacanya hari ini, saya akan mengembalikannya besok ke Tamura-san. Ah, atau bagaimana kalau saya langsung serahkan saja ke Suzuki-san (laki-laki)? Nanti saya kabari Tamura-san lewat email.
-Laki-laki: Eh, benarkah? Sangat membantu sekali. Terima kasih banyak.
-
-### Analisis Kosakata
-* 借りる (かりる - kariru) = Meminjam
-* 返す (かえす - kaesu) = Mengembalikan
-* 渡す (わたす - watasu) = Menyerahkan / memberikan
-
-### Penjelasan Jawaban
-Perempuan meminjam buku dari Tamura-san. Karena laki-laki (Suzuki) juga ingin membacanya, perempuan menawarkan diri untuk langsung menyerahkan buku tersebut kepada laki-laki (鈴木さんにわたす) daripada mengembalikannya ke Tamura dulu. Laki-laki setuju. Maka perempuan akan menyerahkannya ke Suzuki (**たむらさんに わたす** - maksudnya ke Suzuki/orang lain dalam konteks opsi 1 yaitu menyerahkan/memberikan).`
+    "type": "audio-listening",
+    "question": "7番：男の人と女の人が話しています。女の人はこれから本をどうしますか。",
+    "options": [
+      "たむらさんに わたす",
+      "たむらさんに かりる",
+      "本を 読む",
+      "おんなの 人に かえす"
+    ],
+    "correct": 0,
+    "track": 8,
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n男：その本、面白いですか。\n女：ええ、とても面白いですよ。田村さんに借りたんです。\n男：あ、田村さんの本ですか。私も読みたいと思っていたんです。\n女：そうですか。私は今日読み終わるので、明日田村さんに返しますね。あ、それとも私から鈴木さんにお渡ししましょうか。田村さんにはメールで伝えておきますから。\n男：えっ、いいんですか。助かります。ありがとうございます。\n\n### Terjemahan Indonesia\nLaki-laki: Apakah buku itu menarik?\nPerempuan: Iya, sangat menarik lho. Saya meminjamnya dari Tamura-san.\nLaki-laki: Oh, bukunya Tamura-san ya? Saya juga sebenarnya ingin membacanya.\nPerempuan: Begitu ya. Karena saya selesai membacanya hari ini, saya akan mengembalikannya besok ke Tamura-san. Ah, atau bagaimana kalau saya langsung serahkan saja ke Suzuki-san (laki-laki)? Nanti saya kabari Tamura-san lewat email.\nLaki-laki: Eh, benarkah? Sangat membantu sekali. Terima kasih banyak.\n\n### Analisis Kosakata\n* 借りる (かりる - kariru) = Meminjam\n* 返す (かえす - kaesu) = Mengembalikan\n* 渡す (わたす - watasu) = Menyerahkan / memberikan\n\n### Penjelasan Jawaban\nPerempuan meminjam buku dari Tamura-san. Karena laki-laki (Suzuki) juga ingin membacanya, perempuan menawarkan diri untuk langsung menyerahkan buku tersebut kepada laki-laki (鈴木さんにわたす) daripada mengembalikannya ke Tamura dulu. Laki-laki setuju. Maka perempuan akan menyerahkannya ke Suzuki (**たむらさんに わたす** - maksudnya ke Suzuki/orang lain dalam konteks opsi 1 yaitu menyerahkan/memberikan)."
   },
   {
-    type: "audio-listening",
-    question: "8番：男の人と女の人が話しています。男の人はこれからどの本を読みますか。",
-    options: ["1", "2", "3", "4"],
-    correct: 3, // Opsi 4
-    track: 9,
-    imageKey: "n4_m1_q08",
-    topic: "Mondai 1 - Task Comprehension",
-    explanation: `### Transkrip Jepang
-女：鈴木さん、今週の宿題の本はもう読みましたか。
-男：いいえ、まだです。２冊ありますよね。どちらから読めばいいですか。
-女：そうですね。青いカバーの薄い本と、赤いカバーの厚い本がありますね。まずは薄い方の本から読んでください。
-男：薄い方ですね。青い本。
-女：そうです。あ、でも宿題に必要なのは、青い本に挟んである白い薄いノートの方ですよ。本そのものは読まなくても大丈夫です。
-男：えっ、本は読まなくていいんですか。白いノートだけ読めばいいんですね。
-女：はい、そうです。
-
-### Terjemahan Indonesia
-Perempuan: Suzuki-san, apakah sudah membaca buku untuk PR minggu ini?
-Laki-laki: Belum. Ada 2 buku kan ya. Sebaiknya saya membaca dari yang mana dulu?
-Perempuan: Begitu ya. Ada buku tipis bersampul biru dan buku tebal bersampul merah. Pertama-tama, tolong baca buku yang lebih tipis dulu.
-Laki-laki: Yang tipis ya. Buku biru.
-Perempuan: Betul. Ah, tapi yang diperlukan untuk PR sebenarnya adalah catatan tipis berwarna putih yang diselipkan di dalam buku biru itu lho. Buku birunya sendiri tidak dibaca pun tidak apa-apa.
-Laki-laki: Eh, jadi bukunya tidak perlu dibaca? Cukup membaca catatan putih itu saja ya?
-Perempuan: Iya, betul sekali.
-
-### Analisis Kosakata
-* 冊 (さつ - satsu) = Penggolong untuk buku (jilid)
-* 薄い (うすい - usui) = Tipis
-* 厚い (あつい - atsui) = Tebal
-* 挟む (はさむ - hasamu) = Menyelipkan / menjepit
-
-### Penjelasan Jawaban
-Awalnya perempuan menyuruh membaca buku biru yang tipis. Namun, dia meralat bahwa yang harus dibaca hanyalah catatan putih (白い薄いノート) yang diselipkan di dalam buku biru tersebut. 
-* Opsi 1: Buku biru tipis + buku merah tebal.
-* Opsi 2: Buku biru tipis + catatan putih di luar.
-* Opsi 3: Buku merah tebal + catatan di dalam.
-* Opsi 4: Buku biru tipis + catatan putih diselipkan di dalamnya.
-Maka pilihan yang benar adalah **4**.`
-  },
-
-  // ==========================================
-  // MONDAI 2 (7 Soal) - Point Comprehension
-  // ==========================================
-  {
-    type: "audio-listening",
-    question: "1番：男の人と女の人が話しています。女の人はどうして昨日学校を休みましたか。",
-    options: ["かぜを ひいたから", "用事があったから", "頭が痛かったから", "アルバイトがあったから"],
-    correct: 1, // Opsi 2 (用事があったから)
-    track: 11,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-男：昨日学校休んだね。どうしたの？風邪？
-女：ううん、風邪じゃないよ。ちょっと用事があってね。
-男：用事？アルバイト？
-女：ううん、アルバイトは夕方からだから関係ないよ。市役所に行かなきゃいけなくて。
-男：そうなんだ。頭が痛いとか言ってたから心配したよ。
-女：あはは、それは一昨日のことだよ。心配してくれてありがとう。
-
-### Terjemahan Indonesia
-Laki-laki: Kemarin kamu bolos sekolah ya. Kenapa? Masuk angin?
-Perempuan: Bukan, bukan masuk angin kok. Ada sedikit urusan.
-Laki-laki: Urusan? Kerja paruh waktu?
-Perempuan: Bukan, kalau kerja paruh waktu kan dari sore hari jadi tidak ada hubungannya. Saya harus pergi ke kantor wali kota.
-Laki-laki: Oh begitu. Kemarin-kemarin kamu sempat bilang sakit kepala jadi aku khawatir.
-Perempuan: Ahaha, itu kan dua hari yang lalu. Terima kasih ya sudah khawatir.
-
-### Analisis Kosakata
-* 休む (やすむ - yasumu) = Istirahat / libur / tidak masuk
-* 用事 (ようじ - youji) = Urusan / keperluan
-* 市役所 (しやくしょ - shiyakusho) = Kantor wali kota / dinas sipil
-* 一昨日 (おととい - ototoi) = Dua hari yang lalu
-
-### Penjelasan Jawaban
-Perempuan menjelaskan bahwa ia absen karena ada keperluan pergi ke kantor kota (用事があったから). Sakit kepala adalah kejadian dua hari lalu, dan kerja paruh waktu baru dimulai sore hari. Maka jawaban yang tepat adalah **用事があったから (Opsi 2)**.`
+    "type": "audio-listening",
+    "question": "8番：男の人と女の人が話しています。男の人はこれからどの本を読みますか。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "track": 9,
+    "imageKey": "n4_m1_q08_v3",
+    "topic": "Mondai 1 - Task Comprehension",
+    "explanation": "### Transkrip Jepang\n女：鈴木さん、今週の宿題の本はもう読みましたか。\n男：いいえ、まだです。２冊ありますよね。どちらから読めばいいですか。\n女：そうですね。青いカバーの薄い本と、赤いカバーの厚い本がありますね。まずは薄い方の本から読んでください。\n男：薄い方ですね。青い本。\n女：そうです。あ、でも宿題に必要なのは、青い本に挟んである白い薄いノートの方ですよ。本そのものは読まなくても大丈夫です。\n男：えっ、本は読まなくていいんですか。白いノートだけ読めばいいんですね。\n女：はい、そうです。\n\n### Terjemahan Indonesia\nPerempuan: Suzuki-san, apakah sudah membaca buku untuk PR minggu ini?\nLaki-laki: Belum. Ada 2 buku kan ya. Sebaiknya saya membaca dari yang mana dulu?\nPerempuan: Begitu ya. Ada buku tipis bersampul biru dan buku tebal bersampul merah. Pertama-tama, tolong baca buku yang lebih tipis dulu.\nLaki-laki: Yang tipis ya. Buku biru.\nPerempuan: Betul. Ah, tapi yang diperlukan untuk PR sebenarnya adalah catatan tipis berwarna putih yang diselipkan di dalam buku biru itu lho. Buku birunya sendiri tidak dibaca pun tidak apa-apa.\nLaki-laki: Eh, jadi bukunya tidak perlu dibaca? Cukup membaca catatan putih itu saja ya?\nPerempuan: Iya, betul sekali.\n\n### Analisis Kosakata\n* 冊 (さつ - satsu) = Penggolong untuk buku (jilid)\n* 薄い (うすい - usui) = Tipis\n* 厚い (あつい - atsui) = Tebal\n* 挟む (はさむ - hasamu) = Menyelipkan / menjepit\n\n### Penjelasan Jawaban\nAwalnya perempuan menyuruh membaca buku biru yang tipis. Namun, dia meralat bahwa yang harus dibaca hanyalah catatan putih (白い薄いノート) yang diselipkan di dalam buku biru tersebut. \n* Opsi 1: Buku biru tipis + buku merah tebal.\n* Opsi 2: Buku biru tipis + catatan putih di luar.\n* Opsi 3: Buku merah tebal + catatan di dalam.\n* Opsi 4: Buku biru tipis + catatan putih diselipkan di dalamnya.\nMaka pilihan yang benar adalah **4**."
   },
   {
-    type: "audio-listening",
-    question: "2番：男の人と女の人が話しています。男の人はどうして新しい車を買いましたか。",
-    options: ["安かったから", "デザインがよかったから", "今の車が壊れたから", "家族が増えたから"],
-    correct: 3, // Opsi 4 (家族が増えたから)
-    track: 12,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-女：新しい車を買ったそうですね。前の車、壊れたんですか。
-男：いいえ、壊れていませんよ。まだまだ走れます。ただ、子供がもう一人生まれて、家族が増えたんです。
-女：ああ、それで大きめの車にしたんですね。
-男：そうなんです。本当はもっとスポーティでデザインが良い車が欲しかったんですが、やっぱり家族全員がゆったり乗れるのが一番ですからね。安くはなかったですが、満足しています。
-
-### Terjemahan Indonesia
-Perempuan: Kudengar Anda membeli mobil baru ya. Apakah mobil yang lama rusak?
-Laki-laki: Tidak, tidak rusak kok. Masih bisa jalan dengan baik. Hanya saja, anak kami lahir satu lagi, jadi anggota keluarga kami bertambah.
-Perempuan: Oh, karena itulah Anda memilih mobil yang agak besar ya.
-Laki-laki: Betul. Sebenarnya saya ingin mobil yang lebih sporty dan berdesain bagus, tapi kenyamanan seluruh anggota keluarga saat berkendara adalah yang paling utama. Harganya tidak murah sih, tapi saya puas.
-
-### Analisis Kosakata
-* 壊れる (こわれる - kowareru) = Rusak
-* 生まれる (うまれる - umareru) = Lahir
-* 家族が増える (かぞくがふえる - kazoku ga fueru) = Keluarga bertambah
-* 満足する (まんぞくする - manzoku suru) = Puas / lega
-
-### Penjelasan Jawaban
-Alasan utama laki-laki membeli mobil baru adalah karena keluarganya bertambah dengan lahirnya anak baru (家族が増えたから). Meskipun dia menyukai desain sporty dan mobil lamanya tidak rusak, kenyamanan keluarga adalah prioritas utama. Maka jawaban yang benar adalah **家族が増えたから (Opsi 4)**.`
+    "type": "audio-listening",
+    "question": "1番：男の人と女の人が話しています。お見舞いに何を持っていきますか。",
+    "options": [
+      "はな",
+      "くだもの",
+      "のみもの",
+      "本"
+    ],
+    "correct": 3,
+    "track": 11,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n男：土曜日、田中さんのお見舞いに行きませんか？\n女：そうですね。行きましょう。お花でも持っていきますか？\n男：花ですか？果物かお菓子の方がいいんじゃないですか。\n女：でも病気だから食べちゃいけないものもありますよ。飲み物ならいいかもしれないけど。\n男：そうですか。じゃあ本は？ずっと寝ていると暇だろうし。田中さん、本が好きだから。花は普通すぎると思います。\n女：そうですか。普通が一番いいと思いますけど。でも好きなものがあるならその方がいいですね。\n\n### Terjemahan Indonesia\nLaki-laki: Hari Sabtu, bagaimana kalau kita menjenguk Tanaka-san?\nPerempuan: Boleh juga. Mari kita pergi. Apakah kita perlu membawa bunga?\nLaki-laki: Bunga? Bukankah buah atau kue lebih baik?\nPerempuan: Tapi karena dia sakit, mungkin ada makanan yang tidak boleh dimakan. Kalau minuman mungkin tidak apa-apa.\nLaki-laki: Begitu ya. Kalau buku bagaimana? Kalau terus berbaring tidur pasti bosan, dan Tanaka-san suka buku. Menurutku bunga terlalu biasa.\nPerempuan: Begitu ya. Padahal menurutku hal biasa yang paling aman. Tapi kalau ada barang yang dia sukai, itu lebih baik ya.\n\n### Analisis Kosakata\n* お見舞い (おみまい - omimai) = Menjenguk orang sakit\n* 果物 (くだもの - kudamono) = Buah-buahan\n* お菓子 (おかし - okashi) = Kue / camilan\n* 暇 (ひま - hima) = Senggang / bosan / tidak ada kerjaan\n* 普通 (ふつう - futsuu) = Biasa / umum\n\n### Penjelasan Jawaban\nLaki-laki dan perempuan berdiskusi tentang apa yang akan dibawa untuk menjenguk Tanaka-san. Meskipun perempuan mengusulkan bunga (お花) dan minuman (飲み物), serta laki-laki sempat berpikir tentang buah (果物) atau kue (お菓子), mereka akhirnya memutuskan untuk membawa **buku (本)** karena Tanaka-san menyukai buku dan akan merasa bosan jika hanya berbaring. Maka jawaban yang benar adalah **本 (Opsi 4)**."
   },
   {
-    type: "audio-listening",
-    question: "3番：男の人と女の人が話しています。男の人は何のために日本語を勉強していますか。",
-    options: ["日本で働くため", "日本のアニメを観るため", "日本の大学に行くため", "日本の友達と話すため"],
-    correct: 0, // Opsi 1 (日本で働くため)
-    track: 13,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-女：日本語の勉強、頑張っていますね。将来は日本の大学に入学したいんですか。
-男：いいえ、大学ではなくて、日本に行ってIT関係の仕事に就きたいんです。
-女：へえ、日本で働くためなんですね。素晴らしいです。アニメが好きだから勉強し始めたと聞きましたが。
-男：ええ、きっかけはアニメです。アニメの日本語を聞き取るのも楽しいですが、今は仕事のためにビジネス表現を一生懸命覚えています。
-
-### Terjemahan Indonesia
-Perempuan: Belajar bahasa Jepangnya rajin sekali ya. Apakah di masa depan ingin masuk universitas di Jepang?
-Laki-laki: Tidak, bukan universitas. Saya ingin pergi ke Jepang dan mendapatkan pekerjaan di bidang IT.
-Perempuan: Wah, jadi untuk bekerja di Jepang ya. Hebat sekali. Saya dengar dulu Anda mulai belajar karena suka anime?
-Laki-laki: Iya, mulanya memang karena anime. Memahami percakapan di anime memang menyenangkan, tapi sekarang saya sedang bekerja keras menghafal ungkapan bisnis demi pekerjaan saya.
-
-### Analisis Kosakata
-* 将来 (しょうらい - shourai) = Masa depan
-* 仕事に就く (しごとにつく - shigoto ni tsuku) = Mendapatkan pekerjaan
-* きっかけ (kikkawa) = Awal mula / pemicu
-* ビジネス表現 (びじねすひょうげん - bijinesu hyougen) = Ungkapan bisnis
-
-### Penjelasan Jawaban
-Meskipun mulanya belajar karena suka anime, tujuan belajar laki-laki saat ini adalah untuk bekerja di bidang IT di Jepang (日本で働くため). Maka jawaban yang paling tepat adalah **日本で働くため (Opsi 1)**.`
+    "type": "audio-listening",
+    "question": "2番：会社で男の人と女の人が話しています。男の人の書いたものはどうしてダメだと言われましたか。",
+    "options": [
+      "字がきたないから",
+      "くろいペンで書いたから",
+      "あおいペンで書いたから",
+      "時間におくれたから"
+    ],
+    "correct": 2,
+    "track": 12,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n男：あの、書きましたけど、これでいいですか？\n女：うーん、ちょっと読みにくいわね。\n男：すみません。昔から字が汚くて。\n女：まあそれは仕方がないけど、これじゃダメよ。青いペンじゃなくて黒いペンで書かなきゃ。早く書き直してね。時間がないから。\n\n### Terjemahan Indonesia\nLaki-laki: Anu, saya sudah menulisnya, apakah seperti ini sudah oke?\nPerempuan: Hmm, agak sulit dibaca ya.\nLaki-laki: Maaf. Sejak dulu tulisan tangan saya memang kotor/jelek.\nPerempuan: Yah, kalau itu sih tidak apa-apa (tidak bisa dihindari), tapi kalau ini tidak boleh. Kamu harus menulisnya dengan pulpen hitam, bukan pulpen biru. Cepat tulis ulang ya. Karena tidak ada waktu.\n\n### Analisis Kosakata\n* 読みにくい (よみにくい - yominikui) = Sulit dibaca\n* 字が汚い (じがきたない - ji ga kitanai) = Tulisan tangan jelek / kotor\n* 仕方がない (しかたがない - shikata ga nai) = Tidak bisa dihindari / apa boleh buat\n* 書き直す (かきなおす - kakinaosu) = Menulis ulang / merevisi tulisan\n\n### Penjelasan Jawaban\nMeskipun perempuan berkomentar bahwa tulisan laki-laki tersebut sulit dibaca karena jelek, alasan utama dokumen tersebut ditolak (ダメ) adalah karena ditulis menggunakan pulpen biru, bukan pulpen hitam (\"青いペンじゃなくて黒いペンで書かなきゃ\")。Oleh karena itu, alasannya adalah karena ditulis dengan pulpen biru. Maka jawaban yang benar adalah **あおいペンで書いたから (Opsi 3)**."
   },
   {
-    type: "audio-listening",
-    question: "4番：男の人と女の人が話しています。二人はどこで会うことにしましたか。",
-    options: ["駅の改札口前", "デパートの入り口", "喫茶店の前", "映画館の中"],
-    correct: 2, // Opsi 3 (喫茶店の前)
-    track: 14,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-男：明日、どこで待ち合わせしましょうか。駅の改札口の前はどうですか。
-女：うーん、あそこはいつも人が多くて混雑していますよね。デパートの入り口のほうがわかりやすいかも。
-男：あ、でも明日は雨が降るそうですよ。外で待つのは大変かもしれません。
-女：そうですか。じゃあ、駅の近くの「さくら喫茶店」の前にしましょう。あそこなら屋根がありますし、すぐわかります。
-男：いいですね。では、その喫茶店の前で10時に会いましょう。
-
-### Terjemahan Indonesia
-Laki-laki: Besok kita ketemuan di mana ya? Bagaimana kalau di depan gerbang tiket stasiun?
-Perempuan: Hmm, di sana selalu ramai dan padat ya. Mungkin di depan pintu masuk departement store akan lebih mudah ditemukan.
-Laki-laki: Ah, tapi kabarnya besok akan turun hujan lho. Menunggu di luar ruangan mungkin akan menyulitkan.
-Perempuan: Begitu ya. Kalau begitu, mari bertemu di depan "Kafe Sakura" di dekat stasiun. Di sana ada atapnya dan mudah ditemukan.
-Laki-laki: Boleh juga. Mari bertemu di depan kafe itu jam 10.
-
-### Analisis Kosakata
-* 待ち合わせ (まちあわせ - machiawase) = Janji temu / ketemuan
-* 改札口 (かいさつぐち - kaisatsuguchi) = Pintu gerbang pemeriksaan tiket stasiun
-* 混雑する (こんざつする - konzatsu suru) = Ramai / padat
-* 喫茶店 (きっさてん - kissaten) = Kafe / kedai kopi
-
-### Penjelasan Jawaban
-Mereka sempat mempertimbangkan stasiun dan mal, tetapi akhirnya memutuskan untuk bertemu di depan kafe (喫茶店の前) karena besok diperkirakan akan hujan dan area luar kafe tersebut teduh beratap. Maka jawabannya adalah **喫茶店の前 (Opsi 3)**.`
+    "type": "audio-listening",
+    "question": "3番：男の人と女の人が話しています。男の人は明後日何をしますか。",
+    "options": [
+      "くうこうに行く",
+      "フランスに行く",
+      "ひっこしする",
+      "メールする"
+    ],
+    "correct": 0,
+    "track": 13,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n男：明後日、フランスから友達が来るんです。\n女：じゃあ空港まで迎えに行くんですね。\n男：いえ、友達は三年前にも僕の家に来ていて、道はわかるから迎えに来なくてもいいって言うんです。\n女：あら、でも山田さん、去年引っ越したんじゃないですか？\n男：あ、そうでした。じゃあやっぱり行かなきゃ。すぐにメールしよう。\n\n### Terjemahan Indonesia\nLaki-laki: Lusa, teman saya dari Prancis akan datang.\nPerempuan: Kalau begitu Anda akan pergi ke bandara untuk menjemputnya ya?\nLaki-laki: Tidak, teman saya itu sudah pernah datang ke rumah saya 3 tahun lalu. Dia bilang tahu jalannya, jadi saya tidak usah menjemputnya.\nPerempuan: Lho, bukankah Yamada-san (laki-laki) baru saja pindah rumah tahun lalu?\nLaki-laki: Ah, benar juga! Kalau begitu saya harus tetap pergi (menjemput). Saya akan segera mengirim email.\n\n### Analisis Kosakata\n* 明後日 (あさって - asatte) = Lusa / dua hari lagi\n* 迎えに行く (むかえにいく - mukae ni iku) = Pergi menjemput\n* 引っ越す (ひっこす - hikkosu) = Pindah rumah\n* やっぱり (yappari) = Ternyata / bagaimanapun juga / tetap saja\n\n### Penjelasan Jawaban\nLaki-laki awalnya tidak berencana menjemput temannya ke bandara karena temannya tahu jalan ke rumah lamanya. Namun, setelah diingatkan oleh perempuan bahwa dia sudah pindah rumah sejak tahun lalu, laki-laki tersebut menyadari bahwa ia tetap harus pergi menjemput temannya ke bandara. Maka tindakan yang akan dilakukan lusa adalah **くうこうに行く (Opsi 1)**."
   },
   {
-    type: "audio-listening",
-    question: "5番：男の人と女の人が話しています。女の人はどうしてこの仕事を辞めたいと言っていますか。",
-    options: ["給料が安いから", "残業が多いから", "人間関係が大変だから", "仕事が面白くないから"],
-    correct: 0, // Opsi 1 (給料が安いから)
-    track: 15,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-男：最近、仕事はどう？順調？
-女：うーん、実はね、今の会社を辞めようかと思っているの。
-男：えっ、どうして？人間関係で悩んでいるの？鈴木さんや田中さんとは仲が良いって言ってたじゃない。
-女：ううん、人間関係はすごく良くて、みんな優しいの。仕事の内容も面白くてやりがいがあるんだけど……。
-男：じゃあ、残業が多いの？
-女：残業はほとんどないよ。ただ、給料が少なすぎて、毎月の生活が本当に厳しいの。将来のことを考えると不安で。
-男：なるほどね……お金のことは現実的に大切だもんね。
-
-### Terjemahan Indonesia
-Laki-laki: Bagaimana pekerjaanmu akhir-akhir ini? Lancar?
-Perempuan: Hmm, sebenarnya aku berpikir untuk resign dari perusahaan yang sekarang.
-Laki-laki: Eh, kenapa? Apa kamu terganggu dengan hubungan antar rekan kerja? Bukankah kamu bilang hubunganmu dengan Suzuki-san dan Tanaka-san baik-baik saja?
-Perempuan: Tidak, hubungan di kantor sangat baik, semuanya ramah. Pekerjaannya juga menarik dan menantang, tapi...
-Laki-laki: Lalu, apakah lemburannya terlalu banyak?
-Perempuan: Lembur hampir tidak ada sama sekali. Hanya saja, gajinya terlalu kecil, sehingga biaya hidup bulanan benar-benar pas-pasan. Aku jadi khawatir memikirkan masa depan.
-Laki-laki: Oh begitu ya... Masalah uang memang sangat penting untuk kenyataan hidup ya.
-
-### Analisis Kosakata
-* 辞める (やめる - yameru) = Berhenti (kerja/sekolah)
-* 順調 (じゅんちょう - junchou) = Lancar / tanpa kendala
-* 給料 (きゅうりょう - kyuuryou) = Gaji / upah
-* 厳しい (きびしい - kibishii) = Sulit / berat
-
-### Penjelasan Jawaban
-Meskipun hubungan kerja baik dan tidak banyak lembur, alasan perempuan ingin mengundurkan diri adalah karena gajinya terlalu rendah (給料が安いから) untuk membiayai hidup. Maka jawaban yang benar adalah **給料が安いから (Opsi 1)**.`
+    "type": "audio-listening",
+    "question": "4番：男の人と女の人が話しています。本は誰のものですか。",
+    "options": [
+      "おんなの人",
+      "おとこの人",
+      "やまださん",
+      "なかむらさん"
+    ],
+    "correct": 2,
+    "track": 14,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n男：この本、面白いですよ。読みましたか？\n女：あ、それ私も持ってますよ。言ってくれれば貸してあげたのに。買うと高かったでしょう。\n男：ああ、これは山田さんに借りたんですよ。山田さんは誕生日に中村さんに貰ったそうです。\n\n### Terjemahan Indonesia\nLaki-laki: Buku ini menarik lho. Apakah kamu sudah membacanya?\nPerempuan: Ah, saya juga punya buku itu. Kalau bilang kan bisa kupinjamkan. Belinya mahal kan ya?\nLaki-laki: Oh, ini saya meminjamnya dari Yamada-san. Katanya Yamada-san mendapatkan buku ini dari Nakamura-san di hari ulang tahunnya.\n\n### Analisis Kosakata\n* 貸す (かす - kasu) = Meminjamkan\n* 借りる (かりる - kariru) = Meminjam\n* もらう (morau) = Menerima / mendapatkan dari orang lain\n\n### Penjelasan Jawaban\nBuku tersebut dipinjam oleh laki-laki dari Yamada-san. Yamada-san sendiri mendapatkan buku tersebut sebagai hadiah ulang tahun dari Nakamura-san. Karena sudah diberikan sebagai hadiah, buku tersebut kini telah menjadi milik Yamada-san. Maka buku tersebut adalah milik **やまださん (Opsi 3)**."
   },
   {
-    type: "audio-listening",
-    question: "6番：男の人と女の人が話しています。男の人は彼女へのプレゼントに何をあげることにしましたか。",
-    options: ["しょくじに 行く", "ほしいものを 買う", "りょこうに 行く", "プレゼントを 買う"],
-    correct: 3, // Opsi 4 (プレゼントを 買う)
-    track: 16,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-男：来週、彼女の誕生日なんだ。何をプレゼントしたらいいか悩んでいて。
-女：彼女が欲しがっているものを直接聞くのが一番じゃない？
-男：うーん、それだとサプライズにならないから、自分で選びたいんだ。
-女：じゃあ、旅行や美味しい食事に行くのはどう？思い出に残るよ。
-男：それも考えたんだけど、やっぱり何か形に残るプレゼントを買ってあげたいんだよね。アクセサリーとかバッグとか。
-女：それなら、彼女がいつも使っているブランドの財布とか小物が無難で喜ばれると思うよ。
-男：なるほど。よし、デパートに行って何か素敵なプレゼントを買うことにするよ。
-
-### Terjemahan Indonesia
-Laki-laki: Minggu depan adalah hari ulang tahun pacarku. Aku bingung mau kasih kado apa.
-Perempuan: Bukankah yang terbaik adalah menanyakan langsung barang apa yang sedang dia inginkan?
-Laki-laki: Hmm, kalau begitu nanti tidak ada kejutannya. Aku ingin memilihnya sendiri.
-Perempuan: Kalau begitu, bagaimana dengan pergi jalan-jalan atau makan malam yang lezat? Itu akan menjadi kenangan indah.
-Laki-laki: Aku sudah memikirkan itu, tapi aku ingin membelikan hadiah yang berwujud fisik. Seperti aksesori atau tas.
-Perempuan: Jika begitu, dompet atau barang kecil dari merk yang biasa dia gunakan rasanya cukup aman dan akan membuatnya senang.
-Laki-laki: Benar juga. Oke, aku akan pergi ke mal dan membeli kado yang bagus.
-
-### Analisis Kosakata
-* 誕生日 (たんじょうび - tanjoubi) = Hari ulang tahun
-* 思い出 (おもいで - omoide) = Kenangan
-* 形に残る (かたちにのこる - katachi ni nokoru) = Berbentuk fisik / berwujud
-* プレゼントを買う (ぷれぜんぜんとをかう - purezento wo kau) = Membeli kado
-
-### Penjelasan Jawaban
-Laki-laki menolak ide menanyakan langsung (ほしいものを買う) atau pergi makan (しょくじに行く) dan berwisata (りょこうに行く). Dia bersikeras ingin memberikan barang fisik yang berwujud, sehingga memutuskan untuk membeli kado fisik (プレゼントを買う). Maka pilihan yang tepat adalah **プレゼントを 買う (Opsi 4)**.`
+    "type": "audio-listening",
+    "question": "5番：お寺で男の人が説明しています。何をしてはいけませんか。",
+    "options": [
+      "おてらのものにさわる",
+      "スリッパを入り口におく",
+      "中でしゃしんをとる",
+      "くつを持ってあるく"
+    ],
+    "correct": 0,
+    "track": 15,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n男：今からお寺の中に入ります。入り口で靴を脱いでスリッパを履いてください。靴は入り口に置かないで、自分で持って歩いてください。中で写真を撮ってもいいですが、お寺にあるものに触ってはいけません。外に出る時にはスリッパを元の場所に戻してください。\n\n### Terjemahan Indonesia\nLaki-laki: Sekarang kita akan masuk ke dalam kuil. Tolong lepas sepatu Anda di pintu masuk dan pakailah sandal. Jangan taruh sepatu di pintu masuk, bawa dan pegang sendiri sambil berjalan. Anda boleh mengambil foto di dalam, tetapi tidak boleh menyentuh barang-barang yang ada di dalam kuil. Saat keluar, harap kembalikan sandal ke tempat semula.\n\n### Analisis Kosakata\n* 靴を脱ぐ (くつをぬぐ - kutsu wo nugu) = Melepas sepatu\n* スリッパを履く (すりっぱをはく - surippa wo haku) = Memakai sandal\n* 触る (さわる - sawaru) = Menyentuh / memegang\n* 元の場所に戻す (もとのばしょにもどす - moto no basho ni modosu) = Mengembalikan ke tempat semula\n\n### Penjelasan Jawaban\nLaki-laki tersebut menjelaskan instruksi di kuil:\n1. Melepas sepatu dan memakai sandal.\n2. Membawa sepatu sendiri (bukan menaruhnya di pintu masuk).\n3. Boleh berfoto di dalam.\n4. **Dilarang menyentuh barang-barang kuil (\"お寺にあるものに触ってはいけません\")**.\nOleh karena itu, hal yang dilarang adalah menyentuh barang kuil. Maka jawaban yang benar adalah **おてらのものにさわる (Opsi 1)**."
   },
   {
-    type: "audio-listening",
-    question: "7番：男の人と女の人が話しています。男の人はどうして朝ごはんを食べないことが多いですか。",
-    options: ["べんとうを 食べるから", "仕事を するから", "かいぎに 出るから", "ひとりで 食べたいから"],
-    correct: 1, // Opsi 2 (仕事を するから)
-    track: 17,
-    topic: "Mondai 2 - Point Comprehension",
-    explanation: `### Transkrip Jepang
-女：鈴木さん、顔色が悪いですよ。朝ごはん、ちゃんと食べましたか。
-男：いや、今朝も食べていないんだ。最近、朝ごはんを食べない日が多くて。
-女：えっ、体に良くないですよ。どうしてですか。ダイエットですか。
-男：いや、朝早くから仕事をしなければならなくて、食べる時間がないんだ。会議の資料作りやメール返信で朝からバタバタしていてね。
-女：お弁当を会社に持ってきて、仕事の合間に食べることはできないんですか。
-男：うーん、一人でパソコンに向かいながら食べるのも寂しいし、結局コーヒーだけで済ませちゃうんだよね。
-女：だめですよ。少しでも食べたほうが頭が働きますからね。
-
-### Terjemahan Indonesia
-Perempuan: Suzuki-san, wajahmu terlihat pucat lho. Apakah tadi pagi sudah sarapan dengan benar?
-Laki-laki: Tidak, pagi ini juga aku tidak sarapan. Akhir-akhir ini sering sekali aku melewatkan sarapan.
-Perempuan: Eh, itu tidak baik untuk kesehatan. Kenapa? Sedang diet?
-Laki-laki: Bukan, karena aku harus mulai bekerja sejak pagi-pagi buta, jadi tidak ada waktu untuk makan. Pagi-pagi sudah sibuk menyiapkan berkas rapat dan membalas email.
-Perempuan: Apakah tidak bisa membawa bekal ke kantor lalu memakannya di sela-sela waktu kerja?
-Laki-laki: Hmm, makan sendirian sambil menghadap laptop rasanya kesepian, jadi ujung-ujungnya aku hanya minum kopi saja.
-Perempuan: Tidak boleh begitu. Makan sedikit saja akan membuat otak bekerja lebih baik lho.
-
-### Analisis Kosakata
-* 顔色 (かおいろ - kaoiro) = Warna kulit wajah / rona wajah
-* 朝ごはん (あさごはん - asagohan) = Sarapan pagi
-* 仕事をする (しごとをする - shigoto wo suru) = Bekerja
-* バタバタしている (batabata shite iru) = Sangat sibuk / tergesa-gesa
-
-### Penjelasan Jawaban
-Alasan utama laki-laki tidak sarapan adalah karena dia harus segera bekerja sejak pagi hari (仕事をしなければならない) sehingga tidak memiliki waktu luang untuk makan. Maka pilihan yang tepat adalah **仕事を するから (Opsi 2)**.`
-  },
-
-  // ==========================================
-  // MONDAI 3 (5 Soal) - Utterance Expressions
-  // ==========================================
-  {
-    type: "audio-listening",
-    question: "1番：重い荷物を持っています。友達に手伝ってほしいとき、何と言いますか。",
-    options: ["1", "2", "3"],
-    correct: 2, // Opsi 3
-    track: 19,
-    imageKey: "n4_m1_q16",
-    topic: "Mondai 3 - Utterance Expressions",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-指示：重い荷物を持っています。友達に手伝ってほしいとき、何と言いますか。
-1：これ、持ってあげる？
-2：これ、持ちましょうか？
-3：これ、ちょっと手伝ってくれない？
-
-### Terjemahan Indonesia
-Petunjuk: Anda sedang membawa barang bawaan yang berat. Saat ingin meminta bantuan kepada teman, apa yang akan Anda katakan?
-1: Mau kupegangkan ini? (Menawarkan bantuan)
-2: Mari kubantu bawa ini? (Menawarkan bantuan formal)
-3: Bisa tolong bantu aku bawa ini sebentar? (Meminta bantuan kepada teman)
-
-### Analisis Kosakata
-* 重い (おもい - omoi) = Berat
-* 荷物 (にもつ - nimotsu) = Barang bawaan / paket
-* 手伝う (てつだう - tetsudau) = Membantu
-
-### Penjelasan Jawaban
-* Opsi 1 dan 2 bermakna menawarkan bantuan kepada orang lain.
-* Opsi 3 (～てくれない？) adalah cara kasual untuk meminta bantuan kepada teman sebaya. Oleh karena itu, ungkapan yang tepat untuk meminta bantuan adalah opsi **3**.`
+    "type": "audio-listening",
+    "question": "6番：女の人と男の人が話しています。女の人は給料を何に使いますか。",
+    "options": [
+      "しょくじに行く",
+      "ほしいものを買う",
+      "りょこうに行く",
+      "プレゼントを買う"
+    ],
+    "correct": 3,
+    "track": 16,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n女：明日は会社に入って初めての給料日。楽しみですね。\n男：僕は何か美味しいものを食べに行こうと思ってるんですけど、伊藤さんは？何か買うんですか？\n女：いろいろ買いたいけど、それは来月のお給料をもらってから。\n男：じゃあ旅行に行くとか？\n女：いいえ。初めてのお給料だから、両親に何か買ってあげようと思ってるんです。\n男：そうか。それはいいですね。\n\n### Terjemahan Indonesia\nPerempuan: Besok adalah hari gajian pertama setelah masuk perusahaan. Tidak sabar ya.\nLaki-laki: Saya berencana pergi makan makanan lezat, kalau Ito-san? Apakah ingin membeli sesuatu?\nPerempuan: Saya ingin beli banyak hal, tapi itu nanti saja setelah dapat gaji bulan depan.\nLaki-laki: Kalau begitu, apa pergi liburan?\nPerempuan: Tidak. Karena ini gaji pertama saya, saya berpikir ingin membelikan sesuatu untuk orang tua saya.\nLaki-laki: Oh begitu. Bagus sekali ya.\n\n### Analisis Kosakata\n* 給料日 (きゅうりょうび - kyuuryoubi) = Hari gajian\n* 美味しいもの (おいしいもの - oishii mono) = Makanan lezat\n* 両親 (りょうしん - ryoushin) = Orang tua\n* 買ってあげよう (かってあげよう - katte ageyou) = Membelikan sesuatu untuk orang lain\n\n### Penjelasan Jawaban\nPerempuan ditanya rencana penggunaan gaji pertamanya. Dia menyatakan tidak menggunakannya untuk makan lezat (makanan), belanja barang pribadi (bulan depan), atau liburan (旅行). Dia berniat membelikan sesuatu untuk orang tuanya (\"両親に何か買ってあげよう\") sebagai tanda bakti dari gaji pertamanya. Membelikan sesuatu untuk orang lain sama dengan membeli kado/hadiah. Maka jawaban yang benar adalah **プレゼントを買う (Opsi 4)**."
   },
   {
-    type: "audio-listening",
-    question: "2番：友達が遅れて来ました。何と言いますか。",
-    options: ["1", "2", "3"],
-    correct: 1, // Opsi 2
-    track: 20,
-    imageKey: "n4_m1_q17",
-    topic: "Mondai 3 - Utterance Expressions",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-指示：友達が遅れて来ました。何と言いますか。
-1：すみません、遅くなりました。
-2：どうしたの？遅かったね。
-3：また今度ね。
-
-### Terjemahan Indonesia
-Petunjuk: Teman Anda datang terlambat. Apa yang akan Anda katakan kepadanya?
-1: Mohon maaf, saya terlambat. (Diucapkan oleh orang yang terlambat)
-2: Ada apa? Kok telat ya? (Menanyakan alasan ke teman yang datang terlambat)
-3: Lain kali saja ya. (Menunda pertemuan)
-
-### Analisis Kosakata
-* 遅れる (おくれる - okureru) = Terlambat / telat
-* どうしたの？ (doushita no?) = Ada apa? / Kenapa?
-* また今度 (またこんど - mata kondo) = Lain kali / berikutnya
-
-### Penjelasan Jawaban
-Sebagai orang yang menunggu teman yang datang terlambat, ucapan yang sesuai untuk menyapa dan menanyakan alasannya adalah "どうしたの？遅かったね。" (Opsi 2). Opsi 1 diucapkan oleh orang yang terlambat sendiri. Maka jawabannya adalah **2**.`
+    "type": "audio-listening",
+    "question": "7番：会社で女の人と男の人が話しています。男の人はどうして昼ご飯を食べないことが多いですか。",
+    "options": [
+      "べんとうを食べるから",
+      "仕事をするから",
+      "かいぎに出るから",
+      "ひとりで食べたいから"
+    ],
+    "correct": 1,
+    "track": 17,
+    "topic": "Mondai 2 - Point Comprehension",
+    "explanation": "### Transkrip Jepang\n女：大川さん、みんなと一緒に昼ご飯を食べに行きませんか？\n男：ごめん、僕はちょっと。\n女：お弁当を持ってきたんですか？\n男：そうじゃなくて、一時からの会議の準備がまだできてないんだ。\n女：大変そうですね。手伝いましょうか。\n男：ありがとう。でもいいよ。昼ご飯は会議が終わってから食べるよ。\n女：そうですか。じゃあ行ってきます。\n\n### Terjemahan Indonesia\nPerempuan: Ookawa-san, mau pergi makan siang bersama semuanya tidak?\nLaki-laki: Maaf, kalau saya agak...\nPerempuan: Apakah Anda membawa bekal makan siang?\nLaki-laki: Bukan begitu, tapi persiapan untuk rapat jam 1 siang nanti belum selesai.\nPerempuan: Sepertinya repot sekali ya. Butuh bantuan?\nLaki-laki: Terima kasih. Tapi tidak apa-apa kok. Makan siang nanti saja setelah rapat selesai.\nPerempuan: Begitu ya. Kalau begitu saya berangkat dulu.\n\n### Analisis Kosakata\n* 昼ご飯 (ひるごはん - hirugohan) = Makan siang\n* お弁当 (おべんとう - obentou) = Bekal makanan\n* 会議の準備 (かいぎのじゅんび - kaigi no junbi) = Persiapan rapat\n* 手伝う (てつだう - tetsudau) = Membantu\n\n### Penjelasan Jawaban\nLaki-laki (Ookawa-san) menolak ajakan makan siang bukan karena membawa bekal atau ingin makan sendiri. Alasannya adalah persiapan rapat jam 1 siang belum selesai (\"一時からの会議 of 準備がまだできてないんだ\"), sehingga ia harus bekerja menyelesaikannya terlebih dahulu dan baru akan makan siang setelah rapat selesai. Oleh karena itu, alasannya adalah karena harus bekerja. Maka jawaban yang benar adalah **仕事をするから (Opsi 2)**."
   },
   {
-    type: "audio-listening",
-    question: "3番：朝、子供がまだ寝ています。起こすとき、何と言いますか。",
-    options: ["1", "2", "3"],
-    correct: 0, // Opsi 1
-    track: 21,
-    imageKey: "n4_m1_q18",
-    topic: "Mondai 3 - Utterance Expressions",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-指示：朝、子供がまだ寝ています。起こすとき、何と言いますか。
-1：ほら、朝だよ。早く起きなさい。
-2：おやすみなさい。
-3：おはようございます。
-
-### Terjemahan Indonesia
-Petunjuk: Pagi hari, anak Anda masih tertidur. Saat membangunkannya, apa yang akan Anda katakan?
-1: Hei, sudah pagi lho. Cepat bangun! (Membangunkan anak dengan tegas)
-2: Selamat tidur. (Diucapkan sebelum tidur)
-3: Selamat pagi. (Salam pagi umum, kurang cocok untuk membangunkan yang sedang tidur lelap)
-
-### Analisis Kosakata
-* 起こす (おこす - okosu) = Membangunkan
-* 起きる (おきる - okiru) = Bangun
-* ～なさい (~nasai) = Pola perintah halus/tegas dari orang tua ke anak
-
-### Penjelasan Jawaban
-Untuk membangunkan anak yang masih tidur di pagi hari, ibu biasa mengatakan "ほら、朝だよ。早く起きなさい。" (Ayo bangun, sudah pagi!). Maka pilihan yang tepat adalah **1**.`
+    "type": "audio-listening",
+    "question": "1番：重そうな荷物を持っている人がいます。何と言いますか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "track": 19,
+    "imageKey": "n4_m1_q16_v3",
+    "topic": "Mondai 3 - Utterance Expressions",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n指示：重そうな荷物を持っている人がいます。何と言いますか。\n1：手伝ってあげたらどうですか。\n2：どうぞ手伝われてください。\n3：あの、お手伝いしましょうか。\n\n### Terjemahan Indonesia\nPetunjuk: Ada seseorang yang membawa barang bawaan yang tampak berat. Apa yang akan Anda katakan?\n1: Bagaimana kalau dibantu? (Ditujukan untuk menyarankan orang lain membantu, bukan menawarkan diri sendiri)\n2: Silakan dibantu. (Tata bahasa tidak alami/tidak pas)\n3: Anu, boleh saya bantu? (Menawarkan bantuan secara sopan kepada orang tersebut)\n\n### Analisis Kosakata\n* 重そう (おもそう - omosou) = Tampak berat / kelihatannya berat\n* 荷物 (にもつ - nimotsu) = Barang bawaan / paket\n* お手伝いする (おてつだいする - otetsudai suru) = Membantu (bentuk merendah/sopan dari 手伝う)\n\n### Penjelasan Jawaban\nKetika melihat seseorang kesulitan membawa barang bawaan yang berat, ungkapan sopan yang tepat untuk menawarkan bantuan secara langsung adalah \"あの、お手伝いしましょうか。\" (Anu, boleh saya bantu? - Opsi 3). Opsi 1 digunakan untuk menyuruh orang lain membantu, dan Opsi 2 tidak alami. Maka pilihan yang tepat adalah **3**."
   },
   {
-    type: "audio-listening",
-    question: "4番：カメラを持っています。友達の写真を撮ってあげたいとき、何と言いますか。",
-    options: ["1", "2", "3"],
-    correct: 2, // Opsi 3
-    track: 22,
-    imageKey: "n4_m1_q19",
-    topic: "Mondai 3 - Utterance Expressions",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-指示：カメラを持っています。友達の写真を撮ってあげたいとき、何と言いますか。
-1：写真を撮ってもいい？
-2：写真を撮ってくれない？
-3：写真、撮ってあげようか？
-
-### Terjemahan Indonesia
-Petunjuk: Anda membawa kamera. Saat ingin mengambilkan foto untuk teman Anda, apa yang akan Anda katakan?
-1: Boleh aku mengambil foto? (Meminta izin mengambil foto sesuatu/seseorang)
-2: Bisa tolong ambilkan fotoku? (Meminta tolong orang lain memotret kita)
-3: Mau kuambilkan fotomu? (Menawarkan diri untuk memotret teman)
-
-### Analisis Kosakata
-* 写真を撮る (しゃしんをとる - shashin wo toru) = Mengambil foto / memotret
-* ～てあげる (~te ageru) = Melakukan sesuatu untuk orang lain
-* ～てくれる (~te kureru) = Orang lain melakukan sesuatu untuk kita
-
-### Penjelasan Jawaban
-Untuk menawarkan bantuan memotret teman, kita menggunakan bentuk penawaran kasual yaitu "～てあげようか？" (Mau ku-...). Maka ucapan yang tepat adalah "写真、撮ってあげようか？" (Opsi 3).`
+    "type": "audio-listening",
+    "question": "2番：約束の時間に遅れました。何と言いますか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "track": 20,
+    "imageKey": "n4_m1_q17_v3",
+    "topic": "Mondai 3 - Utterance Expressions",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n指示：約束の時間に遅れました。何と言いますか。\n1：すみませんが、お待ちください。\n2：お待たせしてすみません。\n3：そろそろ失礼します。\n\n### Terjemahan Indonesia\nPetunjuk: Anda terlambat dari waktu janji yang disepakati. Apa yang akan Anda katakan?\n1: Maaf, tolong tunggu. (Diucapkan saat meminta orang menunggu sekarang)\n2: Maaf telah membuat Anda menunggu. (Meminta maaf karena membuat orang lain menunggu)\n3: Saya permisi dulu ya. (Diucapkan saat hendak pulang/pergi)\n\n### Analisis Kosakata\n* 約束の時間 (やくそくのじかん - yakusoku no jikan) = Waktu janji / waktu pertemuan\n* 遅れる (おくれる - okureru) = Terlambat\n* 待たせる (またせる - mataseru) = Membuat menunggu (bentuk kausatif dari 待つ)\n\n### Penjelasan Jawaban\nKetika datang terlambat untuk janji temu, ucapan minta maaf yang tepat karena telah membuat orang lain menunggu lama adalah \"お待たせしてすみません。\" (Maaf telah membuat Anda menunggu - Opsi 2). Opsi 1 kurang tepat karena kita sudah sampai, dan Opsi 3 adalah ucapan berpamitan. Maka pilihan yang tepat adalah **2**."
   },
   {
-    type: "audio-listening",
-    question: "5番：レジでお金を払います。スプーンをもらいたいとき、店員に何と言いますか。",
-    options: ["1", "2", "3"],
-    correct: 0, // Opsi 1
-    track: 23,
-    imageKey: "n4_m1_q20",
-    topic: "Mondai 3 - Utterance Expressions",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-指示：レジでお金を払います。スプーンをもらいたいとき、店員に何と言いますか。
-1：スプーンをいただけますか？
-2：スプーンはいかがですか？
-3：スプーンをどうぞ。
-
-### Terjemahan Indonesia
-Petunjuk: Anda sedang membayar uang di kasir. Saat ingin meminta sendok, apa yang akan Anda katakan kepada kasir?
-1: Bolehkah saya meminta sendok? (Meminta barang dengan sopan)
-2: Bagaimana kalau pakai sendok? (Menawarkan sendok kepada orang lain)
-3: Ini sendoknya, silakan. (Menyerahkan sendok)
-
-### Analisis Kosakata
-* レジ (reji) = Kasir / tempat pembayaran
-* 払う (はらう - harau) = Membayar
-* いただく (itadaku) = Menerima (bentuk sopan dari もらう)
-
-### Penjelasan Jawaban
-Ungkapan untuk meminta sesuatu dengan sopan di toko adalah "～をいただけますか？" (Bolehkah saya mendapatkan/meminta...?). Maka pilihan yang benar adalah **1**.`
-  },
-
-  // ==========================================
-  // MONDAI 4 (8 Soal) - Quick Response
-  // ==========================================
-  {
-    type: "audio-listening",
-    question: "1番：お仕事は何をされているんですか。",
-    options: ["1", "2", "3"],
-    correct: 1, // Opsi 2
-    track: 25,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：お仕事は何をされているんですか。
-1：はい、会社員になります。
-2：貿易会社で働いています。
-3：来年から会社に行きます。
-
-### Terjemahan Indonesia
-Pertanyaan: Apa pekerjaan yang Anda lakukan?
-1: Ya, saya akan menjadi karyawan kantor.
-2: Saya bekerja di perusahaan perdagangan.
-3: Mulai tahun depan saya akan pergi ke perusahaan.
-
-### Analisis Kosakata
-* 仕事 (しごと - shigoto) = Pekerjaan
-* 貿易会社 (ぼうえきがいしゃ - bouekigaisha) = Perusahaan ekspor-impor / perdagangan
-* 働く (はたらく - hataraku) = Bekerja
-
-### Penjelasan Jawaban
-Pertanyaan menanyakan pekerjaan saat ini ("何をされているんですか"). Jawaban yang alami adalah menyatakan tempat kerja atau profesi saat ini yaitu "貿易会社で働いています" (Saya bekerja di perusahaan dagang - Opsi 2). Opsi 1 & 3 menggunakan bentuk rencana/masa depan.`
+    "type": "audio-listening",
+    "question": "3番：子供を起こします。何と言いますか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 0,
+    "track": 21,
+    "imageKey": "n4_m1_q18_v3",
+    "topic": "Mondai 3 - Utterance Expressions",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n指示：子供を起こします。何と言いますか。\n1：早く起きなさい。\n2：もう起こしなさい。\n3：まだ寝ていなさい。\n\n### Terjemahan Indonesia\nPetunjuk: Anda membangunkan anak. Apa yang akan Anda katakan?\n1: Cepat bangun! (Pola perintah tegas orang tua ke anak)\n2: Bangunkanlah dia sekarang. (Menyuruh orang lain membangunkan)\n3: Tidurlah lagi. (Menyuruh anak tetap tidur)\n\n### Analisis Kosakata\n* 起こす (おこす - okosu) = Membangunkan\n* 起きる (おきる - okiru) = Bangun tidur\n* ～なさい (~nasai) = Pola perintah halus/tegas yang biasa digunakan orang tua kepada anak\n\n### Penjelasan Jawaban\nBila orang tua membangunkan anaknya yang masih tidur di pagi hari, ungkapan perintah langsung yang tepat adalah \"早く起きなさい。\" (Cepat bangun! - Opsi 1). Opsi 2 digunakan untuk menyuruh orang lain, sedangkan Opsi 3 berarti menyuruh tetap tidur. Maka pilihan yang tepat adalah **1**."
   },
   {
-    type: "audio-listening",
-    question: "2番：すみません、ちょっと手伝っていただけませんか。",
-    options: ["1", "2", "3"],
-    correct: 0, // Opsi 1
-    track: 26,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：すみません、ちょっと手伝っていただけませんか。
-1：ええ、いいですよ。何をしましょうか？
-2：はい、手伝ってあげます。
-3：いいえ、結構です。
-
-### Terjemahan Indonesia
-Pertanyaan: Permisi, bolehkah meminta bantuannya sebentar?
-1: Ya, tentu saja. Apa yang bisa kubantu? (Menerima permintaan bantuan dengan ramah)
-2: Ya, aku bantu kamu. (Kurang sopan karena bernada merendahkan/pemberian jasa langsung)
-3: Tidak, terima kasih. (Menolak dengan dingin)
-
-### Analisis Kosakata
-* 手伝う (てつだう - tetsudau) = Membantu
-* ～ていただけませんか (~te itadakemasen ka) = Bolehkah meminta tolong...? (Sopan)
-* 結構です (けっこうです - kekkou desu) = Cukup / tidak usah
-
-### Penjelasan Jawaban
-Saat dimintai tolong dengan sopan ("～していただけませんか"), jawaban menerima yang paling umum dan ramah adalah "ええ、いいですよ。何をしましょうか？" (Ya, tentu. Mau bantu apa? - Opsi 1).`
+    "type": "audio-listening",
+    "question": "4番：着物を着た女の人の写真が撮りたいです。何と言いますか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "track": 22,
+    "imageKey": "n4_m1_q19_v3",
+    "topic": "Mondai 3 - Utterance Expressions",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n指示：着物を着た女の人の写真が撮りたいです。何と言いますか。\n1：すみません。写真を撮られてください。\n2：すみません。写真を撮ってくれませんか。\n3：すみません。写真を撮ってもいいですか。\n\n### Terjemahan Indonesia\nPetunjuk: Anda ingin mengambil foto seorang perempuan yang mengenakan kimono. Apa yang akan Anda katakan?\n1: Permisi. Silakan saya difoto. (Tata bahasa tidak tepat untuk meminta izin memotret objek)\n2: Permisi. Bisakah Anda memotret saya? (Meminta tolong orang tersebut memotret diri kita)\n3: Permisi. Bolehkah saya mengambil foto Anda? (Meminta izin untuk memotret orang tersebut)\n\n### Analisis Kosakata\n* 着物 (きもの - kimono) = Kimono (pakaian tradisional Jepang)\n* 写真を撮る (しゃしんをとる - shashin wo toru) = Mengambil foto / memotret\n* ～てもいいですか (~te mo ii desu ka) = Bolehkah melakukan...? (Meminta izin)\n\n### Penjelasan Jawaban\nUntuk meminta izin memotret seseorang yang menarik (seperti perempuan mengenakan kimono), ungkapan meminta izin yang sopan adalah \"すみません。写真を撮ってもいいですか。\" (Permisi, bolehkah saya memotret? - Opsi 3). Opsi 2 digunakan jika kita ingin meminta tolong difoto oleh orang tersebut. Maka pilihan yang tepat adalah **3**."
   },
   {
-    type: "audio-listening",
-    question: "3番：日本語がお上手ですね。",
-    options: ["1", "2", "3"],
-    correct: 2, // Opsi 3
-    track: 27,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：日本語がお上手ですね。
-1：はい、上手です。
-2：いいえ、まだまだ下手ですよ。
-3：いいえ、そんなことはありません。まだまだです。
-
-### Terjemahan Indonesia
-Pertanyaan: Bahasa Jepang Anda pintar sekali ya.
-1: Ya, saya pintar. (Sombong, tidak alami dalam budaya Jepang)
-2: Tidak, saya masih payah lho. (Kurang alami menggunakan kata 下手 untuk diri sendiri secara langsung)
-3: Tidak, tidak begitu kok. Saya masih harus banyak belajar. (Rendah hati, sangat alami)
-
-### Analisis Kosakata
-* 上手 (じょうず - jouzu) = Mahir / pintar
-* そんなことはありません (sonna koto wa arimasen) = Tidak begitu kok
-* まだまだ (madamada) = Masih belum / masih harus belajar
-
-### Penjelasan Jawaban
-Dalam budaya Jepang, merespons pujian harus dengan sikap rendah hati. Ungkapan standar untuk menolak pujian dengan sopan adalah "いいえ、そんなことはありません。まだまだです" (Opsi 3).`
+    "type": "audio-listening",
+    "question": "5番：デパートで友達へのプレゼントを買います。何と言いますか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 0,
+    "track": 23,
+    "imageKey": "n4_m1_q20_v3",
+    "topic": "Mondai 3 - Utterance Expressions",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n指示：デパートで友達へのプレゼントを買います。何と言いますか。\n1：プレゼント用にしてください。\n2：プレゼント用にしてあります。\n3：プレゼントになるそうです。\n\n### Terjemahan Indonesia\nPetunjuk: Di department store, Anda membeli hadiah untuk teman Anda. Apa yang akan Anda katakan kepada kasir?\n1: Tolong dibuat untuk hadiah (bungkus kado). (Meminta kasir membungkusnya sebagai kado)\n2: Sudah dibungkus kado. (Menyatakan kondisi)\n3: Katanya akan menjadi kado. (Menyatakan kabar/desas-desus)\n\n### Analisis Kosakata\n* プレゼント用 (ぷれぜんとよう - purezento-you) = Keperluan kado / bungkus kado\n* ～にしてください (~ni shite kudasai) = Tolong buat menjadi... (Meminta pilihan/tindakan)\n\n### Penjelasan Jawaban\nKetika membeli barang di toko untuk dijadikan kado dan meminta pramuniaga/kasir membungkusnya secara khusus untuk kado, ungkapan yang digunakan adalah \"プレゼント用にしてください。\" (Tolong dibuat untuk kado - Opsi 1). Opsi 2 dan 3 secara tata bahasa tidak pas digunakan untuk meminta layanan pembungkusan. Maka pilihan yang tepat adalah **1**."
   },
   {
-    type: "audio-listening",
-    question: "4番：昨日買った本、もう読んだ？",
-    options: ["1", "2", "3"],
-    correct: 0, // Opsi 1
-    track: 28,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：昨日買った本、もう読んだ？
-1：うん、もう読んじゃった。
-2：いいえ、読みませんでした。
-3：はい、読んでいます。
-
-### Terjemahan Indonesia
-Pertanyaan: Buku yang kamu beli kemarin, sudah dibaca?
-1: Iya, sudah selesai kubaca semuanya. (Menggunakan bentuk kasual ～ちゃう untuk menyatakan selesai)
-2: Tidak, saya tidak membacanya. (Menggunakan bahasa sopan, tidak selaras dengan pertanyaan kasual)
-3: Ya, saya sedang membaca. (Bentuk formal)
-
-### Analisis Kosakata
-* もう (mou) = Sudah
-* 読んじゃった (よんじゃった - yonjatta) = Sudah terlanjur/selesai dibaca (dari 読んでしまった)
-
-### Penjelasan Jawaban
-Pertanyaan diajukan dengan gaya bahasa kasual ("～もう読んだ？"). Maka jawaban pun harus menggunakan bentuk kasual yang selaras. Opsi 1 menggunakan bahasa kasual "うん、もう読んじゃった" yang berarti "Iya, sudah kubaca habis". Opsi 2 & 3 menggunakan bentuk formal (~ます/~ました).`
+    "type": "audio-listening",
+    "question": "1番：明日までにこれを読んでおいてください。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "track": 25,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：明日までにこれを読んでおいてください。\n1：黄さんを呼ぶんですね。\n2：これ全部読むんですか。\n3：机の上に置いておきます。\n\n### Terjemahan Indonesia\nPernyataan: Tolong baca ini terlebih dahulu sebelum besok.\n1: Oh, memanggil Koh-san ya. (Salah dengar antara 読む/yomu dengan 呼ぶ/yobu)\n2: Apakah semua ini harus dibaca? (Merespons tentang banyaknya bacaan yang ditugaskan)\n3: Saya akan meletakkannya di atas meja. (Salah dengar kata 読んでおいて/yonde oite dengan 置いておいて/oite oite)\n\n### Analisis Kosakata\n* 明stまでに (あしたまでに - ashita made ni) = Sebelum besok / paling lambat besok\n* 読んでおく (よんでおく - yonde oku) = Membaca terlebih dahulu (pola ~te oku untuk persiapan)\n\n### Penjelasan Jawaban\nPernyataan meminta pembicara untuk membaca dokumen tersebut paling lambat besok (\"読んでおいてください\"). Respons yang logis dan alami adalah menanyakan apakah seluruh dokumen tersebut harus dibaca: \"これ全部読むんですか。\" (Apakah ini dibaca semua? - Opsi 2). Opsi 1 dan 3 adalah pengecoh permainan kata mirip (yomu vs yobu, yonde oite vs oite oku). Maka pilihan yang benar adalah **2**."
   },
   {
-    type: "audio-listening",
-    question: "5番：あした、一緒に映画でも見に行かない？",
-    options: ["1", "2", "3"],
-    correct: 2, // Opsi 3
-    track: 29,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：あした、一緒に映画でも見に行かない？
-1：ええ、行きましょう。
-2：いいですね。行きませんか？
-3：ごめん、あしたはちょっと用事があって…
-
-### Terjemahan Indonesia
-Pertanyaan: Besok, mau pergi nonton film bersama tidak?
-1: Iya, mari kita pergi. (Bahasa formal, kurang pas dengan ajakan kasual ～ない？)
-2: Bagus ya. Mau pergi tidak? (Malah mengajak kembali dengan formal)
-3: Maaf, besok aku ada sedikit urusan... (Menolak ajakan dengan halus dan kasual)
-
-### Analisis Kosakata
-* 一緒に (いっしょに - issho ni) = Bersama-sama
-* 見に行かない？ (みにいかない？ - mi ni ikanai?) = Mau pergi melihat tidak? (Ajakan kasual)
-* 用事があって (ようじがあって - youji ga atte) = Karena ada urusan
-
-### Penjelasan Jawaban
-Pertanyaan berupa ajakan kasual ("～見に行かない？"). Respons menolak yang paling halus dan alami dalam bahasa Jepang kasual adalah memberikan alasan menggantung: "ごめん、あしたはちょっと用事があって…" (Maaf, besok aku ada urusan... - Opsi 3).`
+    "type": "audio-listening",
+    "question": "2番：遅いよ。どうしたの？",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 0,
+    "track": 26,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：遅いよ。どうしたの？\n1：ごめん、ごめん。\n2：うん、ありがとう。\n3：楽しかったよ。\n\n### Terjemahan Indonesia\nPernyataan: Kamu terlambat lho. Kenapa?\n1: Maaf, maaf. (Minta maaf secara kasual)\n2: Iya, terima kasih. (Tidak nyambung)\n3: Menyenangkan sekali lho. (Tidak nyambung)\n\n### Analisis Kosakata\n* 遅い (おそい - osoi) = Lambat / terlambat\n* どうしたの？ (doushita no?) = Ada apa? / Kenapa?\n* ごめん (gomen) = Maaf (kasual)\n\n### Penjelasan Jawaban\nPernyataan diajukan secara kasual menegur kelambatan seseorang (\"遅いよ。どうしたの？\"). Respons yang alami untuk menanggapi teguran keterlambatan adalah meminta maaf: \"ごめん、ごめん。\" (Maaf, maaf - Opsi 1). Maka pilihan yang benar adalah **1**."
   },
   {
-    type: "audio-listening",
-    question: "6番：このスープ、ちょっと辛くない？",
-    options: ["1", "2", "3"],
-    correct: 1, // Opsi 2
-    track: 30,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：このスープ、ちょっと辛くない？
-1：はい、とても辛いです。
-2：そう？ちょうどいいよ。
-3：いいえ、辛くありませんよ。
-
-### Terjemahan Indonesia
-Pertanyaan: Sup ini agak pedas tidak sih menurutmu?
-1: Ya, sangat pedas. (Formal)
-2: Masa sih? Menurutku pas kok. (Merespons kasual dan menyatakan pas rasanya)
-3: Tidak, tidak pedas lho. (Formal)
-
-### Analisis Kosakata
-* 辛い (からい - karai) = Pedas
-* ちょうどいい (choudo ii) = Pas / cocok
-* そう？ (sou?) = Benarkah? / Masa sih?
-
-### Penjelasan Jawaban
-Pertanyaan kasual menanyakan pendapat "辛くない？" (tidak pedas?). Jawaban kasual yang paling alami adalah "そう？ちょうどいいよ" (Masa sih? Menurutku pas rasanya - Opsi 2). Opsi 1 & 3 menggunakan bahasa sopan desu/masu.`
+    "type": "audio-listening",
+    "question": "3番：あの、ここに座ってもいいですか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "track": 27,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：あの、ここに座ってもいいですか。\n1：あ、触らないでください。\n2：どうもありがとうございます。\n3：いいですよ。どうぞ。\n\n### Terjemahan Indonesia\nPernyataan: Anu, bolehkah saya duduk di sini?\n1: Ah, tolong jangan disentuh. (Tidak nyambung)\n2: Terima kasih banyak. (Diucapkan oleh orang yang meminta izin setelah dikasih, bukan orang yang menjawab)\n3: Boleh kok, silakan. (Mempersilakan duduk)\n\n### Analisis Kosakata\n* 座る (すわる - suwaru) = Duduk\n* ～てもいいですか (~te mo ii desu ka) = Bolehkah...? (Meminta izin)\n* どうぞ (douzo) = Silakan\n\n### Penjelasan Jawaban\nKetika seseorang meminta izin untuk duduk di kursi sebelah kita (\"座ってもいいですか\"), respons mempersilakan yang ramah dan alami adalah \"いいよ / いいですよ。どうぞ。\" (Boleh kok, silakan - Opsi 3). Opsi 2 adalah ucapan terima kasih yang diucapkan peminta izin. Maka pilihan yang benar adalah **3**."
   },
   {
-    type: "audio-listening",
-    question: "7番：あの、これ、つまらないものですが、どうぞ。",
-    options: ["1", "2", "3"],
-    correct: 1, // Opsi 2
-    track: 31,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：あの、これ、つまらないものですが、どうぞ。
-1：はい、つまらないですね。
-2：わあ、ありがとうございます。いただきます。
-3：どうぞ、ご遠慮なく。
-
-### Terjemahan Indonesia
-Pertanyaan: Anu, ini barang yang tidak seberapa (oleh-oleh/hadiah), silakan diterima.
-1: Ya, membosankan sekali ya. (Sangat tidak sopan)
-2: Wah, terima kasih banyak. Saya terima ya. (Respons yang tepat saat menerima hadiah)
-3: Silakan, jangan sungkan. (Diucapkan oleh pemberi, bukan penerima)
-
-### Analisis Kosakata
-* つまらないものですが (tsumaranai mono desu ga) = Meskipun barang yang tidak berharga (ungkapan rendah hati saat memberi hadiah)
-* いただきます (itadakimasu) = Saya terima (sopan)
-* ご遠慮なく (ごえんりょなく - goenryo naku) = Jangan sungkan-sungkan
-
-### Penjelasan Jawaban
-Ketika seseorang memberi hadiah dengan ungkapan rendah hati "つまらないものですが...", penerima harus menerimanya dengan gembira dan mengucapkan terima kasih: "わあ、ありがとうございます。いただきます。" (Opsi 2).`
+    "type": "audio-listening",
+    "question": "4番：まだ帰らないの？",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 0,
+    "track": 28,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：まだ帰らないの？\n1：うん、まだ仕事があるんだ。\n2：うん、もう帰ったよ。\n3：うん、また明日来るね。\n\n### Terjemahan Indonesia\nPernyataan: Belum pulang?\n1: Iya, masih ada pekerjaan nih. (Memberikan alasan mengapa belum pulang)\n2: Iya, saya sudah pulang kok. (Secara logika salah karena dia masih ada di tempat berbicara)\n3: Iya, besok datang lagi ya. (Tidak nyambung sebagai jawaban langsung atas pertanyaan \"belum pulang?\")\n\n### Analisis Kosakata\n* 帰る (かえる - kaeru) = Pulang\n* まだ～ない (mada ~ nai) = Belum\n* 仕事 (しごと - shigoto) = Pekerjaan\n\n### Penjelasan Jawaban\nPertanyaan kasual menanyakan mengapa lawan bicara belum pulang (\"まだ帰らないの？\"). Respons kasual yang logis adalah menjelaskan bahwa masih ada pekerjaan yang harus diselesaikan: \"うん、まだ仕事があるんだ。\" (Iya, masih ada kerjaan - Opsi 1). Opsi 2 kontradiktif secara logika fisik. Maka pilihan yang benar adalah **1**."
   },
   {
-    type: "audio-listening",
-    question: "8番：来週のパーティー、行くでしょ？",
-    options: ["1", "2", "3"],
-    correct: 2, // Opsi 3
-    track: 32,
-    topic: "Mondai 4 - Quick Response",
-    explanation: `### Transkrip Jepang
-（チャイムの音）
-質問：来週のパーティー、行くでしょ？
-1：はい、行きます。
-2：いいえ、行きません。
-3：うん、もちろん行くよ。楽しみだな。
-
-### Terjemahan Indonesia
-Pertanyaan: Pesta minggu depan, kamu pergi kan?
-1: Ya, saya pergi. (Formal)
-2: Tidak, saya tidak pergi. (Formal)
-3: Iya, tentu saja aku pergi. Aku menantikannya lho. (Respons kasual dan antusias)
-
-### Analisis Kosakata
-* 行くでしょ？ (いくでしょ？ - iku desho?) = Pergi kan? (Konfirmasi kasual)
-* もちろん (mochiron) = Tentu saja
-* 楽しみ (たのしみ - tanoshimi) = Dinantikan / tidak sabar menunggunya
-
-### Penjelasan Jawaban
-Pertanyaan dikonfirmasi secara kasual ("行くでしょ？"). Respons yang paling cocok adalah respons kasual antusias: "うん、もちろん行くよ。楽しみだな。" (Opsi 3). Opsi 1 & 2 menggunakan bentuk formal.`
+    "type": "audio-listening",
+    "question": "5番：このペン書きにくいね。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "track": 29,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：このペン書きにくいね。\n1：みんな書きたがるよ。\n2：うん、美味しい肉だね。\n3：じゃあこれ使えば？\n\n### Terjemahan Indonesia\nPernyataan: Pulpen ini tidak enak dipakai menulis ya.\n1: Semua orang ingin menulis lho. (Tidak pas)\n2: Iya, daging yang lezat ya. (Pengecoh kata mirip: 書きにくい/kaki-nikui dengan 肉/niku)\n3: Kalau begitu pakai yang ini saja? (Menawarkan pulpen lain)\n\n### Analisis Kosakata\n* 書きにくい (かきにくい - kakinikui) = Sulit/tidak enak dipakai menulis\n* 使えば (つかえば - tsukaeba) = Sebaiknya pakai... (Bentuk saran kondisional)\n\n### Penjelasan Jawaban\nKetika rekan bicara mengeluh bahwa pulpen yang dipakainya tidak nyaman untuk menulis (\"書きにくいね\"), tindakan respons yang paling membantu adalah menyarankan/menawarkan pulpen lain miliknya: \"じゃあこれ使えば？\" (Kalau gitu pakai ini aja? - Opsi 3). Opsi 2 adalah humor/salah dengar karena kemiripan bunyi \"nikui\" dengan \"niku\" (daging). Maka pilihan yang benar adalah **3**."
+  },
+  {
+    "type": "audio-listening",
+    "question": "6番：ご注文はお決まりになりましたか。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "track": 30,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：ご注文はお決まりになりましたか。\n1：はい、ありがとうございます。\n2：もうちょっと待ってください。\n3：いいえ、もう結構です。\n\n### Terjemahan Indonesia\nPernyataan: Apakah Anda sudah menentukan menu pesanan Anda?\n1: Ya, terima kasih banyak. (Tidak pas diucapkan oleh pelanggan yang ditanya menu)\n2: Tolong tunggu sebentar lagi. (Meminta waktu tambahan untuk memilih menu)\n3: Tidak, sudah cukup. (Biasa digunakan untuk menolak tawaran makanan tambahan, tidak cocok untuk awal memesan)\n\n### Analisis Kosakata\n* 注文 (ちゅうもん - chuumon) = Pesanan\n* お決まりになる (おきまりになる - okimari ni naru) = Menentukan / memutuskan (bentuk hormat dari 決まる)\n* もうちょっと (mou chotto) = Sedikit lagi / sebentar lagi\n\n### Penjelasan Jawaban\nPelayan restoran menanyakan apakah pelanggan sudah menentukan pesanannya (\"ご注文はお決まりになりましたか\"). Jika belum siap memesan, respons standar pelanggan adalah meminta pelayan menunggu sebentar lagi: \"もうちょっと待ってください。\" (Tolong tunggu sebentar lagi - Opsi 2). Maka pilihan yang benar adalah **2**."
+  },
+  {
+    "type": "audio-listening",
+    "question": "7番：あ、図書館に本を返しに行くの忘れてた。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "track": 31,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：あ、図書館に本を返しに行くの忘れてた。\n1：図書館は食堂の前だよ。\n2：早く行った方がいいよ。\n3：そんなことないよ。\n\n### Terjemahan Indonesia\nPernyataan: Ah, aku lupa pergi mengembalikan buku ke perpustakaan!\n1: Perpustakaan ada di depan kantin lho. (Pengecoh lokasi perpustakaan, tidak merespons kepanikan lupa mengembalikan)\n2: Sebaiknya kamu cepat pergi ke sana. (Saran untuk segera mengembalikannya)\n3: Tidak mungkin begitu. / Tidak begitu kok. (Tidak nyambung)\n\n### Analisis Kosakata\n* 図書館 (としょかん - toshokan) = Perpustakaan\n* 返す (かえす - kaesu) = Mengembalikan\n* 忘れる (わすれる - wasureru) = Lupa\n* ～た方がいい (~ta hou ga ii) = Sebaiknya melakukan... (Pola saran)\n\n### Penjelasan Jawaban\nPembicara mengeluh panik karena lupa mengembalikan buku ke perpustakaan (\"返しに行くの忘れてた\"). Rekan bicaranya merespons dengan menyarankan agar ia segera pergi untuk mengembalikannya agar tidak semakin terlambat: \"早く行った方がいいよ。\" (Sebaiknya cepat pergi ke sana - Opsi 2). Maka pilihan yang benar adalah **2**."
+  },
+  {
+    "type": "audio-listening",
+    "question": "8番：大川さんって本当に男らしいね。",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "track": 32,
+    "topic": "Mondai 4 - Quick Response",
+    "explanation": "### Transkrip Jepang\n（チャイムの音）\n発話：大川さんって本当に男らしいね。\n1：うん、男みたいだね。\n2：いや、女だよ。\n3：うん、かっこいいね。\n\n### Terjemahan Indonesia\nPernyataan: Ookawa-san itu benar-benar laki-laki sejati (gentle/gagah) ya.\n1: Iya, mirip laki-laki ya. (Kurang pas karena 男らしい berarti bertingkah laku layaknya laki-laki yang baik/gagah, bukan \"mirip\")\n2: Bukan, dia perempuan lho. (Tidak cocok jika Ookawa-san memang laki-laki)\n3: Iya, keren/gagah ya. (Menyetujui pujian kejantanan dengan menyebutnya keren)\n\n### Analisis Kosakata\n* 男らしい (おとこらしい - otokorashii) = Bersikap ksatria / gagah / jantan / laki-laki sejati (akhiran ~rashii menyatakan sifat ideal)\n* かっこいい (kakkoii) = Keren / gagah\n\n### Penjelasan Jawaban\nPernyataan memuji kejantanan atau sikap gagah Ookawa-san (\"男らしいね\"). Respons yang tepat untuk menyetujui pujian tersebut adalah menyepakati bahwa dia memang keren atau gagah: \"うん、かっこいいね。\" (Iya, keren ya - Opsi 3). Opsi 1 kurang tepat karena terkesan dia mirip laki-laki padahal dia memang laki-laki. Maka pilihan yang benar adalah **3**."
   }
 ];
 
@@ -970,7 +478,7 @@ async function run() {
     // Upload ke Supabase Storage
     if (fileToUpload) {
       const fileBuffer = fs.readFileSync(fileToUpload);
-      const storagePath = `N4-Moshi/images/${key}.png`;
+      const storagePath = `N4-Moshi/images/${key}_v3.png`;
       
       process.stdout.write(`   ☁️ Mengunggah ${key}.png ke Supabase Storage... `);
       

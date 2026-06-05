@@ -56,6 +56,218 @@ function getQuestionsForSection(sourceList, limit, packageIndex) {
   return result;
 }
 
+// Extra N4 Orthography & Usage questions to balance pools
+const extraOrthographyN4 = [
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "「そうだん」の正しい漢字はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["相談", "相違", "相当", "相対"],
+    correct: 0,
+    explanation: "「そうだん」 ditulis sebagai 「相談」 (berkonsultasi/diskusi). Pilihan lain memiliki makna dan bacaan yang berbeda.",
+    source: "ai",
+    topic: "Communication",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "「こうつう」の正しい漢字はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["交通", "交番", "交流", "学校"],
+    correct: 0,
+    explanation: "「こうつう」 ditulis sebagai 「交通」 (lalu lintas). 「交番」 adalah pos polisi (kouban), 「交流」 adalah pertukaran (kouryuu).",
+    source: "ai",
+    topic: "Transportation",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "「じゅんび」の正しい漢字はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["準備", "標準", "備中", "設備"],
+    correct: 0,
+    explanation: "「じゅんび」 ditulis sebagai 「準備」 (persiapan). 「標準」 adalah standar (hyoujun), 「設備」 adalah fasilitas (setsubi).",
+    source: "ai",
+    topic: "Business",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "「おくりもの」の正しい漢字はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["贈り物", "送る物", "置く物", "送物"],
+    correct: 0,
+    explanation: "「おくりもの」 ditulis sebagai 「贈り物」 (hadiah/kado). Pilihan lain adalah penulisan yang salah.",
+    source: "ai",
+    topic: "Daily Life",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "「しゅくじつ」の正しい漢字はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["祝日", "宿日", "祝二", "宿日"],
+    correct: 0,
+    explanation: "「しゅくじつ」 ditulis sebagai 「祝日」 (hari libur nasional). Pilihan lain adalah penulisan yang salah.",
+    source: "ai",
+    topic: "Daily Life",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "orthography",
+    question: "「しょうせつ」の正しい漢字はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["小説", "小設", "小説", "昭説"],
+    correct: 0,
+    explanation: "「しょうせつ」 ditulis sebagai 「小説」 (novel). Pilihan lain adalah penulisan yang salah.",
+    source: "ai",
+    topic: "Education",
+    difficulty_level: 2,
+    is_active: true
+  }
+];
+
+const extraUsageN4 = [
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「準備する」を正しく使っている文はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["明日から旅行に行くので、今夜荷物を準備します。", "天気がいいので、散歩を準備します。", "日本語が上手になるために、毎日準備します。", "このお茶は準備していて美味しいです。"],
+    correct: 0,
+    explanation: "「準備する」 berarti mempersiapkan. Kalimat yang tepat: 'Karena besok akan pergi berwisata, malam ini saya mempersiapkan barang bawaan.' Pilihan lain menggunakan kata tersebut secara tidak tepat.",
+    source: "ai",
+    topic: "Travel",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「説明する」を正しく使っている文はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["先生が新しい文法の使い方を詳しく説明してくれました。", "私は毎日犬の説明をします。", "このスープは説明していて美味しいです。", "彼は昨日、友達に説明をあげました。"],
+    correct: 0,
+    explanation: "「説明する」 berarti menjelaskan. Kalimat yang tepat: 'Guru menjelaskan cara penggunaan tata bahasa baru dengan rinci kepada siswa.' Pilihan lain tidak logis.",
+    source: "ai",
+    topic: "Education",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「計画」を正しく使っている文はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["来年の夏休みに日本へ旅行する計画を立てています。", "昨日、友達と計画を飲みました。", "この部屋は計画で静かです。", "彼は毎日計画を走っています。"],
+    correct: 0,
+    explanation: "「計画」 berarti rencana. Kalimat yang tepat: 'Saya sedang menyusun rencana perjalanan ke Jepang untuk liburan musim panas tahun depan.' Pilihan lain salah menggunakan kata benda ini.",
+    source: "ai",
+    topic: "Travel",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「安心する」を正しく使っている文はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["試験に無事合格したと聞いて、安心しました。", "この料理は安心な味がします。", "彼は安心そうに怒っています。", "私は昨日、安心を買いに行きました。"],
+    correct: 0,
+    explanation: "「安心する」 berarti merasa tenang/lega. Kalimat yang tepat: 'Saya merasa lega mendengar bahwa saya lulus ujian dengan selamat.' Pilihan lain menggunakan kata tersebut secara keliru.",
+    source: "ai",
+    topic: "Emotions",
+    difficulty_level: 2,
+    is_active: true
+  },
+  {
+    level: "N4",
+    section: "Vocabulary",
+    type: "usage",
+    question: "「習慣」を正しく使っている文はどれですか。",
+    passage: null,
+    highlight: null,
+    audio_url: null,
+    options: ["早起きは健康に良い習慣だと言われています。", "私は昨日、習慣を着て出かけました。", "この本は習慣が面白くて一晩で読みました。", "彼は英語の習慣を運転しています。"],
+    correct: 0,
+    explanation: "「習慣」 berarti kebiasaan. Kalimat yang tepat: 'Bangun pagi dikatakan sebagai kebiasaan baik untuk kesehatan.' Pilihan lain salah secara konteks.",
+    source: "ai",
+    topic: "Daily Life",
+    difficulty_level: 2,
+    is_active: true
+  }
+];
+
+function getBalancedN4Vocab(vocabList, pkgIdx) {
+  const pools = {
+    'kanji-read': vocabList.filter(q => q.type === 'kanji-read'),
+    'orthography': [...vocabList.filter(q => q.type === 'orthography'), ...extraOrthographyN4],
+    'context': vocabList.filter(q => q.type === 'context'),
+    'paraphrase': vocabList.filter(q => q.type === 'paraphrase'),
+    'usage': [...vocabList.filter(q => q.type === 'usage'), ...extraUsageN4]
+  };
+
+  const distribution = [
+    { type: 'kanji-read', count: 9 },
+    { type: 'orthography', count: 6 },
+    { type: 'context', count: 10 },
+    { type: 'paraphrase', count: 5 },
+    { type: 'usage', count: 5 }
+  ];
+
+  const result = [];
+  distribution.forEach(dist => {
+    const pool = pools[dist.type];
+    const startIdx = pkgIdx * dist.count;
+    for (let i = 0; i < dist.count; i++) {
+      const itemIdx = (startIdx + i) % pool.length;
+      result.push({ ...pool[itemIdx] });
+    }
+  });
+  return result;
+}
+
 function mapQuestion(q, level, section, packageLetter, questionNumber) {
   let audio_url = q.audio_url || null;
   let image_url = q.image_url || null;
@@ -135,7 +347,9 @@ async function run() {
     for (const pkg of packages) {
       console.log(`   Preparing Package ${pkg.letter} (Try Out ${pkg.index + 1})...`);
       
-      const vocabQs = getQuestionsForSection(vocabList, cfg.vocab.limit, pkg.index);
+      const vocabQs = level === 'N4'
+        ? getBalancedN4Vocab(vocabList, pkg.index)
+        : getQuestionsForSection(vocabList, cfg.vocab.limit, pkg.index);
       const grammarQs = getQuestionsForSection(grammarList, cfg.grammar.limit, pkg.index);
       const readingQs = getQuestionsForSection(readingList, cfg.reading.limit, pkg.index);
       const listeningQs = getQuestionsForSection(listeningList, cfg.listening.limit, pkg.index);
