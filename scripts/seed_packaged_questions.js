@@ -331,7 +331,7 @@ async function run() {
       slug: 'n4-tryout-1',
       vocab_count: CONFIG.N4.vocab.limit,
       grammar_count: CONFIG.N4.grammar.limit,
-      reading_count: CONFIG.N4.reading.limit,
+      reading_count: 10,
       listening_count: CONFIG.N4.listening.limit,
       time_limit_sec: 125 * 60,
       is_active: true
@@ -342,7 +342,7 @@ async function run() {
       slug: 'n4-tryout-2',
       vocab_count: CONFIG.N4.vocab.limit,
       grammar_count: CONFIG.N4.grammar.limit,
-      reading_count: CONFIG.N4.reading.limit,
+      reading_count: 10,
       listening_count: CONFIG.N4.listening.limit,
       time_limit_sec: 125 * 60,
       is_active: true
@@ -353,7 +353,7 @@ async function run() {
       slug: 'n4-tryout-3',
       vocab_count: CONFIG.N4.vocab.limit,
       grammar_count: CONFIG.N4.grammar.limit,
-      reading_count: CONFIG.N4.reading.limit,
+      reading_count: 7,
       listening_count: CONFIG.N4.listening.limit,
       time_limit_sec: 125 * 60,
       is_active: true

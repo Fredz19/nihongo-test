@@ -223,7 +223,7 @@ export const superMoshiN4BunpouQuestions = [
     level: "N4",
     section: "Grammar",
     type: "grammar-3",
-    passage: "前田先生\n先生、こんばんは. リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
+    passage: "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
     question: "（　24　）に入る最もよいものを選んでください。",
     options: ["聞かれません", "聞かせてください", "聞きました", "聞くつもり"],
     correct: 0,
@@ -241,7 +241,7 @@ export const superMoshiN4BunpouQuestions = [
   },
 
   // ==========================================
-  // READING SECTION (Q26 - Q32)
+  // READING SECTION (Q26 - Q35)
   // ==========================================
 
   // Mondai 4: Reading Short (4 questions)
@@ -249,6 +249,7 @@ export const superMoshiN4BunpouQuestions = [
     level: "N4",
     section: "Reading",
     type: "reading-short",
+    passage: "日本ではコンビニを利用する人が増えました。コンビニには、石鹸など日常生活で使うもの or お弁当やパンなどすぐに食べられるものが置いてあるから、便利です。日本には、お年寄りや一人で住んでいる人、共働きの家族が多くなりました。その人たちが、遠くのスーパーで安いものをたくさん買うより、必要なものだけを簡単に買える近くの店に行ったほうがいいと考えるようになったのです。",
     passage: "日本ではコンビニを利用する人が増えました。コンビニには、石鹸など日常生活で使うものや、お弁当やパンなどすぐに食べられるものが置いてあるから、便利です。日本には、お年寄りや一人で住んでいる人、共働きの家族が多くなりました。その人たちが、遠くのスーパーで安いものをたくさん買うより、必要なものだけを簡単に買える近くの店に行ったほうがいいと考えるようになったのです。",
     question: "どうしてコンビニを利用する人が増えましたか。",
     options: [
@@ -258,7 +259,7 @@ export const superMoshiN4BunpouQuestions = [
       "コンビニには食べ物しか置いていないから"
     ],
     correct: 2,
-    explanation: "Berdasarkan teks, orang-orang seperti lansia, orang yang tinggal sendiri, atau keluarga bekerja lebih memilih membeli barang yang benar-benar dibutuhkan secara mudah di toko terdekat (konbini) daripada pergi ke supermarket yang jauh."
+    explanation: "Berdasarkan teks, orang-orang seperti lansia, orang yang tinggal sendiri, atau keluarga bekerja lebih memilih membeli barang yang benar-benar dibutuhkan secara mudah di toko terdekat (konbini) daripada pergi to supermarket yang jauh."
   },
   {
     level: "N4",
@@ -306,51 +307,247 @@ export const superMoshiN4BunpouQuestions = [
     explanation: "Berdasarkan teks, kebun binatang tersebut memberi makan panda 20kg-30kg bambu per hari, dan selain itu juga memberikan wortel serta apel sebanyak 3-4 kali sehari."
   },
 
-  // Mondai 5: Reading Medium (2 questions)
+  // Mondai 5: Reading Medium (4 questions)
   {
     level: "N4",
     section: "Reading",
     type: "reading-medium",
-    passage: "30年ぐらい前、日本では、男性は60歳まで一つの会社に勤めるのが普通だった。そして、女性は結婚したり、子どもを産んだりしたら仕事をやめるのが普通だった。夫が会社からもらうお金があれば、家族みんなが十分生活できたからだ。お金の心配をしないで家族が安心して生活できたのは、とてもいい時代だったと思う。しかしその後、日本の経済が悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりするようになった。すると今度は、夫のお金だけでは生活できなくなったので、妻も結婚してからも仕事を続けるようになった。仕事が好きな女性にとっては、30年前は嫌な時代だったらしい。仕事が好きなのに、男性のようにはたらけなくて残念だと思っていたからだ。今は、共働きの家庭が増え、若い女性も結婚して子どもを育てながら仕事を続けたいと考える人が多くなった。",
-    question: "どうして、30年前について「とてもいい時代だった」と思う人がいるのですか。",
+    passage: "30年ぐらい前、日本では、男性は60さいまで一つの会社につとめるのがふつうだった。そして、女性はけっこんしたり、子どもをうんだりしたら仕事をやめるのがふつうだった。つまが仕事をしなくても、おっとが会社からもらうお金があれば、家族みんながじゅうぶんに生活できたからだ。\nお金のしんばいをしないで家族が安心して生活できたのは、①とてもいい時代だったと思う。今のように、日本のけいざいが悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりする時代とくらべると、ずっといいと思う。\n\n\n\u3067\u3082\u3001\u2461\u305d\u306e\u3053\u308d\u306f\u3001\u4ed5\u4e8b\u304c\u3059\u304d\u3067\u3001\u7537\u6027\u306e\u3088\u3046\u306b\u306f\u305f\u3089\u304d\u305f\u304d\u3068\u601d\u3063\u3066\u3044\u305f\u5973\u6027\u306b\u306f\u3001\u3044\u3084\u306a\u6642\u4ee3\u3060\u3063\u305f\u3089\u3057\u3044\u3002\n\n\n\u4eca\u306f\u3001\u304a\u3063\u3068\u304c\u4ed5\u4e8b\u3067\u3082\u3089\u3046\u304a\u91d1\u3060\u3051\u3067\u306f\u751f\u6d3b\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u304d\u305f\u306e\u3067\u3001\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u3092\u3064\u3065\u3051\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002\u3059\u308b\u3068\u3001\u4eca\u5ea6\u306f\u3001\u3080\u304b\u3057\u3068\u306f\u3093\u305f\u3044\u306e\u8003\u3048\u306e\u4eba\u304c\u3075\u3048\u3066\u304d\u305f\u3002\u308f\u304b\u3044\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u305f\u3089\u5bb6\u306e\u4e2d\u306e\u3053\u3068\u3067\u304f\u308f\u3044\u3066\u3044\u308b\u306e\u3067\u306f\u306a\u304f\u306f\u305f\u3089\u304d\u306a\u304c\u3089\u4ed5\u4e8b\u4ee5\u5916\u306e\u3053\u3068\u3067\u304c\u3093\u3070\u308a\u305f\u3044\u3068\u8003\u3048\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+    passage: "30年ぐらい前、日本では、男性は60さいまで一つの会社につとめるのがふつうだった。そして、女性はけっこんしたり、子どもをうんだりしたら仕事をやめるのがふつうだった。つまが仕事をしなくても、おっとが会社からもらうお金があれば、家族みんながじゅうぶんに生活できたからだ。\nお金のしんばいをしないで家族が安心して生活できたのは、①とてもいい時代だったと思う。今のように、日本のけいざいが悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりする時代とくらべると、ずっといいと思う。\n\n\n\u3067\u3082\u3001\u2461\u305d\u306e\u3053\u308d\u306f\u3001\u4ed5\u4e8b\u304c\u3059\u304d\u3067\u3001\u7537\u6027\u306e\u3088\u3046\u306b\u306f\u305f\u3089\u304d\u305f\u304d\u3068\u601d\u3063\u3066\u3044\u305f\u5973\u6027\u306b\u306f\u3001\u3044\u3084\u306a\u6642\u4ee3\u3060\u3063\u305f\u3089\u3057\u3044\u3002\n\n\n\u4eca\u306f\u3001\u304a\u3063\u3068\u304c\u4ed5\u4e8b\u3067\u3082\u3089\u3046\u304a\u91d1\u3060\u3051\u3067\u306f\u751f\u6d3b\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u304d\u305f\u306e\u3067\u3001\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u3092\u3064\u3065\u3051\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002\u3059\u308b\u3068\u3001\u4eca\u5ea6\u306f\u3001\u3080\u304b\u3057\u3068\u306f\u3093\u305f\u3044\u306e\u8003\u3048\u306e\u4eba\u304c\u3075\u3048\u3066\u304d\u305f\u3002\u308f\u304b\u3044\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u305f\u3089\u5bb6\u306e\u4e2d\u306e\u3053\u3068\u3067\u304f\u308f\u3044\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u4ee5\u5916\u306e\u3053\u3068\u3067\u304c\u3093\u3070\u308a\u305f\u3044\u3068\u8003\u3048\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+    question: "どうして、①とてもいい時代だったと思っているのですか。",
     options: [
-      "女性が家事をするのが普通だったから",
-      "お金の心配をしないで家族が安心して生活できたから",
-      "仕事が好きな女性が男性のようにはたらけたから",
-      "仕事がなくなってもお金がもらえたから"
+      "男性が家の仕事を手つだうのがふつうだったから",
+      "お金のしんばいをしないで家族が安心して生活できたから",
+      "仕事のすきな女性は男性のようにはたらくことができたから",
+      "仕事でもらえるお金が少なくなっても、仕事はなくならなかったから"
     ],
     correct: 1,
-    explanation: "Teks menyebutkan bahwa 30 tahun lalu, bahkan jika istri tidak bekerja, gaji suami dari perusahaan sudah cukup bagi seluruh keluarga untuk hidup aman tanpa mengkhawatirkan uang."
+    explanation: "Berdasarkan teks, 30 tahun lalu, bahkan jika istri tidak bekerja, gaji suami dari perusahaan sudah cukup bagi seluruh keluarga untuk hidup aman tanpa mengkhawatirkan uang (お金のしんばいをしないで家族が安心して生活できた)."
   },
   {
     level: "N4",
     section: "Reading",
     type: "reading-medium",
-    passage: "30年ぐらい前、日本では、男性は60歳まで一つの会社に勤めるのが普通だった。そして、女性は結婚したり、子どもを産んだりしたら仕事をやめるのが普通だった。夫が会社からもらうお金があれば、家族みんなが十分生活できたからだ。お金の心配をしないで家族が安心して生活できたのは、とてもいい時代だったと思う。しかしその後、日本の経済が悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりするようになった。すると今度は、夫のお金だけでは生活できなくなったので、妻も結婚してからも仕事を続けるようになった。仕事が好きな女性にとっては、30年前は嫌な時代だったらしい。仕事が好きなのに、男性のようにはたらけなくて残念だと思っていたからだ。今は、共働きの家庭が増え、若い女性も結婚して子どもを育てながら仕事を続けたいと考える人が多くなった。",
-    question: "仕事が好きな女性は、30年前、どう思っていましたか。",
+    passage: "30年ぐらい前、日本では、男性は60さいまで一つの会社につとめるのがふつうだった。そして、女性はけっこんしたり、子どもをうんだりしたら仕事をやめるのがふつうだった。つまが仕事をしなくても、おっとが会社からもらうお金があれば、家族みんながじゅうぶんに生活できたからだ。\nお金のしんばいをしないで家族が安心して生活できたのは、①とてもいい時代だったと思う。今のように、日本のけいざいが悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりする時代とくらべると、ずっといいと思う。\n\n\n\u3067\u3082\u3001\u2461\u305d\u306e\u3053\u308d\u306f\u3001\u4ed5\u4e8b\u304c\u3059\u304d\u3067\u3001\u7537\u6027\u306e\u3088\u3046\u306b\u306f\u305f\u3089\u304d\u305f\u304d\u3068\u601d\u3063\u3066\u3044\u305f\u5973\u6027\u306b\u306f\u3001\u3044\u3084\u306a\u6642\u4ee3\u3060\u3063\u305f\u3089\u3057\u3044\u3002\n\n\n\u4eca\u306f\u3001\u304a\u3063\u3068\u304c\u4ed5\u4e8b\u3067\u3082\u3089\u3046\u304a\u91d1\u3060\u3051\u3067\u306f\u751f\u6d3b\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u304d\u305f\u306e\u3067\u3001\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u3092\u3064\u3065\u3051\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002\u3059\u308b\u3068\u3001\u4eca\u5ea6\u306f\u3001\u3080\u304b\u3057\u3068\u306f\u3093\u305f\u3044\u306e\u8003\u3048\u306e\u4eba\u304c\u3075\u3048\u3066\u304d\u305f\u3002\u308f\u304b\u3044\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u305f\u3089\u5bb6\u306e\u4e2d\u306e\u3053\u3068\u3067\u304f\u308f\u3044\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u4ee5\u5916\u306e\u3053\u3068\u3067\u304c\u3093\u3070\u308a\u305f\u3044\u3068\u8003\u3048\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+    question: "②そのころは、どんな時代でしたか。",
     options: [
-      "家族のためにはたらきたくないと思っていた",
-      "子どもが生まれたらすぐに仕事をやめたいと思っていた",
-      "仕事が好きなのに男性のようにはたらけなくて残念だと思っていた",
-      "夫がもっとはたらいてお金を稼いでほしいと思っていた"
+      "おっとだけがはたらけば、家族みんなが生活できた時代",
+      "今よりも日本のけいざいが悪くて、女性の仕事がなかった時代",
+      "女性も60さいまで一つの会社につとめるのがふつうだった時代",
+      "男性も女性も、仕事でもらえるお金が少なくなってしまった時代"
     ],
-    correct: 2,
-    explanation: "Teks menyatakan bahwa bagi wanita yang suka bekerja, 30 tahun lalu adalah era yang tidak menyenangkan karena mereka merasa menyesal tidak bisa bekerja secara bebas seperti pria."
+    correct: 0,
+    explanation: "Teks menyebutkan bahwa pada masa itu (30 tahun lalu), jika suami (おっと) bekerja di perusahaan, uangnya sudah cukup bagi seluruh keluarga untuk hidup (おっとが会社からもらうお金があれば、家族みんながじゅうぶんに生活できた)."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-medium",
+    passage: "30年ぐらい前、日本では、男性は60さいまで一つの会社につとめるのがふつうだった。そして、女性はけっこんしたり、子どもをうんだりしたら仕事をやめるのがふつうだった。つまが仕事をしなくても、おっとが会社からもらうお金があれば、家族みんながじゅうぶんに生活できたからだ。\nお金のしんばいをしないで家族が安心して生活できたのは、①とてもいい時代だったと思う。今のように、日本のけいざいが悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりする時代とくらべると、ずっといいと思う。\n\n\n\u3067\u3082\u3001\u2461\u305d\u306e\u3053\u308d\u306f\u3001\u4ed5\u4e8b\u304c\u3059\u304d\u3067\u3001\u7537\u6027\u306e\u3088\u3046\u306b\u306f\u305f\u3089\u304d\u305f\u304d\u3068\u601d\u3063\u3066\u3044\u305f\u5973\u6027\u306b\u306f\u3001\u3044\u3084\u306a\u6642\u4ee3\u3060\u3063\u305f\u3089\u3057\u3044\u3002\n\n\n\u4eca\u306f\u3001\u304a\u3063\u3068\u304c\u4ed5\u4e8b\u3067\u3082\u3089\u3046\u304a\u91d1\u3060\u3051\u3067\u306f\u751f\u6d3b\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u304d\u305f\u306e\u3067\u3001\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u3092\u3064\u3065\u3051\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002\u3059\u308b\u3068\u3001\u4eca\u5ea6\u306f\u3001\u3080\u304b\u3057\u3068\u306f\u3093\u305f\u3044\u306e\u8003\u3048\u306e\u4eba\u304c\u3075\u3048\u3066\u304d\u305f\u3002\u308f\u304b\u3044\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u305f\u3089\u5bb6\u306e\u4e2d\u306e\u3053\u3068\u3067\u304f\u308f\u3044\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u4ee5\u5916\u306e\u3053\u3068\u3067\u304c\u3093\u3070\u308a\u305f\u3044\u3068\u8003\u3048\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+    question: "仕事がすきな女性は、30年前、どう思っていましたか。",
+    options: [
+      "家族にお金のしんばいをさせないために仕事がしたい",
+      "子どもがうまれたら、仕事をやめて家の仕事をしたい",
+      "おっとは、もっとお金がもらえるようにがんばってほしい",
+      "仕事がすきなのに、男性のようにはたらけなくてざんねんだ"
+    ],
+    correct: 3,
+    explanation: "Berdasarkan teks, bagi wanita yang menyukai pekerjaan, masa 30 tahun lalu adalah masa yang buruk karena mereka merasa menyesal tidak bisa bekerja bebas seperti pria (仕事がすきなのに、男性のようにはたらけなくてざんねんだ)."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-medium",
+    passage: "30年ぐらい前、日本では、男性は60さいまで一つの会社につとめるのがふつうだった。そして、女性はけっこんしたり、子どもをうんだりしたら仕事をやめるのがふつうだった。つまが仕事をしなくても、おっとが会社からもらうお金があれば、家族みんながじゅうぶんに生活できたからだ。\nお金のしんばいをしないで家族が安心して生活できたのは、①とてもいい時代だったと思う。今のように、日本のけいざいが悪くなり、仕事でもらうお金が少なくなったり、仕事がなくなったりする時代とくらべると、ずっといいと思う。\n\n\n\u3067\u3082\u3001\u2461\u305d\u306e\u3053\u308d\u306f\u3001\u4ed5\u4e8b\u304c\u3059\u304d\u3067\u3001\u7537\u6027\u306e\u3088\u3046\u306b\u306f\u305f\u3089\u304d\u305f\u304d\u3068\u601d\u3063\u3066\u3044\u305f\u5973\u6027\u306b\u306f\u3001\u3044\u3084\u306a\u6642\u4ee3\u3060\u3063\u305f\u3089\u3057\u3044\u3002\n\n\n\u4eca\u306f\u3001\u304a\u3063\u3068\u304c\u4ed5\u4e8b\u3067\u3082\u3089\u3046\u304a\u91d1\u3060\u3051\u3067\u306f\u751f\u6d3b\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u304d\u305f\u306e\u3067\u3001\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u3092\u3064\u3065\u3051\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002\u3059\u308b\u3068\u3001\u4eca\u5ea6\u306f\u3001\u3080\u304b\u3057\u3068\u306f\u3093\u305f\u3044\u306e\u8003\u3048\u306e\u4eba\u304c\u3075\u3048\u3066\u304d\u305f\u3002\u308f\u304b\u3044\u5973\u6027\u306f\u3001\u3051\u3063\u3053\u3093\u3057\u305f\u3089\u5bb6\u306e\u4e2d\u306e\u3053\u3068\u3067\u304f\u308f\u3044\u3066\u304b\u3089\u3082\u4ed5\u4e8b\u4ee5\u5916\u306e\u3053\u3068\u3067\u304c\u3093\u3070\u308a\u305f\u3044\u3068\u8003\u3048\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3002",
+    question: "今は、どんな考えのわかい女性が増えていますか。",
+    options: [
+      "外ではたらくよりも、家の仕事をしたい",
+      "家の仕事をするよりも、外ではたらきたい",
+      "女性が外ではたらけるように、男性は家の仕事を手つだってほしい",
+      "男性は、同じ会社ではたらく女性をもっと大切にしてほしい"
+    ],
+    correct: 0,
+    explanation: "Teks menyatakan bahwa sekarang banyak wanita muda yang berpikir bahwa setelah menikah, mereka ingin sibuk dengan urusan rumah tangga dan fokus pada hal-hal selain pekerjaan (外ではたらくよりも、家の仕事をしたい)."
   },
 
-  // Mondai 6: Reading Complex / Info Retrieval (1 question)
+  // Mondai 6: Reading Complex (2 questions)
   {
     level: "N4",
     section: "Reading",
     type: "reading-complex",
-    passage: "【留学生のための日本文化教室】\nやさしい日本語で教えます！日本の文化を体験しませんか。\n\n・いけ花：月曜日・木曜日 19:00 - 20:00（1回 1,500円）\n・着物の着付け：火曜日・水曜日 16:00 - 18:00（無料）\n・すし作り：日曜日 10:00 - 12:00（1回 1,000円）\n・天ぷら作り：月曜日・水曜日 18:00 - 19:00（1回 1,200円）\n\n※マリアさんは日本語学校に通っています。学校が休みの日に日本文化を勉強したいです。学校は土曜日と日曜日が休みです。できるだけ安いほうがいいです。",
-    question: "マリアさんはどの教室に行くのがいちばんいいですか。",
-    options: ["いけ花", "着物の着付け", "すし作り", "天ぷら作り"],
-    correct: 2,
-    explanation: "Sekolah Maria libur pada hari Sabtu dan Minggu. Dari empat pilihan kelas yang ada, hanya kelas \"すし作り\" (Membuat Sushi) yang diadakan pada hari Minggu (10:00 - 12:00) dengan biaya 1.000 yen."
+    passage: `<div class="space-y-6">
+  <div class="border-b pb-3 mb-4">
+    <h3 class="text-xl font-bold text-[#1d3557]">留学生のための日本文化教室</h3>
+    <p class="text-sm text-indigo-600 font-semibold mt-1">やさしい日本語で教えます！</p>
+  </div>
+
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+    <table class="w-full text-left border-collapse text-sm">
+      <thead>
+        <tr class="bg-slate-100 border-b border-slate-200 text-slate-700">
+          <th class="p-3 font-semibold">内容 (Naiyou)</th>
+          <th class="p-3 font-semibold">曜日・時間 (Youbi/Jikan)</th>
+          <th class="p-3 font-semibold">費用 (Hiyou)</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-slate-100 text-slate-700">
+        <tr>
+          <td class="p-3">
+            <div class="font-bold text-slate-800">いけ花 (Ikebana)</div>
+            <div class="text-xs text-slate-500 mt-0.5">日本の伝統的な美しい いけ花をやってみませんか。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">月曜 / 木曜</span>
+            <div class="text-xs text-slate-600 mt-1">19:00 - 20:00</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 1,500円</td>
+        </tr>
+        <tr class="bg-slate-50/50">
+          <td class="p-3">
+            <div class="font-bold text-slate-800">日本料理のマナー (Manners)</div>
+            <div class="text-xs text-slate-500 mt-0.5">日本料理の正しい食べ方を教えます。おいしい料理を食べながら日本文化を勉強しませんか。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">金曜</span>
+            <div class="text-xs text-slate-600 mt-1">18:30 - 20:30</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 2,000円</td>
+        </tr>
+        <tr>
+          <td class="p-3">
+            <div class="font-bold text-slate-800">着物の着付け (Kitsuke)</div>
+            <div class="text-xs text-slate-500 mt-0.5">浴衣を使って、かんたんな着物の着方を教えます。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-teal-50 text-teal-700 rounded text-xs font-semibold border border-teal-100">火曜 / 水曜</span>
+            <div class="text-xs text-slate-600 mt-1">16:00 - 18:00</div>
+          </td>
+          <td class="p-3 font-medium text-emerald-600">無料</td>
+        </tr>
+        <tr class="bg-slate-50/50">
+          <td class="p-3">
+            <div class="font-bold text-slate-800">すし作り (Sushi tsukuri)</div>
+            <div class="text-xs text-slate-500 mt-0.5">ひとりでもかんたんに巻き寿司を作れる作り方を教えます。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-rose-50 text-rose-700 rounded text-xs font-semibold border border-rose-100">日曜</span>
+            <div class="text-xs text-slate-600 mt-1">10:00 - 12:00</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 1,000円</td>
+        </tr>
+        <tr>
+          <td class="p-3">
+            <div class="font-bold text-slate-800">天ぷら作り (Tempura tsukuri)</div>
+            <div class="text-xs text-slate-500 mt-0.5">野菜と魚の天ぷらを作ってみましょう。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-sky-50 text-sky-700 rounded text-xs font-semibold border border-sky-100">月曜 / 水曜</span>
+            <div class="text-xs text-slate-600 mt-1">18:00 - 19:00</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 1,200円</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="bg-slate-50 p-3 rounded-xl text-xs border border-slate-100 text-slate-600">
+    <div>注：無料…お金はかかりません (Catatan: Gratis... Tidak dikenakan biaya)</div>
+  </div>
+</div>`,
+    question: "日本語学校に通っているマリアさんは、学校が休みの日 に日本の文化を習いたいと 思っています。 学校は土曜日と日曜日が休みです。 少しでも安いほうがいいです。どの教室がいちばんいいですか。",
+    options: ["いけ花", "日本料理のマナー", "着物の着付け", "すし作り"],
+    correct: 3,
+    explanation: "Sekolah Maria libur pada hari Sabtu dan Minggu (土曜日と日曜日). Dari lima pilihan kelas yang ada, kelas yang diadakan pada akhir pekan adalah \"すし作り\" (Hari Minggu). Kelas ini dikenakan biaya 1.000 yen (lebih murah dibandingkan \"いけ花\" seharga 1.500 yen)."
+  },
+  {
+    level: "N4",
+    section: "Reading",
+    type: "reading-complex",
+    passage: `<div class="space-y-6">
+  <div class="border-b pb-3 mb-4">
+    <h3 class="text-xl font-bold text-[#1d3557]">留学生のための日本文化教室</h3>
+    <p class="text-sm text-indigo-600 font-semibold mt-1">やさしい日本語で教えます！</p>
+  </div>
+
+  <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+    <table class="w-full text-left border-collapse text-sm">
+      <thead>
+        <tr class="bg-slate-100 border-b border-slate-200 text-slate-700">
+          <th class="p-3 font-semibold">内容 (Naiyou)</th>
+          <th class="p-3 font-semibold">曜日・時間 (Youbi/Jikan)</th>
+          <th class="p-3 font-semibold">費用 (Hiyou)</th>
+        </tr>
+      </thead>
+      <tbody class="divide-y divide-slate-100 text-slate-700">
+        <tr>
+          <td class="p-3">
+            <div class="font-bold text-slate-800">いけ花 (Ikebana)</div>
+            <div class="text-xs text-slate-500 mt-0.5">日本の伝統的な美しい いけ花をやってみませんか。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">月曜 / 木曜</span>
+            <div class="text-xs text-slate-600 mt-1">19:00 - 20:00</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 1,500円</td>
+        </tr>
+        <tr class="bg-slate-50/50">
+          <td class="p-3">
+            <div class="font-bold text-slate-800">日本料理のマナー (Manners)</div>
+            <div class="text-xs text-slate-500 mt-0.5">日本料理の正しい食べ方を教えます。おいしい料理を食べながら日本文化を勉強しませんか。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">金曜</span>
+            <div class="text-xs text-slate-600 mt-1">18:30 - 20:30</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 2,000円</td>
+        </tr>
+        <tr>
+          <td class="p-3">
+            <div class="font-bold text-slate-800">着物の着付け (Kitsuke)</div>
+            <div class="text-xs text-slate-500 mt-0.5">浴衣を使って、かんたんな着物の着方を教えます。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-teal-50 text-teal-700 rounded text-xs font-semibold border border-teal-100">火曜 / 水曜</span>
+            <div class="text-xs text-slate-600 mt-1">16:00 - 18:00</div>
+          </td>
+          <td class="p-3 font-medium text-emerald-600">無料</td>
+        </tr>
+        <tr class="bg-slate-50/50">
+          <td class="p-3">
+            <div class="font-bold text-slate-800">すし作り (Sushi tsukuri)</div>
+            <div class="text-xs text-slate-500 mt-0.5">ひとりでもかんたんに巻き寿司を作れる作り方を教えます。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-rose-50 text-rose-700 rounded text-xs font-semibold border border-rose-100">日曜</span>
+            <div class="text-xs text-slate-600 mt-1">10:00 - 12:00</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 1,000円</td>
+        </tr>
+        <tr>
+          <td class="p-3">
+            <div class="font-bold text-slate-800">天ぷら作り (Tempura tsukuri)</div>
+            <div class="text-xs text-slate-500 mt-0.5">野菜と魚の天ぷらを作ってみましょう。</div>
+          </td>
+          <td class="p-3">
+            <span class="px-2 py-0.5 bg-sky-50 text-sky-700 rounded text-xs font-semibold border border-sky-100">月曜 / 水曜</span>
+            <div class="text-xs text-slate-600 mt-1">18:00 - 19:00</div>
+          </td>
+          <td class="p-3 font-medium text-slate-900">1回 1,200円</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="bg-slate-50 p-3 rounded-xl text-xs border border-slate-100 text-slate-600">
+    <div>注：無料…お金はかかりません (Catatan: Gratis... Tidak dikenakan biaya)</div>
+  </div>
+</div>`,
+    question: "日本の大学で勉強している アレン さんは、平日の夕方、大学の帰りに何か習いたいと 思っています。大学の授業は平日 5 時までです。アレン さんの趣味は料理で、日本の料理を作れるようになりたいと思っています。どの教室がいちばんいいですか。",
+    options: ["いけ花", "日本料理のマナー", "すし作り", "天ぷら作り"],
+    correct: 3,
+    explanation: "Allen-san ingin belajar memasak makanan Jepang (\"日本の料理を作れるようになりたい\") di hari kerja sore/malam hari setelah kuliah selesai pukul 17:00 (\"平日の夕方、大学の帰り\"). Kelas \"天ぷら作り\" (Membuat Tempura) diadakan pada Senin/Rabu jam 18:00 - 19:00, yang memenuhi semua kriteria tersebut."
   }
 ];
-
 // Official N4 Grammar & Reading tryout questions from "JLPT Super Moshi N4 N5.pdf" pages 23-29 (Try Out 2)
 export const superMoshiN4BunpouQuestions_B = [
   // Mondai 1: Grammar-1 (15 questions)
