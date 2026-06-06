@@ -63,7 +63,7 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Session storage cache helpers
 function getCacheKey(level: string, slug: string) {
-  return `jlpt_questions_v2_${level}_${slug}`;
+  return `jlpt_questions_v3_${level}_${slug}`;
 }
 function readCache(key: string): { questions: Question[]; template: ExamTemplate } | null {
   try {
@@ -181,9 +181,8 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
       }
 
       // 2. For N5 (Super Moshi/Tipe B) and N4 and N3 and below — use fallback immediately
-      // Always bypass fallback for Tryout N4 (Package A and B) to fetch from Supabase.
-      // For Tryout 3 (Package C), use local mock questions.
-      const bypassFallback = level === 'N4' && slug.includes('tryout') && !slug.endsWith('-3') && !slug.endsWith('-C');
+      // Always bypass fallback for Tryout N4, to fetch from Supabase
+      const bypassFallback = level === 'N4' && slug.includes('tryout');
       if (!bypassFallback && (level === 'N5' || level === 'N4' || level === 'N3' || level === 'N2' || level === 'N1')) {
         const fallback = (questionBanks[bankKey] || questionBanks[level] || questionBanks['N5']).map(mapLegacy);
         if (!cancelled) {
