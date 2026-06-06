@@ -363,15 +363,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　21　）に入る最もよいものを選んでください。",
-    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社のチームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　22　）。自分で自由にきめることができないのがいやで、会社をやめた。（　23　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。（　24　）、藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。（　25　）もっとちがう練習がひつようだ。」と言っている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "が",
       "に",
+      "が",
       "を",
-      "は"
+      "と"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Subjek utama dari kalimat pasif 'dipilih' (えらばれた) adalah Fujiwara-san, sehingga ditandai dengan partikel 「が」.",
     "mondai": 3,
     "number": 21
@@ -382,16 +382,16 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　22　）に入る最もよいものを選んでください。",
-    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社のチームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　22　）。自分で自由にきめることができないのがいやで、会社をやめた。（　23　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。（　24　）、藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。（　25　）もっとちがう練習がひつようだ。」と言っている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "陸上",
-      "水泳",
-      "テニス",
-      "サッカー"
+      "出たがっていた",
+      "出られたかもしれない",
+      "出させてあげたかった",
+      "出なければならなかった"
     ],
-    "correct": 0,
-    "explanation": "Karena Fujiwara-san adalah pelari maraton (マラソン選手), tim tempat dia berlatih sebelumnya adalah tim atletik/lari (陸上).",
+    "correct": 3,
+    "explanation": "Fujiwara-san merasa terikat karena ia 'harus berpartisipasi' (出なければならなかった) dalam pertandingan yang ditentukan oleh perusahaan.",
     "mondai": 3,
     "number": 22
   },
@@ -401,16 +401,16 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　23　）に入る最もよいものを選んでください。",
-    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社のチームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　22　）。自分で自由にきめることができないのがいやで、会社をやめた。（　23　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。（　24　）、藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。（　25　）もっとちがう練習がひつようだ。」と言っている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "出たがっていた",
-      "出られたかもしれない",
-      "出させたかった",
-      "出なければならなかった"
+      "会社をやめてから",
+      "会社をやめる前に",
+      "会社をやめたいとき",
+      "会社をやめようとするとき"
     ],
-    "correct": 3,
-    "explanation": "Fujiwara-san merasa terikat karena ia 'harus berpartisipasi' (出なければならなかった) dalam pertandingan yang ditentukan oleh perusahaan.",
+    "correct": 0,
+    "explanation": "Kalimat menunjukkan perubahan kebiasaan setelah ia mengundurkan diri (会社をやめてから), barulah ia mulai berpikir sendiri tentang menu latihan dan makanannya.",
     "mondai": 3,
     "number": 23
   },
@@ -420,16 +420,16 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　24　）に入る最もよいものを選んでください。",
-    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社のチームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　22　）。自分で自由にきめることができないのがいやで、会社をやめた。（　23　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。（　24　）、藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。（　25　）もっとちがう練習がひつようだ。」と言っている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "会社をやめてから",
-      "会社をやめる前に",
-      "会社をやめたとき",
-      "会社をやめようとするとき"
+      "しかし",
+      "それで",
+      "そのうえ",
+      "ところで"
     ],
     "correct": 0,
-    "explanation": "Kalimat menunjukkan perubahan kebiasaan setelah ia mengundurkan diri (会社をやめてから), barulah ia mulai berpikir sendiri tentang menu latihan dan makanannya.",
+    "explanation": "Kata sambung pertentangan 'namun/tetapi' (しかし) digunakan untuk menghubungkan pencapaiannya sebagai yang tercepat di Jepang dengan kenyataan bahwa itu belum cukup untuk bersaing di tingkat dunia.",
     "mondai": 3,
     "number": 24
   },
@@ -439,16 +439,16 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　25　）に入る最もよいものを選んでください。",
-    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社の（　22　）チームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　23　）。自分で自由にきめることができないのがいやで、会社をやめた。（　24　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。世界で一番に（　25　）ためにはもっとちがう練習がひつようだ。」と言っている。",
+    "passage": "8月に行われるオリンピックの日本代表マラソン選手に、藤原さんが（　21　）えらばれた。藤原さんは、2年前まで会社のチームの中で練習していた。そのときは、みんなと同じ練習をして、きめられた試合に（　22　）。自分で自由にきめることができないのがいやで、会社をやめた。（　23　）、どんな練習や食事をすればいいか自分で考えるようになった。自分で考えた練習がいいかどうかわからないこともあったし、一人で練習するのは大変だったが、今は日本人のなかで一番速く走れるようになった。（　24　）、藤原さんは「世界にはもっと速い人たちがいるから、今のままではだめだ。（　25　）もっとちがう練習がひつようだ。」と言っている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m3.mp3",
     "options": [
-      "なれる",
-      "にするようには",
-      "なる",
-      "できるように"
+      "世界で一番になれるためには",
+      "世界で一番にするようには",
+      "世界で一番なるためには",
+      "世界で一番にできるようには"
     ],
     "correct": 2,
-    "explanation": "Pola 〜ために (untuk/demi...) dipasangkan dengan kata kerja bentuk kamus. Maka bentuk yang tepat adalah 「なる」 (なるために = demi menjadi).",
+    "explanation": "Untuk menyatakan tujuan (menjadi nomor satu di dunia), pola yang tepat adalah menggunakan kata kerja bentuk kamus + ためには (なるためには).",
     "mondai": 3,
     "number": 25
   },
@@ -534,7 +534,7 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Reading",
     "type": "reading-medium",
     "question": "（　①　）にはどんなことばが入りますか。",
-    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人にはわからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動してもそんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
+    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人には②わからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動しても③そんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m5.mp3",
     "options": [
       "同じだ",
@@ -552,8 +552,46 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "level": "N4",
     "section": "Reading",
     "type": "reading-medium",
+    "question": "何が②わからないのですか。",
+    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人には②わからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動しても③そんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m5.mp3",
+    "options": [
+      "メガネをかけているかどうか",
+      "コンタクトレンズをつけていること",
+      "コンタクトレンズがメガネよりいいこと",
+      "メガネがコンタクトレンズよりよく見えるかどうか"
+    ],
+    "correct": 1,
+    "explanation": "Kalimatnya adalah 'Karena lensa kontak dimasukkan ke dalam mata, meskipun dipakai, orang lain tidak tahu (bahwa dia sedang memakai lensa kontak)'. Maka hal yang tidak diketahui orang lain adalah 'apakah orang tersebut memakai lensa kontak' (コンタクトレンズをつけていること).",
+    "mondai": 5,
+    "number": 31
+  },
+  {
+    "id": "bunpou_n4_b_q32",
+    "level": "N4",
+    "section": "Reading",
+    "type": "reading-medium",
+    "question": "③そんなことは、どんなことですか。",
+    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人には②わからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動しても③そんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
+    "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m5.mp3",
+    "options": [
+      "コンタクトレンズがとれたり、おちたりすること",
+      "メガネがとれたり、おちたりすること",
+      "コンタクトレンズをつけて運動すること",
+      "メガネをかけて運動すること"
+    ],
+    "correct": 1,
+    "explanation": "Di kalimat sebelumnya dinyatakan bahwa kacamata saat berolahraga bisa terlepas atau jatuh (とれたりおちたりすること). Maka 'hal semacam itu' (③そんなこと) merujuk pada 'kacamata terlepas atau jatuh' (メガネがとれたり、おちたりすること).",
+    "mondai": 5,
+    "number": 32
+  },
+  {
+    "id": "bunpou_n4_b_q33",
+    "level": "N4",
+    "section": "Reading",
+    "type": "reading-medium",
     "question": "この人は、コンタクトレンズはどうだと言っていますか。",
-    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人にはわからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動してもそんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
+    "passage": "わたしたちは、目が悪くなって、ものが見えにくくなったとき、メガネやコンタクトレンズを使う。そうすることで、見えにくいものが見えるようになる。メガネもコンタクトレンズもどちらも目の悪い人には、ひつようなものである。しかし、メガネとコンタクトレンズは（　①　）。まず、メガネはかけているから、ほかの人が見たらはっきりわかるが、コンタクトレンズは目の中に入れているので、つけていてもほかの人には②わからない。また、メガネは、運動すると、とれたりおちたりすることがあって、運動しにくい。しかし、コンタクトレンズをつけて運動しても③そんなことはあまり心配しなくてよい。しかし、あぶないこともある。コンタクトレンズをつけているときにボールがあたったら、けがをしてしまうこともあるからだ。それぞれのいいところを考えて、わたしは、運動するときはコンタクトレンズを使って、勉強をしたり本を読むときはメガネをかけるようにしている。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_b_m5.mp3",
     "options": [
       "勉強したり、本を読んだりするのにいい。",
@@ -564,24 +602,42 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "correct": 2,
     "explanation": "Penulis menyatakan bahwa lensa kontak memudahkan berolahraga karena tidak mudah jatuh (運動はしやすい), namun juga bisa berbahaya jika terhantam bola (あぶないときもある).",
     "mondai": 5,
-    "number": 31
+    "number": 33
   },
   {
-    "id": "bunpou_n4_b_q32",
+    "id": "bunpou_n4_b_q34",
     "level": "N4",
     "section": "Reading",
     "type": "reading-complex",
     "question": "いちばん早くできるのはどれですか。",
-    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n・第1木曜日：卓球（一般・※） / バレーボール（グループ）\n・第1土曜日：卓球（グループ） / バレーボール（一般・※）\n・第2月曜日：卓球（一般） / バレーボール（一般）\n・第3水曜日：卓球（一般・※） / バレーボール（グループ）\n・第4月曜日：卓球（一般） / バレーボール（一般）\n\n※10人以上での利用は「グループ」、それ以下での利用は「個人」となります。\n※「グループ」は必ず1週間前までに予約してください（「一般」は予約不要です）。\n※「※」印は先生に教えてもらえます。\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日（月曜日）です。いちばん早くできるのはどれですか。",
+    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n| 体育館 | 曜日 | 種目 | 利用区分 |\n| :--- | :--- | :--- | :--- |\n| 西町 | 第1木曜日 | 卓球 | 一般・※ |\n| 東町 | 第1木曜日 | バレーボール | グループ |\n| 西町 | 第2月曜日 | 卓球 | 一般 |\n| 西町 | 第3水曜日 | 卓球 | 一般・※ |\n| 東町 | 第3水曜日 | バレーボール | グループ |\n| 西町 | 第4月曜日 | 卓球 | 一般 |\n| 北町 | 第4土曜日 | バレーボール | グループ |\n| 南町 | 第4土曜日 | 卓球 | 一般 |\n\n※10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n※「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日です。いちばん早くできるのはどれですか。",
     "options": [
-      "第2月曜日に",
-      "第3水曜日に",
-      "第3土曜日に",
-      "第4月曜日に"
+      "第2月曜に西町で",
+      "第3月曜に東町で",
+      "第3水曜に西町で",
+      "第4月曜に西町で"
     ],
-    "correct": 1,
-    "explanation": "Mereka terdiri dari 4 orang (kurang dari 10 orang -> kategori '一般'), ingin bermain tenis meja (卓球) dengan bimbingan guru (tanda '※'). Hari ini tanggal 15 (Senin). Sesi berikutnya yang memenuhi kriteria adalah hari Rabu tanggal 17 (Rabu ke-3), yaitu '第3水曜日'.",
+    "correct": 2,
+    "explanation": "Mereka berjumlah 4 orang (kategori '一般'), ingin bermain tenis meja dengan bimbingan guru (tanda '※'). Hari ini tanggal 15. Sesi tercepat yang memenuhi syarat adalah Hari Rabu ke-3 (第3水曜日) di 西町.",
     "mondai": 6,
-    "number": 32
+    "number": 34
+  },
+  {
+    "id": "bunpou_n4_b_q35",
+    "level": "N4",
+    "section": "Reading",
+    "type": "reading-complex",
+    "question": "一番早くできるのはどれですか。",
+    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n| 体育館 | 曜日 | 種目 | 利用区分 |\n| :--- | :--- | :--- | :--- |\n| 西町 | 第1木曜日 | 卓球 | 一般・※ |\n| 東町 | 第1木曜日 | バレーボール | グループ |\n| 西町 | 第2月曜日 | 卓球 | 一般 |\n| 西町 | 第3水曜日 | 卓球 | 一般・※ |\n| 東町 | 第3水曜日 | バレーボール | グループ |\n| 西町 | 第4月曜日 | 卓球 | 一般 |\n| 北町 | 第4土曜日 | バレーボール | グループ |\n| 南町 | 第4土曜日 | 卓球 | 一般 |\n\n※10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n※「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約 of ひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n※友だち12人でバレーボールがしたいです。今日は10日です。一番早くできるのはどれですか。",
+    "options": [
+      "第2土曜に北町で",
+      "第2土曜に南町で",
+      "第4土曜に北町で",
+      "第4土曜に南町で"
+    ],
+    "correct": 2,
+    "explanation": "Mereka berjumlah 12 orang (kategori 'グループ'), sehingga wajib melakukan reservasi minimal 1 minggu sebelum hari H. Karena hari ini tanggal 10, tanggal paling awal untuk bermain adalah tanggal 17 ke atas. Berdasarkan jadwal, pilihan yang tersedia untuk latihan voli grup adalah hari Sabtu ke-4 (第4土曜日) di 北町.",
+    "mondai": 6,
+    "number": 35
   }
 ];
