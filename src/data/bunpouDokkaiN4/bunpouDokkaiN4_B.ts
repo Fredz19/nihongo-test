@@ -610,15 +610,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Reading",
     "type": "reading-complex",
     "question": "いちばん早くできるのはどれですか。",
-    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n| 体育館 | 曜日 | 種目 | 利用区分 |\n| :--- | :--- | :--- | :--- |\n| 西町 | 第1木曜日 | 卓球 | 一般・※ |\n| 東町 | 第1木曜日 | バレーボール | グループ |\n| 西町 | 第2月曜日 | 卓球 | 一般 |\n| 西町 | 第3水曜日 | 卓球 | 一般・※ |\n| 東町 | 第3水曜日 | バレーボール | グループ |\n| 西町 | 第4月曜日 | 卓球 | 一般 |\n| 北町 | 第4土曜日 | バレーボール | グループ |\n| 南町 | 第4土曜日 | 卓球 | 一般 |\n\n※10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n※「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日です。いちばん早くできるのはどれですか。",
+    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【たっきゅう】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1木曜日 | 西町 | グループ★ |\n| 第1木曜日 | 東町 | 一般※ |\n| 第2月曜日 | 西町 | 一般※ |\n| 第2月曜日 | 東町 | グループ★ |\n| 第3月曜日 | 西町 | グループ★ |\n| 第3月曜日 | 東町 | 一般 |\n| 第3木曜日 | 西町 | 一般 |\n| 第3木曜日 | 東町 | グループ★ |\n| 第4月曜日 | 西町 | 一般※ |\n\n【バレーボール】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1土曜日 | 北町 | 一般 |\n| 第1土曜日 | 南町 | グループ★ |\n| 第2土曜日 | 北町 | グループ★ |\n| 第2土曜日 | 南町 | 一般 |\n| 第3土曜日 | 北町 | 一般※ |\n| 第4土曜日 | 北町 | 一般 |\n| 第4土曜日 | 南町 | グループ★ |\n\n〇 10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n★「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n【今月のカレンダー】\n| 日 | 月 | 火 | 水 | 木 | 金 | 土 |\n| :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| | 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | 8 | 9 | 10 | 11 | 12 | 13 |\n| 14 | 15 | 16 | 17 | 18 | 19 | 20 |\n| 21 | 22 | 23 | 24 | 25 | 26 | 27 |\n| 28 | 29 | 30 | 31 | | | |\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日です。いちばん早くできるのはどれですか。",
     "options": [
       "第2月曜に西町で",
       "第3月曜に東町で",
       "第3水曜に西町で",
       "第4月曜に西町で"
     ],
-    "correct": 2,
-    "explanation": "Mereka berjumlah 4 orang (kategori '一般'), ingin bermain tenis meja dengan bimbingan guru (tanda '※'). Hari ini tanggal 15. Sesi tercepat yang memenuhi syarat adalah Hari Rabu ke-3 (第3水曜日) di 西町.",
+    "correct": 3,
+    "explanation": "Mereka berjumlah 4 orang (kategori '一般'), ingin bermain tenis meja dengan bimbingan guru (tanda '※'). Hari ini tanggal 15 (hari Senin). Sesi tenis meja dengan guru (一般※) berikutnya adalah Hari Senin ke-4 (第4月曜日) di 西町. Jadi pilihan yang benar adalah '第4月曜に西町で'.",
     "mondai": 6,
     "number": 34
   },
@@ -628,15 +628,15 @@ export const bunpouDokkaiN4B: LegacyQuestion[] = [
     "section": "Reading",
     "type": "reading-complex",
     "question": "一番早くできるのはどれですか。",
-    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【今月のカレンダー】\n| 体育館 | 曜日 | 種目 | 利用区分 |\n| :--- | :--- | :--- | :--- |\n| 西町 | 第1木曜日 | 卓球 | 一般・※ |\n| 東町 | 第1木曜日 | バレーボール | グループ |\n| 西町 | 第2月曜日 | 卓球 | 一般 |\n| 西町 | 第3水曜日 | 卓球 | 一般・※ |\n| 東町 | 第3水曜日 | バレーボール | グループ |\n| 西町 | 第4月曜日 | 卓球 | 一般 |\n| 北町 | 第4土曜日 | バレーボール | グループ |\n| 南町 | 第4土曜日 | 卓球 | 一般 |\n\n※10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n※「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n※友だち12人でバレーボールがしたいです。今日は10日です。一番早くできるのはどれですか。",
+    "passage": "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【たっきゅう】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1木曜日 | 西町 | グループ★ |\n| 第1木曜日 | 東町 | 一般※ |\n| 第2月曜日 | 西町 | 一般※ |\n| 第2月曜日 | 東町 | グループ★ |\n| 第3月曜日 | 西町 | グループ★ |\n| 第3月曜日 | 東町 | 一般 |\n| 第3木曜日 | 西町 | 一般 |\n| 第3木曜日 | 東町 | グループ★ |\n| 第4月曜日 | 西町 | 一般※ |\n\n【バレーボール】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1土曜日 | 北町 | 一般 |\n| 第1土曜日 | 南町 | グループ★ |\n| 第2土曜日 | 北町 | グループ★ |\n| 第2土曜日 | 南町 | 一般 |\n| 第3土曜日 | 北町 | 一般※ |\n| 第4土曜日 | 北町 | 一般 |\n| 第4土曜日 | 南町 | グループ★ |\n\n〇 10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n★「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n【今月のカレンダー】\n| 日 | 月 | 火 | 水 | 木 | 金 | 土 |\n| :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| | 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | 8 | 9 | 10 | 11 | 12 | 13 |\n| 14 | 15 | 16 | 17 | 18 | 19 | 20 |\n| 21 | 22 | 23 | 24 | 25 | 26 | 27 |\n| 28 | 29 | 30 | 31 | | | |\n\n※友だち12人でバレーボールがしたいです。今日は10日です。一番早くできるのはどれですか。",
     "options": [
       "第2土曜に北町で",
       "第2土曜に南町で",
       "第4土曜に北町で",
       "第4土曜に南町で"
     ],
-    "correct": 2,
-    "explanation": "Mereka berjumlah 12 orang (kategori 'グループ'), sehingga wajib melakukan reservasi minimal 1 minggu sebelum hari H. Karena hari ini tanggal 10, tanggal paling awal untuk bermain adalah tanggal 17 ke atas. Berdasarkan jadwal, pilihan yang tersedia untuk latihan voli grup adalah hari Sabtu ke-4 (第4土曜日) di 北町.",
+    "correct": 3,
+    "explanation": "Mereka berjumlah 12 orang (kategori 'グループ'), sehingga wajib melakukan reservasi minimal 1 minggu sebelum hari H. Karena hari ini tanggal 10, tanggal paling awal untuk bermain adalah tanggal 17 ke atas. Berdasarkan jadwal voli, sesi voli grup (グループ★) terdekat setelah tanggal 17 adalah hari Sabtu ke-4 (第4土曜日) di 南町. Jadi pilihan yang benar adalah '第4土曜に南町で'.",
     "mondai": 6,
     "number": 35
   }
