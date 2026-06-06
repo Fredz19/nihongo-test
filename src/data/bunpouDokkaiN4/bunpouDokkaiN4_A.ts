@@ -39,15 +39,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "A「きれいなホテルの（　　）部屋ですね。」\nB「そうですか。ありがとうございます。」",
+    "question": "A「かわいいスカートですね。」\nB「ええ、友だち（　　）くれたんです。」",
     "options": [
-      "ような",
-      "ようの",
-      "みたい",
-      "らしい"
+      "に",
+      "が",
+      "を",
+      "で"
     ],
-    "correct": 0,
-    "explanation": "Pola 〜のような (seperti...) digunakan untuk membandingkan atau memberikan contoh tentang suatu kata benda. Di sini kamar tersebut dibandingkan keindahannya dengan hotel (ホテルのような部屋).",
+    "correct": 1,
+    "explanation": "Pola くれる (memberi kepada saya) menggunakan partikel 「が」 untuk menandai subjek pemberi (dalam hal ini, teman).",
     "mondai": 1,
     "number": 2
   },
@@ -56,15 +56,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "10年前、その絵をいくらで（　　）、覚えていますか。",
+    "question": "先月は恋人の誕生日があったから、10万円（　　）つかってしまいました。",
     "options": [
-      "買うか",
-      "買った",
-      "買って",
-      "買ったか"
+      "も",
+      "が",
+      "しか",
+      "まで"
     ],
-    "correct": 3,
-    "explanation": "Pola kata tanya + KK bentuk biasa + か digunakan untuk membuat anak kalimat tanya di dalam kalimat utama. Kalimat ini menanyakan apakah ingat dengan harga berapa membeli lukisan itu (買ったか).",
+    "correct": 0,
+    "explanation": "Partikel 「も」 diletakkan setelah jumlah/nominal untuk menekankan jumlah yang sangat besar atau melebihi perkiraan (sampai menghabiskan 100 ribu yen).",
     "mondai": 1,
     "number": 3
   },
@@ -73,15 +73,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "先月は恋人の誕生日があったから、10万円（　　）つかってしまいました。",
+    "question": "A「きれいな部屋ですね。ホテルの（　　）部屋ですね。」\nB「そうですか。ありがとうございます。」",
     "options": [
-      "も",
-      "が",
-      "で",
-      "を"
+      "ような",
+      "ように",
+      "みたい",
+      "みたいに"
     ],
     "correct": 0,
-    "explanation": "Partikel 「も」 diletakkan setelah jumlah/nominal untuk menekankan jumlah yang sangat besar atau melebihi perkiraan (sampai menghabiskan 100 ribu yen).",
+    "explanation": "Pola 〜のような (seperti...) digunakan untuk membandingkan atau memberikan contoh tentang suatu kata benda. Di sini kamar tersebut dibandingkan keindahannya dengan hotel (ホテルのような部屋).",
     "mondai": 1,
     "number": 4
   },
@@ -209,15 +209,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "A「かわいいスカートですね。」\nB「ええ、友だち（　　）くれたんです。」",
+    "question": "10年前、その絵をいくらで（　　）、覚えていますか。",
     "options": [
-      "に",
-      "が",
-      "を",
-      "で"
+      "買うか",
+      "買った",
+      "買って",
+      "買ったか"
     ],
-    "correct": 1,
-    "explanation": "Pola くれる (memberi kepada saya) menggunakan partikel 「が」 untuk menandai subjek pemberi (dalam hal ini, teman).",
+    "correct": 3,
+    "explanation": "Pola kata tanya + KK bentuk biasa + か digunakan untuk membuat anak kalimat tanya di dalam kalimat utama. Kalimat ini menanyakan apakah ingat dengan harga berapa membeli lukisan itu (買ったか).",
     "mondai": 1,
     "number": 12
   },
@@ -226,7 +226,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "駅で電車に（　　）としたときに、かばんがないことに気づきました。",
+    "question": "駅で電車に（　　）としたときに、かばんがないことに気がついた。",
     "options": [
       "乗れる",
       "乗ろう",
@@ -260,7 +260,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-1",
-    "question": "A「さっき、駅でリンさんを見ましたよ。」\nB「それは、リンさんではありません。リンさんは国に帰りました（　　）でしょう。」",
+    "question": "A「さっき、駅でリンさんを見ましたよ。」\nB「それは、リンさんではありません。リンさんは国に帰りましたから、ここにいる（　　）でしょう。」",
     "options": [
       "こと",
       "ことがない",
@@ -277,12 +277,12 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "朝からテレビ ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 勉強しなさい。",
+    "question": "朝から晩 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 勉強しなさい。",
     "options": [
-      "ばかり",
+      "テレビ",
       "見て",
-      "い",
-      "ないで"
+      "ばかり",
+      "まで"
     ],
     "correct": 2,
     "explanation": "Urutan yang benar: テレビ [ばかり (0)] [見て (1)] [★い (2)] [ないで (3)] 勉強しなさい。Pola 〜てばかりいないで berarti 'jangan hanya melakukan ... saja'.",
@@ -296,12 +296,12 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "type": "grammar-2",
     "question": "リンさんは、会社の仕事で、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ と言っていました。",
     "options": [
-      "日本へ",
+      "なった",
       "行く",
-      "こと",
-      "になった"
+      "大阪に",
+      "ことに"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Urutan yang benar: [日本へ (0)] [行く (1)] [★こと (2)] [になった (3)] と言っていました。Pola 〜ことになる menyatakan suatu keputusan/keadaan yang telah ditetapkan.",
     "mondai": 2,
     "number": 17
@@ -313,12 +313,12 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "type": "grammar-2",
     "question": "パーティーで、 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ わかりません。",
     "options": [
-      "マリアさん",
-      "が",
       "歌う",
-      "かどうか"
+      "が",
+      "マリアさん",
+      "どうか"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Urutan yang benar: [マリアさん (0)] [が (1)] [★歌う (2)] [かどうか (3)] わかりません。Pola 〜かどうか digunakan untuk kalimat tanya tidak langsung (apakah ... atau tidak).",
     "mondai": 2,
     "number": 18
@@ -331,11 +331,11 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "question": "山田さんの ＿＿＿ ＿★＿ ＿＿＿ ＿＿＿ です。",
     "options": [
       "カメラは",
-      "わたし",
-      "のほど",
-      "使いやすくない"
+      "使いやすくない",
+      "わたしの",
+      "ほど"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Urutan yang benar: [カメラは (0)] [★わたし (1)] [のほど (2)] [使いやすくない (3)] です。Pola 〜ほど〜ない menyatakan perbandingan negatif ('tidak se-... milik saya').",
     "mondai": 2,
     "number": 19
@@ -345,14 +345,14 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "level": "N4",
     "section": "Grammar",
     "type": "grammar-2",
-    "question": "リンさんは、来月 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ そうです。",
+    "question": "リンさんは、来月 ＿＿＿ ＿＿＿ ＿★＿ ＿＿＿ 行きたいそうです。",
     "options": [
-      "国へ",
-      "帰ったら",
       "家の近くの",
-      "公園へ行きたい"
+      "国へ",
+      "公園へ",
+      "帰ったら"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Urutan yang benar: [国へ (0)] [帰ったら (1)] [★家の近くの (2)] [公園へ行きたい (3)] そうです。Urutan kalimat pengandaian conditonal 〜たら.",
     "mondai": 2,
     "number": 20
@@ -363,7 +363,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　21　）に入る最もよいものを選んでください。",
-    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
+    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）練習したのに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m3_g1.mp3",
     "options": [
       "帰ったところ",
@@ -382,7 +382,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　22　）に入る最もよいものを選んでください。",
-    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
+    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）練習したのに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m3_g1.mp3",
     "options": [
       "から",
@@ -401,7 +401,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　23　）に入る最もよいものを選んでください。",
-    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
+    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）練習したのに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m3_g1.mp3",
     "options": [
       "こんなに",
@@ -420,15 +420,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　24　）に入る最もよいものを選んでください。",
-    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
+    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）練習したのに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m3_g2.mp3",
     "options": [
-      "聞かれません",
-      "聞かせてください",
-      "聞きました",
-      "聞くつもり"
+      "聞けました",
+      "聞かれました",
+      "聞けませんでした",
+      "聞かれませんでした"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Dalam kalimat pasif, 'tidak ditanya' dinyatakan dengan 聞かれませんでした (dari kata 聞く diubah ke bentuk pasif 聞かれる).",
     "mondai": 3,
     "number": 24
@@ -439,15 +439,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "section": "Grammar",
     "type": "grammar-3",
     "question": "（　25　）に入る最もよいものを選んでください。",
-    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）のに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
+    "passage": "前田先生\n先生、こんばんは。リンです。\n今、大学から家に（　21　）です。電車の中でこのメールを書いています。\n午前は日本語の試験、午後は大学の先生と一人ずつ話をしました。\n日本語の試験は、読んで答える問題（　22　）で、漢字やぶんぽうの問題はありませんでした。\n午後は田中先生という先生と話をしました。\n大学に入りたい理由や、将来どんな仕事がしたいかなどを質問されました。\n前田先生と一緒に（　23　）練習したのに、うまく話せませんでした。\nアルバイトをするつもりがあるかは（　24　）でした。\n結果がどうなるか心配です。\nわかり次第、（　25　）と思います。\nリン",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m3_g1.mp3",
     "options": [
-      "ご連絡したいと",
-      "ご連絡させていただきますと",
+      "ご連絡していただきたいと",
+      "ご連絡させていただきたいと",
       "ご連絡してあげたいと",
-      "ご連絡させていただきたいと"
+      "ご連絡してもらいたいと"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Sebagai murid kepada guru, bentuk sopan merendahkan diri (humble) yang tepat untuk menyatakan keinginan menghubungi adalah ご連絡させていただきたい (ingin berizin menghubungi Anda).",
     "mondai": 3,
     "number": 25
@@ -463,8 +463,8 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "options": [
       "安いものしか買いたくない人が多いから",
       "スーパーよりコンビニのほうが安いから",
-      "必要なものだけを近くで買いたい人が増えたから",
-      "コンビニには食べ物しか置いていないから"
+      "必要なものだけ買いたい人がふえたから",
+      "コンビニには食べ物が置いてあるから"
     ],
     "correct": 2,
     "explanation": "Berdasarkan teks, orang-orang seperti lansia, orang yang tinggal sendiri, atau keluarga bekerja lebih memilih membeli barang yang benar-benar dibutuhkan secara mudah di toko terdekat (konbini) daripada pergi to supermarket yang jauh.",
@@ -483,7 +483,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
       "バリバリ型の人とコツコツ型の人",
       "バリバリ型の人だけ",
       "コツコツ型の人だけ",
-      "一人で静かに仕事をしたい人だけ"
+      "静かに仕事をしたい人だけ"
     ],
     "correct": 0,
     "explanation": "Teks menyatakan bahwa untuk membuat perusahaan yang baik, tidak bisa hanya mengumpulkan satu tipe orang saja. Baik tipe 'baribari' (bersemangat) maupun 'kotsukotsu' (tekun bekerja diam-diam) keduanya sangat penting.",
@@ -499,10 +499,10 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "passage": "サッカーチームのみなさんへ\n次の練習は南運動場で行います。南運動場は野田市の運動場です。規則があるので注意してください。\n練習の日、運動場入り口の駐車場は使えません。もし車で来るときは、近くのコインパーキング（1時間200円の駐車場）を使ってください。近くの道には絶対に車を止めないこと。近所の人が困ります。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m4_q3.mp3",
     "options": [
-      "近くの道に車を止める。",
-      "近くのコインパーキングに車を止める。",
-      "南運動場の使っていないところに車を止める。",
-      "運動場入り口の駐車場に車を止める。"
+      "近所の人におねがいして、近くの道に車をとめる。",
+      "近くのコインパーキングに車をとめる。",
+      "南運動場の使っていないところに車をとめる。",
+      "お金をはらって、運動場入り口の駐車場に車をとめる。"
     ],
     "correct": 1,
     "explanation": "Pengumuman menyatakan bahwa tempat parkir di pintu masuk lapangan tidak bisa digunakan, dan dilarang keras memarkir mobil di jalan sekitar. Pemain yang membawa mobil disarankan menggunakan parkir koin terdekat.",
@@ -515,15 +515,15 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
     "section": "Reading",
     "type": "reading-short",
     "question": "この動物園ではパンダは何を食べていますか。",
-    "passage": "パンダは毛の色が白と黒にはっきりと分かれている、珍しい動物として知られています。そのパンダが2頭、去年の4月からこの動物園にいます。毎日たくさんの人が見に来ます。パンダは何を食べているのでしょうか。この動物園では、1日に20kgから30kgの竹を食べさせていて、そのほかにニンジンやリンゴなども1日に3回から4回食べさせているそうです。",
+    "passage": "パンダは中国の高い山の中にいて、毛の色が白と黒にはっきりとわかれている、めずらしい動物として知られている。そのパンダが2頭、去年の4月、この動物園にやってきた。パンダは竹しか食べないと言われているが、ここでは何を食べているのだろう。この動物園では1日に20kgから30kgの竹を食べさせていて、そのほかにニンジンやリンゴなども3回から4回食べさせているそうだ。",
     "audioUrl": "https://ozdsyadckqfwdhznjkmf.supabase.co/storage/v1/object/public/jlpt-audio/N4-Bunpou-Dokkai/n4_bunpou_dokkai_a_m4_q4.mp3",
     "options": [
-      "竹だけを食べている。",
-      "ニンジンやリンゴだけを食べている。",
       "竹も食べるが、ニンジンやリンゴなども食べている。",
-      "何も食べないで毎日寝ている。"
+      "竹は食べないが、ニンジンやリンゴなどを食べている。",
+      "ニンジンやリンゴなどもあげているが、竹しか食べない。",
+      "ニンジンやリンゴは食べないが、竹は20kgから30kg食べている。"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Berdasarkan teks, kebun binatang tersebut memberi makan panda 20kg-30kg bambu per hari, dan selain itu juga memberikan wortel serta apel sebanyak 3-4 kali sehari.",
     "mondai": 4,
     "number": 29
@@ -599,7 +599,7 @@ export const bunpouDokkaiN4A: LegacyQuestion[] = [
       "女性が外ではたらけるように、男性は家の仕事を手つだってほしい",
       "男性は、同じ会社ではたらく女性をもっと大切にしてほしい"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Teks menyatakan bahwa sekarang banyak wanita muda yang berpikir bahwa setelah menikah, mereka ingin sibuk dengan urusan rumah tangga dan fokus pada hal-hal selain pekerjaan (外ではたらくよりも、家の仕事をしたい).",
     "mondai": 5,
     "number": 33
