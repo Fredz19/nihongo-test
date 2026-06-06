@@ -759,6 +759,7 @@ const tipeBN5Questions: LegacyQuestion[] = [
     "correct": 1,
     "explanation": "正解は「おかえりなさい」です。外から帰ってきた人を迎える言葉です。",
     "audioUrl": "/audio/m03_q01.mp3",
+    "imageUrl": "/images/m03_q01.png",
     "mondai": 3,
     "number": 1
   },
@@ -768,15 +769,16 @@ const tipeBN5Questions: LegacyQuestion[] = [
     "section": "Listening",
     "type": "audio-listening",
     "isImageOption": false,
-    "question": "2番：先生の部屋に入ります。何と言いますか。",
+    "question": "2番：先生的部屋に入ります。何と言いますか。",
     "options": [
       "1. 気をつけます。",
       "2. 入りますか。",
       "3. 失礼します。"
     ],
     "correct": 2,
-    "explanation": "正解は「失礼します」です。目上の人の部屋に入るときの正しい挨拶です。",
+    "explanation": "正解は「失礼します」です。目上的人の部屋に入るときの正しい挨拶です。",
     "audioUrl": "/audio/m03_q02.mp3",
+    "imageUrl": "/images/m03_q02.png",
     "mondai": 3,
     "number": 2
   },
@@ -786,15 +788,16 @@ const tipeBN5Questions: LegacyQuestion[] = [
     "section": "Listening",
     "type": "audio-listening",
     "isImageOption": false,
-    "question": "3番：友達が教室の窓を開けました。風が強いです。友達に何と言いますか。",
+    "question": "3番：友達が教室的窓を開けました。風が強いです。友達に何と言いますか。",
     "options": [
       "1. あ、窓を開けないでください。",
       "2. あ、窓を開けましょうか。",
       "3. あ、窓を閉めないでください。"
     ],
     "correct": 0,
-    "explanation": "正解は「あ、窓を開けないでください」です。風が強いので開けるのをやめてほしい時に使います。",
+    "explanation": "正解は「あ、窓を開けないでください」です。風が強いので開ける的をやめてほしい時に使います。",
     "audioUrl": "/audio/m03_q03.mp3",
+    "imageUrl": "/images/m03_q03.png",
     "mondai": 3,
     "number": 3
   },
@@ -804,15 +807,16 @@ const tipeBN5Questions: LegacyQuestion[] = [
     "section": "Listening",
     "type": "audio-listening",
     "isImageOption": false,
-    "question": "4番：映画館の中です。座りたいです。なんと言いますか。",
+    "question": "4番：映画館的中です。座りたいです。なんと言いますか。",
     "options": [
       "1. ここいいですか。",
       "2. ここどうぞ。",
       "3. ここいますよ。"
     ],
     "correct": 0,
-    "explanation": "正解は「ここいいですか」です。席が空いているか確認する自然な表現です。",
+    "explanation": "正解は「ここいいですか」です。席が空いているか確認する自然的表現です。",
     "audioUrl": "/audio/m03_q04.mp3",
+    "imageUrl": "/images/m03_q04.png",
     "mondai": 3,
     "number": 4
   },
@@ -831,6 +835,7 @@ const tipeBN5Questions: LegacyQuestion[] = [
     "correct": 1,
     "explanation": "正解は「はい取ります」です。撮影 of 直前に相手に合図を送る言葉です。",
     "audioUrl": "/audio/m03_q05.mp3",
+    "imageUrl": "/images/m03_q05.png",
     "mondai": 3,
     "number": 5
   },
