@@ -703,7 +703,188 @@ export const superMoshiN4BunpouQuestions_B = [
     level: "N4",
     section: "Reading",
     type: "reading-complex",
-    passage: "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【たっきゅう】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1木曜日 | 西町 | グループ★ |\n| 第1木曜日 | 東町 | 一般※ |\n| 第2月曜日 | 西町 | 一般※ |\n| 第2月曜日 | 東町 | グループ★ |\n| 第3月曜日 | 西町 | グループ★ |\n| 第3月曜日 | 東町 | 一般 |\n| 第3木曜日 | 西町 | 一般 |\n| 第3木曜日 | 東町 | グループ★ |\n| 第4月曜日 | 西町 | 一般※ |\n\n【バレーボール】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1土曜日 | 北町 | 一般 |\n| 第1土曜日 | 南町 | グループ★ |\n| 第2土曜日 | 北町 | グループ★ |\n| 第2土曜日 | 南町 | 一般 |\n| 第3土曜日 | 北町 | 一般※ |\n| 第4土曜日 | 北町 | 一般 |\n| 第4土曜日 | 南町 | グループ★ |\n\n〇 10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n★「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n【今月のカレンダー】\n| 日 | 月 | 火 | 水 | 木 | 金 | 土 |\n| :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| | 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | 8 | 9 | 10 | 11 | 12 | 13 |\n| 14 | 15 | 16 | 17 | 18 | 19 | 20 |\n| 21 | 22 | 23 | 24 | 25 | 26 | 27 |\n| 28 | 29 | 30 | 31 | | | |\n\n※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日です。いちばん早くできるのはどれですか。",
+    passage: `<div class="space-y-6">
+  <div class="border-b pb-3 mb-4">
+    <h3 class="text-xl font-bold text-[#1d3557]">さくら市体育館の利用案内</h3>
+    <div class="flex flex-col sm:flex-row gap-2 sm:gap-4 mt-2 text-sm text-gray-600">
+      <span>〇 <strong>料金：</strong>おとな 200円、小中学生 100円</span>
+      <span>〇 くつ以外の道具は借りられます。</span>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+      <div class="bg-[#1d3557] px-4 py-2 text-white font-bold text-center">
+        たっきゅう (卓球)
+      </div>
+      <table class="w-full text-left border-collapse text-sm">
+        <thead>
+          <tr class="bg-slate-100 border-b border-slate-200 text-slate-700">
+            <th class="p-3 font-semibold">曜日</th>
+            <th class="p-3 font-semibold">場所</th>
+            <th class="p-3 font-semibold">区分</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-100 text-slate-700">
+          <tr>
+            <td class="p-3 font-medium" rowspan="2">第1木曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第2月曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3 font-medium" rowspan="2">第3月曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第3木曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3 font-medium">第4月曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+      <div class="bg-[#457b9d] px-4 py-2 text-white font-bold text-center">
+        バレーボール (排球)
+      </div>
+      <table class="w-full text-left border-collapse text-sm">
+        <thead>
+          <tr class="bg-slate-100 border-b border-slate-200 text-slate-700">
+            <th class="p-3 font-semibold">曜日</th>
+            <th class="p-3 font-semibold">場所</th>
+            <th class="p-3 font-semibold">区分</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-100 text-slate-700">
+          <tr>
+            <td class="p-3 font-medium" rowspan="2">第1土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr>
+            <td class="p-3">南町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第2土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">南町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr>
+            <td class="p-3 font-medium">第3土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第4土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">南町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="bg-slate-50 p-4 rounded-xl text-xs space-y-2 border border-slate-100 text-slate-600 leading-relaxed">
+    <div>〇 <strong>10人以上</strong>での利用は「グループ」、それ以下での利用は「一般」となります。</div>
+    <div>★<strong>「グループ」</strong>は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）</div>
+    <div>※<strong>「※」</strong>は先生に教えてもらえます。</div>
+  </div>
+
+  <div class="flex flex-col items-center justify-center border border-slate-200 rounded-xl bg-white p-4 max-w-sm mx-auto shadow-sm">
+    <h4 class="text-sm font-bold text-slate-700 mb-3 flex items-center gap-1.5">
+      <svg class="w-4 h-4 text-indigo-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5"></path></svg>
+      今月のカレンダー
+    </h4>
+    <div class="grid grid-cols-7 gap-1 text-center w-full">
+      <div class="text-xs font-bold text-red-500 py-1">日</div>
+      <div class="text-xs font-bold text-slate-500 py-1">月</div>
+      <div class="text-xs font-bold text-slate-500 py-1">火</div>
+      <div class="text-xs font-bold text-slate-500 py-1">水</div>
+      <div class="text-xs font-bold text-slate-500 py-1">木</div>
+      <div class="text-xs font-bold text-slate-500 py-1">金</div>
+      <div class="text-xs font-bold text-slate-500 py-1">土</div>
+      
+      <div class="text-sm py-1.5 text-slate-300"></div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">1</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">2</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">3</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">4</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">5</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">6</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">7</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">8</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">9</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">10</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">11</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">12</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">13</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">14</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">15</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">16</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">17</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">18</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">19</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">20</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">21</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">22</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">23</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">24</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">25</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">26</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">27</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">28</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">29</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">30</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">31</div>
+      <div class="text-sm py-1.5 text-slate-300"></div>
+      <div class="text-sm py-1.5 text-slate-300"></div>
+      <div class="text-sm py-1.5 text-slate-300"></div>
+    </div>
+  </div>
+</div>
+
+※友だち4人で卓球（たっきゅう）がしたいです。はじめてなので先生に教えてもらいたいです。今日は15日です。いちばん早くできるのはどれですか。`,
     question: "いちばん早くできるのはどれですか。",
     options: ["第2月曜に西町で", "第3月曜に東町で", "第3水曜に西町で", "第4月曜に西町で"],
     correct: 3,
@@ -713,7 +894,188 @@ export const superMoshiN4BunpouQuestions_B = [
     level: "N4",
     section: "Reading",
     type: "reading-complex",
-    passage: "【さくら市体育館の利用案内】\n〇 料金：おとな 200円、小中学生 100円\n〇 くつ以外の道具は借りられます。\n\n【たっきゅう】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1木曜日 | 西町 | グループ★ |\n| 第1木曜日 | 東町 | 一般※ |\n| 第2月曜日 | 西町 | 一般※ |\n| 第2月曜日 | 東町 | グループ★ |\n| 第3月曜日 | 西町 | グループ★ |\n| 第3月曜日 | 東町 | 一般 |\n| 第3木曜日 | 西町 | 一般 |\n| 第3木曜日 | 東町 | グループ★ |\n| 第4月曜日 | 西町 | 一般※ |\n\n【バレーボール】\n| 曜日 | 場所 | 区分 |\n| :--- | :--- | :--- |\n| 第1土曜日 | 北町 | 一般 |\n| 第1土曜日 | 南町 | グループ★ |\n| 第2土曜日 | 北町 | グループ★ |\n| 第2土曜日 | 南町 | 一般 |\n| 第3土曜日 | 北町 | 一般※ |\n| 第4土曜日 | 北町 | 一般 |\n| 第4土曜日 | 南町 | グループ★ |\n\n〇 10人以上での利用は「グループ」、それ以下での利用は「一般」となります。\n★「グループ」は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）\n※「※」は先生に教えてもらえます。\n\n【今月のカレンダー】\n| 日 | 月 | 火 | 水 | 木 | 金 | 土 |\n| :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| | 1 | 2 | 3 | 4 | 5 | 6 |\n| 7 | 8 | 9 | 10 | 11 | 12 | 13 |\n| 14 | 15 | 16 | 17 | 18 | 19 | 20 |\n| 21 | 22 | 23 | 24 | 25 | 26 | 27 |\n| 28 | 29 | 30 | 31 | | | |\n\n※友だち12人でバレーボールがしたいです。今日は10日です。一番早くできるのはどれですか。",
+    passage: `<div class="space-y-6">
+  <div class="border-b pb-3 mb-4">
+    <h3 class="text-xl font-bold text-[#1d3557]">さくら市体育館の利用案内</h3>
+    <div class="flex flex-col sm:flex-row gap-2 sm:gap-4 mt-2 text-sm text-gray-600">
+      <span>〇 <strong>料金：</strong>おとな 200円、小中学生 100円</span>
+      <span>〇 くつ以外の道具は借りられます。</span>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+      <div class="bg-[#1d3557] px-4 py-2 text-white font-bold text-center">
+        たっきゅう (卓球)
+      </div>
+      <table class="w-full text-left border-collapse text-sm">
+        <thead>
+          <tr class="bg-slate-100 border-b border-slate-200 text-slate-700">
+            <th class="p-3 font-semibold">曜日</th>
+            <th class="p-3 font-semibold">場所</th>
+            <th class="p-3 font-semibold">区分</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-100 text-slate-700">
+          <tr>
+            <td class="p-3 font-medium" rowspan="2">第1木曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第2月曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3 font-medium" rowspan="2">第3月曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第3木曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">東町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr>
+            <td class="p-3 font-medium">第4月曜日</td>
+            <td class="p-3">西町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+      <div class="bg-[#457b9d] px-4 py-2 text-white font-bold text-center">
+        バレーボール (排球)
+      </div>
+      <table class="w-full text-left border-collapse text-sm">
+        <thead>
+          <tr class="bg-slate-100 border-b border-slate-200 text-slate-700">
+            <th class="p-3 font-semibold">曜日</th>
+            <th class="p-3 font-semibold">場所</th>
+            <th class="p-3 font-semibold">区分</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-slate-100 text-slate-700">
+          <tr>
+            <td class="p-3 font-medium" rowspan="2">第1土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr>
+            <td class="p-3">南町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第2土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">南町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr>
+            <td class="p-3 font-medium">第3土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-indigo-50 text-indigo-700 rounded text-xs font-semibold border border-indigo-100">一般※</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3 font-medium" rowspan="2">第4土曜日</td>
+            <td class="p-3">北町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-slate-100 text-slate-600 rounded text-xs font-medium">一般</span></td>
+          </tr>
+          <tr class="bg-slate-50/50">
+            <td class="p-3">南町</td>
+            <td class="p-3"><span class="px-2 py-0.5 bg-amber-50 text-amber-700 rounded text-xs font-semibold border border-amber-100">グループ★</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="bg-slate-50 p-4 rounded-xl text-xs space-y-2 border border-slate-100 text-slate-600 leading-relaxed">
+    <div>〇 <strong>10人以上</strong>での利用は「グループ」、それ以下での利用は「一般」となります。</div>
+    <div>★<strong>「グループ」</strong>は、かならず1週間前までに予約してください。（「一般」は、予約のひつようはありません。）</div>
+    <div>※<strong>「※」</strong>は先生に教えてもらえます。</div>
+  </div>
+
+  <div class="flex flex-col items-center justify-center border border-slate-200 rounded-xl bg-white p-4 max-w-sm mx-auto shadow-sm">
+    <h4 class="text-sm font-bold text-slate-700 mb-3 flex items-center gap-1.5">
+      <svg class="w-4 h-4 text-indigo-500" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5"></path></svg>
+      今月のカレンダー
+    </h4>
+    <div class="grid grid-cols-7 gap-1 text-center w-full">
+      <div class="text-xs font-bold text-red-500 py-1">日</div>
+      <div class="text-xs font-bold text-slate-500 py-1">月</div>
+      <div class="text-xs font-bold text-slate-500 py-1">火</div>
+      <div class="text-xs font-bold text-slate-500 py-1">水</div>
+      <div class="text-xs font-bold text-slate-500 py-1">木</div>
+      <div class="text-xs font-bold text-slate-500 py-1">金</div>
+      <div class="text-xs font-bold text-slate-500 py-1">土</div>
+      
+      <div class="text-sm py-1.5 text-slate-300"></div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">1</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">2</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">3</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">4</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">5</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">6</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">7</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">8</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">9</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">10</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">11</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">12</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">13</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">14</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">15</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">16</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">17</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">18</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">19</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">20</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">21</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">22</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">23</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">24</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">25</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">26</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">27</div>
+      
+      <div class="text-sm py-1.5 text-red-500 font-semibold">28</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">29</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">30</div>
+      <div class="text-sm py-1.5 text-slate-700 font-medium">31</div>
+      <div class="text-sm py-1.5 text-slate-300"></div>
+      <div class="text-sm py-1.5 text-slate-300"></div>
+      <div class="text-sm py-1.5 text-slate-300"></div>
+    </div>
+  </div>
+</div>
+
+※友だち12人でバレーボールがしたいです。今日は10日です。一番早くできるのはどれですか。`,
     question: "一番早くできるのはどれですか。",
     options: [
       "第2土曜に北町で",
