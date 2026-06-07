@@ -63,7 +63,7 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Session storage cache helpers
 function getCacheKey(level: string, slug: string) {
-  return `jlpt_questions_v3_${level}_${slug}`;
+  return `jlpt_questions_v7_${level}_${slug}`;
 }
 function readCache(key: string): { questions: Question[]; template: ExamTemplate } | null {
   try {
