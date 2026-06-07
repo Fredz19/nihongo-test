@@ -34,13 +34,13 @@ export default function MockTest() {
     setQuestionIndex(index);
   };
 
-  const [selectedPackage, setSelectedPackage] = useState<'1' | '2' | '3'>('1');
+  const [selectedPackage, setSelectedPackage] = useState<'1' | '2' | '3' | '4'>('1');
   const [examType, setExamType] = useState<'choukai' | 'mojigoi' | 'bunpou'>('choukai');
   const [selectedMode, setSelectedMode] = useState<'simulasi' | 'belajar'>('simulasi');
   const [showConfirmEnd, setShowConfirmEnd] = useState(false);
   const [showConfirmReset, setShowConfirmReset] = useState(false);
   const [isSaving, setIsSaving] = useState(false);
-
+  
   const { saveResult } = useTestHistory();
 
   // Determine exam template slug based on level, exam type and selected package
@@ -56,7 +56,7 @@ export default function MockTest() {
   // Load or auto-resume test session
   useEffect(() => {
     if (!activeSession || activeSession.level !== level) {
-      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
       startTest(level as any, selectedMode, pkgLetter, templateSlug);
     } else if (activeSession.status === 'completed') {
       navigate('/results', { replace: true });
@@ -71,7 +71,7 @@ export default function MockTest() {
           setExamType('choukai');
         }
         const pkgNum = activeSession.slug.split('-').pop();
-        if (pkgNum === '1' || pkgNum === '2' || pkgNum === '3') {
+        if (pkgNum === '1' || pkgNum === '2' || pkgNum === '3' || pkgNum === '4') {
           setSelectedPackage(pkgNum as any);
         }
       }
@@ -140,7 +140,7 @@ export default function MockTest() {
   const showInstructions = status === 'instruction';
 
   const handleStart = () => {
-    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
     startTest(level as any, selectedMode, pkgLetter, templateSlug);
     setStatus('running');
   };
@@ -177,7 +177,7 @@ export default function MockTest() {
 
   const handleRestart = () => {
     resetSession();
-    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
     startTest(level as any, selectedMode, pkgLetter, templateSlug);
     setShowConfirmReset(false);
   };
@@ -201,17 +201,18 @@ export default function MockTest() {
                 <div className="grid grid-cols-3 gap-2">
                   <button
                     type="button"
+                    disabled={selectedPackage === '4'}
                     onClick={() => {
                       setExamType('choukai');
                       const nextSlug = `${level.toLowerCase()}-tryout-${selectedPackage}`;
-                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
                     className={`py-2 px-1 text-[11px] rounded-lg font-medium transition-all ${
                       examType === 'choukai'
                         ? 'bg-indigo text-white shadow-sm font-semibold'
                         : 'bg-white text-sumi border hover:bg-gray-100'
-                    }`}
+                    } ${selectedPackage === '4' ? 'opacity-50 cursor-not-allowed' : ''}`}
                   >
                     🎧 Choukai
                   </button>
@@ -220,7 +221,7 @@ export default function MockTest() {
                     onClick={() => {
                       setExamType('mojigoi');
                       const nextSlug = `${level.toLowerCase()}-mojigoi-${selectedPackage}`;
-                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
                     className={`py-2 px-1 text-[11px] rounded-lg font-medium transition-all ${
@@ -236,7 +237,7 @@ export default function MockTest() {
                     onClick={() => {
                       setExamType('bunpou');
                       const nextSlug = `${level.toLowerCase()}-bunpou-${selectedPackage}`;
-                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                      const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
                       startTest(level as any, selectedMode, pkgLetter, nextSlug);
                     }}
                     className={`py-2 px-1 text-[11px] rounded-lg font-medium transition-all ${
@@ -254,12 +255,20 @@ export default function MockTest() {
             {/* Package Selector */}
             <div className="p-3 bg-gray-50 rounded-xl border border-gray-100">
               <label className="text-xs font-semibold text-sumi block mb-2">PILIH PAKET TRY OUT</label>
-              <div className="grid grid-cols-3 gap-2">
-                {[
-                  { id: '1', name: 'Try Out 1', code: 'Paket A' },
-                  { id: '2', name: 'Try Out 2', code: 'Paket B' },
-                  { id: '3', name: 'Try Out 3', code: 'Paket C' },
-                ].map((pkg) => {
+              <div className={`grid ${level === 'N4' ? 'grid-cols-4' : 'grid-cols-3'} gap-2`}>
+                {(level === 'N4'
+                  ? [
+                      { id: '1', name: 'Try Out 1', code: 'Paket A' },
+                      { id: '2', name: 'Try Out 2', code: 'Paket B' },
+                      { id: '3', name: 'Try Out 3', code: 'Paket C' },
+                      { id: '4', name: 'Try Out 4', code: 'Paket D' },
+                    ]
+                  : [
+                      { id: '1', name: 'Try Out 1', code: 'Paket A' },
+                      { id: '2', name: 'Try Out 2', code: 'Paket B' },
+                      { id: '3', name: 'Try Out 3', code: 'Paket C' },
+                    ]
+                ).map((pkg) => {
                   const isDisabled = (level !== 'N5' && level !== 'N4') && pkg.id !== '1';
                   return (
                     <button
@@ -267,12 +276,20 @@ export default function MockTest() {
                       type="button"
                       disabled={isDisabled}
                       onClick={() => {
-                        setSelectedPackage(pkg.id as any);
+                        const targetPkg = pkg.id as '1' | '2' | '3' | '4';
+                        setSelectedPackage(targetPkg);
+                        
+                        let targetExamType = examType;
+                        if (targetPkg === '4' && examType === 'choukai') {
+                          targetExamType = 'mojigoi';
+                          setExamType('mojigoi');
+                        }
+
                         const nextSlug =
-                          (level === 'N5' || level === 'N4') && examType === 'mojigoi' ? `${level.toLowerCase()}-mojigoi-${pkg.id}`
-                          : (level === 'N5' || level === 'N4') && examType === 'bunpou' ? `${level.toLowerCase()}-bunpou-${pkg.id}`
-                          : `${level.toLowerCase()}-tryout-${pkg.id}`;
-                        const pkgLetter = pkg.id === '1' ? 'A' : (pkg.id === '2' ? 'B' : 'C');
+                          (level === 'N5' || level === 'N4') && targetExamType === 'mojigoi' ? `${level.toLowerCase()}-mojigoi-${targetPkg}`
+                          : (level === 'N5' || level === 'N4') && targetExamType === 'bunpou' ? `${level.toLowerCase()}-bunpou-${targetPkg}`
+                          : `${level.toLowerCase()}-tryout-${targetPkg}`;
+                        const pkgLetter = targetPkg === '1' ? 'A' : (targetPkg === '2' ? 'B' : (targetPkg === '3' ? 'C' : 'D'));
                         startTest(level as any, selectedMode, pkgLetter, nextSlug);
                       }}
                       className={`py-2 px-1 text-xs rounded-lg font-medium transition-all ${
@@ -301,7 +318,7 @@ export default function MockTest() {
                   type="button"
                   onClick={() => {
                     setSelectedMode('simulasi');
-                    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
                     startTest(level as any, 'simulasi', pkgLetter, templateSlug);
                   }}
                   className={`py-2 px-3 text-sm rounded-lg font-medium transition-all ${
@@ -316,7 +333,7 @@ export default function MockTest() {
                   type="button"
                   onClick={() => {
                     setSelectedMode('belajar');
-                    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : 'C');
+                    const pkgLetter = selectedPackage === '1' ? 'A' : (selectedPackage === '2' ? 'B' : (selectedPackage === '3' ? 'C' : 'D'));
                     startTest(level as any, 'belajar', pkgLetter, templateSlug);
                   }}
                   className={`py-2 px-3 text-sm rounded-lg font-medium transition-all ${

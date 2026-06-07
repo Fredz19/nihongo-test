@@ -7,6 +7,8 @@ import { mojigoiN4C } from './mojigoiN4/mojigoiN4_C';
 import { bunpouDokkaiN4A } from './bunpouDokkaiN4/bunpouDokkaiN4_A';
 import { bunpouDokkaiN4B } from './bunpouDokkaiN4/bunpouDokkaiN4_B';
 import { bunpouDokkaiN4C } from './bunpouDokkaiN4/bunpouDokkaiN4_C';
+import { mojigoiN4D } from './mojigoiN4/mojigoiN4_D';
+import { bunpouDokkaiN4D } from './bunpouDokkaiN4/bunpouDokkaiN4_D';
 import { choukaiN4A } from './choukaiN4/choukaiN4_A';
 import { choukaiN4B } from './choukaiN4/choukaiN4_B';
 import { choukaiN4C } from './choukaiN4/choukaiN4_C';
@@ -2812,9 +2814,11 @@ export const questionBanks: Record<string, LegacyQuestion[]> = {
   N4_MOJIGOI_A: mojigoiN4A,
   N4_MOJIGOI_B: mojigoiN4B,
   N4_MOJIGOI_C: mojigoiN4C,
+  N4_MOJIGOI_D: mojigoiN4D,
   N4_BUNPOU_A: bunpouDokkaiN4A,
   N4_BUNPOU_B: bunpouDokkaiN4B,
   N4_BUNPOU_C: bunpouDokkaiN4C,
+  N4_BUNPOU_D: bunpouDokkaiN4D,
   N4_CHOUKAI_A: choukaiN4A,
   N4_CHOUKAI_B: choukaiN4B,
   N4_CHOUKAI_C: choukaiN4C,

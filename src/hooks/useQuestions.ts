@@ -63,7 +63,7 @@ function shuffle<T>(arr: T[]): T[] {
 
 // Session storage cache helpers
 function getCacheKey(level: string, slug: string) {
-  return `jlpt_questions_v7_${level}_${slug}`;
+  return `jlpt_questions_v8_${level}_${slug}`;
 }
 function readCache(key: string): { questions: Question[]; template: ExamTemplate } | null {
   try {
@@ -123,6 +123,8 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
             bankKey = 'N4_MOJIGOI_B';
           } else if (slug.endsWith('-3') || slug.endsWith('-C')) {
             bankKey = 'N4_MOJIGOI_C';
+          } else if (slug.endsWith('-4')) {
+            bankKey = 'N4_MOJIGOI_D';
           } else {
             bankKey = 'N4_MOJIGOI_A';
           }
@@ -133,6 +135,8 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
             bankKey = 'N4_BUNPOU_B';
           } else if (slug.endsWith('-3') || slug.endsWith('-C')) {
             bankKey = 'N4_BUNPOU_C';
+          } else if (slug.endsWith('-4')) {
+            bankKey = 'N4_BUNPOU_D';
           } else {
             bankKey = 'N4_BUNPOU_A';
           }
@@ -213,7 +217,7 @@ export function useQuestions(level: QuestionLevel, slug: string): UseQuestionsRe
         const isTryout = slug.includes('tryout');
 
         if (isTryout) {
-          const pkgLetter = slug.endsWith('-1') ? 'A' : (slug.endsWith('-2') ? 'B' : 'C');
+          const pkgLetter = slug.endsWith('-1') ? 'A' : (slug.endsWith('-2') ? 'B' : (slug.endsWith('-3') ? 'C' : 'D'));
           let query = supabase
             .from('questions')
             .select('*')

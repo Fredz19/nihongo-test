@@ -10,7 +10,7 @@ export interface ActiveSession {
   flagged: number[]; // Array of questionIndexes that are flagged
   timeLeft: number;
   status: 'idle' | 'instruction' | 'running' | 'paused' | 'completed';
-  packageLetter?: 'A' | 'B' | 'C';
+  packageLetter?: 'A' | 'B' | 'C' | 'D';
   slug?: string;
 }
 
@@ -39,7 +39,7 @@ interface TestStore {
   startTest: (
     level: 'N5' | 'N4' | 'N3' | 'N2' | 'N1',
     mode: 'simulasi' | 'belajar',
-    packageLetter?: 'A' | 'B' | 'C',
+    packageLetter?: 'A' | 'B' | 'C' | 'D',
     slug?: string
   ) => void;
   setSessionQuestions: (questions: Question[]) => void;
